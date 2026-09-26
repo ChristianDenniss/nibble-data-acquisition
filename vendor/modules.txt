@@ -1,4 +1,4 @@
-# github.com/ChristianDenniss/platform-contracts v1.2.0
+# github.com/ChristianDenniss/platform-contracts v1.4.0
 ## explicit; go 1.23
 github.com/ChristianDenniss/platform-contracts/gen/ingest/v2
 # golang.org/x/net v0.29.0
