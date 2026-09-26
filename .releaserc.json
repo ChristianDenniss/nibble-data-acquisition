@@ -44,7 +44,7 @@
       "@semantic-release/changelog",
       {
         "changelogFile": "CHANGELOG.md",
-        "changelogTitle": "# Changelog\n\nAll notable changes to data-acquisition are documented here.\nThis file is generated automatically by semantic-release from Conventional Commits."
+        "changelogTitle": "# Changelog\n\nAll notable changes to nibble-data-acquisition are documented here.\nThis file is generated automatically by semantic-release from Conventional Commits."
       }
     ],
     [
