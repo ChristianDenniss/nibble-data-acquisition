@@ -3,7 +3,7 @@ module github.com/ChristianDenniss/data-acquisition
 go 1.23
 
 require (
-	github.com/ChristianDenniss/platform-contracts v1.1.0
+	github.com/ChristianDenniss/platform-contracts v1.2.0
 	google.golang.org/grpc v1.68.1
 )
 
