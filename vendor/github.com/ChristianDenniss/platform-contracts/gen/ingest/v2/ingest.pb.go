@@ -2789,6 +2789,710 @@ func (x *RecordDishResponse) GetId() string {
 	return ""
 }
 
+type Market struct {
+	state           protoimpl.MessageState `protogen:"open.v1"`
+	Id              string                 `protobuf:"bytes,1,opt,name=id,proto3" json:"id,omitempty"`
+	Slug            string                 `protobuf:"bytes,2,opt,name=slug,proto3" json:"slug,omitempty"`
+	Name            string                 `protobuf:"bytes,3,opt,name=name,proto3" json:"name,omitempty"`
+	Country         string                 `protobuf:"bytes,4,opt,name=country,proto3" json:"country,omitempty"`
+	Region          string                 `protobuf:"bytes,5,opt,name=region,proto3" json:"region,omitempty"`
+	Currency        string                 `protobuf:"bytes,6,opt,name=currency,proto3" json:"currency,omitempty"`
+	Timezone        string                 `protobuf:"bytes,7,opt,name=timezone,proto3" json:"timezone,omitempty"`
+	Status          string                 `protobuf:"bytes,8,opt,name=status,proto3" json:"status,omitempty"`
+	GeohashPrefixes string                 `protobuf:"bytes,9,opt,name=geohash_prefixes,json=geohashPrefixes,proto3" json:"geohash_prefixes,omitempty"`
+	unknownFields   protoimpl.UnknownFields
+	sizeCache       protoimpl.SizeCache
+}
+
+func (x *Market) Reset() {
+	*x = Market{}
+	mi := &file_ingest_v2_ingest_proto_msgTypes[48]
+	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+	ms.StoreMessageInfo(mi)
+}
+
+func (x *Market) String() string {
+	return protoimpl.X.MessageStringOf(x)
+}
+
+func (*Market) ProtoMessage() {}
+
+func (x *Market) ProtoReflect() protoreflect.Message {
+	mi := &file_ingest_v2_ingest_proto_msgTypes[48]
+	if x != nil {
+		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+		if ms.LoadMessageInfo() == nil {
+			ms.StoreMessageInfo(mi)
+		}
+		return ms
+	}
+	return mi.MessageOf(x)
+}
+
+// Deprecated: Use Market.ProtoReflect.Descriptor instead.
+func (*Market) Descriptor() ([]byte, []int) {
+	return file_ingest_v2_ingest_proto_rawDescGZIP(), []int{48}
+}
+
+func (x *Market) GetId() string {
+	if x != nil {
+		return x.Id
+	}
+	return ""
+}
+
+func (x *Market) GetSlug() string {
+	if x != nil {
+		return x.Slug
+	}
+	return ""
+}
+
+func (x *Market) GetName() string {
+	if x != nil {
+		return x.Name
+	}
+	return ""
+}
+
+func (x *Market) GetCountry() string {
+	if x != nil {
+		return x.Country
+	}
+	return ""
+}
+
+func (x *Market) GetRegion() string {
+	if x != nil {
+		return x.Region
+	}
+	return ""
+}
+
+func (x *Market) GetCurrency() string {
+	if x != nil {
+		return x.Currency
+	}
+	return ""
+}
+
+func (x *Market) GetTimezone() string {
+	if x != nil {
+		return x.Timezone
+	}
+	return ""
+}
+
+func (x *Market) GetStatus() string {
+	if x != nil {
+		return x.Status
+	}
+	return ""
+}
+
+func (x *Market) GetGeohashPrefixes() string {
+	if x != nil {
+		return x.GeohashPrefixes
+	}
+	return ""
+}
+
+type ProbeDropoff struct {
+	state         protoimpl.MessageState `protogen:"open.v1"`
+	Id            string                 `protobuf:"bytes,1,opt,name=id,proto3" json:"id,omitempty"`
+	MarketId      string                 `protobuf:"bytes,2,opt,name=market_id,json=marketId,proto3" json:"market_id,omitempty"`
+	Label         string                 `protobuf:"bytes,3,opt,name=label,proto3" json:"label,omitempty"`
+	Location      *Location              `protobuf:"bytes,4,opt,name=location,proto3" json:"location,omitempty"`
+	Geohash       string                 `protobuf:"bytes,5,opt,name=geohash,proto3" json:"geohash,omitempty"`
+	unknownFields protoimpl.UnknownFields
+	sizeCache     protoimpl.SizeCache
+}
+
+func (x *ProbeDropoff) Reset() {
+	*x = ProbeDropoff{}
+	mi := &file_ingest_v2_ingest_proto_msgTypes[49]
+	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+	ms.StoreMessageInfo(mi)
+}
+
+func (x *ProbeDropoff) String() string {
+	return protoimpl.X.MessageStringOf(x)
+}
+
+func (*ProbeDropoff) ProtoMessage() {}
+
+func (x *ProbeDropoff) ProtoReflect() protoreflect.Message {
+	mi := &file_ingest_v2_ingest_proto_msgTypes[49]
+	if x != nil {
+		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+		if ms.LoadMessageInfo() == nil {
+			ms.StoreMessageInfo(mi)
+		}
+		return ms
+	}
+	return mi.MessageOf(x)
+}
+
+// Deprecated: Use ProbeDropoff.ProtoReflect.Descriptor instead.
+func (*ProbeDropoff) Descriptor() ([]byte, []int) {
+	return file_ingest_v2_ingest_proto_rawDescGZIP(), []int{49}
+}
+
+func (x *ProbeDropoff) GetId() string {
+	if x != nil {
+		return x.Id
+	}
+	return ""
+}
+
+func (x *ProbeDropoff) GetMarketId() string {
+	if x != nil {
+		return x.MarketId
+	}
+	return ""
+}
+
+func (x *ProbeDropoff) GetLabel() string {
+	if x != nil {
+		return x.Label
+	}
+	return ""
+}
+
+func (x *ProbeDropoff) GetLocation() *Location {
+	if x != nil {
+		return x.Location
+	}
+	return nil
+}
+
+func (x *ProbeDropoff) GetGeohash() string {
+	if x != nil {
+		return x.Geohash
+	}
+	return ""
+}
+
+type ChannelMarketCoverage struct {
+	state                protoimpl.MessageState `protogen:"open.v1"`
+	Id                   string                 `protobuf:"bytes,1,opt,name=id,proto3" json:"id,omitempty"`
+	ChannelId            string                 `protobuf:"bytes,2,opt,name=channel_id,json=channelId,proto3" json:"channel_id,omitempty"`
+	MarketId             string                 `protobuf:"bytes,3,opt,name=market_id,json=marketId,proto3" json:"market_id,omitempty"`
+	Status               string                 `protobuf:"bytes,4,opt,name=status,proto3" json:"status,omitempty"`
+	StoreCount           int32                  `protobuf:"varint,5,opt,name=store_count,json=storeCount,proto3" json:"store_count,omitempty"`
+	IngestRunId          string                 `protobuf:"bytes,6,opt,name=ingest_run_id,json=ingestRunId,proto3" json:"ingest_run_id,omitempty"`
+	Note                 string                 `protobuf:"bytes,7,opt,name=note,proto3" json:"note,omitempty"`
+	LastObservedAtUnixMs int64                  `protobuf:"varint,8,opt,name=last_observed_at_unix_ms,json=lastObservedAtUnixMs,proto3" json:"last_observed_at_unix_ms,omitempty"`
+	unknownFields        protoimpl.UnknownFields
+	sizeCache            protoimpl.SizeCache
+}
+
+func (x *ChannelMarketCoverage) Reset() {
+	*x = ChannelMarketCoverage{}
+	mi := &file_ingest_v2_ingest_proto_msgTypes[50]
+	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+	ms.StoreMessageInfo(mi)
+}
+
+func (x *ChannelMarketCoverage) String() string {
+	return protoimpl.X.MessageStringOf(x)
+}
+
+func (*ChannelMarketCoverage) ProtoMessage() {}
+
+func (x *ChannelMarketCoverage) ProtoReflect() protoreflect.Message {
+	mi := &file_ingest_v2_ingest_proto_msgTypes[50]
+	if x != nil {
+		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+		if ms.LoadMessageInfo() == nil {
+			ms.StoreMessageInfo(mi)
+		}
+		return ms
+	}
+	return mi.MessageOf(x)
+}
+
+// Deprecated: Use ChannelMarketCoverage.ProtoReflect.Descriptor instead.
+func (*ChannelMarketCoverage) Descriptor() ([]byte, []int) {
+	return file_ingest_v2_ingest_proto_rawDescGZIP(), []int{50}
+}
+
+func (x *ChannelMarketCoverage) GetId() string {
+	if x != nil {
+		return x.Id
+	}
+	return ""
+}
+
+func (x *ChannelMarketCoverage) GetChannelId() string {
+	if x != nil {
+		return x.ChannelId
+	}
+	return ""
+}
+
+func (x *ChannelMarketCoverage) GetMarketId() string {
+	if x != nil {
+		return x.MarketId
+	}
+	return ""
+}
+
+func (x *ChannelMarketCoverage) GetStatus() string {
+	if x != nil {
+		return x.Status
+	}
+	return ""
+}
+
+func (x *ChannelMarketCoverage) GetStoreCount() int32 {
+	if x != nil {
+		return x.StoreCount
+	}
+	return 0
+}
+
+func (x *ChannelMarketCoverage) GetIngestRunId() string {
+	if x != nil {
+		return x.IngestRunId
+	}
+	return ""
+}
+
+func (x *ChannelMarketCoverage) GetNote() string {
+	if x != nil {
+		return x.Note
+	}
+	return ""
+}
+
+func (x *ChannelMarketCoverage) GetLastObservedAtUnixMs() int64 {
+	if x != nil {
+		return x.LastObservedAtUnixMs
+	}
+	return 0
+}
+
+type MembershipProduct struct {
+	state         protoimpl.MessageState `protogen:"open.v1"`
+	Id            string                 `protobuf:"bytes,1,opt,name=id,proto3" json:"id,omitempty"`
+	ChannelId     string                 `protobuf:"bytes,2,opt,name=channel_id,json=channelId,proto3" json:"channel_id,omitempty"`
+	Name          string                 `protobuf:"bytes,3,opt,name=name,proto3" json:"name,omitempty"`
+	Slug          string                 `protobuf:"bytes,4,opt,name=slug,proto3" json:"slug,omitempty"`
+	unknownFields protoimpl.UnknownFields
+	sizeCache     protoimpl.SizeCache
+}
+
+func (x *MembershipProduct) Reset() {
+	*x = MembershipProduct{}
+	mi := &file_ingest_v2_ingest_proto_msgTypes[51]
+	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+	ms.StoreMessageInfo(mi)
+}
+
+func (x *MembershipProduct) String() string {
+	return protoimpl.X.MessageStringOf(x)
+}
+
+func (*MembershipProduct) ProtoMessage() {}
+
+func (x *MembershipProduct) ProtoReflect() protoreflect.Message {
+	mi := &file_ingest_v2_ingest_proto_msgTypes[51]
+	if x != nil {
+		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+		if ms.LoadMessageInfo() == nil {
+			ms.StoreMessageInfo(mi)
+		}
+		return ms
+	}
+	return mi.MessageOf(x)
+}
+
+// Deprecated: Use MembershipProduct.ProtoReflect.Descriptor instead.
+func (*MembershipProduct) Descriptor() ([]byte, []int) {
+	return file_ingest_v2_ingest_proto_rawDescGZIP(), []int{51}
+}
+
+func (x *MembershipProduct) GetId() string {
+	if x != nil {
+		return x.Id
+	}
+	return ""
+}
+
+func (x *MembershipProduct) GetChannelId() string {
+	if x != nil {
+		return x.ChannelId
+	}
+	return ""
+}
+
+func (x *MembershipProduct) GetName() string {
+	if x != nil {
+		return x.Name
+	}
+	return ""
+}
+
+func (x *MembershipProduct) GetSlug() string {
+	if x != nil {
+		return x.Slug
+	}
+	return ""
+}
+
+type RecordMarketRequest struct {
+	state         protoimpl.MessageState `protogen:"open.v1"`
+	Market        *Market                `protobuf:"bytes,1,opt,name=market,proto3" json:"market,omitempty"`
+	unknownFields protoimpl.UnknownFields
+	sizeCache     protoimpl.SizeCache
+}
+
+func (x *RecordMarketRequest) Reset() {
+	*x = RecordMarketRequest{}
+	mi := &file_ingest_v2_ingest_proto_msgTypes[52]
+	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+	ms.StoreMessageInfo(mi)
+}
+
+func (x *RecordMarketRequest) String() string {
+	return protoimpl.X.MessageStringOf(x)
+}
+
+func (*RecordMarketRequest) ProtoMessage() {}
+
+func (x *RecordMarketRequest) ProtoReflect() protoreflect.Message {
+	mi := &file_ingest_v2_ingest_proto_msgTypes[52]
+	if x != nil {
+		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+		if ms.LoadMessageInfo() == nil {
+			ms.StoreMessageInfo(mi)
+		}
+		return ms
+	}
+	return mi.MessageOf(x)
+}
+
+// Deprecated: Use RecordMarketRequest.ProtoReflect.Descriptor instead.
+func (*RecordMarketRequest) Descriptor() ([]byte, []int) {
+	return file_ingest_v2_ingest_proto_rawDescGZIP(), []int{52}
+}
+
+func (x *RecordMarketRequest) GetMarket() *Market {
+	if x != nil {
+		return x.Market
+	}
+	return nil
+}
+
+type RecordMarketResponse struct {
+	state         protoimpl.MessageState `protogen:"open.v1"`
+	Id            string                 `protobuf:"bytes,1,opt,name=id,proto3" json:"id,omitempty"`
+	unknownFields protoimpl.UnknownFields
+	sizeCache     protoimpl.SizeCache
+}
+
+func (x *RecordMarketResponse) Reset() {
+	*x = RecordMarketResponse{}
+	mi := &file_ingest_v2_ingest_proto_msgTypes[53]
+	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+	ms.StoreMessageInfo(mi)
+}
+
+func (x *RecordMarketResponse) String() string {
+	return protoimpl.X.MessageStringOf(x)
+}
+
+func (*RecordMarketResponse) ProtoMessage() {}
+
+func (x *RecordMarketResponse) ProtoReflect() protoreflect.Message {
+	mi := &file_ingest_v2_ingest_proto_msgTypes[53]
+	if x != nil {
+		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+		if ms.LoadMessageInfo() == nil {
+			ms.StoreMessageInfo(mi)
+		}
+		return ms
+	}
+	return mi.MessageOf(x)
+}
+
+// Deprecated: Use RecordMarketResponse.ProtoReflect.Descriptor instead.
+func (*RecordMarketResponse) Descriptor() ([]byte, []int) {
+	return file_ingest_v2_ingest_proto_rawDescGZIP(), []int{53}
+}
+
+func (x *RecordMarketResponse) GetId() string {
+	if x != nil {
+		return x.Id
+	}
+	return ""
+}
+
+type RecordProbeDropoffRequest struct {
+	state         protoimpl.MessageState `protogen:"open.v1"`
+	Dropoff       *ProbeDropoff          `protobuf:"bytes,1,opt,name=dropoff,proto3" json:"dropoff,omitempty"`
+	unknownFields protoimpl.UnknownFields
+	sizeCache     protoimpl.SizeCache
+}
+
+func (x *RecordProbeDropoffRequest) Reset() {
+	*x = RecordProbeDropoffRequest{}
+	mi := &file_ingest_v2_ingest_proto_msgTypes[54]
+	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+	ms.StoreMessageInfo(mi)
+}
+
+func (x *RecordProbeDropoffRequest) String() string {
+	return protoimpl.X.MessageStringOf(x)
+}
+
+func (*RecordProbeDropoffRequest) ProtoMessage() {}
+
+func (x *RecordProbeDropoffRequest) ProtoReflect() protoreflect.Message {
+	mi := &file_ingest_v2_ingest_proto_msgTypes[54]
+	if x != nil {
+		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+		if ms.LoadMessageInfo() == nil {
+			ms.StoreMessageInfo(mi)
+		}
+		return ms
+	}
+	return mi.MessageOf(x)
+}
+
+// Deprecated: Use RecordProbeDropoffRequest.ProtoReflect.Descriptor instead.
+func (*RecordProbeDropoffRequest) Descriptor() ([]byte, []int) {
+	return file_ingest_v2_ingest_proto_rawDescGZIP(), []int{54}
+}
+
+func (x *RecordProbeDropoffRequest) GetDropoff() *ProbeDropoff {
+	if x != nil {
+		return x.Dropoff
+	}
+	return nil
+}
+
+type RecordProbeDropoffResponse struct {
+	state         protoimpl.MessageState `protogen:"open.v1"`
+	Id            string                 `protobuf:"bytes,1,opt,name=id,proto3" json:"id,omitempty"`
+	unknownFields protoimpl.UnknownFields
+	sizeCache     protoimpl.SizeCache
+}
+
+func (x *RecordProbeDropoffResponse) Reset() {
+	*x = RecordProbeDropoffResponse{}
+	mi := &file_ingest_v2_ingest_proto_msgTypes[55]
+	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+	ms.StoreMessageInfo(mi)
+}
+
+func (x *RecordProbeDropoffResponse) String() string {
+	return protoimpl.X.MessageStringOf(x)
+}
+
+func (*RecordProbeDropoffResponse) ProtoMessage() {}
+
+func (x *RecordProbeDropoffResponse) ProtoReflect() protoreflect.Message {
+	mi := &file_ingest_v2_ingest_proto_msgTypes[55]
+	if x != nil {
+		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+		if ms.LoadMessageInfo() == nil {
+			ms.StoreMessageInfo(mi)
+		}
+		return ms
+	}
+	return mi.MessageOf(x)
+}
+
+// Deprecated: Use RecordProbeDropoffResponse.ProtoReflect.Descriptor instead.
+func (*RecordProbeDropoffResponse) Descriptor() ([]byte, []int) {
+	return file_ingest_v2_ingest_proto_rawDescGZIP(), []int{55}
+}
+
+func (x *RecordProbeDropoffResponse) GetId() string {
+	if x != nil {
+		return x.Id
+	}
+	return ""
+}
+
+type RecordChannelMarketCoverageRequest struct {
+	state         protoimpl.MessageState `protogen:"open.v1"`
+	Coverage      *ChannelMarketCoverage `protobuf:"bytes,1,opt,name=coverage,proto3" json:"coverage,omitempty"`
+	unknownFields protoimpl.UnknownFields
+	sizeCache     protoimpl.SizeCache
+}
+
+func (x *RecordChannelMarketCoverageRequest) Reset() {
+	*x = RecordChannelMarketCoverageRequest{}
+	mi := &file_ingest_v2_ingest_proto_msgTypes[56]
+	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+	ms.StoreMessageInfo(mi)
+}
+
+func (x *RecordChannelMarketCoverageRequest) String() string {
+	return protoimpl.X.MessageStringOf(x)
+}
+
+func (*RecordChannelMarketCoverageRequest) ProtoMessage() {}
+
+func (x *RecordChannelMarketCoverageRequest) ProtoReflect() protoreflect.Message {
+	mi := &file_ingest_v2_ingest_proto_msgTypes[56]
+	if x != nil {
+		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+		if ms.LoadMessageInfo() == nil {
+			ms.StoreMessageInfo(mi)
+		}
+		return ms
+	}
+	return mi.MessageOf(x)
+}
+
+// Deprecated: Use RecordChannelMarketCoverageRequest.ProtoReflect.Descriptor instead.
+func (*RecordChannelMarketCoverageRequest) Descriptor() ([]byte, []int) {
+	return file_ingest_v2_ingest_proto_rawDescGZIP(), []int{56}
+}
+
+func (x *RecordChannelMarketCoverageRequest) GetCoverage() *ChannelMarketCoverage {
+	if x != nil {
+		return x.Coverage
+	}
+	return nil
+}
+
+type RecordChannelMarketCoverageResponse struct {
+	state         protoimpl.MessageState `protogen:"open.v1"`
+	Id            string                 `protobuf:"bytes,1,opt,name=id,proto3" json:"id,omitempty"`
+	unknownFields protoimpl.UnknownFields
+	sizeCache     protoimpl.SizeCache
+}
+
+func (x *RecordChannelMarketCoverageResponse) Reset() {
+	*x = RecordChannelMarketCoverageResponse{}
+	mi := &file_ingest_v2_ingest_proto_msgTypes[57]
+	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+	ms.StoreMessageInfo(mi)
+}
+
+func (x *RecordChannelMarketCoverageResponse) String() string {
+	return protoimpl.X.MessageStringOf(x)
+}
+
+func (*RecordChannelMarketCoverageResponse) ProtoMessage() {}
+
+func (x *RecordChannelMarketCoverageResponse) ProtoReflect() protoreflect.Message {
+	mi := &file_ingest_v2_ingest_proto_msgTypes[57]
+	if x != nil {
+		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+		if ms.LoadMessageInfo() == nil {
+			ms.StoreMessageInfo(mi)
+		}
+		return ms
+	}
+	return mi.MessageOf(x)
+}
+
+// Deprecated: Use RecordChannelMarketCoverageResponse.ProtoReflect.Descriptor instead.
+func (*RecordChannelMarketCoverageResponse) Descriptor() ([]byte, []int) {
+	return file_ingest_v2_ingest_proto_rawDescGZIP(), []int{57}
+}
+
+func (x *RecordChannelMarketCoverageResponse) GetId() string {
+	if x != nil {
+		return x.Id
+	}
+	return ""
+}
+
+type RecordMembershipProductRequest struct {
+	state         protoimpl.MessageState `protogen:"open.v1"`
+	Product       *MembershipProduct     `protobuf:"bytes,1,opt,name=product,proto3" json:"product,omitempty"`
+	unknownFields protoimpl.UnknownFields
+	sizeCache     protoimpl.SizeCache
+}
+
+func (x *RecordMembershipProductRequest) Reset() {
+	*x = RecordMembershipProductRequest{}
+	mi := &file_ingest_v2_ingest_proto_msgTypes[58]
+	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+	ms.StoreMessageInfo(mi)
+}
+
+func (x *RecordMembershipProductRequest) String() string {
+	return protoimpl.X.MessageStringOf(x)
+}
+
+func (*RecordMembershipProductRequest) ProtoMessage() {}
+
+func (x *RecordMembershipProductRequest) ProtoReflect() protoreflect.Message {
+	mi := &file_ingest_v2_ingest_proto_msgTypes[58]
+	if x != nil {
+		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+		if ms.LoadMessageInfo() == nil {
+			ms.StoreMessageInfo(mi)
+		}
+		return ms
+	}
+	return mi.MessageOf(x)
+}
+
+// Deprecated: Use RecordMembershipProductRequest.ProtoReflect.Descriptor instead.
+func (*RecordMembershipProductRequest) Descriptor() ([]byte, []int) {
+	return file_ingest_v2_ingest_proto_rawDescGZIP(), []int{58}
+}
+
+func (x *RecordMembershipProductRequest) GetProduct() *MembershipProduct {
+	if x != nil {
+		return x.Product
+	}
+	return nil
+}
+
+type RecordMembershipProductResponse struct {
+	state         protoimpl.MessageState `protogen:"open.v1"`
+	Id            string                 `protobuf:"bytes,1,opt,name=id,proto3" json:"id,omitempty"`
+	unknownFields protoimpl.UnknownFields
+	sizeCache     protoimpl.SizeCache
+}
+
+func (x *RecordMembershipProductResponse) Reset() {
+	*x = RecordMembershipProductResponse{}
+	mi := &file_ingest_v2_ingest_proto_msgTypes[59]
+	ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+	ms.StoreMessageInfo(mi)
+}
+
+func (x *RecordMembershipProductResponse) String() string {
+	return protoimpl.X.MessageStringOf(x)
+}
+
+func (*RecordMembershipProductResponse) ProtoMessage() {}
+
+func (x *RecordMembershipProductResponse) ProtoReflect() protoreflect.Message {
+	mi := &file_ingest_v2_ingest_proto_msgTypes[59]
+	if x != nil {
+		ms := protoimpl.X.MessageStateOf(protoimpl.Pointer(x))
+		if ms.LoadMessageInfo() == nil {
+			ms.StoreMessageInfo(mi)
+		}
+		return ms
+	}
+	return mi.MessageOf(x)
+}
+
+// Deprecated: Use RecordMembershipProductResponse.ProtoReflect.Descriptor instead.
+func (*RecordMembershipProductResponse) Descriptor() ([]byte, []int) {
+	return file_ingest_v2_ingest_proto_rawDescGZIP(), []int{59}
+}
+
+func (x *RecordMembershipProductResponse) GetId() string {
+	if x != nil {
+		return x.Id
+	}
+	return ""
+}
+
 var File_ingest_v2_ingest_proto protoreflect.FileDescriptor
 
 const file_ingest_v2_ingest_proto_rawDesc = "" +
@@ -2986,7 +3690,56 @@ const file_ingest_v2_ingest_proto_rawDesc = "" +
 	"\x11RecordDishRequest\x12#\n" +
 	"\x04dish\x18\x01 \x01(\v2\x0f.ingest.v2.DishR\x04dish\"$\n" +
 	"\x12RecordDishResponse\x12\x0e\n" +
-	"\x02id\x18\x01 \x01(\tR\x02id2\x9a\v\n" +
+	"\x02id\x18\x01 \x01(\tR\x02id\"\xed\x01\n" +
+	"\x06Market\x12\x0e\n" +
+	"\x02id\x18\x01 \x01(\tR\x02id\x12\x12\n" +
+	"\x04slug\x18\x02 \x01(\tR\x04slug\x12\x12\n" +
+	"\x04name\x18\x03 \x01(\tR\x04name\x12\x18\n" +
+	"\acountry\x18\x04 \x01(\tR\acountry\x12\x16\n" +
+	"\x06region\x18\x05 \x01(\tR\x06region\x12\x1a\n" +
+	"\bcurrency\x18\x06 \x01(\tR\bcurrency\x12\x1a\n" +
+	"\btimezone\x18\a \x01(\tR\btimezone\x12\x16\n" +
+	"\x06status\x18\b \x01(\tR\x06status\x12)\n" +
+	"\x10geohash_prefixes\x18\t \x01(\tR\x0fgeohashPrefixes\"\x9c\x01\n" +
+	"\fProbeDropoff\x12\x0e\n" +
+	"\x02id\x18\x01 \x01(\tR\x02id\x12\x1b\n" +
+	"\tmarket_id\x18\x02 \x01(\tR\bmarketId\x12\x14\n" +
+	"\x05label\x18\x03 \x01(\tR\x05label\x12/\n" +
+	"\blocation\x18\x04 \x01(\v2\x13.ingest.v2.LocationR\blocation\x12\x18\n" +
+	"\ageohash\x18\x05 \x01(\tR\ageohash\"\x8c\x02\n" +
+	"\x15ChannelMarketCoverage\x12\x0e\n" +
+	"\x02id\x18\x01 \x01(\tR\x02id\x12\x1d\n" +
+	"\n" +
+	"channel_id\x18\x02 \x01(\tR\tchannelId\x12\x1b\n" +
+	"\tmarket_id\x18\x03 \x01(\tR\bmarketId\x12\x16\n" +
+	"\x06status\x18\x04 \x01(\tR\x06status\x12\x1f\n" +
+	"\vstore_count\x18\x05 \x01(\x05R\n" +
+	"storeCount\x12\"\n" +
+	"\ringest_run_id\x18\x06 \x01(\tR\vingestRunId\x12\x12\n" +
+	"\x04note\x18\a \x01(\tR\x04note\x126\n" +
+	"\x18last_observed_at_unix_ms\x18\b \x01(\x03R\x14lastObservedAtUnixMs\"j\n" +
+	"\x11MembershipProduct\x12\x0e\n" +
+	"\x02id\x18\x01 \x01(\tR\x02id\x12\x1d\n" +
+	"\n" +
+	"channel_id\x18\x02 \x01(\tR\tchannelId\x12\x12\n" +
+	"\x04name\x18\x03 \x01(\tR\x04name\x12\x12\n" +
+	"\x04slug\x18\x04 \x01(\tR\x04slug\"@\n" +
+	"\x13RecordMarketRequest\x12)\n" +
+	"\x06market\x18\x01 \x01(\v2\x11.ingest.v2.MarketR\x06market\"&\n" +
+	"\x14RecordMarketResponse\x12\x0e\n" +
+	"\x02id\x18\x01 \x01(\tR\x02id\"N\n" +
+	"\x19RecordProbeDropoffRequest\x121\n" +
+	"\adropoff\x18\x01 \x01(\v2\x17.ingest.v2.ProbeDropoffR\adropoff\",\n" +
+	"\x1aRecordProbeDropoffResponse\x12\x0e\n" +
+	"\x02id\x18\x01 \x01(\tR\x02id\"b\n" +
+	"\"RecordChannelMarketCoverageRequest\x12<\n" +
+	"\bcoverage\x18\x01 \x01(\v2 .ingest.v2.ChannelMarketCoverageR\bcoverage\"5\n" +
+	"#RecordChannelMarketCoverageResponse\x12\x0e\n" +
+	"\x02id\x18\x01 \x01(\tR\x02id\"X\n" +
+	"\x1eRecordMembershipProductRequest\x126\n" +
+	"\aproduct\x18\x01 \x01(\v2\x1c.ingest.v2.MembershipProductR\aproduct\"1\n" +
+	"\x1fRecordMembershipProductResponse\x12\x0e\n" +
+	"\x02id\x18\x01 \x01(\tR\x02id2\xbe\x0e\n" +
 	"\rIngestService\x12R\n" +
 	"\rRecordChannel\x12\x1f.ingest.v2.RecordChannelRequest\x1a .ingest.v2.RecordChannelResponse\x12X\n" +
 	"\x0fRecordIngestRun\x12!.ingest.v2.RecordIngestRunRequest\x1a\".ingest.v2.RecordIngestRunResponse\x12g\n" +
@@ -3003,7 +3756,11 @@ const file_ingest_v2_ingest_proto_rawDesc = "" +
 	"\x0fRecordItemMatch\x12!.ingest.v2.RecordItemMatchRequest\x1a\".ingest.v2.RecordItemMatchResponse\x12L\n" +
 	"\vRecordBrand\x12\x1d.ingest.v2.RecordBrandRequest\x1a\x1e.ingest.v2.RecordBrandResponse\x12I\n" +
 	"\n" +
-	"RecordDish\x12\x1c.ingest.v2.RecordDishRequest\x1a\x1d.ingest.v2.RecordDishResponseBGZEgithub.com/ChristianDenniss/platform-contracts/gen/ingest/v2;ingestv2b\x06proto3"
+	"RecordDish\x12\x1c.ingest.v2.RecordDishRequest\x1a\x1d.ingest.v2.RecordDishResponse\x12O\n" +
+	"\fRecordMarket\x12\x1e.ingest.v2.RecordMarketRequest\x1a\x1f.ingest.v2.RecordMarketResponse\x12a\n" +
+	"\x12RecordProbeDropoff\x12$.ingest.v2.RecordProbeDropoffRequest\x1a%.ingest.v2.RecordProbeDropoffResponse\x12|\n" +
+	"\x1bRecordChannelMarketCoverage\x12-.ingest.v2.RecordChannelMarketCoverageRequest\x1a..ingest.v2.RecordChannelMarketCoverageResponse\x12p\n" +
+	"\x17RecordMembershipProduct\x12).ingest.v2.RecordMembershipProductRequest\x1a*.ingest.v2.RecordMembershipProductResponseBGZEgithub.com/ChristianDenniss/platform-contracts/gen/ingest/v2;ingestv2b\x06proto3"
 
 var (
 	file_ingest_v2_ingest_proto_rawDescOnce sync.Once
@@ -3017,56 +3774,68 @@ func file_ingest_v2_ingest_proto_rawDescGZIP() []byte {
 	return file_ingest_v2_ingest_proto_rawDescData
 }
 
-var file_ingest_v2_ingest_proto_msgTypes = make([]protoimpl.MessageInfo, 48)
+var file_ingest_v2_ingest_proto_msgTypes = make([]protoimpl.MessageInfo, 60)
 var file_ingest_v2_ingest_proto_goTypes = []any{
-	(*Money)(nil),                              // 0: ingest.v2.Money
-	(*Location)(nil),                           // 1: ingest.v2.Location
-	(*Channel)(nil),                            // 2: ingest.v2.Channel
-	(*SourceStore)(nil),                        // 3: ingest.v2.SourceStore
-	(*SourceMenu)(nil),                         // 4: ingest.v2.SourceMenu
-	(*SourceCategory)(nil),                     // 5: ingest.v2.SourceCategory
-	(*SourceItem)(nil),                         // 6: ingest.v2.SourceItem
-	(*SourceSnapshot)(nil),                     // 7: ingest.v2.SourceSnapshot
-	(*ItemPriceObservation)(nil),               // 8: ingest.v2.ItemPriceObservation
-	(*QuoteFeeLine)(nil),                       // 9: ingest.v2.QuoteFeeLine
-	(*QuoteObservation)(nil),                   // 10: ingest.v2.QuoteObservation
-	(*IngestRun)(nil),                          // 11: ingest.v2.IngestRun
-	(*RecordChannelRequest)(nil),               // 12: ingest.v2.RecordChannelRequest
-	(*RecordChannelResponse)(nil),              // 13: ingest.v2.RecordChannelResponse
-	(*RecordIngestRunRequest)(nil),             // 14: ingest.v2.RecordIngestRunRequest
-	(*RecordIngestRunResponse)(nil),            // 15: ingest.v2.RecordIngestRunResponse
-	(*RecordSourceSnapshotRequest)(nil),        // 16: ingest.v2.RecordSourceSnapshotRequest
-	(*RecordSourceSnapshotResponse)(nil),       // 17: ingest.v2.RecordSourceSnapshotResponse
-	(*RecordSourceStoreRequest)(nil),           // 18: ingest.v2.RecordSourceStoreRequest
-	(*RecordSourceStoreResponse)(nil),          // 19: ingest.v2.RecordSourceStoreResponse
-	(*RecordSourceMenuRequest)(nil),            // 20: ingest.v2.RecordSourceMenuRequest
-	(*RecordSourceMenuResponse)(nil),           // 21: ingest.v2.RecordSourceMenuResponse
-	(*RecordSourceCategoryRequest)(nil),        // 22: ingest.v2.RecordSourceCategoryRequest
-	(*RecordSourceCategoryResponse)(nil),       // 23: ingest.v2.RecordSourceCategoryResponse
-	(*RecordSourceItemRequest)(nil),            // 24: ingest.v2.RecordSourceItemRequest
-	(*RecordSourceItemResponse)(nil),           // 25: ingest.v2.RecordSourceItemResponse
-	(*RecordItemPriceObservationRequest)(nil),  // 26: ingest.v2.RecordItemPriceObservationRequest
-	(*RecordItemPriceObservationResponse)(nil), // 27: ingest.v2.RecordItemPriceObservationResponse
-	(*RecordQuoteObservationRequest)(nil),      // 28: ingest.v2.RecordQuoteObservationRequest
-	(*RecordQuoteObservationResponse)(nil),     // 29: ingest.v2.RecordQuoteObservationResponse
-	(*Place)(nil),                              // 30: ingest.v2.Place
-	(*PurchaseOption)(nil),                     // 31: ingest.v2.PurchaseOption
-	(*StoreMatch)(nil),                         // 32: ingest.v2.StoreMatch
-	(*ItemMatch)(nil),                          // 33: ingest.v2.ItemMatch
-	(*RecordPlaceRequest)(nil),                 // 34: ingest.v2.RecordPlaceRequest
-	(*RecordPlaceResponse)(nil),                // 35: ingest.v2.RecordPlaceResponse
-	(*RecordPurchaseOptionRequest)(nil),        // 36: ingest.v2.RecordPurchaseOptionRequest
-	(*RecordPurchaseOptionResponse)(nil),       // 37: ingest.v2.RecordPurchaseOptionResponse
-	(*RecordStoreMatchRequest)(nil),            // 38: ingest.v2.RecordStoreMatchRequest
-	(*RecordStoreMatchResponse)(nil),           // 39: ingest.v2.RecordStoreMatchResponse
-	(*RecordItemMatchRequest)(nil),             // 40: ingest.v2.RecordItemMatchRequest
-	(*RecordItemMatchResponse)(nil),            // 41: ingest.v2.RecordItemMatchResponse
-	(*Brand)(nil),                              // 42: ingest.v2.Brand
-	(*Dish)(nil),                               // 43: ingest.v2.Dish
-	(*RecordBrandRequest)(nil),                 // 44: ingest.v2.RecordBrandRequest
-	(*RecordBrandResponse)(nil),                // 45: ingest.v2.RecordBrandResponse
-	(*RecordDishRequest)(nil),                  // 46: ingest.v2.RecordDishRequest
-	(*RecordDishResponse)(nil),                 // 47: ingest.v2.RecordDishResponse
+	(*Money)(nil),                               // 0: ingest.v2.Money
+	(*Location)(nil),                            // 1: ingest.v2.Location
+	(*Channel)(nil),                             // 2: ingest.v2.Channel
+	(*SourceStore)(nil),                         // 3: ingest.v2.SourceStore
+	(*SourceMenu)(nil),                          // 4: ingest.v2.SourceMenu
+	(*SourceCategory)(nil),                      // 5: ingest.v2.SourceCategory
+	(*SourceItem)(nil),                          // 6: ingest.v2.SourceItem
+	(*SourceSnapshot)(nil),                      // 7: ingest.v2.SourceSnapshot
+	(*ItemPriceObservation)(nil),                // 8: ingest.v2.ItemPriceObservation
+	(*QuoteFeeLine)(nil),                        // 9: ingest.v2.QuoteFeeLine
+	(*QuoteObservation)(nil),                    // 10: ingest.v2.QuoteObservation
+	(*IngestRun)(nil),                           // 11: ingest.v2.IngestRun
+	(*RecordChannelRequest)(nil),                // 12: ingest.v2.RecordChannelRequest
+	(*RecordChannelResponse)(nil),               // 13: ingest.v2.RecordChannelResponse
+	(*RecordIngestRunRequest)(nil),              // 14: ingest.v2.RecordIngestRunRequest
+	(*RecordIngestRunResponse)(nil),             // 15: ingest.v2.RecordIngestRunResponse
+	(*RecordSourceSnapshotRequest)(nil),         // 16: ingest.v2.RecordSourceSnapshotRequest
+	(*RecordSourceSnapshotResponse)(nil),        // 17: ingest.v2.RecordSourceSnapshotResponse
+	(*RecordSourceStoreRequest)(nil),            // 18: ingest.v2.RecordSourceStoreRequest
+	(*RecordSourceStoreResponse)(nil),           // 19: ingest.v2.RecordSourceStoreResponse
+	(*RecordSourceMenuRequest)(nil),             // 20: ingest.v2.RecordSourceMenuRequest
+	(*RecordSourceMenuResponse)(nil),            // 21: ingest.v2.RecordSourceMenuResponse
+	(*RecordSourceCategoryRequest)(nil),         // 22: ingest.v2.RecordSourceCategoryRequest
+	(*RecordSourceCategoryResponse)(nil),        // 23: ingest.v2.RecordSourceCategoryResponse
+	(*RecordSourceItemRequest)(nil),             // 24: ingest.v2.RecordSourceItemRequest
+	(*RecordSourceItemResponse)(nil),            // 25: ingest.v2.RecordSourceItemResponse
+	(*RecordItemPriceObservationRequest)(nil),   // 26: ingest.v2.RecordItemPriceObservationRequest
+	(*RecordItemPriceObservationResponse)(nil),  // 27: ingest.v2.RecordItemPriceObservationResponse
+	(*RecordQuoteObservationRequest)(nil),       // 28: ingest.v2.RecordQuoteObservationRequest
+	(*RecordQuoteObservationResponse)(nil),      // 29: ingest.v2.RecordQuoteObservationResponse
+	(*Place)(nil),                               // 30: ingest.v2.Place
+	(*PurchaseOption)(nil),                      // 31: ingest.v2.PurchaseOption
+	(*StoreMatch)(nil),                          // 32: ingest.v2.StoreMatch
+	(*ItemMatch)(nil),                           // 33: ingest.v2.ItemMatch
+	(*RecordPlaceRequest)(nil),                  // 34: ingest.v2.RecordPlaceRequest
+	(*RecordPlaceResponse)(nil),                 // 35: ingest.v2.RecordPlaceResponse
+	(*RecordPurchaseOptionRequest)(nil),         // 36: ingest.v2.RecordPurchaseOptionRequest
+	(*RecordPurchaseOptionResponse)(nil),        // 37: ingest.v2.RecordPurchaseOptionResponse
+	(*RecordStoreMatchRequest)(nil),             // 38: ingest.v2.RecordStoreMatchRequest
+	(*RecordStoreMatchResponse)(nil),            // 39: ingest.v2.RecordStoreMatchResponse
+	(*RecordItemMatchRequest)(nil),              // 40: ingest.v2.RecordItemMatchRequest
+	(*RecordItemMatchResponse)(nil),             // 41: ingest.v2.RecordItemMatchResponse
+	(*Brand)(nil),                               // 42: ingest.v2.Brand
+	(*Dish)(nil),                                // 43: ingest.v2.Dish
+	(*RecordBrandRequest)(nil),                  // 44: ingest.v2.RecordBrandRequest
+	(*RecordBrandResponse)(nil),                 // 45: ingest.v2.RecordBrandResponse
+	(*RecordDishRequest)(nil),                   // 46: ingest.v2.RecordDishRequest
+	(*RecordDishResponse)(nil),                  // 47: ingest.v2.RecordDishResponse
+	(*Market)(nil),                              // 48: ingest.v2.Market
+	(*ProbeDropoff)(nil),                        // 49: ingest.v2.ProbeDropoff
+	(*ChannelMarketCoverage)(nil),               // 50: ingest.v2.ChannelMarketCoverage
+	(*MembershipProduct)(nil),                   // 51: ingest.v2.MembershipProduct
+	(*RecordMarketRequest)(nil),                 // 52: ingest.v2.RecordMarketRequest
+	(*RecordMarketResponse)(nil),                // 53: ingest.v2.RecordMarketResponse
+	(*RecordProbeDropoffRequest)(nil),           // 54: ingest.v2.RecordProbeDropoffRequest
+	(*RecordProbeDropoffResponse)(nil),          // 55: ingest.v2.RecordProbeDropoffResponse
+	(*RecordChannelMarketCoverageRequest)(nil),  // 56: ingest.v2.RecordChannelMarketCoverageRequest
+	(*RecordChannelMarketCoverageResponse)(nil), // 57: ingest.v2.RecordChannelMarketCoverageResponse
+	(*RecordMembershipProductRequest)(nil),      // 58: ingest.v2.RecordMembershipProductRequest
+	(*RecordMembershipProductResponse)(nil),     // 59: ingest.v2.RecordMembershipProductResponse
 }
 var file_ingest_v2_ingest_proto_depIdxs = []int32{
 	1,  // 0: ingest.v2.SourceStore.location:type_name -> ingest.v2.Location
@@ -3089,41 +3858,54 @@ var file_ingest_v2_ingest_proto_depIdxs = []int32{
 	33, // 17: ingest.v2.RecordItemMatchRequest.match:type_name -> ingest.v2.ItemMatch
 	42, // 18: ingest.v2.RecordBrandRequest.brand:type_name -> ingest.v2.Brand
 	43, // 19: ingest.v2.RecordDishRequest.dish:type_name -> ingest.v2.Dish
-	12, // 20: ingest.v2.IngestService.RecordChannel:input_type -> ingest.v2.RecordChannelRequest
-	14, // 21: ingest.v2.IngestService.RecordIngestRun:input_type -> ingest.v2.RecordIngestRunRequest
-	16, // 22: ingest.v2.IngestService.RecordSourceSnapshot:input_type -> ingest.v2.RecordSourceSnapshotRequest
-	18, // 23: ingest.v2.IngestService.RecordSourceStore:input_type -> ingest.v2.RecordSourceStoreRequest
-	20, // 24: ingest.v2.IngestService.RecordSourceMenu:input_type -> ingest.v2.RecordSourceMenuRequest
-	22, // 25: ingest.v2.IngestService.RecordSourceCategory:input_type -> ingest.v2.RecordSourceCategoryRequest
-	24, // 26: ingest.v2.IngestService.RecordSourceItem:input_type -> ingest.v2.RecordSourceItemRequest
-	26, // 27: ingest.v2.IngestService.RecordItemPriceObservation:input_type -> ingest.v2.RecordItemPriceObservationRequest
-	28, // 28: ingest.v2.IngestService.RecordQuoteObservation:input_type -> ingest.v2.RecordQuoteObservationRequest
-	34, // 29: ingest.v2.IngestService.RecordPlace:input_type -> ingest.v2.RecordPlaceRequest
-	36, // 30: ingest.v2.IngestService.RecordPurchaseOption:input_type -> ingest.v2.RecordPurchaseOptionRequest
-	38, // 31: ingest.v2.IngestService.RecordStoreMatch:input_type -> ingest.v2.RecordStoreMatchRequest
-	40, // 32: ingest.v2.IngestService.RecordItemMatch:input_type -> ingest.v2.RecordItemMatchRequest
-	44, // 33: ingest.v2.IngestService.RecordBrand:input_type -> ingest.v2.RecordBrandRequest
-	46, // 34: ingest.v2.IngestService.RecordDish:input_type -> ingest.v2.RecordDishRequest
-	13, // 35: ingest.v2.IngestService.RecordChannel:output_type -> ingest.v2.RecordChannelResponse
-	15, // 36: ingest.v2.IngestService.RecordIngestRun:output_type -> ingest.v2.RecordIngestRunResponse
-	17, // 37: ingest.v2.IngestService.RecordSourceSnapshot:output_type -> ingest.v2.RecordSourceSnapshotResponse
-	19, // 38: ingest.v2.IngestService.RecordSourceStore:output_type -> ingest.v2.RecordSourceStoreResponse
-	21, // 39: ingest.v2.IngestService.RecordSourceMenu:output_type -> ingest.v2.RecordSourceMenuResponse
-	23, // 40: ingest.v2.IngestService.RecordSourceCategory:output_type -> ingest.v2.RecordSourceCategoryResponse
-	25, // 41: ingest.v2.IngestService.RecordSourceItem:output_type -> ingest.v2.RecordSourceItemResponse
-	27, // 42: ingest.v2.IngestService.RecordItemPriceObservation:output_type -> ingest.v2.RecordItemPriceObservationResponse
-	29, // 43: ingest.v2.IngestService.RecordQuoteObservation:output_type -> ingest.v2.RecordQuoteObservationResponse
-	35, // 44: ingest.v2.IngestService.RecordPlace:output_type -> ingest.v2.RecordPlaceResponse
-	37, // 45: ingest.v2.IngestService.RecordPurchaseOption:output_type -> ingest.v2.RecordPurchaseOptionResponse
-	39, // 46: ingest.v2.IngestService.RecordStoreMatch:output_type -> ingest.v2.RecordStoreMatchResponse
-	41, // 47: ingest.v2.IngestService.RecordItemMatch:output_type -> ingest.v2.RecordItemMatchResponse
-	45, // 48: ingest.v2.IngestService.RecordBrand:output_type -> ingest.v2.RecordBrandResponse
-	47, // 49: ingest.v2.IngestService.RecordDish:output_type -> ingest.v2.RecordDishResponse
-	35, // [35:50] is the sub-list for method output_type
-	20, // [20:35] is the sub-list for method input_type
-	20, // [20:20] is the sub-list for extension type_name
-	20, // [20:20] is the sub-list for extension extendee
-	0,  // [0:20] is the sub-list for field type_name
+	1,  // 20: ingest.v2.ProbeDropoff.location:type_name -> ingest.v2.Location
+	48, // 21: ingest.v2.RecordMarketRequest.market:type_name -> ingest.v2.Market
+	49, // 22: ingest.v2.RecordProbeDropoffRequest.dropoff:type_name -> ingest.v2.ProbeDropoff
+	50, // 23: ingest.v2.RecordChannelMarketCoverageRequest.coverage:type_name -> ingest.v2.ChannelMarketCoverage
+	51, // 24: ingest.v2.RecordMembershipProductRequest.product:type_name -> ingest.v2.MembershipProduct
+	12, // 25: ingest.v2.IngestService.RecordChannel:input_type -> ingest.v2.RecordChannelRequest
+	14, // 26: ingest.v2.IngestService.RecordIngestRun:input_type -> ingest.v2.RecordIngestRunRequest
+	16, // 27: ingest.v2.IngestService.RecordSourceSnapshot:input_type -> ingest.v2.RecordSourceSnapshotRequest
+	18, // 28: ingest.v2.IngestService.RecordSourceStore:input_type -> ingest.v2.RecordSourceStoreRequest
+	20, // 29: ingest.v2.IngestService.RecordSourceMenu:input_type -> ingest.v2.RecordSourceMenuRequest
+	22, // 30: ingest.v2.IngestService.RecordSourceCategory:input_type -> ingest.v2.RecordSourceCategoryRequest
+	24, // 31: ingest.v2.IngestService.RecordSourceItem:input_type -> ingest.v2.RecordSourceItemRequest
+	26, // 32: ingest.v2.IngestService.RecordItemPriceObservation:input_type -> ingest.v2.RecordItemPriceObservationRequest
+	28, // 33: ingest.v2.IngestService.RecordQuoteObservation:input_type -> ingest.v2.RecordQuoteObservationRequest
+	34, // 34: ingest.v2.IngestService.RecordPlace:input_type -> ingest.v2.RecordPlaceRequest
+	36, // 35: ingest.v2.IngestService.RecordPurchaseOption:input_type -> ingest.v2.RecordPurchaseOptionRequest
+	38, // 36: ingest.v2.IngestService.RecordStoreMatch:input_type -> ingest.v2.RecordStoreMatchRequest
+	40, // 37: ingest.v2.IngestService.RecordItemMatch:input_type -> ingest.v2.RecordItemMatchRequest
+	44, // 38: ingest.v2.IngestService.RecordBrand:input_type -> ingest.v2.RecordBrandRequest
+	46, // 39: ingest.v2.IngestService.RecordDish:input_type -> ingest.v2.RecordDishRequest
+	52, // 40: ingest.v2.IngestService.RecordMarket:input_type -> ingest.v2.RecordMarketRequest
+	54, // 41: ingest.v2.IngestService.RecordProbeDropoff:input_type -> ingest.v2.RecordProbeDropoffRequest
+	56, // 42: ingest.v2.IngestService.RecordChannelMarketCoverage:input_type -> ingest.v2.RecordChannelMarketCoverageRequest
+	58, // 43: ingest.v2.IngestService.RecordMembershipProduct:input_type -> ingest.v2.RecordMembershipProductRequest
+	13, // 44: ingest.v2.IngestService.RecordChannel:output_type -> ingest.v2.RecordChannelResponse
+	15, // 45: ingest.v2.IngestService.RecordIngestRun:output_type -> ingest.v2.RecordIngestRunResponse
+	17, // 46: ingest.v2.IngestService.RecordSourceSnapshot:output_type -> ingest.v2.RecordSourceSnapshotResponse
+	19, // 47: ingest.v2.IngestService.RecordSourceStore:output_type -> ingest.v2.RecordSourceStoreResponse
+	21, // 48: ingest.v2.IngestService.RecordSourceMenu:output_type -> ingest.v2.RecordSourceMenuResponse
+	23, // 49: ingest.v2.IngestService.RecordSourceCategory:output_type -> ingest.v2.RecordSourceCategoryResponse
+	25, // 50: ingest.v2.IngestService.RecordSourceItem:output_type -> ingest.v2.RecordSourceItemResponse
+	27, // 51: ingest.v2.IngestService.RecordItemPriceObservation:output_type -> ingest.v2.RecordItemPriceObservationResponse
+	29, // 52: ingest.v2.IngestService.RecordQuoteObservation:output_type -> ingest.v2.RecordQuoteObservationResponse
+	35, // 53: ingest.v2.IngestService.RecordPlace:output_type -> ingest.v2.RecordPlaceResponse
+	37, // 54: ingest.v2.IngestService.RecordPurchaseOption:output_type -> ingest.v2.RecordPurchaseOptionResponse
+	39, // 55: ingest.v2.IngestService.RecordStoreMatch:output_type -> ingest.v2.RecordStoreMatchResponse
+	41, // 56: ingest.v2.IngestService.RecordItemMatch:output_type -> ingest.v2.RecordItemMatchResponse
+	45, // 57: ingest.v2.IngestService.RecordBrand:output_type -> ingest.v2.RecordBrandResponse
+	47, // 58: ingest.v2.IngestService.RecordDish:output_type -> ingest.v2.RecordDishResponse
+	53, // 59: ingest.v2.IngestService.RecordMarket:output_type -> ingest.v2.RecordMarketResponse
+	55, // 60: ingest.v2.IngestService.RecordProbeDropoff:output_type -> ingest.v2.RecordProbeDropoffResponse
+	57, // 61: ingest.v2.IngestService.RecordChannelMarketCoverage:output_type -> ingest.v2.RecordChannelMarketCoverageResponse
+	59, // 62: ingest.v2.IngestService.RecordMembershipProduct:output_type -> ingest.v2.RecordMembershipProductResponse
+	44, // [44:63] is the sub-list for method output_type
+	25, // [25:44] is the sub-list for method input_type
+	25, // [25:25] is the sub-list for extension type_name
+	25, // [25:25] is the sub-list for extension extendee
+	0,  // [0:25] is the sub-list for field type_name
 }
 
 func init() { file_ingest_v2_ingest_proto_init() }
@@ -3137,7 +3919,7 @@ func file_ingest_v2_ingest_proto_init() {
 			GoPackagePath: reflect.TypeOf(x{}).PkgPath(),
 			RawDescriptor: unsafe.Slice(unsafe.StringData(file_ingest_v2_ingest_proto_rawDesc), len(file_ingest_v2_ingest_proto_rawDesc)),
 			NumEnums:      0,
-			NumMessages:   48,
+			NumMessages:   60,
 			NumExtensions: 0,
 			NumServices:   1,
 		},

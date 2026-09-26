@@ -19,21 +19,25 @@ import (
 const _ = grpc.SupportPackageIsVersion9
 
 const (
-	IngestService_RecordChannel_FullMethodName              = "/ingest.v2.IngestService/RecordChannel"
-	IngestService_RecordIngestRun_FullMethodName            = "/ingest.v2.IngestService/RecordIngestRun"
-	IngestService_RecordSourceSnapshot_FullMethodName       = "/ingest.v2.IngestService/RecordSourceSnapshot"
-	IngestService_RecordSourceStore_FullMethodName          = "/ingest.v2.IngestService/RecordSourceStore"
-	IngestService_RecordSourceMenu_FullMethodName           = "/ingest.v2.IngestService/RecordSourceMenu"
-	IngestService_RecordSourceCategory_FullMethodName       = "/ingest.v2.IngestService/RecordSourceCategory"
-	IngestService_RecordSourceItem_FullMethodName           = "/ingest.v2.IngestService/RecordSourceItem"
-	IngestService_RecordItemPriceObservation_FullMethodName = "/ingest.v2.IngestService/RecordItemPriceObservation"
-	IngestService_RecordQuoteObservation_FullMethodName     = "/ingest.v2.IngestService/RecordQuoteObservation"
-	IngestService_RecordPlace_FullMethodName                = "/ingest.v2.IngestService/RecordPlace"
-	IngestService_RecordPurchaseOption_FullMethodName       = "/ingest.v2.IngestService/RecordPurchaseOption"
-	IngestService_RecordStoreMatch_FullMethodName           = "/ingest.v2.IngestService/RecordStoreMatch"
-	IngestService_RecordItemMatch_FullMethodName            = "/ingest.v2.IngestService/RecordItemMatch"
-	IngestService_RecordBrand_FullMethodName                = "/ingest.v2.IngestService/RecordBrand"
-	IngestService_RecordDish_FullMethodName                 = "/ingest.v2.IngestService/RecordDish"
+	IngestService_RecordChannel_FullMethodName               = "/ingest.v2.IngestService/RecordChannel"
+	IngestService_RecordIngestRun_FullMethodName             = "/ingest.v2.IngestService/RecordIngestRun"
+	IngestService_RecordSourceSnapshot_FullMethodName        = "/ingest.v2.IngestService/RecordSourceSnapshot"
+	IngestService_RecordSourceStore_FullMethodName           = "/ingest.v2.IngestService/RecordSourceStore"
+	IngestService_RecordSourceMenu_FullMethodName            = "/ingest.v2.IngestService/RecordSourceMenu"
+	IngestService_RecordSourceCategory_FullMethodName        = "/ingest.v2.IngestService/RecordSourceCategory"
+	IngestService_RecordSourceItem_FullMethodName            = "/ingest.v2.IngestService/RecordSourceItem"
+	IngestService_RecordItemPriceObservation_FullMethodName  = "/ingest.v2.IngestService/RecordItemPriceObservation"
+	IngestService_RecordQuoteObservation_FullMethodName      = "/ingest.v2.IngestService/RecordQuoteObservation"
+	IngestService_RecordPlace_FullMethodName                 = "/ingest.v2.IngestService/RecordPlace"
+	IngestService_RecordPurchaseOption_FullMethodName        = "/ingest.v2.IngestService/RecordPurchaseOption"
+	IngestService_RecordStoreMatch_FullMethodName            = "/ingest.v2.IngestService/RecordStoreMatch"
+	IngestService_RecordItemMatch_FullMethodName             = "/ingest.v2.IngestService/RecordItemMatch"
+	IngestService_RecordBrand_FullMethodName                 = "/ingest.v2.IngestService/RecordBrand"
+	IngestService_RecordDish_FullMethodName                  = "/ingest.v2.IngestService/RecordDish"
+	IngestService_RecordMarket_FullMethodName                = "/ingest.v2.IngestService/RecordMarket"
+	IngestService_RecordProbeDropoff_FullMethodName          = "/ingest.v2.IngestService/RecordProbeDropoff"
+	IngestService_RecordChannelMarketCoverage_FullMethodName = "/ingest.v2.IngestService/RecordChannelMarketCoverage"
+	IngestService_RecordMembershipProduct_FullMethodName     = "/ingest.v2.IngestService/RecordMembershipProduct"
 )
 
 // IngestServiceClient is the client API for IngestService service.
@@ -55,6 +59,10 @@ type IngestServiceClient interface {
 	RecordItemMatch(ctx context.Context, in *RecordItemMatchRequest, opts ...grpc.CallOption) (*RecordItemMatchResponse, error)
 	RecordBrand(ctx context.Context, in *RecordBrandRequest, opts ...grpc.CallOption) (*RecordBrandResponse, error)
 	RecordDish(ctx context.Context, in *RecordDishRequest, opts ...grpc.CallOption) (*RecordDishResponse, error)
+	RecordMarket(ctx context.Context, in *RecordMarketRequest, opts ...grpc.CallOption) (*RecordMarketResponse, error)
+	RecordProbeDropoff(ctx context.Context, in *RecordProbeDropoffRequest, opts ...grpc.CallOption) (*RecordProbeDropoffResponse, error)
+	RecordChannelMarketCoverage(ctx context.Context, in *RecordChannelMarketCoverageRequest, opts ...grpc.CallOption) (*RecordChannelMarketCoverageResponse, error)
+	RecordMembershipProduct(ctx context.Context, in *RecordMembershipProductRequest, opts ...grpc.CallOption) (*RecordMembershipProductResponse, error)
 }
 
 type ingestServiceClient struct {
@@ -215,6 +223,46 @@ func (c *ingestServiceClient) RecordDish(ctx context.Context, in *RecordDishRequ
 	return out, nil
 }
 
+func (c *ingestServiceClient) RecordMarket(ctx context.Context, in *RecordMarketRequest, opts ...grpc.CallOption) (*RecordMarketResponse, error) {
+	cOpts := append([]grpc.CallOption{grpc.StaticMethod()}, opts...)
+	out := new(RecordMarketResponse)
+	err := c.cc.Invoke(ctx, IngestService_RecordMarket_FullMethodName, in, out, cOpts...)
+	if err != nil {
+		return nil, err
+	}
+	return out, nil
+}
+
+func (c *ingestServiceClient) RecordProbeDropoff(ctx context.Context, in *RecordProbeDropoffRequest, opts ...grpc.CallOption) (*RecordProbeDropoffResponse, error) {
+	cOpts := append([]grpc.CallOption{grpc.StaticMethod()}, opts...)
+	out := new(RecordProbeDropoffResponse)
+	err := c.cc.Invoke(ctx, IngestService_RecordProbeDropoff_FullMethodName, in, out, cOpts...)
+	if err != nil {
+		return nil, err
+	}
+	return out, nil
+}
+
+func (c *ingestServiceClient) RecordChannelMarketCoverage(ctx context.Context, in *RecordChannelMarketCoverageRequest, opts ...grpc.CallOption) (*RecordChannelMarketCoverageResponse, error) {
+	cOpts := append([]grpc.CallOption{grpc.StaticMethod()}, opts...)
+	out := new(RecordChannelMarketCoverageResponse)
+	err := c.cc.Invoke(ctx, IngestService_RecordChannelMarketCoverage_FullMethodName, in, out, cOpts...)
+	if err != nil {
+		return nil, err
+	}
+	return out, nil
+}
+
+func (c *ingestServiceClient) RecordMembershipProduct(ctx context.Context, in *RecordMembershipProductRequest, opts ...grpc.CallOption) (*RecordMembershipProductResponse, error) {
+	cOpts := append([]grpc.CallOption{grpc.StaticMethod()}, opts...)
+	out := new(RecordMembershipProductResponse)
+	err := c.cc.Invoke(ctx, IngestService_RecordMembershipProduct_FullMethodName, in, out, cOpts...)
+	if err != nil {
+		return nil, err
+	}
+	return out, nil
+}
+
 // IngestServiceServer is the server API for IngestService service.
 // All implementations must embed UnimplementedIngestServiceServer
 // for forward compatibility.
@@ -234,6 +282,10 @@ type IngestServiceServer interface {
 	RecordItemMatch(context.Context, *RecordItemMatchRequest) (*RecordItemMatchResponse, error)
 	RecordBrand(context.Context, *RecordBrandRequest) (*RecordBrandResponse, error)
 	RecordDish(context.Context, *RecordDishRequest) (*RecordDishResponse, error)
+	RecordMarket(context.Context, *RecordMarketRequest) (*RecordMarketResponse, error)
+	RecordProbeDropoff(context.Context, *RecordProbeDropoffRequest) (*RecordProbeDropoffResponse, error)
+	RecordChannelMarketCoverage(context.Context, *RecordChannelMarketCoverageRequest) (*RecordChannelMarketCoverageResponse, error)
+	RecordMembershipProduct(context.Context, *RecordMembershipProductRequest) (*RecordMembershipProductResponse, error)
 	mustEmbedUnimplementedIngestServiceServer()
 }
 
@@ -288,6 +340,18 @@ func (UnimplementedIngestServiceServer) RecordBrand(context.Context, *RecordBran
 }
 func (UnimplementedIngestServiceServer) RecordDish(context.Context, *RecordDishRequest) (*RecordDishResponse, error) {
 	return nil, status.Errorf(codes.Unimplemented, "method RecordDish not implemented")
+}
+func (UnimplementedIngestServiceServer) RecordMarket(context.Context, *RecordMarketRequest) (*RecordMarketResponse, error) {
+	return nil, status.Errorf(codes.Unimplemented, "method RecordMarket not implemented")
+}
+func (UnimplementedIngestServiceServer) RecordProbeDropoff(context.Context, *RecordProbeDropoffRequest) (*RecordProbeDropoffResponse, error) {
+	return nil, status.Errorf(codes.Unimplemented, "method RecordProbeDropoff not implemented")
+}
+func (UnimplementedIngestServiceServer) RecordChannelMarketCoverage(context.Context, *RecordChannelMarketCoverageRequest) (*RecordChannelMarketCoverageResponse, error) {
+	return nil, status.Errorf(codes.Unimplemented, "method RecordChannelMarketCoverage not implemented")
+}
+func (UnimplementedIngestServiceServer) RecordMembershipProduct(context.Context, *RecordMembershipProductRequest) (*RecordMembershipProductResponse, error) {
+	return nil, status.Errorf(codes.Unimplemented, "method RecordMembershipProduct not implemented")
 }
 func (UnimplementedIngestServiceServer) mustEmbedUnimplementedIngestServiceServer() {}
 func (UnimplementedIngestServiceServer) testEmbeddedByValue()                       {}
@@ -580,6 +644,78 @@ func _IngestService_RecordDish_Handler(srv interface{}, ctx context.Context, dec
 	return interceptor(ctx, in, info, handler)
 }
 
+func _IngestService_RecordMarket_Handler(srv interface{}, ctx context.Context, dec func(interface{}) error, interceptor grpc.UnaryServerInterceptor) (interface{}, error) {
+	in := new(RecordMarketRequest)
+	if err := dec(in); err != nil {
+		return nil, err
+	}
+	if interceptor == nil {
+		return srv.(IngestServiceServer).RecordMarket(ctx, in)
+	}
+	info := &grpc.UnaryServerInfo{
+		Server:     srv,
+		FullMethod: IngestService_RecordMarket_FullMethodName,
+	}
+	handler := func(ctx context.Context, req interface{}) (interface{}, error) {
+		return srv.(IngestServiceServer).RecordMarket(ctx, req.(*RecordMarketRequest))
+	}
+	return interceptor(ctx, in, info, handler)
+}
+
+func _IngestService_RecordProbeDropoff_Handler(srv interface{}, ctx context.Context, dec func(interface{}) error, interceptor grpc.UnaryServerInterceptor) (interface{}, error) {
+	in := new(RecordProbeDropoffRequest)
+	if err := dec(in); err != nil {
+		return nil, err
+	}
+	if interceptor == nil {
+		return srv.(IngestServiceServer).RecordProbeDropoff(ctx, in)
+	}
+	info := &grpc.UnaryServerInfo{
+		Server:     srv,
+		FullMethod: IngestService_RecordProbeDropoff_FullMethodName,
+	}
+	handler := func(ctx context.Context, req interface{}) (interface{}, error) {
+		return srv.(IngestServiceServer).RecordProbeDropoff(ctx, req.(*RecordProbeDropoffRequest))
+	}
+	return interceptor(ctx, in, info, handler)
+}
+
+func _IngestService_RecordChannelMarketCoverage_Handler(srv interface{}, ctx context.Context, dec func(interface{}) error, interceptor grpc.UnaryServerInterceptor) (interface{}, error) {
+	in := new(RecordChannelMarketCoverageRequest)
+	if err := dec(in); err != nil {
+		return nil, err
+	}
+	if interceptor == nil {
+		return srv.(IngestServiceServer).RecordChannelMarketCoverage(ctx, in)
+	}
+	info := &grpc.UnaryServerInfo{
+		Server:     srv,
+		FullMethod: IngestService_RecordChannelMarketCoverage_FullMethodName,
+	}
+	handler := func(ctx context.Context, req interface{}) (interface{}, error) {
+		return srv.(IngestServiceServer).RecordChannelMarketCoverage(ctx, req.(*RecordChannelMarketCoverageRequest))
+	}
+	return interceptor(ctx, in, info, handler)
+}
+
+func _IngestService_RecordMembershipProduct_Handler(srv interface{}, ctx context.Context, dec func(interface{}) error, interceptor grpc.UnaryServerInterceptor) (interface{}, error) {
+	in := new(RecordMembershipProductRequest)
+	if err := dec(in); err != nil {
+		return nil, err
+	}
+	if interceptor == nil {
+		return srv.(IngestServiceServer).RecordMembershipProduct(ctx, in)
+	}
+	info := &grpc.UnaryServerInfo{
+		Server:     srv,
+		FullMethod: IngestService_RecordMembershipProduct_FullMethodName,
+	}
+	handler := func(ctx context.Context, req interface{}) (interface{}, error) {
+		return srv.(IngestServiceServer).RecordMembershipProduct(ctx, req.(*RecordMembershipProductRequest))
+	}
+	return interceptor(ctx, in, info, handler)
+}
+
 // IngestService_ServiceDesc is the grpc.ServiceDesc for IngestService service.
 // It's only intended for direct use with grpc.RegisterService,
 // and not to be introspected or modified (even as a copy)
@@ -646,6 +782,22 @@ var IngestService_ServiceDesc = grpc.ServiceDesc{
 		{
 			MethodName: "RecordDish",
 			Handler:    _IngestService_RecordDish_Handler,
+		},
+		{
+			MethodName: "RecordMarket",
+			Handler:    _IngestService_RecordMarket_Handler,
+		},
+		{
+			MethodName: "RecordProbeDropoff",
+			Handler:    _IngestService_RecordProbeDropoff_Handler,
+		},
+		{
+			MethodName: "RecordChannelMarketCoverage",
+			Handler:    _IngestService_RecordChannelMarketCoverage_Handler,
+		},
+		{
+			MethodName: "RecordMembershipProduct",
+			Handler:    _IngestService_RecordMembershipProduct_Handler,
 		},
 	},
 	Streams:  []grpc.StreamDesc{},
