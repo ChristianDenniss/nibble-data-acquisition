@@ -1,0 +1,13 @@
+id,restaurant,branch_address,skip_url,spreadsheet_item_name,search_name,expected_size
+SQ-01,The Squeeze,81 Regent St Fredericton NB E3B 3W4,https://www.skipthedishes.com/the-squeeze-81,Roasted Root,Roasted Root,
+SQ-02,The Squeeze,81 Regent St Fredericton NB E3B 3W4,https://www.skipthedishes.com/the-squeeze-81,Chicken Salad Sandwich,Chicken Salad Sandwich,
+SQ-03,The Squeeze,81 Regent St Fredericton NB E3B 3W4,https://www.skipthedishes.com/the-squeeze-81,Spicy Kale Caeser,Spicy Kale Caesar,
+GR-01,Greco Pizza,529 Dundonald St Fredericton NB E3B 1X5,https://www.skipthedishes.com/greco-pizza-dundonald-street,Small Garlic Finegrs,Small Garlic Fingers,Small
+GR-02,Greco Pizza,529 Dundonald St Fredericton NB E3B 1X5,https://www.skipthedishes.com/greco-pizza-dundonald-street,Wings,Wings,
+GR-03,Greco Pizza,529 Dundonald St Fredericton NB E3B 1X5,https://www.skipthedishes.com/greco-pizza-dundonald-street,Small Mighty Meaty Pizza,Small Mighty Meaty Pizza,Small
+GI-01,Gisele's Pizzeria,580 Two Nations Crossing Fredericton NB E3B 6H7,https://www.skipthedishes.com/gisele-pizzeria-two-nations-crossing,12-inch Pepperoni Pizza,12-inch Pepperoni Pizza,12 inch
+GI-02,Gisele's Pizzeria,580 Two Nations Crossing Fredericton NB E3B 6H7,https://www.skipthedishes.com/gisele-pizzeria-two-nations-crossing,Wings,Wings,
+GI-03,Gisele's Pizzeria,580 Two Nations Crossing Fredericton NB E3B 6H7,https://www.skipthedishes.com/gisele-pizzeria-two-nations-crossing,9-inch Garlic Cheese Finegrs,9-inch Garlic Cheese Fingers,9 inch
+RZ-01,Razia Kitchen,343 York St Fredericton NB E3B 3P5,https://www.skipthedishes.com/razia-kitchen,Chicken Biryani,Chicken Biryani,
+RZ-02,Razia Kitchen,343 York St Fredericton NB E3B 3P5,https://www.skipthedishes.com/razia-kitchen,Beef Biryani,Beef Biryani,
+RZ-03,Razia Kitchen,343 York St Fredericton NB E3B 3P5,https://www.skipthedishes.com/razia-kitchen,Lamb Curry,Lamb Curry,

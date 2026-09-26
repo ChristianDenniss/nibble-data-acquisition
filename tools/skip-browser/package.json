@@ -1,0 +1,12 @@
+{
+  "name": "nibble-skip-browser-collector",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "session": "node src/create-session.mjs",
+    "collect": "node src/collect-prices.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.63.0"
+  }
+}

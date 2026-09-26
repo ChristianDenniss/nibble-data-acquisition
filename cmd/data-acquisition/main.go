@@ -39,14 +39,40 @@ func main() {
 	switch adapterName {
 	case "demo":
 		coll = adapter.NewDemoFixture(ingestv2.NewIngestServiceClient(conn))
+	case "skip":
+		coll = adapter.NewSkipBrowser(ingestv2.NewIngestServiceClient(conn))
 	case "stub":
 		coll = adapter.Stub{}
 	default:
-		log.Fatalf("unknown ACQUISITION_ADAPTER=%q (use demo or stub)", adapterName)
+		log.Fatalf("unknown ACQUISITION_ADAPTER=%q (use demo, skip, or stub)", adapterName)
 	}
 
 	if err := coll.Collect(ctx); err != nil {
-		log.Fatalf("collect: %v", err)
+		if adapterName != "skip" {
+			log.Fatalf("collect: %v", err)
+		}
+		log.Printf("initial Skip collection failed; will retry on the configured interval: %v", err)
+	}
+
+	if adapterName == "skip" {
+		interval, err := time.ParseDuration(getenv("SKIP_COLLECTION_INTERVAL", "15m"))
+		if err != nil || interval <= 0 {
+			log.Fatalf("invalid SKIP_COLLECTION_INTERVAL; use a positive duration such as 15m")
+		}
+		ticker := time.NewTicker(interval)
+		defer ticker.Stop()
+		log.Printf("Skip backend collection enabled; refreshing every %s", interval)
+		for {
+			select {
+			case <-ctx.Done():
+				log.Printf("data-acquisition stopping")
+				return
+			case <-ticker.C:
+				if err := coll.Collect(ctx); err != nil {
+					log.Printf("Skip collection failed: %v", err)
+				}
+			}
+		}
 	}
 
 	log.Printf("data-acquisition collect finished; idle until signal")

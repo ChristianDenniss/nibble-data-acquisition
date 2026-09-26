@@ -4,3 +4,5 @@ bin/
 dist/
 .env
 .env.*
+tools/skip-browser/.profile/
+tools/skip-browser/node_modules/
