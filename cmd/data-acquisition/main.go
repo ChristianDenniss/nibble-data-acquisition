@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/ChristianDenniss/data-acquisition/internal/adapter"
-	ingestv1 "github.com/ChristianDenniss/platform-contracts/gen/ingest/v1"
+	ingestv2 "github.com/ChristianDenniss/platform-contracts/gen/ingest/v2"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/connectivity"
 	"google.golang.org/grpc/credentials/insecure"
@@ -18,7 +18,8 @@ import (
 func main() {
 	log.SetFlags(log.LstdFlags | log.Lmicroseconds)
 	addr := getenv("API_ENGINE_GRPC_ADDR", "localhost:9090")
-	log.Printf("data-acquisition starting API_ENGINE_GRPC_ADDR=%s", addr)
+	adapterName := getenv("ACQUISITION_ADAPTER", "demo")
+	log.Printf("data-acquisition starting API_ENGINE_GRPC_ADDR=%s ACQUISITION_ADAPTER=%s", addr, adapterName)
 
 	conn, err := grpc.NewClient(addr, grpc.WithTransportCredentials(insecure.NewCredentials()))
 	if err != nil {
@@ -34,13 +35,21 @@ func main() {
 		log.Fatalf("api-engine grpc: %v", err)
 	}
 
-	_ = ingestv1.NewIngestServiceClient(conn)
-	stub := adapter.Stub{}
-	if err := stub.Collect(ctx); err != nil {
+	var coll adapter.Adapter
+	switch adapterName {
+	case "demo":
+		coll = adapter.NewDemoFixture(ingestv2.NewIngestServiceClient(conn))
+	case "stub":
+		coll = adapter.Stub{}
+	default:
+		log.Fatalf("unknown ACQUISITION_ADAPTER=%q (use demo or stub)", adapterName)
+	}
+
+	if err := coll.Collect(ctx); err != nil {
 		log.Fatalf("collect: %v", err)
 	}
 
-	log.Printf("connected to api-engine at %s; stub adapter collects nothing", addr)
+	log.Printf("data-acquisition collect finished; idle until signal")
 	<-ctx.Done()
 	log.Printf("data-acquisition stopping")
 }
