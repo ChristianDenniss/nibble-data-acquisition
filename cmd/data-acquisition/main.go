@@ -39,10 +39,12 @@ func main() {
 	switch adapterName {
 	case "demo":
 		coll = adapter.NewDemoFixture(ingestv2.NewIngestServiceClient(conn))
+	case "curated":
+		coll = adapter.NewCurated(ingestv2.NewIngestServiceClient(conn))
 	case "stub":
 		coll = adapter.Stub{}
 	default:
-		log.Fatalf("unknown ACQUISITION_ADAPTER=%q (use demo or stub)", adapterName)
+		log.Fatalf("unknown ACQUISITION_ADAPTER=%q (use demo, curated, or stub)", adapterName)
 	}
 
 	if err := coll.Collect(ctx); err != nil {
