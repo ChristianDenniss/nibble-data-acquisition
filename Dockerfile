@@ -3,6 +3,7 @@ ARG GITHUB_TOKEN
 WORKDIR /src
 RUN apt-get update -qq && DEBIAN_FRONTEND=noninteractive apt-get install -y -qq git >/dev/null
 ENV GOPRIVATE=github.com/ChristianDenniss/*
+ENV GONOSUMDB=github.com/ChristianDenniss/*
 RUN if [ -n "$GITHUB_TOKEN" ]; then \
   git config --global url."https://x-access-token:${GITHUB_TOKEN}@github.com/".insteadOf "https://github.com/"; \
   fi
