@@ -1,1 +1,11 @@
 .git
+.github
+vendor
+*.exe
+*.test
+bin
+dist
+.env
+.env.*
+README.md
+.releaserc.json
