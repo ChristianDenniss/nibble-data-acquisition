@@ -16,7 +16,9 @@ import (
 )
 
 func main() {
+	log.SetFlags(log.LstdFlags | log.Lmicroseconds)
 	addr := getenv("API_ENGINE_GRPC_ADDR", "localhost:9090")
+	log.Printf("data-acquisition starting API_ENGINE_GRPC_ADDR=%s", addr)
 
 	conn, err := grpc.NewClient(addr, grpc.WithTransportCredentials(insecure.NewCredentials()))
 	if err != nil {
@@ -27,6 +29,7 @@ func main() {
 	ctx, stop := signal.NotifyContext(context.Background(), os.Interrupt, syscall.SIGTERM)
 	defer stop()
 
+	log.Printf("waiting for api-engine gRPC at %s", addr)
 	if err := waitReady(ctx, conn); err != nil {
 		log.Fatalf("api-engine grpc: %v", err)
 	}
@@ -39,6 +42,7 @@ func main() {
 
 	log.Printf("connected to api-engine at %s; stub adapter collects nothing", addr)
 	<-ctx.Done()
+	log.Printf("data-acquisition stopping")
 }
 
 func waitReady(ctx context.Context, conn *grpc.ClientConn) error {
@@ -47,7 +51,9 @@ func waitReady(ctx context.Context, conn *grpc.ClientConn) error {
 	conn.Connect()
 	for {
 		state := conn.GetState()
+		log.Printf("grpc state: %s", state)
 		if state == connectivity.Ready {
+			log.Printf("grpc ready")
 			return nil
 		}
 		if !conn.WaitForStateChange(ctx, state) {
