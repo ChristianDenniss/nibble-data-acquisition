@@ -71,6 +71,9 @@ func GlobalChannels() []Channel {
 		{ID: "ch_skip", Slug: "skip", Kind: "aggregator", Name: "SkipTheDishes"},
 		{ID: "ch_doordash", Slug: "doordash", Kind: "aggregator", Name: "DoorDash"},
 		{ID: "ch_ubereats", Slug: "ubereats", Kind: "aggregator", Name: "Uber Eats"},
+		{ID: "ch_instacart", Slug: "instacart", Kind: "aggregator", Name: "Instacart"},
+		{ID: "ch_grubhub", Slug: "grubhub", Kind: "aggregator", Name: "Grubhub"},
+		{ID: "ch_fantuan", Slug: "fantuan", Kind: "aggregator", Name: "Fantuan"},
 		{ID: "ch_merchant_web", Slug: "merchant-web", Kind: "merchant_web", Name: "Merchant website"},
 		{ID: "ch_phone", Slug: "phone", Kind: "phone", Name: "Phone order"},
 		{ID: "ch_in_person", Slug: "in-person", Kind: "in_person", Name: "In person"},
@@ -82,6 +85,8 @@ func MembershipProducts() []MembershipProduct {
 		{ID: "mp_dashpass", ChannelID: "ch_doordash", Name: "DashPass", Slug: "dashpass"},
 		{ID: "mp_uber_one", ChannelID: "ch_ubereats", Name: "Uber One", Slug: "uber-one"},
 		{ID: "mp_skip_plus", ChannelID: "ch_skip", Name: "Skip+", Slug: "skip-plus"},
+		{ID: "mp_instacart_plus", ChannelID: "ch_instacart", Name: "Instacart+", Slug: "instacart-plus"},
+		{ID: "mp_grubhub_plus", ChannelID: "ch_grubhub", Name: "Grubhub+", Slug: "grubhub-plus"},
 	}
 }
 
@@ -120,6 +125,9 @@ func Fredericton() MarketBundle {
 			{ID: "cov_skip_fredericton", ChannelID: "ch_skip", Status: CoverageExpected, Note: "Skip operates in Fredericton"},
 			{ID: "cov_doordash_fredericton", ChannelID: "ch_doordash", Status: CoverageExpected, Note: "DoorDash operates in Fredericton"},
 			{ID: "cov_ubereats_fredericton", ChannelID: "ch_ubereats", Status: CoverageUnknown, Note: "Not confirmed in Fredericton yet"},
+			{ID: "cov_instacart_fredericton", ChannelID: "ch_instacart", Status: CoverageUnknown, Note: "Not confirmed in Fredericton yet"},
+			{ID: "cov_grubhub_fredericton", ChannelID: "ch_grubhub", Status: CoverageAbsent, Note: "Grubhub does not operate in Canada"},
+			{ID: "cov_fantuan_fredericton", ChannelID: "ch_fantuan", Status: CoverageUnknown, Note: "Not confirmed in Fredericton yet"},
 			{ID: "cov_in_person_fredericton", ChannelID: "ch_in_person", Status: CoverageExpected, Note: "Always available"},
 			{ID: "cov_phone_fredericton", ChannelID: "ch_phone", Status: CoverageExpected, Note: "Always available"},
 			{ID: "cov_merchant_web_fredericton", ChannelID: "ch_merchant_web", Status: CoverageExpected, Note: "Per kitchen, not market-wide"},
