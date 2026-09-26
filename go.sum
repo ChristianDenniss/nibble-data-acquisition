@@ -1,5 +1,5 @@
-github.com/ChristianDenniss/platform-contracts v0.1.0 h1:57mwPfibXH/6t6w/v967cMD3ADb2uRKaxtXb1rXpJJk=
-github.com/ChristianDenniss/platform-contracts v0.1.0/go.mod h1:R/uo/nrmxmlx+LJPTfgd1WPytV0ktbCqN8cHfcJYS94=
+github.com/ChristianDenniss/platform-contracts v1.0.0 h1:HybdBRTQb8bf5YJKqrSzn7+BL0uOASukWtoFMKJoLD4=
+github.com/ChristianDenniss/platform-contracts v1.0.0/go.mod h1:R/uo/nrmxmlx+LJPTfgd1WPytV0ktbCqN8cHfcJYS94=
 github.com/golang/protobuf v1.5.4 h1:i7eJL8qZTpSEXOPTxNKhASYpMn+8e5Q6AdndVa1dWek=
 github.com/golang/protobuf v1.5.4/go.mod h1:lnTiLA8Wa4RWRcIUkrtSVa5nRhsEGBg48fD6rSs7xps=
 github.com/google/go-cmp v0.6.0 h1:ofyhxvXcZhMsU5ulbFiLKl/XBFqE1GSq7atu8tAmTRI=

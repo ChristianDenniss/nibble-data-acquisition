@@ -18,28 +18,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
-        with:
-          path: data-acquisition
-      - uses: actions/checkout@v5
-        with:
-          repository: ${{ github.repository_owner }}/platform-contracts
-          path: platform-contracts
       - uses: actions/setup-go@v5
         with:
           go-version: '1.23'
-      - name: Verify with workspace
+      - name: Verify modules from GitHub
+        env:
+          GOPRIVATE: github.com/${{ github.repository_owner }}/*
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          cat > "${GITHUB_WORKSPACE}/go.work" <<'EOF'
-          go 1.23
-
-          use (
-            ./platform-contracts
-            ./data-acquisition
-          )
-          EOF
-          GOWORK="${GITHUB_WORKSPACE}/go.work" go vet ./...
-          GOWORK="${GITHUB_WORKSPACE}/go.work" go build -o /dev/null ./cmd/data-acquisition
-        working-directory: data-acquisition
+          git config --global url."https://x-access-token:${GH_PAT}@github.com/".insteadOf "https://github.com/"
+          go mod download
+          go vet ./...
+          CGO_ENABLED=0 go build -o /dev/null ./cmd/data-acquisition
 
   release:
     name: Tag & Release
