@@ -1,0 +1,225 @@
+{
+  "observedAt": "2026-09-27",
+  "records": [
+    {
+      "restaurantId": "rest_taco_boyz_smythe",
+      "name": "Taco Boyz - Smythe Street",
+      "sourceUrl": "https://www.tacoboyz.com/wp-content/uploads/2024/11/Taco-Boyz-Take-Out-Menu-SV-November-2024.pdf",
+      "fulfillmentMode": "pickup",
+      "items": [
+        {"id":"taco_boyz_veggie_quesadilla","name":"Veggie Quesadilla","description":"Quesadilla with beans, rice, cheese and fresh toppings.","section":"Quesadillas","priceCents":1035},
+        {"id":"taco_boyz_chicken_quesadilla","name":"Grilled Chicken Quesadilla","description":"Large quesadilla with grilled chicken and fresh toppings.","section":"Quesadillas","priceCents":1360},
+        {"id":"taco_boyz_beef_quesadilla","name":"Ground Beef Quesadilla","description":"Large quesadilla with ground beef and fresh toppings.","section":"Quesadillas","priceCents":1360},
+        {"id":"taco_boyz_works_nachos","name":"The Works Nachos","description":"Nachos with fresh toppings; add meat separately.","section":"Nachos","priceCents":975},
+        {"id":"taco_boyz_chips_guac","name":"Chips & Guacamole","description":"Tortilla chips with guacamole.","section":"Extras","priceCents":895},
+        {"id":"taco_boyz_churro","name":"Churro","description":"Churro dessert.","section":"Desserts","priceCents":385},
+        {"id":"taco_boyz_jarritos","name":"Jarritos","description":"Bottled Mexican soda.","section":"Drinks","priceCents":490}
+      ]
+    },
+    {
+      "restaurantId": "rest_fadis",
+      "name": "Fadi's Pizza & Donair",
+      "sourceUrl": "https://www.fadispizza.com/online-ordering",
+      "fulfillmentMode": "pickup",
+      "items": [
+        {"id":"fadis_wings","name":"Chicken Wings","description":"BBQ, hot and spicy, honey garlic or southern fried.","section":"Appetizers","priceCents":1395},
+        {"id":"fadis_mozza_sticks","name":"Mozza Sticks","description":"Six pieces served with a dipping sauce.","section":"Appetizers","priceCents":995},
+        {"id":"fadis_shawarma_nachos","name":"Chicken Shawarma Nachos","description":"Tortilla chips, marinated chicken, vegetables, mozzarella, cheddar and garlic sauce.","section":"Appetizers","priceCents":1895},
+        {"id":"fadis_poutine","name":"Poutine","description":"Fries with cheese curds and gravy.","section":"Side Orders","priceCents":995},
+        {"id":"fadis_chicken_kabob_platter","name":"Chicken Kabob Platter","description":"Lunch special with a side, salad and pop.","section":"Lunch Specials","priceCents":1450},
+        {"id":"fadis_9inch_pizza","name":"9-Inch Pizza","description":"Create-your-own pizza with cheese included.","section":"Create Your Own","priceCents":1095},
+        {"id":"fadis_12inch_pizza","name":"12-Inch Pizza","description":"Create-your-own pizza with cheese included.","section":"Create Your Own","priceCents":1595},
+        {"id":"fadis_chicken_souvlaki","name":"Chicken Souvlaki Plate","description":"Chicken souvlaki plate with choice of side and salad.","section":"Platters","priceCents":1695}
+      ]
+    },
+    {
+      "restaurantId": "rest_snooty",
+      "name": "The Snooty Fox",
+      "sourceUrl": "https://www.thesnooty.ca/mainfare",
+      "fulfillmentMode": "dine_in",
+      "items": [
+        {"id":"snooty_stuffed_chicken","name":"Snooty Stuffed Chicken","description":"Chicken stuffed with roasted garlic, feta and spinach with roasted red pepper sauce; choice of potato or rice and salad.","section":"Main Fare","priceCents":2599},
+        {"id":"snooty_ribs","name":"Rack o' Ribs","description":"Fall-off-the-bone pork ribs with Snooty BBQ sauce and fries.","section":"Main Fare","priceCents":2499},
+        {"id":"snooty_ribs_wings","name":"Ribs & Wings","description":"Half order of ribs and a half pound of wings with fries.","section":"Main Fare","priceCents":2299},
+        {"id":"snooty_thailand","name":"Dinner in Thailand","description":"Fresh vegetables and rice vermicelli noodles in homemade Thai peanut sauce.","section":"Main Fare","priceCents":1899},
+        {"id":"snooty_salmon","name":"Panko Crusted Pesto Salmon","description":"Atlantic salmon with pesto, panko, goat cheese and maple syrup; served with rice and salad.","section":"Main Fare","priceCents":3199},
+        {"id":"snooty_striploin","name":"8oz New York Striploin","description":"AAA centre-cut striploin grilled to order with vegetables and choice of potato.","section":"Main Fare","priceCents":3499},
+        {"id":"snooty_mac_cheese","name":"Classic Mac 'n Cheese","description":"Creamy macaroni Alfredo baked with mozzarella and cheddar.","section":"Main Fare","priceCents":2199},
+        {"id":"snooty_butter_chicken","name":"Butter Chicken","description":"Chicken, tomatoes and creamy curry sauce served with rice and pita.","section":"Main Fare","priceCents":1999}
+      ]
+    },
+    {
+      "restaurantId": "rest_momo",
+      "name": "Momo Ramen & Izakaya",
+      "sourceUrl": "https://www.clover.com/online-ordering/momo-ramen-fredericton",
+      "fulfillmentMode": "pickup",
+      "items": [
+        {"id":"momo_shoyu","name":"Original Shoyu Ramen","description":"Japanese soy sauce broth with egg, naruto, kikurage, green onion and choice of chashu.","section":"Original Ramen","priceCents":1695},
+        {"id":"momo_tonkotsu","name":"Original Tonkotsu Ramen","description":"Tonkotsu broth with egg, green onions, kikurage, naruto and choice of chashu.","section":"Original Ramen","priceCents":1695},
+        {"id":"momo_miso","name":"Original Roasted Miso Ramen","description":"Roasted miso broth with egg, menma, bean sprouts, onions, green onions, kikurage and choice of chashu.","section":"Original Ramen","priceCents":1895},
+        {"id":"momo_mushroom","name":"Original Mushroom Ramen","description":"Creamy mushroom broth with egg, menma, vegetables, seasonal mushrooms and choice of chashu.","section":"Original Ramen","priceCents":1895},
+        {"id":"momo_black_garlic_shoyu","name":"Black Garlic Shoyu Ramen","description":"Soy sauce broth infused with black garlic.","section":"Black Garlic Ramen","priceCents":1695}
+      ]
+    },
+    {
+      "restaurantId": "rest_diplomat",
+      "name": "Diplomat Restaurant",
+      "sourceUrl": "https://diplomatrestaurant.com/",
+      "fulfillmentMode": "pickup",
+      "items": [
+        {"id":"diplomat_combo_1","name":"Combo #1","description":"Diplomat egg roll, honey garlic ribs, sweet and sour pineapple chicken balls, chicken almond guy ding and chicken fried rice.","section":"Famous Combos","priceCents":2499},
+        {"id":"diplomat_filet_mignon","name":"Filet Mignon","description":"AAA tenderloin served with choice of potato, vegetable and homemade roll.","section":"Mains","priceCents":3399},
+        {"id":"diplomat_chow_mein","name":"Cantonese Chow Mein","description":"Chicken, BBQ pork, shrimp and lobster with Chinese vegetables over fried egg noodles.","section":"Chinese","priceCents":2199},
+        {"id":"diplomat_philly","name":"Philly Steak and Cheese","description":"Prime rib with peppers, onions, mushrooms, BBQ sauce and cheddar; served with fries and coleslaw.","section":"Mains","priceCents":1999},
+        {"id":"diplomat_breakfast","name":"Homestyle Breakfast","description":"Two eggs with bacon, ham or sausage, home fries, baked beans and toast.","section":"Breakfast","priceCents":1699},
+        {"id":"diplomat_singapore_noodles","name":"Curried Singapore Noodles","description":"Shrimp or chicken with vegetables and egg in a curry vermicelli sauce.","section":"Chinese","priceCents":1999},
+        {"id":"diplomat_egg_roll","name":"Diplomat Egg Roll","description":"Pork, chicken, cabbage and spices in a hand-rolled fried egg roll.","section":"Appetizers","priceCents":250},
+        {"id":"diplomat_beef_broccoli","name":"Beef & Broccoli","description":"AAA steak with broccoli and onions in oyster sauce.","section":"Chinese","priceCents":2099}
+      ]
+    },
+    {
+      "restaurantId": "rest_isaacs_way",
+      "name": "Isaac's Way",
+      "sourceUrl": "https://isaacsway.ca/menu/",
+      "fulfillmentMode": "dine_in",
+      "items": [
+        {"id":"isaacs_chickpea_samosas","name":"Chickpea Vegetable Samosas","description":"Cauliflower, sweet potato, chickpeas, onions and spices with dipping sauce.","section":"Appetizers","priceCents":1300},
+        {"id":"isaacs_potato_skins","name":"New Brunswick Potato Skins","description":"Crispy potato skins with sun-dried tomato pesto, spring onions and goat cheese.","section":"Appetizers","priceCents":1300},
+        {"id":"isaacs_seafood_chowder","name":"Seafood Chowder","description":"Salmon, scallops, haddock, mackerel, vegetables and garlic toast.","section":"Appetizers","priceCents":1600},
+        {"id":"isaacs_chickpea_burger","name":"Chickpea Crunch Burger","description":"Battered chickpea patty with lettuce, tomato chow chow and dill pickles.","section":"Day Menu","priceCents":1800},
+        {"id":"isaacs_big_isaac","name":"Big Isaac Burger","description":"Grass-fed beef, Italian sausage, smoked cheddar, crispy onions and hot honey Dijon cabbage.","section":"Day Menu","priceCents":2200},
+        {"id":"isaacs_court_house","name":"Court House Burger","description":"Grass-fed beef, smoked cheddar, tomato chow-chow, lettuce, pickled peppers and spicy aioli.","section":"Day Menu","priceCents":2000},
+        {"id":"isaacs_ribs","name":"Chili Molasses Glazed Ribs","description":"Pork ribs with molasses chili sauce, vegetables and smashed potato.","section":"Evening Menu","priceCents":2500},
+        {"id":"isaacs_stuffed_chicken","name":"Stuffed Chicken with Coconut Curry Risotto","description":"Seasoned chicken breast stuffed with bacon and dates over coconut curry risotto.","section":"Evening Menu","priceCents":2600},
+        {"id":"isaacs_breakfast","name":"The Standard Breakfast","description":"Two eggs, ham or bacon, toast, greens and potato wedges.","section":"Breakfast","priceCents":1600}
+      ]
+    },
+    {
+      "restaurantId": "rest_rocket_burger",
+      "name": "Rocket Burger",
+      "sourceUrl": "https://www.rocketburger.ca/our-menu/",
+      "fulfillmentMode": "pickup",
+      "items": [
+        {"id":"rocket_burger_direct","name":"Rocket Burger","description":"Fresh local beef patty with lettuce, tomato, red onion and Rocket Sauce on a sesame bun.","section":"Featured Burgers"},
+        {"id":"rocket_ballistic","name":"Ballistic Burger","description":"Rocket Burger with slow-smoked pulled pork, caramelized onion and whiskey BBQ sauce.","section":"Featured Burgers"},
+        {"id":"rocket_atlas","name":"Atlas Burger","description":"Double Rocket Burger with caramelized onions, double smoked cheddar and local smoked bacon.","section":"Featured Burgers"},
+        {"id":"rocket_neptune","name":"Neptune Burger","description":"Double burger with bacon, mild blue cheese spread, cucumber and Rocket Sauce.","section":"Featured Burgers"},
+        {"id":"rocket_chicken","name":"Rocket Chicken","description":"Seasoned grilled local chicken breast with lettuce, tomato and Rocket Sauce.","section":"Featured Burgers"},
+        {"id":"rocket_afterburner","name":"The Afterburner Burger","description":"Patty with cheese, jalapeno-chipotle sauce, roasted red peppers and ghost pepper chips.","section":"Featured Burgers"},
+        {"id":"rocket_veggie","name":"Meteor Veggie Burger","description":"Black bean and brown rice patty with lettuce, tomato, onion and Rocket Sauce.","section":"Other Burgers & Sides"},
+        {"id":"rocket_jamaican_chicken","name":"Jamaican Rocket Chicken","description":"Chicken breast with jerk spice, red cabbage slaw and jerk sauce.","section":"Other Burgers & Sides"},
+        {"id":"rocket_mac_cheese","name":"Mac & Cheese","description":"Blend of real cheeses, milk and seasonings.","section":"Other Burgers & Sides"}
+      ]
+    },
+    {
+      "restaurantId": "rest_byblos",
+      "name": "Byblos Restaurant and Bar",
+      "sourceUrl": "https://byblosrestaurant.com/menu/takeout/",
+      "fulfillmentMode": "pickup",
+      "items": [
+        {"id":"byblos_vegetable_soup","name":"Vegetable Soup","description":"Mixed vegetables of the day.","section":"Soups","priceCents":900},
+        {"id":"byblos_grilled_chicken_salad","name":"Grilled Chicken Salad","description":"House salad with grilled chicken and feta cheese.","section":"Salads","priceCents":1800},
+        {"id":"byblos_falafel_sandwich","name":"Falafel Sandwich","description":"Falafel rolled in Lebanese bread with lettuce, tomatoes, hummus and pickles.","section":"Sandwiches","priceCents":1300},
+        {"id":"byblos_falafel","name":"Falafel","description":"Ground chickpeas and fava beans freshly fried to a golden brown.","section":"Appetizers","priceCents":900},
+        {"id":"byblos_hummus","name":"Hommus","description":"Chickpeas blended with tahini, garlic and lemon juice.","section":"Appetizers","priceCents":1000},
+        {"id":"byblos_sampler","name":"Byblos Sampler","description":"Hommus, baba ghannouj, falafel, kibbee, spinach pies, grape leaves, meat pies and cheese rolls.","section":"Appetizers","priceCents":4200},
+        {"id":"byblos_chicken_kabob","name":"Chicken Kabob","description":"Marinated chicken breast charbroiled and served with rice or steak fries and hummus.","section":"Charcoal Grill","priceCents":2800},
+        {"id":"byblos_shawarma","name":"Shawarma","description":"Beef shawarma with onions, tomatoes, parsley, sumac, pickles and tahini sauce.","section":"Specialties","priceCents":2900},
+        {"id":"byblos_family_platter_1","name":"Byblos Family Platter #1","description":"Family platter for two with hummus, tabouli, chicken kabob, beef kabob, kibbee layers, grape leaves, vegetables and rice or fries.","section":"Family Platters","priceCents":7600}
+      ]
+    },
+    {
+      "restaurantId": "rest_dimitris",
+      "name": "Dimitri's Souvlaki Restaurant",
+      "sourceUrl": "https://www.orderdimitris.ca/online-ordering",
+      "fulfillmentMode": "pickup",
+      "items": [
+        {"id":"dimitris_sandori_prawns","name":"Sandori Prawns","description":"Served with pita or garlic bread.","section":"Appetizers","priceCents":1495},
+        {"id":"dimitris_saganaki","name":"Saganaki","description":"Served with pita or garlic bread.","section":"Appetizers","priceCents":1395},
+        {"id":"dimitris_wings","name":"Breaded Deep Fried Wings","description":"Choice of BBQ, honey garlic or hot sauce.","section":"Appetizers","priceCents":1499},
+        {"id":"dimitris_chicken_pita","name":"Chicken Pita","description":"Tomato, onions and choice of tzatziki or sweet sauce.","section":"Specialty Pitas","priceCents":1095},
+        {"id":"dimitris_chicken_souvlaki","name":"Chicken Souvlaki Plate","description":"Served with deluxe Greek salad, tzatziki, choice of rice, fries or Greek potatoes and pita or garlic bread.","section":"Dinner Plates","priceCents":2099},
+        {"id":"dimitris_combo_plate","name":"Combo Plate","description":"Pork souvlaki and donair meat with Greek sides.","section":"Dinner Plates","priceCents":2099},
+        {"id":"dimitris_moussaka","name":"Moussaka","description":"Greek specialty served with deluxe Greek salad and pita or garlic bread.","section":"Chef's Specialties","priceCents":2099},
+        {"id":"dimitris_fettuccine_alfredo","name":"Fettuccine Alfredo","description":"Served with pita or garlic bread.","section":"Italian Cuisine","priceCents":1999},
+        {"id":"dimitris_bbq_half_chicken","name":"BBQ Half Chicken","description":"Served with salad, gravy and choice of rice, fries or Greek potatoes.","section":"BBQ Chicken","priceCents":1925}
+      ]
+    },
+    {
+      "restaurantId": "rest_squeeze",
+      "name": "The Squeeze",
+      "sourceUrl": "https://www.thesqueeze.ca/menu/",
+      "fulfillmentMode": "pickup",
+      "items": [
+        {"id":"squeeze_cobbs_your_uncle","name":"Cobb's Your Uncle","description":"Greens, tomatoes, buffalo chickpeas, fried egg, bacon, avocado, onions, cheese and maple dijon dressing.","section":"Salads","priceCents":1700},
+        {"id":"squeeze_roasted_root","name":"Roasted Root","description":"Quinoa, greens, roasted root vegetables, walnuts, goat cheese, pickled onions and sweet onion dressing.","section":"Salads","priceCents":1700},
+        {"id":"squeeze_crunchy_thai_peanut","name":"Crunchy Thai Peanut","description":"Greens, red cabbage, edamame, bean sprouts, carrots, peanuts, crunchy rice noodles, green onions and tamari peanut dressing.","section":"Salads","priceCents":1700},
+        {"id":"squeeze_spicy_kale_caesar","name":"Spicy Kale Caesar","description":"Kale, bacon, parmesan, buffalo chickpeas, gluten-free croutons and caesar dressing.","section":"Salads","priceCents":1700},
+        {"id":"squeeze_chicken_salad_sandwich","name":"Chicken Salad Sandwich","description":"Chicken, spicy buffalo chickpeas, celery, pickled onion and mayo.","section":"Sandwiches","priceCents":1300},
+        {"id":"squeeze_brisket_sandwich","name":"Brisket Sandwich","description":"Brisket, Havarti, spinach, tomato, pickled onion and Dijon aioli.","section":"Sandwiches","priceCents":1300},
+        {"id":"squeeze_classic_grilled_cheese","name":"Classic Grilled Cheese","description":"Golden, gooey grilled cheese on sourdough.","section":"Sandwiches","priceCents":800},
+        {"id":"squeeze_breakfast_bagel","name":"Breakfast Bagel","description":"Choice of cream cheese, margarine, peanut butter or Scottage cheese.","section":"Breakfast","priceCents":400},
+        {"id":"squeeze_classic_breakfast_burrito","name":"Classic Breakfast Burrito","description":"Eggs, beans, salsa, rice, guacamole, greens and cheese; choice of bacon, brisket or sausage.","section":"Breakfast","priceCents":1300},
+        {"id":"squeeze_vegan_breakfast_burrito","name":"Vegan Breakfast Burrito","description":"Tofu, black beans, salsa, rice, guacamole, greens and Scottage cheese.","section":"Breakfast","priceCents":1300},
+        {"id":"squeeze_strawberry_banana_smoothie","name":"Play Smoothie","description":"Strawberry and banana smoothie.","section":"Smoothies","priceCents":850},
+        {"id":"squeeze_mango_tango_smoothie","name":"Mango Tango Smoothie","description":"Mango, peaches, pineapple and green tea smoothie.","section":"Smoothies","priceCents":850},
+        {"id":"squeeze_restore_smoothie","name":"Restore Smoothie","description":"Pineapple, ginger and turmeric smoothie.","section":"Smoothies","priceCents":850},
+        {"id":"squeeze_americano","name":"Americano","description":"Espresso and hot water.","section":"Coffee & Tea","priceCents":400},
+        {"id":"squeeze_latte","name":"Latte","description":"Espresso with steamed milk.","section":"Coffee & Tea","priceCents":500}
+      ]
+    },
+    {
+      "restaurantId": "rest_caribbean_flavas",
+      "name": "Caribbean Flavas Restaurant & Catering",
+      "sourceUrl": "https://www.caribbeanflavas.ca/menu",
+      "fulfillmentMode": "pickup",
+      "items": [
+        {"id":"caribbean_flavas_fruit_iced_tea","name":"Mama's Caribbean Fruit Iced Tea","description":"Signature Caribbean fruit iced tea.","section":"Cold Drinks","priceCents":525},
+        {"id":"caribbean_flavas_island_soda","name":"Island Flava Soda","description":"Flavoured fizzy soft drink from Trinidad and Tobago, subject to availability.","section":"Cold Drinks","priceCents":525},
+        {"id":"caribbean_flavas_hot_cocoa","name":"Hot Caribbean Cocoa","description":"Classic hot cocoa with a Caribbean twist.","section":"Hot Drinks","priceCents":525},
+        {"id":"caribbean_flavas_shark_bake","name":"Shark on a Bake","description":"Panko and Cajun-spiced breaded haddock with house garlic sauce on fried bake, served with potato wedges.","section":"Entrees","priceCents":1899},
+        {"id":"caribbean_flavas_curry","name":"Flavas Curry","description":"Chicken drumsticks simmered in coconut curry and tamarind sauce, with chickpeas, potatoes and basmati rice or roti naan.","section":"Entrees","priceCents":2799},
+        {"id":"caribbean_flavas_jerk_chicken","name":"Jamaican Jerk Chicken","description":"Jerk-seasoned leg quarter with rice and beans, mac and cheese and plantains.","section":"Entrees","priceCents":2799},
+        {"id":"caribbean_flavas_beef_short_rib","name":"Maple Guava Beef Short Rib","description":"Slow-cooked Atlantic beef short rib with maple guava and jerk spices, served with garlic coconut mashed potatoes.","section":"Entrees","priceCents":3799},
+        {"id":"caribbean_flavas_lamb_shank","name":"Curry Lamb Shank","description":"Slow-cooked lamb shank in coconut curry with chickpeas and potatoes, served with basmati rice or roti naan.","section":"Entrees","priceCents":3799},
+        {"id":"caribbean_flavas_fried_chicken","name":"Southern Fried Chicken","description":"Southern fried chicken served with potato wedges.","section":"Little Bites","priceCents":1799},
+        {"id":"caribbean_flavas_bbq_jerk_half_chicken","name":"BBQ Jerk Half Chicken","description":"Half chicken seasoned with BBQ and jerk spices, corn rice, apple coleslaw and two pops.","section":"Combo Meals","priceCents":5460},
+        {"id":"caribbean_flavas_cajun_fried_chicken","name":"Cajun Southern Fried Chicken Combo","description":"Cajun fried chicken with corn rice, mashed potatoes and Cajun dipping sauce.","section":"Combo Meals","priceCents":4760}
+      ]
+    },
+    {
+      "restaurantId": "rest_540_kitchen",
+      "name": "540 Kitchen & Bar",
+      "sourceUrl": "https://www.540kitchenandbar.com/menu-south",
+      "fulfillmentMode": "dine_in",
+      "items": [
+        {"id":"540_steak_salad","name":"Steak Salad","description":"Mixed greens, charred jalapeno vinaigrette, sweet spiced corn, smoked cheddar and roasted red peppers.","section":"Lunch","priceCents":2400},
+        {"id":"540_caesar_salad","name":"Caesar Salad","description":"Baby romaine, toasted focaccia, lardons and parmesan.","section":"Lunch","priceCents":1800},
+        {"id":"540_chicken_wings","name":"Chicken Wings","description":"Wings with choice of sriracha lime, yuzu BBQ or garlic parmesan.","section":"Lunch","priceCents":1900},
+        {"id":"540_burrata","name":"Burrata","description":"Orange fennel marinated olives, pickled rhubarb, fig balsamic and sourdough.","section":"Lunch","priceCents":2400},
+        {"id":"540_burger","name":"540 Burger","description":"Local dry-aged beef, cheese, lettuce, onion, tomato and 540 sauce.","section":"Lunch","priceCents":2100},
+        {"id":"540_fish_tacos","name":"Fish Tacos","description":"Battered haddock, mango corn salsa, avocado chipotle crema and shredded lettuce.","section":"Lunch","priceCents":2100},
+        {"id":"540_mac_cheese","name":"Mac & Cheese","description":"White cheddar and parmesan mornay sauce with toasted breadcrumb.","section":"Dinner","priceCents":2000},
+        {"id":"540_green_thai_curry","name":"Green Thai Curry","description":"Edamame, chickpeas, bok choy, bell peppers, basmati and cilantro.","section":"Dinner","priceCents":2400},
+        {"id":"540_steak_frites","name":"Steak Frites","description":"7 oz bistro filet, frites, broccolini and gremolata.","section":"Dinner","priceCents":3900},
+        {"id":"540_salmon","name":"Salmon","description":"Ajo blanco, corn and fennel fritters and Swiss chard.","section":"Dinner","priceCents":3600},
+        {"id":"540_brownie","name":"Brownie","description":"Brownie with vanilla ice cream and chocolate sauce.","section":"Sweets","priceCents":1200}
+      ]
+    },
+    {
+      "restaurantId": "rest_thai_manao",
+      "name": "Thai Manao - Trinity",
+      "sourceUrl": "https://order.online/en-US/store/thai-manao-fredericton-757986",
+      "fulfillmentMode": "pickup",
+      "items": [
+        {"id":"thai_manao_general_tao","name":"General Tao Chicken","description":"Crispy chicken in General Tao sauce.","section":"Featured Items","priceCents":1715},
+        {"id":"thai_manao_teriyaki_fried_rice","name":"Teriyaki Chicken Fried Rice","description":"Chicken fried rice with teriyaki seasoning.","section":"Featured Items","priceCents":1620},
+        {"id":"thai_manao_pad_thai","name":"Phai Thai Noodle","description":"Thai-style rice noodles with stir-fried vegetables and sauce.","section":"Noodle Dishes","priceCents":1715},
+        {"id":"thai_manao_udon","name":"Udon","description":"Stir-fried udon noodles.","section":"Noodle Dishes","priceCents":1715},
+        {"id":"thai_manao_crispy_pepper_chicken","name":"Crispy Pepper Chicken","description":"Crispy chicken with pepper seasoning.","section":"Featured Items","priceCents":2480},
+        {"id":"thai_manao_pot_sticker","name":"Pot Sticker","description":"Chicken pot stickers.","section":"Appetizer","priceCents":1285},
+        {"id":"thai_manao_katsu_curry","name":"Katsu W/Curry Chicken","description":"Chicken katsu with Japanese curry.","section":"Featured Items","priceCents":1905}
+      ]
+    }
+  ]
+}
