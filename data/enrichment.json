@@ -1,0 +1,1045 @@
+{
+  "collectedAt": "2026-09-27T03:42:29.177733+00:00",
+  "merchants": [
+    {
+      "match": "Taco Boyz",
+      "sourceUrl": "https://www.tacoboyz.com/order-online/",
+      "orderUrl": "https://www.tacoboyz.com/order-online/",
+      "note": "Choose the Smythe Street location. Confirm delivery availability and prices on the restaurant website."
+    },
+    {
+      "match": "McDonald",
+      "sourceUrl": "https://www4.mcdonalds.ca/mcdeliveryinthemcdapp/",
+      "orderUrl": "https://www4.mcdonalds.ca/mcdeliveryinthemcdapp/",
+      "note": "McDelivery in the McDonald\u2019s app. Select this restaurant and your address to see prices and available offers."
+    },
+    {
+      "match": "Osmow",
+      "sourceUrl": "https://osmows.com/",
+      "orderUrl": "https://osmows.order.online/business/-30028",
+      "note": "Restaurant ordering powered by DoorDash. Choose 1180 Smythe Street; confirm fulfillment and prices."
+    },
+    {
+      "match": "Wendy",
+      "sourceUrl": "https://www.wendys.com/en-ca",
+      "orderUrl": "https://order.wendys.com/ca/en/select-restaurant",
+      "note": "Select the matching Fredericton branch. Prices, offers and delivery availability depend on your selection."
+    },
+    {
+      "match": "Montana",
+      "sourceUrl": "https://www.montanas.ca/en/faq.html",
+      "orderUrl": "https://order.montanas.ca/",
+      "note": "Restaurant takeout ordering. Select 6 Trinity Avenue; delivery availability must be checked separately."
+    },
+    {
+      "match": "Harvey",
+      "sourceUrl": "https://www.harveys.ca/en/downloadtheapp.html",
+      "orderUrl": "https://www.harveys.ca/en/downloadtheapp.html",
+      "note": "Harvey\u2019s own ordering app. Select 460 Regent Street and confirm delivery prices; some coupons are pickup only."
+    },
+    {
+      "match": "Swiss Chalet",
+      "sourceUrl": "https://www.swisschalet.com/en/mobileapp.html",
+      "orderUrl": "https://order.swisschalet.com/",
+      "note": "Restaurant delivery and pickup ordering. Select 961 Prospect Street; confirm options and delivery charges."
+    },
+    {
+      "match": "KFC",
+      "sourceUrl": "https://www.kfc.ca/",
+      "orderUrl": "https://www.kfc.ca/",
+      "note": "KFC\u2019s own ordering website and app. Select 1165 Prospect Street, then pickup or delivery, to see local prices and rewards."
+    }
+  ],
+  "promotions": [
+    {
+      "id": "uber-first-30",
+      "providerId": "prov_ubereats",
+      "title": "$30 off a first order",
+      "sourceUrl": "https://www.uber.com/ca/en/blog/can-promo-cards/",
+      "terms": "New Uber Eats users in Canada; $40 minimum before tax and fees. Apply FIRSTEATS30 or PREMIEREATS30 in the app. Cannot combine; exclusions and other charges apply.",
+      "expiresOn": "2026-12-31",
+      "code": "FIRSTEATS30",
+      "restaurantNameContains": "",
+      "minimumCents": 4000,
+      "country": "CA",
+      "eligibility": "confirm_in_provider",
+      "reviewedAt": "2026-09-27T03:32:38.164080+00:00",
+      "verifiedAt": "2026-09-27T03:42:29.177733+00:00",
+      "needsReview": false
+    },
+    {
+      "id": "dd-first-40",
+      "providerId": "prov_doordash",
+      "title": "40% off a first order, up to $13",
+      "sourceUrl": "https://help.doordash.com/en-ca/consumers/article/can-new-cx-40-off",
+      "terms": "New eligible accounts within 45 days of signup; $15 minimum before tax and fees. Delivery only, one use, excludes alcohol. Includes a delivery-fee waiver; service fees and tax still apply. Must appear in your account.",
+      "expiresOn": "2026-12-31",
+      "code": "",
+      "restaurantNameContains": "",
+      "minimumCents": 1500,
+      "country": "CA",
+      "eligibility": "confirm_in_provider",
+      "reviewedAt": "2026-09-27T03:32:38.164080+00:00",
+      "verifiedAt": "2026-09-27T03:42:29.177733+00:00",
+      "needsReview": false
+    },
+    {
+      "id": "dd-targeted-25",
+      "providerId": "prov_doordash",
+      "title": "25% off up to four orders, capped at $8 each",
+      "sourceUrl": "https://help.doordash.com/en-ca/consumers/article/evergreen-25tastyca-terms-and-conditions",
+      "terms": "Only customers sent this offer directly by DoorDash. $15 minimum; enter 25TASTYCA. Fees, tax and tips remain payable. Check the offer\u2019s availability and expiry in your account.",
+      "expiresOn": null,
+      "code": "25TASTYCA",
+      "restaurantNameContains": "",
+      "minimumCents": 1500,
+      "country": "CA",
+      "eligibility": "confirm_in_provider",
+      "reviewedAt": "2026-09-27T03:32:38.164080+00:00",
+      "verifiedAt": "2026-09-27T03:42:29.177733+00:00",
+      "needsReview": false
+    },
+    {
+      "id": "dd-wendy-bogo",
+      "providerId": "prov_doordash",
+      "title": "Buy one eligible chicken sandwich, get one free",
+      "sourceUrl": "https://help.doordash.com/en-ca/consumers/article/doordash-wendys-promo-september-2026",
+      "terms": "Participating Wendy\u2019s locations only. Add two Classic or Spicy Chicken Sandwiches marked eligible in DoorDash. One pair per order; base item price only, while supplies last. Cannot combine; fees and taxes remain.",
+      "expiresOn": "2026-09-27",
+      "code": "",
+      "restaurantNameContains": "Wendy",
+      "minimumCents": 0,
+      "country": "CA",
+      "eligibility": "confirm_in_provider",
+      "reviewedAt": "2026-09-27T03:32:38.164080+00:00",
+      "verifiedAt": "2026-09-27T03:42:29.177733+00:00",
+      "needsReview": false
+    },
+    {
+      "id": "skip-cibc-welcome",
+      "providerId": "prov_skip",
+      "title": "$20 welcome voucher on a $40 order",
+      "sourceUrl": "https://www.skipthedishes.com/rewards/skipplus?appRender=true",
+      "terms": "Link an eligible CIBC card to Skip+. The welcome voucher appears in My Skip within 24 hours; $40 minimum before taxes, fees and tips. Requires the voucher in your account.",
+      "expiresOn": null,
+      "code": "",
+      "restaurantNameContains": "",
+      "minimumCents": 4000,
+      "country": "CA",
+      "eligibility": "confirm_in_provider",
+      "reviewedAt": "2026-09-27T03:32:38.164080+00:00",
+      "verifiedAt": "2026-09-27T03:32:38.164080+00:00",
+      "needsReview": false
+    },
+    {
+      "id": "skip-plus-delivery",
+      "providerId": "prov_skip",
+      "title": "Skip+ delivery and service-fee benefits",
+      "sourceUrl": "https://www.skipthedishes.com/rewards/skipplus?appRender=true",
+      "terms": "Requires Skip+ membership and a participating order. Delivery-fee waivers and lower service fees depend on eligibility. Paid membership is $9.99/month plus tax; trial eligibility varies. Confirm checkout fees.",
+      "expiresOn": null,
+      "code": "",
+      "restaurantNameContains": "",
+      "minimumCents": 0,
+      "country": "CA",
+      "eligibility": "confirm_in_provider",
+      "reviewedAt": "2026-09-27T03:32:38.164080+00:00",
+      "verifiedAt": "2026-09-27T03:32:38.164080+00:00",
+      "needsReview": false
+    },
+    {
+      "providerId": "prov_direct",
+      "expiresOn": null,
+      "code": "3BURGER",
+      "minimumCents": 0,
+      "country": "CA",
+      "eligibility": "confirm_in_provider",
+      "reviewedAt": "2026-09-27T03:39:28.615846+00:00",
+      "id": "harvey-first-burger",
+      "title": "Pickup only: first Original or Veggie burger for $3",
+      "sourceUrl": "https://www.harveys.ca/en/downloadtheapp.html",
+      "terms": "First order through the Harvey\u2019s app with an account. Apply 3BURGER in the Coupons tab. Excludes delivery; taxes, cheese and bacon cost extra. Limited-time offer; cannot combine with other offers.",
+      "restaurantNameContains": "Harvey",
+      "verifiedAt": "2026-09-27T03:39:28.615846+00:00",
+      "needsReview": false
+    },
+    {
+      "providerId": "prov_direct",
+      "expiresOn": "2026-12-31",
+      "code": "",
+      "minimumCents": 4000,
+      "country": "CA",
+      "eligibility": "confirm_in_provider",
+      "reviewedAt": "2026-09-27T03:39:28.615846+00:00",
+      "id": "swiss-first-five",
+      "title": "$5 off a first restaurant-app order of $40+",
+      "sourceUrl": "https://www.swisschalet.com/en/mobileapp.html",
+      "terms": "Download the Swiss Chalet app and activate the coupon. One use at participating locations for web/app pickup or delivery. $40 minimum excludes tax, tips, alcohol, delivery fees and gift cards. Delivery charges remain; cannot combine.",
+      "restaurantNameContains": "Swiss Chalet",
+      "verifiedAt": "2026-09-27T03:39:28.615846+00:00",
+      "needsReview": false
+    }
+  ],
+  "directMenus": [
+    {
+      "id": "catalog-direct-luna-king",
+      "name": "Luna Pizza (379 King Street)",
+      "address": "379 King Street, Fredericton, NB",
+      "sourceUrl": "https://www.lunapizza.ca/order-online",
+      "requiredAddress": "379 King Street",
+      "parser": "wix",
+      "fulfillmentMode": "pickup",
+      "branchStatus": "separate_unmatched_branch",
+      "items": [
+        {
+          "name": "Mozarella Sticks",
+          "description": "",
+          "amountCents": 895,
+          "imageUrl": "https://static.wixstatic.com/media/f21ad0_75327b33aac14bdcb0cf421630afc773~mv2.jpg",
+          "section": "Appetizers",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Garlic Bread",
+          "description": "Add Cheese +$1.00",
+          "amountCents": 495,
+          "imageUrl": "https://static.wixstatic.com/media/f21ad0_461fbe7a76994dccb5c647b3d1e86a26~mv2.jpg",
+          "section": "Appetizers",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Onion Rings",
+          "description": "",
+          "amountCents": 595,
+          "imageUrl": "https://static.wixstatic.com/media/f21ad0_7bd9e70f3b4d49f5a9741c5cc7ab92f1~mv2.jpg",
+          "section": "Appetizers",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Chicken Wings",
+          "description": "Your choice of medium, hot, honey garlic or BBQ",
+          "amountCents": 1295,
+          "imageUrl": "https://static.wixstatic.com/media/f21ad0_e9b3df0046d445ebabc2422c499650f9~mv2.jpg",
+          "section": "Appetizers",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Donnair Egg Rolls",
+          "description": "3 crispy wontons stuffed with donair meat and mozzarella",
+          "amountCents": 995,
+          "imageUrl": "https://static.wixstatic.com/media/f21ad0_4c9578edd4f740538e537a77b044218e~mv2.jpg",
+          "section": "Appetizers",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Tzatziki & Pita",
+          "description": "Our homemade tzatziki sauce served with 2 pitas",
+          "amountCents": 795,
+          "imageUrl": "https://static.wixstatic.com/media/f21ad0_72e20773117c46a498ed4cc7343c4c3a~mv2.jpg",
+          "section": "Appetizers",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Stuffed Mushroom Caps",
+          "description": "Escargot stuffed mushrooms broiled with garlic butter and mozzarella & served with garlic bread",
+          "amountCents": 1195,
+          "imageUrl": "",
+          "section": "Appetizers",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Shrimpcargot",
+          "description": "Tender shrimp sauteed in garlic butter, topped with mozzarella & served with garlic bread",
+          "amountCents": 1495,
+          "imageUrl": "",
+          "section": "Appetizers",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "French Fries",
+          "description": "",
+          "amountCents": 695,
+          "imageUrl": "https://static.wixstatic.com/media/f21ad0_2f5f334050314498aa49f522b77ca5eb~mv2.jpg",
+          "section": "Appetizers",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Poutine",
+          "description": "",
+          "amountCents": 795,
+          "imageUrl": "",
+          "section": "Appetizers",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Pepsi",
+          "description": "",
+          "amountCents": 195,
+          "imageUrl": "",
+          "section": "Drinks",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Diet Pepsi",
+          "description": "",
+          "amountCents": 195,
+          "imageUrl": "",
+          "section": "Drinks",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Mug Root Beer",
+          "description": "",
+          "amountCents": 195,
+          "imageUrl": "",
+          "section": "Drinks",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Orange Crush",
+          "description": "",
+          "amountCents": 195,
+          "imageUrl": "",
+          "section": "Drinks",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "7up",
+          "description": "",
+          "amountCents": 195,
+          "imageUrl": "",
+          "section": "Drinks",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "7up Zero",
+          "description": "",
+          "amountCents": null,
+          "imageUrl": "",
+          "section": "Drinks",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Aquafina Water",
+          "description": "",
+          "amountCents": 285,
+          "imageUrl": "",
+          "section": "Drinks",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Brisk Iced Tea (Can)",
+          "description": "",
+          "amountCents": 195,
+          "imageUrl": "",
+          "section": "Drinks",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Brio Italian Soda",
+          "description": "",
+          "amountCents": 195,
+          "imageUrl": "",
+          "section": "Drinks",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Caesar Salad",
+          "description": "Our famous Caesar Salad with crisp romaine lettuce, croutons, bacon bits and fresh garlic, lightly tossed in our signature creamy dressing. Topped with grana padano.",
+          "amountCents": 999,
+          "imageUrl": "https://static.wixstatic.com/media/f21ad0_3f0027a854444222913b638a7d4136ac~mv2.jpg",
+          "section": "Salads",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Greek Salad",
+          "description": "Iceberg lettuce, tomato, cucumber, red and green peppers, red onion, black olives & feta cheese. Served with house made Greek dressing.",
+          "amountCents": 999,
+          "imageUrl": "https://static.wixstatic.com/media/f21ad0_8d0b931af13f4dae87148cd6febbdbc4~mv2.jpg",
+          "section": "Salads",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Traditional Greek Salad",
+          "description": "Shredded romaine lettuce, tomato, cucumber, red and green peppers, red onion, black olives & feta cheese. Served with house made Greek dressing",
+          "amountCents": 899,
+          "imageUrl": "",
+          "section": "Salads",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Garden Salad",
+          "description": "Iceberg lettuce, red onion, red and green peppers, cucumbers, and tomatoes. Served with ranch, Italian, or Greek dressing.",
+          "amountCents": 899,
+          "imageUrl": "",
+          "section": "Salads",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Spaghetti",
+          "description": "A timeless classic, embodying the essence of Italian comfort food. Perfect for any occasion",
+          "amountCents": 1299,
+          "imageUrl": "https://static.wixstatic.com/media/f21ad0_e753b6bccace4cf293094fe56883b4ae~mv2.jpg",
+          "section": "Italian Cuisine",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Lasagna",
+          "description": "Layers of tender pasta sheets interspersed with a rich sauce, all baked to perfection.",
+          "amountCents": 1449,
+          "imageUrl": "https://static.wixstatic.com/media/f21ad0_0baad64830364d9897abd8f2613dd32d~mv2.jpg",
+          "section": "Italian Cuisine",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Ravioli",
+          "description": "Delicious pockets, combining aromatic filling and tender pasta.",
+          "amountCents": 1549,
+          "imageUrl": "",
+          "section": "Italian Cuisine",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Rigatoni",
+          "description": "Hearty rigatoni pasta tubes, originating from the heart of Italy",
+          "amountCents": 1449,
+          "imageUrl": "https://static.wixstatic.com/media/f21ad0_146a7c13f68d4fbc8922dc97659ca654~mv2.jpg",
+          "section": "Italian Cuisine",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Tortellini",
+          "description": "Delicate, ring-shaped pasta filled with a blend of tender meats and cheeses.",
+          "amountCents": 1549,
+          "imageUrl": "",
+          "section": "Italian Cuisine",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Fettuccine Alfredo",
+          "description": "Fettuccine noodles tossed with a rich, creamy alfredo sauce. Served with garlic bread.",
+          "amountCents": 1799,
+          "imageUrl": "",
+          "section": "Italian Cuisine",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Chicken Parmesan",
+          "description": "Breaded chicken breast topped with marinara sauce, grana padano and mozzarella. Served with spaghetti and garlic bread",
+          "amountCents": 1999,
+          "imageUrl": "",
+          "section": "Italian Cuisine",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Stuffed Manicotti",
+          "description": "Manicotti shells filled with mozzarella, ricotta and romano cheese. Topped with your choice of meat or marinara sauce. Served with garlic bread.",
+          "amountCents": 1599,
+          "imageUrl": "",
+          "section": "Italian Cuisine",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Cajun Chicken Penne",
+          "description": "Red and green peppers, chili garlic cream sauce. Mild, medium or hot. Served with garlic bread.",
+          "amountCents": 1999,
+          "imageUrl": "",
+          "section": "Italian Cuisine",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Veggie Pita",
+          "description": "Fries, tzatziki, feta cheese, lettuce, red onion, green pepper, tomato.",
+          "amountCents": 899,
+          "imageUrl": "https://static.wixstatic.com/media/f21ad0_36ab66115a494b4584abd1b0ec136fd1~mv2.jpg",
+          "section": "Pita Wraps",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Donair Pita",
+          "description": "Donair meat, lettuce, onion, tomato and donair sauce. Wrapped in a warm pita",
+          "amountCents": 899,
+          "imageUrl": "",
+          "section": "Pita Wraps",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Chicken Pita",
+          "description": "Grilled chicken with lettuce, tomato, onion and tzatziki",
+          "amountCents": 1099,
+          "imageUrl": "https://static.wixstatic.com/media/f21ad0_3405464da2b845e68b000168719a1a49~mv2.jpg",
+          "section": "Pita Wraps",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Chicken Caesar Wrap",
+          "description": "Grilled chicken, romaine, bacon bits, garlic and caesar dressing. Add your gavourite salad, fries, rice or Italian potatoes to an wrap or pita for $4.00.",
+          "amountCents": 1099,
+          "imageUrl": "https://static.wixstatic.com/media/f21ad0_e4f69571aabf471dab8fb7d2aadf05b9~mv2.jpg",
+          "section": "Pita Wraps",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Mediterranean Bowl",
+          "description": "Start with a base of fries or rice, topped with your favourite Greek salad toppings. Served with pita and tzatziki.",
+          "amountCents": 1199,
+          "imageUrl": "",
+          "section": "Platters",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Caesar Chicken",
+          "description": "Our famous caesar salad topped with grilled chicken breast. Served with garlic bread.",
+          "amountCents": 1699,
+          "imageUrl": "",
+          "section": "Platters",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Souvlaki Plate",
+          "description": "Marinated skewers of chicken and pork served with pita bread and tzatziki. Choose a garden, Greek, or caesar salad and fries, rice or Italian potatoes",
+          "amountCents": 1899,
+          "imageUrl": "",
+          "section": "Platters",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Mediterranean Plate",
+          "description": "Skewers of lamb and chicken, donair meat, pita and tzatziki. Choice of garden, Greek, or caesar salad and fries, rice or Italian potatoes.",
+          "amountCents": 2395,
+          "imageUrl": "",
+          "section": "Platters",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Garlic Cheese Fingers",
+          "description": "House-made dough smothered with garlic butter and topped with mozzarella.",
+          "amountCents": 849,
+          "imageUrl": "",
+          "section": "Pizzas",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Cheese Pizza",
+          "description": "Standard cheese pizza!",
+          "amountCents": 1099,
+          "imageUrl": "",
+          "section": "Pizzas",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "4-Cheese Pizza",
+          "description": "Cheese it up!!",
+          "amountCents": 1549,
+          "imageUrl": "",
+          "section": "Pizzas",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "The Works",
+          "description": "Pepperoni, mushroom, green pepper, ground beef, bacon, mozzarella.",
+          "amountCents": 1599,
+          "imageUrl": "",
+          "section": "Pizzas",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Hawaiian",
+          "description": "Ham, pineapple, bacon, mozzarella.",
+          "amountCents": 1599,
+          "imageUrl": "",
+          "section": "Pizzas",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Italian",
+          "description": "Capicoli, Italian sausage, dry cured pepperoni, mozzarella.",
+          "amountCents": 1599,
+          "imageUrl": "",
+          "section": "Pizzas",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Vegetarian",
+          "description": "Tomato, green pepper, onion, mushroom, green olive, pineapple, mozzarella.",
+          "amountCents": 1599,
+          "imageUrl": "",
+          "section": "Pizzas",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Donair",
+          "description": "Donair meat, tomatoes, red onions, mozzarella, donair sauce.",
+          "amountCents": 1599,
+          "imageUrl": "",
+          "section": "Pizzas",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Creta",
+          "description": "Artichoke hearts, red onion, black olive, mozzarella, feta.",
+          "amountCents": 1599,
+          "imageUrl": "",
+          "section": "Pizzas",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Margherita",
+          "description": "Extra virgin olive oil, tomato, red onion, fresh basil, mozzarella, donair sauce.",
+          "amountCents": 1599,
+          "imageUrl": "",
+          "section": "Pizzas",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Sicilian",
+          "description": "Roma pepperoni, dry cured pepperoni, mozzarella, cheddar, chili flakes.",
+          "amountCents": 1599,
+          "imageUrl": "",
+          "section": "Pizzas",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Greek Deluxe",
+          "description": "Black olive, spinach, red onion, feta, mozzarella.",
+          "amountCents": 1599,
+          "imageUrl": "",
+          "section": "Pizzas",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "All Meat",
+          "description": "Italian sausage, pepperoni, salami, bacon, ham, ground beef, mozzarella.",
+          "amountCents": 1699,
+          "imageUrl": "",
+          "section": "Pizzas",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Californian",
+          "description": "Red peppers, sundried tomato, red onion, chicken, mozzarella, feta.",
+          "amountCents": 1699,
+          "imageUrl": "",
+          "section": "Pizzas",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "BBQ Chicken",
+          "description": "Tangy bbq sauce, mushroom, green pepper, onion, chicken, mozzarella.",
+          "amountCents": 1699,
+          "imageUrl": "",
+          "section": "Pizzas",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Luna Special",
+          "description": "Pepperoni, salami, mushroom, green pepper, onion, ground beef, bacon, green olive, ham, pineapple, hot pepper.",
+          "amountCents": 1699,
+          "imageUrl": "",
+          "section": "Pizzas",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Small Pizza (9 Inches)",
+          "description": "",
+          "amountCents": 1099,
+          "imageUrl": "",
+          "section": "Build Your Own Pizza",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Medium Pizza (12 Inches)",
+          "description": "",
+          "amountCents": 1799,
+          "imageUrl": "",
+          "section": "Build Your Own Pizza",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Large Pizza (15 Inches)",
+          "description": "",
+          "amountCents": 2249,
+          "imageUrl": "",
+          "section": "Build Your Own Pizza",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Extra-Large Pizza (18 Inches)",
+          "description": "",
+          "amountCents": 2649,
+          "imageUrl": "",
+          "section": "Build Your Own Pizza",
+          "fulfillmentMode": "pickup"
+        },
+        {
+          "name": "Jumbo Pizza (21 Inches)",
+          "description": "",
+          "amountCents": 3199,
+          "imageUrl": "",
+          "section": "Build Your Own Pizza",
+          "fulfillmentMode": "pickup"
+        }
+      ],
+      "collectedAt": "2026-09-27T03:42:29.177733+00:00"
+    }
+  ],
+  "sources": {
+    "https://help.doordash.com/en-ca/consumers/article/can-new-cx-40-off": {
+      "status": "cached",
+      "textHash": "977cc0923194ea8573724480c6b5fd371695dfb109033da19ab47c436a30ac56",
+      "discoveredLinks": [
+        "https://apps.apple.com/ca/app/doordash-food-delivery/id719972451",
+        "https://doordash.com/orders/help?chat=true",
+        "https://help.doordash.com/en-ca/consumers/article/doordash-pick-your-team-promotion-us-official-rules",
+        "https://help.doordash.com/en-ca/consumers/article/doordash-starbucks-sxgy-promo-september-2026",
+        "https://help.doordash.com/en-ca/consumers/article/doordash-wendys-promo-september-2026",
+        "https://help.doordash.com/en-ca/consumers/category/alcohol-orders",
+        "https://help.doordash.com/en-ca/consumers/category/promotions",
+        "https://help.doordash.com/en-ca/consumers/category/your-doordash-order",
+        "https://help.doordash.com/en-ca/legal/article/cx-promo-and-credits-terms",
+        "https://play.google.com/store/apps/details?id=com.dd.doordash&hl=en",
+        "https://www.doordash.com/orders/",
+        "https://www.doordash.com/orders/help/"
+      ],
+      "promotionCandidates": [
+        "CAN New Cx 40% Off | Customer Support | DoorDash Help Center for Customers Categories I'm looking for other Support EN-CA English (US) Espa\u00f1ol (US) English (CA) Fran\u00e7ais (CA) Eng",
+        "port Merchant Support Business Support Ads Support \u2022\u2022\u2022 / CAN New Cx 40% Off DoorDash Help Center / Customer Support / Promotions / CAN New Cx 40% Off CAN New Cx 40% Off 1 min read Get 40% off your first order $15+ and $0 delivery fee ("
+      ]
+    },
+    "https://help.doordash.com/en-ca/consumers/article/doordash-wendys-promo-september-2026": {
+      "status": "cached",
+      "textHash": "080e01c5e1b82496ae8107bb96e7705a68f1ff43f44dc4ad3f69dce978cfe7a5",
+      "discoveredLinks": [
+        "https://apps.apple.com/ca/app/doordash-food-delivery/id719972451",
+        "https://doordash.com/orders/help?chat=true",
+        "https://help.doordash.com/en-au/consumers/article/doordash-wendys-promo-september-2026",
+        "https://help.doordash.com/en-ca/consumers/article/doordash-pick-your-team-promotion-us-official-rules",
+        "https://help.doordash.com/en-ca/consumers/article/doordash-starbucks-sxgy-promo-september-2026",
+        "https://help.doordash.com/en-ca/consumers/article/doordash-wendys-promo-september-2026",
+        "https://help.doordash.com/en-ca/consumers/category/alcohol-orders",
+        "https://help.doordash.com/en-ca/consumers/category/promotions",
+        "https://help.doordash.com/en-ca/consumers/category/your-doordash-order",
+        "https://help.doordash.com/en-nz/consumers/article/doordash-wendys-promo-september-2026",
+        "https://help.doordash.com/en-us/consumers/article/doordash-wendys-promo-september-2026",
+        "https://help.doordash.com/es-us/consumers/article/doordash-wendys-promo-september-2026",
+        "https://help.doordash.com/fr-ca/consumers/article/doordash-wendys-promo-september-2026",
+        "https://play.google.com/store/apps/details?id=com.dd.doordash&hl=en",
+        "https://www.doordash.com/orders/",
+        "https://www.doordash.com/orders/help/"
+      ],
+      "promotionCandidates": [
+        "ptember 2026 DoorDash x Wendy's BOGO Promo September 2026 1 min read *Buy One Classic or Spicy Chicken Sandwich, Get One Free. Offer valid through 9/27/2026. To redeem, add at least two items labeled \u201cBuy 1, get 1 free\u201d to your cart from"
+      ]
+    },
+    "https://help.doordash.com/en-ca/consumers/article/evergreen-25tastyca-terms-and-conditions": {
+      "status": "cached",
+      "textHash": "2c8d7dbcb074676ce6fe9e606990c6ebd6a12a35ae33522e4c826dd77aa2bbbf",
+      "discoveredLinks": [
+        "https://apps.apple.com/ca/app/doordash-food-delivery/id719972451",
+        "https://doordash.com/orders/help?chat=true",
+        "https://help.doordash.com/en-ca/consumers/article/doordash-pick-your-team-promotion-us-official-rules",
+        "https://help.doordash.com/en-ca/consumers/article/doordash-starbucks-sxgy-promo-september-2026",
+        "https://help.doordash.com/en-ca/consumers/article/doordash-wendys-promo-september-2026",
+        "https://help.doordash.com/en-ca/consumers/category/alcohol-orders",
+        "https://help.doordash.com/en-ca/consumers/category/promotions",
+        "https://help.doordash.com/en-ca/consumers/category/your-doordash-order",
+        "https://help.doordash.com/en-ca/legal/article/cx-promo-and-credits-terms",
+        "https://play.google.com/store/apps/details?id=com.dd.doordash&hl=en",
+        "https://www.doordash.com/orders/",
+        "https://www.doordash.com/orders/help/"
+      ],
+      "promotionCandidates": [
+        ". Eligible customers can use code: 25TASTYCA at checkout to receive 25% off (up to $8) 4 orders of $15+. Discount apportioned equally among all items ordered. Fees, taxes, and gratuity still apply. All deliveries subject to availabilit"
+      ]
+    },
+    "https://osmows.com/": {
+      "status": "cached",
+      "textHash": "3f775893ae2e6dce83007a32ba4383788997f2da0c96901fae6631a6ef02208a",
+      "discoveredLinks": [
+        "https://apps.apple.com/ca/app/osmows/id6477915139",
+        "https://osmows.com/menu",
+        "https://osmows.order.online/business/-30028",
+        "https://osmows.order.online/business/-30028?_ga=2.45114023.2008524468.1759247472-1677622450.1756240292",
+        "https://osmows.order.online/business/-30028?_ga=2.91937180.709987187.1770906584-1585281028.1764949216&_gac=1.93635311.1770958466.CjwKCAiAkbbMBhB2EiwANbxtbVZpP3uJiyKIhyFc9-6QUipgyC9JI8gkQL4RIHgCkNLfZlyrhZG6wRoCsTIQAvD_BwE",
+        "https://play.google.com/store/apps/details?hl=en_CA&id=com.blackbird.orderhouse.osmows"
+      ],
+      "promotionCandidates": []
+    },
+    "https://www.harveys.ca/en/downloadtheapp.html": {
+      "status": "http_403"
+    },
+    "https://www.kfc.ca/": {
+      "status": "network_error"
+    },
+    "https://www.lunapizza.ca/order-online": {
+      "status": "cached",
+      "textHash": "9672a351e6bb93daaf0fef6ffc8bbbea01bb20e9704c2230bdea01c2875a25e6",
+      "discoveredLinks": [
+        "https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%22869a50c8-dd38-4324-b201-e33dc0747a5f%22%3A%226%22%2C%22b278a256-2757-4f19-9313-c05c783bec92%22%3A%222377%22%2C%22b976560c-3122-4351-878f-453f337b7245%22%3A%221358%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%2C%229a5d83fd-8570-482e-81ab-cfa88942ee60%22%3A%224207%22%2C%22e329a4ab-e1b2-4268-9cc6-ac6f77ec6767%22%3A%22304%22%7D&appDefinitionIdsWithCustomCss=%5B%229a5d83fd-8570-482e-81ab-cfa88942ee60%22%2C%22e329a4ab-e1b2-4268-9cc6-ac6f77ec6767%22%5D&beckyExperiments=.DatePickerPortal%2C.DisableDocumentScrollWhenLightBoxOpen%2C.EnableCustomCSSVarsForLoginSocialBar%2C.FreemiumBannerOdeditor%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNestedLoginSocialBarMenuItems%2C.UseNewLoginBarDropdownMenuAlignment%2C.UseNewLoginSocialBarElementStructure%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.a11yContrast%2C.addIdAsClassName%2C.allowWebpAvifTransforms%2C.builderBoxSizingBorderBox%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.dom_store%2C.dontApplyDacOverridesOnBoBApps%2C.dynamicPageLinkTarget%2C.dynamicSlots%2C.fiveGridLineStudioSkins%2C.fixDocumentLinkInPremiumPreview%2C.fixFirefoxLinkBarIntrinsicSizing%2C.fixRemappedFullNameCompType%2C.imageEncodingAVIF%2C.interactionsUseReactionEffectId%2C.isClassNameToRootEnabled%2C.logVsmFeaturesModuleDiff%2C.motionTimeAnimationsCSS%2C.resolveManifestInTB%2C.responsiveContainerRoleGroup%2C.sectionA11yProps%2C.shouldUseResponsiveImages%2C.splitSlotSelectors%2C.stopResolvingInnerSelectors_VAG%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useFragmentHrefForTopBottomAnchor%2C.useImageAvifFormatInNativeProGallery%2C.useResponsiveImgClassicFixed%2C.useSvgLoaderFeature%2C.useSvgLoaderFeatureOnBuilderComps%2C.useWowImageInFastGallery%2C.vsmFeaturesModule%2C.vsm_interactions_v1&blocksBuilderManifestGeneratorVersion=1.129.0&commonConfig=%7B%22siteRevision%22%3A%224%22%2C%22branchId%22%3A%2224f39d1b-67a7-4348-9373-939eae1184fb%22%7D&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.5627.0&disableStaticPagesUrlHierarchy=false&editorName=Studio&experiments=dm_masterPageVariablesQueryFixer%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.lunapizza.ca&fileId=a6091b14.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&hasUserDomainMedia=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isResponsive=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&locale=en-ca&metaSiteId=28ccee3c-74f4-45e3-a4d8-33d91f1e13e9&module=thunderbolt-features&originalLanguage=en&pageId=f21ad0_3c68d1b4433a40a6c83b7b6b95244fab_3.json&pilerExperiments=specs.piler.useEditorReactComponents&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15523.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15523.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=9e79e97e-5f84-446d-82be-31171efff868&siteRevision=4&staticHTMLComponentUrl=https%3A%2F%2Fwww-lunapizza-ca.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop",
+        "https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%22869a50c8-dd38-4324-b201-e33dc0747a5f%22%3A%226%22%2C%22b278a256-2757-4f19-9313-c05c783bec92%22%3A%222377%22%2C%22b976560c-3122-4351-878f-453f337b7245%22%3A%221358%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%2C%229a5d83fd-8570-482e-81ab-cfa88942ee60%22%3A%224207%22%2C%22e329a4ab-e1b2-4268-9cc6-ac6f77ec6767%22%3A%22304%22%7D&appDefinitionIdsWithCustomCss=%5B%229a5d83fd-8570-482e-81ab-cfa88942ee60%22%2C%22e329a4ab-e1b2-4268-9cc6-ac6f77ec6767%22%5D&beckyExperiments=.DatePickerPortal%2C.DisableDocumentScrollWhenLightBoxOpen%2C.EnableCustomCSSVarsForLoginSocialBar%2C.FreemiumBannerOdeditor%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNestedLoginSocialBarMenuItems%2C.UseNewLoginBarDropdownMenuAlignment%2C.UseNewLoginSocialBarElementStructure%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.a11yContrast%2C.addIdAsClassName%2C.allowWebpAvifTransforms%2C.builderBoxSizingBorderBox%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.dom_store%2C.dontApplyDacOverridesOnBoBApps%2C.dynamicPageLinkTarget%2C.dynamicSlots%2C.fiveGridLineStudioSkins%2C.fixDocumentLinkInPremiumPreview%2C.fixFirefoxLinkBarIntrinsicSizing%2C.fixRemappedFullNameCompType%2C.imageEncodingAVIF%2C.interactionsUseReactionEffectId%2C.isClassNameToRootEnabled%2C.logVsmFeaturesModuleDiff%2C.motionTimeAnimationsCSS%2C.resolveManifestInTB%2C.responsiveContainerRoleGroup%2C.sectionA11yProps%2C.shouldUseResponsiveImages%2C.splitSlotSelectors%2C.stopResolvingInnerSelectors_VAG%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useFragmentHrefForTopBottomAnchor%2C.useImageAvifFormatInNativeProGallery%2C.useResponsiveImgClassicFixed%2C.useSvgLoaderFeature%2C.useSvgLoaderFeatureOnBuilderComps%2C.useWowImageInFastGallery%2C.vsmFeaturesModule%2C.vsm_interactions_v1&blocksBuilderManifestGeneratorVersion=1.129.0&commonConfig=%7B%22siteRevision%22%3A%224%22%2C%22branchId%22%3A%2224f39d1b-67a7-4348-9373-939eae1184fb%22%7D&contentType=application%2Fjson&deviceType=Desktop&dfCk=6&dfVersion=1.5627.0&disableStaticPagesUrlHierarchy=false&editorName=Studio&experiments=dm_masterPageVariablesQueryFixer%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.lunapizza.ca&fileId=a6091b14.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&hasUserDomainMedia=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isResponsive=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&languageResolutionMethod=QueryParam&locale=en-ca&metaSiteId=28ccee3c-74f4-45e3-a4d8-33d91f1e13e9&module=thunderbolt-features&originalLanguage=en&pageId=f21ad0_c3a370754b5f854777e17a3859cc282a_3.json&pilerExperiments=specs.piler.useEditorReactComponents&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15523.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15523.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=9e79e97e-5f84-446d-82be-31171efff868&siteRevision=4&staticHTMLComponentUrl=https%3A%2F%2Fwww-lunapizza-ca.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop",
+        "https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision=%7B%22869a50c8-dd38-4324-b201-e33dc0747a5f%22%3A%226%22%2C%22b278a256-2757-4f19-9313-c05c783bec92%22%3A%222377%22%2C%22b976560c-3122-4351-878f-453f337b7245%22%3A%221358%22%2C%2214271d6f-ba62-d045-549b-ab972ae1f70e%22%3A%2225%22%2C%229a5d83fd-8570-482e-81ab-cfa88942ee60%22%3A%224207%22%2C%22e329a4ab-e1b2-4268-9cc6-ac6f77ec6767%22%3A%22304%22%7D&appDefinitionIdsWithCustomCss=%5B%229a5d83fd-8570-482e-81ab-cfa88942ee60%22%2C%22e329a4ab-e1b2-4268-9cc6-ac6f77ec6767%22%5D&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.FreemiumBannerOdeditor%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.UseLoginSocialBarCustomMenu%2C.UseNestedLoginSocialBarMenuItems%2C.UseNewLoginBarDropdownMenuAlignment%2C.UseNewLoginSocialBarElementStructure%2C.UseNewLoginSocialBarMemberInitialsAvatar%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.addIdAsClassName%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.dynamicPageLinkTarget%2C.dynamicSlots%2C.fiveGridLineStudioSkins%2C.fixFirefoxLinkBarIntrinsicSizing%2C.isClassNameToRootEnabled%2C.logVsmPlatformDiff%2C.migrateSdkDataMappers%2C.resolveManifestInTB%2C.splitSlotSelectors%2C.stopResolvingInnerSelectors_VAG%2C.svgResolver_2%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useClassnameInResponsiveAppWidget%2C.useImageAvifFormatInNativeProGallery%2C.useWowImageInFastGallery%2C.vsmPlatform&blocksBuilderManifestGeneratorVersion=1.129.0&commonConfig=%7B%22siteRevision%22%3A%224%22%2C%22branchId%22%3A%2224f39d1b-67a7-4348-9373-939eae1184fb%22%7D&contentType=application%2Fjson&dfCk=6&dfVersion=1.5627.0&editorName=Studio&experiments=dm_masterPageVariablesQueryFixer%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https%3A%2F%2Fwww.lunapizza.ca&fileId=903d398e.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&hasUserDomainMedia=false&isBuilderComponentModel=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isResponsive=true&isUrlMigrated=true&isWixCodeOnPage=false&isWixCodeOnSite=false&language=en&locale=en-ca&metaSiteId=28ccee3c-74f4-45e3-a4d8-33d91f1e13e9&module=thunderbolt-platform&originalLanguage=en&pageId=f21ad0_3c68d1b4433a40a6c83b7b6b95244fab_3.json&pilerExperiments=specs.piler.useEditorReactComponents&quickActionsMenuEnabled=false\u00aeistryLibrariesTopology=%5B%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22wixui%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15523.0%22%7D%2C%7B%22artifactId%22%3A%22editor-elements%22%2C%22namespace%22%3A%22dsgnsys%22%2C%22url%22%3A%22https%3A%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.15523.0%22%7D%5D&remoteWidgetStructureBuilderVersion=1.251.0&siteId=9e79e97e-5f84-446d-82be-31171efff868&siteRevision=4&staticHTMLComponentUrl=https%3A%2F%2Fwww-lunapizza-ca.filesusr.com%2F&viewMode=desktop",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt[MenuContainer_Responsive].b4ae898e.min.css",
+        "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/rb_wixui.thunderbolt_menu.45f28881.min.css",
+        "https://static.parastorage.com/services/restaurants-orders-ooi/1.327.0/OnlineOrdersViewerWidget.min.css",
+        "https://static.parastorage.com/services/restaurants-orders-ooi/1.327.0/OnlineOrdersViewerWidgetNoCss.bundle.min.js",
+        "https://www.lunapizza.ca/menu",
+        "https://www.lunapizza.ca/order-online"
+      ],
+      "promotionCandidates": []
+    },
+    "https://www.montanas.ca/en/faq.html": {
+      "status": "http_403"
+    },
+    "https://www.skipthedishes.com/rewards/skipplus?appRender=true": {
+      "status": "http_403"
+    },
+    "https://www.swisschalet.com/en/mobileapp.html": {
+      "status": "http_403"
+    },
+    "https://www.tacoboyz.com/order-online/": {
+      "status": "challenge"
+    },
+    "https://www.uber.com/ca/en/blog/can-promo-cards/": {
+      "status": "cached",
+      "textHash": "8c58e35f178df79466d32a941c468c00429d443d3310dbfac049660da567b8c7",
+      "discoveredLinks": [
+        "https://www.uber.com/ca/en/about/uber-offerings/",
+        "https://www.uber.com/ca/en/blog/can-promo-cards/",
+        "https://www.uber.com/ca/en/blog/can-promo-cards/#browser-happy",
+        "https://www.uber.com/ca/en/blog/can-promo-cards/#main"
+      ],
+      "promotionCandidates": [
+        "ional Cards U Uber Share this article Facebook Linkedin X social Link Promo code: \u201cFIRSTEATS30\u201d or \u201cPREMIEREATS30\u201d Details on the Promo EN \u2013 Use this Code for $30 off your first order with Uber Eats FR \u2013 Utilisez ce code pour 30$ de r\u00e9ducti",
+        " only. Expires 12/31/2026. Taxes and fees still apply. Must apply the promo code in the app before completing your order. $40 minimum order (excluding promotions and taxes and fees). Cannot be combined. Valid only in Canada where Uber Eats ",
+        " les conditions peuvent \u00eatre modifi\u00e9es. \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014- Promo Code: \u201cFIRSTGROCERY50\u201d or \u201cPREMIEREEPICERIE50\u201d Details on the Promo EN \u2013 Use this code for 50% off your first Grocery order of $70+ with Uber Eats, max $40 off FR \u2013",
+        " only. Expires 12/31/2026. Taxes and fees still apply. Must apply the promo code in the app before completing your order. Cannot be combined. Valid only in Canada where Uber Eats is available. Exclusions may apply. Offer and terms are subje"
+      ]
+    },
+    "https://www.wendys.com/en-ca": {
+      "status": "cached",
+      "textHash": "2a9d70ab78d130348f90d2c453aaa9c335224b3a37ce84596a5e8bf31da3543d",
+      "discoveredLinks": [
+        "https://order.wendys.com/ca/en/",
+        "https://order.wendys.com/ca/en/loyalty?lang=en_CA",
+        "https://order.wendys.com/ca/en/national/menu",
+        "https://order.wendys.com/ca/en/national/menu/4-99-value",
+        "https://order.wendys.com/ca/en/national/menu/beverages",
+        "https://order.wendys.com/ca/en/national/menu/biscuits",
+        "https://order.wendys.com/ca/en/national/menu/breakfast-combos",
+        "https://order.wendys.com/ca/en/national/menu/cheeseburgers",
+        "https://order.wendys.com/ca/en/national/menu/chicken-wraps-more",
+        "https://order.wendys.com/ca/en/national/menu/classics",
+        "https://order.wendys.com/ca/en/national/menu/coffee",
+        "https://order.wendys.com/ca/en/national/menu/combos",
+        "https://order.wendys.com/ca/en/national/menu/croissants",
+        "https://order.wendys.com/ca/en/national/menu/everyday-value",
+        "https://order.wendys.com/ca/en/national/menu/fresh-made-salads",
+        "https://order.wendys.com/ca/en/national/menu/fries-sides",
+        "https://order.wendys.com/ca/en/national/menu/frosty",
+        "https://order.wendys.com/ca/en/national/menu/quality-choices",
+        "https://order.wendys.com/ca/en/national/menu/sides-sweets",
+        "https://order.wendys.com/ca/en/national/menu/wendys-kids-meals",
+        "https://order.wendys.com/ca/en/select-restaurant",
+        "https://order.wendys.com/rewards-home?lang=en_CA"
+      ],
+      "promotionCandidates": []
+    },
+    "https://www4.mcdonalds.ca/mcdeliveryinthemcdapp/": {
+      "status": "http_403"
+    }
+  },
+  "ratings": {
+    "catalog-ss_ubereats_b516b917b6ed6c6e5c3ba08c": {
+      "average": 4.0,
+      "count": 50,
+      "scale": 5,
+      "provider": "DoorDash",
+      "sourceUrl": "https://www.doordash.com/store/mcdonalds-fredericton-1139998/",
+      "countScope": "Published structured rating count"
+    },
+    "catalog-ss_ubereats_bc8238a5d7db467ed41c2b0d": {
+      "average": 4.4,
+      "count": 50,
+      "scale": 5,
+      "provider": "DoorDash",
+      "sourceUrl": "https://www.doordash.com/store/osmows-shawarma-fredericton-32003605/",
+      "countScope": "Published structured rating count"
+    },
+    "catalog-ss_ubereats_0a5ba1d349096949787465cf": {
+      "average": 4.4,
+      "count": 50,
+      "scale": 5,
+      "provider": "DoorDash",
+      "sourceUrl": "https://www.doordash.com/en-CA/store/taco-boyz-fredericton-23391251/",
+      "countScope": "Published structured rating count"
+    },
+    "catalog-ss_ubereats_dd4a46e4b7651804eee5e2ba": {
+      "average": 4.0,
+      "count": 50,
+      "scale": 5,
+      "provider": "DoorDash",
+      "sourceUrl": "https://www.doordash.com/store/kfc-fredericton-1089202/",
+      "countScope": "Published structured rating count"
+    },
+    "catalog-ss_ubereats_8b6bfb82d30268e22a241644": {
+      "average": 4.5,
+      "count": 50,
+      "scale": 5,
+      "provider": "DoorDash",
+      "sourceUrl": "https://www.doordash.com/store/wendys-fredericton-24492416/",
+      "countScope": "Published structured rating count"
+    },
+    "catalog-ss_ubereats_768ae723aba59e73d1882fb4": {
+      "average": 4.5,
+      "count": 50,
+      "scale": 5,
+      "provider": "DoorDash",
+      "sourceUrl": "https://www.doordash.com/store/wendys-fredericton-24492414/",
+      "countScope": "Published structured rating count"
+    },
+    "catalog-ss_ubereats_e61f77a348c6497848d3cd83": {
+      "average": 4.3,
+      "count": 50,
+      "scale": 5,
+      "provider": "DoorDash",
+      "sourceUrl": "https://www.doordash.com/store/harveys-fredericton-1065452/",
+      "countScope": "Published structured rating count"
+    },
+    "catalog-ss_ubereats_7ff176ad2005deac8b1f91c1": {
+      "average": 4.5,
+      "count": 50,
+      "scale": 5,
+      "provider": "DoorDash",
+      "sourceUrl": "https://www.doordash.com/store/luna-pizza-fredericton-2834176/",
+      "countScope": "Published structured rating count"
+    },
+    "catalog-ss_ubereats_5066eb64b6473b681110ff9b": {
+      "average": 4.5,
+      "count": 50,
+      "scale": 5,
+      "provider": "DoorDash",
+      "sourceUrl": "https://www.doordash.com/store/wingstreet-by-pizza-hut-fredericton-28425386/",
+      "countScope": "Published structured rating count"
+    },
+    "catalog-ss_ubereats_f94e82c421c0815dd0950b87": {
+      "average": 4.4,
+      "count": 50,
+      "scale": 5,
+      "provider": "DoorDash",
+      "sourceUrl": "https://www.doordash.com/store/montanas-bbq-%26-bar-fredericton-653262/",
+      "countScope": "Published structured rating count"
+    },
+    "catalog-ss_ubereats_e3b1201ac6f79cb93a5eac83": {
+      "average": 4.4,
+      "count": 50,
+      "scale": 5,
+      "provider": "DoorDash",
+      "sourceUrl": "https://www.doordash.com/store/swiss-chalet-fredericton-24855116/",
+      "countScope": "Published structured rating count"
+    },
+    "catalog-ss_ubereats_287d50bbf08f871c49193255": {
+      "average": 4.7,
+      "count": 50,
+      "scale": 5,
+      "provider": "DoorDash",
+      "sourceUrl": "https://www.doordash.com/store/giseles-pizzeria-fredericton-27554984/",
+      "countScope": "Published structured rating count"
+    },
+    "catalog-ss_ubereats_8862ef2e97935814f1a7eaf7": {
+      "average": 4.5,
+      "count": 50,
+      "scale": 5,
+      "provider": "DoorDash",
+      "sourceUrl": "https://www.doordash.com/store/cineplex-fredericton-31852895/",
+      "countScope": "Published structured rating count"
+    },
+    "catalog-ss_ubereats_85cfb5ebf8f27810ad30981c": {
+      "average": 4.5,
+      "count": 50,
+      "scale": 5,
+      "provider": "DoorDash",
+      "sourceUrl": "https://www.doordash.com/store/a%26w-fredericton-29573744/",
+      "countScope": "Published structured rating count"
+    },
+    "catalog-ss_doordash_925310": {
+      "average": 4.6,
+      "count": 50,
+      "scale": 5,
+      "provider": "DoorDash",
+      "sourceUrl": "https://www.doordash.com/store/rocket-burger-fredericton-925310/",
+      "countScope": "Published structured rating count"
+    },
+    "catalog-ss_doordash_36271967": {
+      "average": 4.7,
+      "count": 50,
+      "scale": 5,
+      "provider": "DoorDash",
+      "sourceUrl": "https://www.doordash.com/store/pine-tree-pub-fredericton-36271967/",
+      "countScope": "Published structured rating count"
+    },
+    "catalog-ss_doordash_36378925": {
+      "average": 4.5,
+      "count": 50,
+      "scale": 5,
+      "provider": "DoorDash",
+      "sourceUrl": "https://www.doordash.com/store/philthy-pierogi-fredericton-36378925/",
+      "countScope": "Published structured rating count"
+    },
+    "catalog-ss_doordash_28828775": {
+      "average": 4.3,
+      "count": 50,
+      "scale": 5,
+      "provider": "DoorDash",
+      "sourceUrl": "https://www.doordash.com/store/pizza-pizza-fredericton-28828775/",
+      "countScope": "Published structured rating count"
+    },
+    "catalog-ss_doordash_1814763": {
+      "average": 4.5,
+      "count": 50,
+      "scale": 5,
+      "provider": "DoorDash",
+      "sourceUrl": "https://www.doordash.com/store/greco-pizza-fredericton-1814763/",
+      "countScope": "Published structured rating count"
+    },
+    "catalog-ss_doordash_26317412": {
+      "average": 4.0,
+      "count": 50,
+      "scale": 5,
+      "provider": "DoorDash",
+      "sourceUrl": "https://www.doordash.com/store/chicken-chicken-by-pizza-pizza-fredericton-26317412/",
+      "countScope": "Published structured rating count"
+    },
+    "catalog-ss_doordash_1342790": {
+      "average": 4.6,
+      "count": 50,
+      "scale": 5,
+      "provider": "DoorDash",
+      "sourceUrl": "https://www.doordash.com/store/pjs-wings-an-things-fredericton-1342790/",
+      "countScope": "Published structured rating count"
+    },
+    "catalog-ss_doordash_24875523": {
+      "average": 4.8,
+      "count": 50,
+      "scale": 5,
+      "provider": "DoorDash",
+      "sourceUrl": "https://www.doordash.com/store/yassou-souvlaki-&-donair-fredericton-24875523/",
+      "countScope": "Published structured rating count"
+    },
+    "catalog-ss_doordash_37817609": {
+      "average": 4.5,
+      "count": 50,
+      "scale": 5,
+      "provider": "DoorDash",
+      "sourceUrl": "https://www.doordash.com/store/country-fried-fredericton-37817609/",
+      "countScope": "Published structured rating count"
+    },
+    "catalog-ss_doordash_1084851": {
+      "average": 4.6,
+      "count": 50,
+      "scale": 5,
+      "provider": "DoorDash",
+      "sourceUrl": "https://www.doordash.com/store/monks-&-jonesie-fredericton-1084851/",
+      "countScope": "Published structured rating count"
+    }
+  }
+}

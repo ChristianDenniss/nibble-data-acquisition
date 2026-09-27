@@ -1,0 +1,178 @@
+{
+  "merchants": [
+    {
+      "match": "Taco Boyz",
+      "sourceUrl": "https://www.tacoboyz.com/order-online/",
+      "orderUrl": "https://www.tacoboyz.com/order-online/",
+      "note": "Choose the Smythe Street location. Confirm delivery availability and prices on the restaurant website."
+    },
+    {
+      "match": "McDonald",
+      "sourceUrl": "https://www4.mcdonalds.ca/mcdeliveryinthemcdapp/",
+      "orderUrl": "https://www4.mcdonalds.ca/mcdeliveryinthemcdapp/",
+      "note": "McDelivery in the McDonald\u2019s app. Select this restaurant and your address to see prices and available offers."
+    },
+    {
+      "match": "Osmow",
+      "sourceUrl": "https://osmows.com/",
+      "orderUrl": "https://osmows.order.online/business/-30028",
+      "note": "Restaurant ordering powered by DoorDash. Choose 1180 Smythe Street; confirm fulfillment and prices."
+    },
+    {
+      "match": "Wendy",
+      "sourceUrl": "https://www.wendys.com/en-ca",
+      "orderUrl": "https://order.wendys.com/ca/en/select-restaurant",
+      "note": "Select the matching Fredericton branch. Prices, offers and delivery availability depend on your selection."
+    },
+    {
+      "match": "Montana",
+      "sourceUrl": "https://www.montanas.ca/en/faq.html",
+      "orderUrl": "https://order.montanas.ca/",
+      "note": "Restaurant takeout ordering. Select 6 Trinity Avenue; delivery availability must be checked separately."
+    },
+    {
+      "match": "Harvey",
+      "sourceUrl": "https://www.harveys.ca/en/downloadtheapp.html",
+      "orderUrl": "https://www.harveys.ca/en/downloadtheapp.html",
+      "note": "Harvey\u2019s own ordering app. Select 460 Regent Street and confirm delivery prices; some coupons are pickup only."
+    },
+    {
+      "match": "Swiss Chalet",
+      "sourceUrl": "https://www.swisschalet.com/en/mobileapp.html",
+      "orderUrl": "https://order.swisschalet.com/",
+      "note": "Restaurant delivery and pickup ordering. Select 961 Prospect Street; confirm options and delivery charges."
+    },
+    {
+      "match": "KFC",
+      "sourceUrl": "https://www.kfc.ca/",
+      "orderUrl": "https://www.kfc.ca/",
+      "note": "KFC\u2019s own ordering website and app. Select 1165 Prospect Street, then pickup or delivery, to see local prices and rewards."
+    }
+  ],
+  "promotions": [
+    {
+      "id": "uber-first-30",
+      "providerId": "prov_ubereats",
+      "title": "$30 off a first order",
+      "sourceUrl": "https://www.uber.com/ca/en/blog/can-promo-cards/",
+      "terms": "New Uber Eats users in Canada; $40 minimum before tax and fees. Apply FIRSTEATS30 or PREMIEREATS30 in the app. Cannot combine; exclusions and other charges apply.",
+      "expiresOn": "2026-12-31",
+      "code": "FIRSTEATS30",
+      "restaurantNameContains": "",
+      "minimumCents": 4000,
+      "country": "CA",
+      "eligibility": "confirm_in_provider",
+      "reviewedAt": "2026-09-27T03:32:38.164080+00:00"
+    },
+    {
+      "id": "dd-first-40",
+      "providerId": "prov_doordash",
+      "title": "40% off a first order, up to $13",
+      "sourceUrl": "https://help.doordash.com/en-ca/consumers/article/can-new-cx-40-off",
+      "terms": "New eligible accounts within 45 days of signup; $15 minimum before tax and fees. Delivery only, one use, excludes alcohol. Includes a delivery-fee waiver; service fees and tax still apply. Must appear in your account.",
+      "expiresOn": "2026-12-31",
+      "code": "",
+      "restaurantNameContains": "",
+      "minimumCents": 1500,
+      "country": "CA",
+      "eligibility": "confirm_in_provider",
+      "reviewedAt": "2026-09-27T03:32:38.164080+00:00"
+    },
+    {
+      "id": "dd-targeted-25",
+      "providerId": "prov_doordash",
+      "title": "25% off up to four orders, capped at $8 each",
+      "sourceUrl": "https://help.doordash.com/en-ca/consumers/article/evergreen-25tastyca-terms-and-conditions",
+      "terms": "Only customers sent this offer directly by DoorDash. $15 minimum; enter 25TASTYCA. Fees, tax and tips remain payable. Check the offer\u2019s availability and expiry in your account.",
+      "expiresOn": null,
+      "code": "25TASTYCA",
+      "restaurantNameContains": "",
+      "minimumCents": 1500,
+      "country": "CA",
+      "eligibility": "confirm_in_provider",
+      "reviewedAt": "2026-09-27T03:32:38.164080+00:00"
+    },
+    {
+      "id": "dd-wendy-bogo",
+      "providerId": "prov_doordash",
+      "title": "Buy one eligible chicken sandwich, get one free",
+      "sourceUrl": "https://help.doordash.com/en-ca/consumers/article/doordash-wendys-promo-september-2026",
+      "terms": "Participating Wendy\u2019s locations only. Add two Classic or Spicy Chicken Sandwiches marked eligible in DoorDash. One pair per order; base item price only, while supplies last. Cannot combine; fees and taxes remain.",
+      "expiresOn": "2026-09-27",
+      "code": "",
+      "restaurantNameContains": "Wendy",
+      "minimumCents": 0,
+      "country": "CA",
+      "eligibility": "confirm_in_provider",
+      "reviewedAt": "2026-09-27T03:32:38.164080+00:00"
+    },
+    {
+      "id": "skip-cibc-welcome",
+      "providerId": "prov_skip",
+      "title": "$20 welcome voucher on a $40 order",
+      "sourceUrl": "https://www.skipthedishes.com/rewards/skipplus?appRender=true",
+      "terms": "Link an eligible CIBC card to Skip+. The welcome voucher appears in My Skip within 24 hours; $40 minimum before taxes, fees and tips. Requires the voucher in your account.",
+      "expiresOn": null,
+      "code": "",
+      "restaurantNameContains": "",
+      "minimumCents": 4000,
+      "country": "CA",
+      "eligibility": "confirm_in_provider",
+      "reviewedAt": "2026-09-27T03:32:38.164080+00:00"
+    },
+    {
+      "id": "skip-plus-delivery",
+      "providerId": "prov_skip",
+      "title": "Skip+ delivery and service-fee benefits",
+      "sourceUrl": "https://www.skipthedishes.com/rewards/skipplus?appRender=true",
+      "terms": "Requires Skip+ membership and a participating order. Delivery-fee waivers and lower service fees depend on eligibility. Paid membership is $9.99/month plus tax; trial eligibility varies. Confirm checkout fees.",
+      "expiresOn": null,
+      "code": "",
+      "restaurantNameContains": "",
+      "minimumCents": 0,
+      "country": "CA",
+      "eligibility": "confirm_in_provider",
+      "reviewedAt": "2026-09-27T03:32:38.164080+00:00"
+    },
+    {
+      "providerId": "prov_direct",
+      "expiresOn": null,
+      "code": "3BURGER",
+      "minimumCents": 0,
+      "country": "CA",
+      "eligibility": "confirm_in_provider",
+      "reviewedAt": "2026-09-27T03:39:28.615846+00:00",
+      "id": "harvey-first-burger",
+      "title": "Pickup only: first Original or Veggie burger for $3",
+      "sourceUrl": "https://www.harveys.ca/en/downloadtheapp.html",
+      "terms": "First order through the Harvey\u2019s app with an account. Apply 3BURGER in the Coupons tab. Excludes delivery; taxes, cheese and bacon cost extra. Limited-time offer; cannot combine with other offers.",
+      "restaurantNameContains": "Harvey"
+    },
+    {
+      "providerId": "prov_direct",
+      "expiresOn": "2026-12-31",
+      "code": "",
+      "minimumCents": 4000,
+      "country": "CA",
+      "eligibility": "confirm_in_provider",
+      "reviewedAt": "2026-09-27T03:39:28.615846+00:00",
+      "id": "swiss-first-five",
+      "title": "$5 off a first restaurant-app order of $40+",
+      "sourceUrl": "https://www.swisschalet.com/en/mobileapp.html",
+      "terms": "Download the Swiss Chalet app and activate the coupon. One use at participating locations for web/app pickup or delivery. $40 minimum excludes tax, tips, alcohol, delivery fees and gift cards. Delivery charges remain; cannot combine.",
+      "restaurantNameContains": "Swiss Chalet"
+    }
+  ],
+  "directMenus": [
+    {
+      "id": "catalog-direct-luna-king",
+      "name": "Luna Pizza (379 King Street)",
+      "address": "379 King Street, Fredericton, NB",
+      "sourceUrl": "https://www.lunapizza.ca/order-online",
+      "requiredAddress": "379 King Street",
+      "parser": "wix",
+      "fulfillmentMode": "pickup",
+      "branchStatus": "separate_unmatched_branch"
+    }
+  ]
+}

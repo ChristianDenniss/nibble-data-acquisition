@@ -4,3 +4,7 @@ bin/
 dist/
 .env
 .env.*
+
+# Raw public pages are retained locally, never shipped with the app.
+snapshots/
+__pycache__/
