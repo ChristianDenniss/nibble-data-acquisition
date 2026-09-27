@@ -1,0 +1,1010 @@
+[
+  {
+    "name": "Hamburger",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/hamburger.html",
+    "description": "The comforting taste of the juicy and delicious 100% Canadian beef burger, topped with tangy pickles, ketchup, mustard and the sweet bite of onion, all…",
+    "excerpt": true
+  },
+  {
+    "name": "Cheeseburger",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/cheeseburger.html",
+    "description": "A slice of melted processed cheese on a juicy, 100% Canadian beef patty with tangy pickles and onions, ketchup and mustard on a freshly-toasted bun.",
+    "excerpt": true
+  },
+  {
+    "name": "McDouble",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/mcdouble.html",
+    "description": "A slice of melted processed cheese between two 100% Canadian beef patties, topped with pickles, onions, ketchup and mustard on a toasted bun.",
+    "excerpt": true
+  },
+  {
+    "name": "Junior Chicken",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/junior-chicken.html",
+    "description": "You don’t need to compromise with the great taste of a Junior Chicken sandwich, made with chicken raised on Canadian farms, at a price you…",
+    "excerpt": true
+  },
+  {
+    "name": "Sausage McMuffin",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/sausage-mcmuffin.html",
+    "description": "Wake up to delicious flavour with a big bite into savoury sausage and a slice of golden processed cheese held inside a toasted English muffin.",
+    "excerpt": true
+  },
+  {
+    "name": "World Famous Fries – Small",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/french-fries-small-mcpicks.html",
+    "description": "McDonald’s World Famous Fries are always a delicious choice. Cut from whole potatoes grown on Canadian farms, our fries are cooked to golden perfection in…",
+    "excerpt": true
+  },
+  {
+    "name": "Vanilla Cone",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/cone-vanilla.html",
+    "description": "Make time for a moment of sweetness with creamy vanilla soft served in a crispy cone.",
+    "excerpt": true
+  },
+  {
+    "name": "Baked Apple Pie",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/baked-apple-pie-200553.html",
+    "description": "Twice the enjoyment, with two Baked Apple Pies! It’s the tradition you love to uphold, with delicious apples lightly spiced with cinnamon in a flaky…",
+    "excerpt": true
+  },
+  {
+    "name": "McExtreme Pulled Pork",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/mcextreme-pulled-pork.html",
+    "description": "Pulled from Spain, now in Canada. Layers of pulled pork in BBQ sauce, beef, hickory-smoked bacon, white processed cheese, crispy onions for some crunch and…",
+    "excerpt": true
+  },
+  {
+    "name": "Cheeseburger Deluxe",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/cheeseburger-deluxe.html",
+    "description": "Your favourite cheeseburger is now made deluxe! A slice of processed cheese on a juicy, 100% Canadian beef patty with pickles and onions, ketchup, mustard,…",
+    "excerpt": true
+  },
+  {
+    "name": "Double Hamburger",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/double-hamburger.html",
+    "description": "Made with two juicy 100% Canadian beef patties, topped with pickles, onions, ketchup and mustard on a freshly toasted bun.",
+    "excerpt": true
+  },
+  {
+    "name": "Big Mac",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/big-mac-sandwich.html",
+    "description": "Nothing compares to two 100% Canadian beef patties, special sauce, crisp lettuce, processed cheese, pickles and onions on a toasted sesame seed bun.",
+    "excerpt": true
+  },
+  {
+    "name": "Double Big Mac",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/double-big-mac-200946.html",
+    "description": "Four 100% Canadian beef patties, special sauce, crisp lettuce, processed cheese, pickles, and onions, all stacked on a toasted sesame seed bun.",
+    "excerpt": true
+  },
+  {
+    "name": "Double Cheeseburger",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/double-cheeseburger.html",
+    "description": "We make it like we always have: two slices of processed cheese with two 100% Canadian beef patties, pickles, onions, ketchup and mustard on a…",
+    "excerpt": true
+  },
+  {
+    "name": "Quarter Pounder with Cheese",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/quarter-pounder-with-cheese.html",
+    "description": "A quarter pound* of 100% Canadian beef and two slices of melty processed cheese on a toasted sesame seed bun. Order today! *Before cooking.",
+    "excerpt": true
+  },
+  {
+    "name": "Quarter Pounder without Cheese",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/quarter-pounder-without-cheese.html",
+    "description": "A quarter pound* of 100% Canadian beef topped with tangy pickles, ketchup, mustard and the sweet bite of slivered onions, on a toasted sesame seed…",
+    "excerpt": true
+  },
+  {
+    "name": "Double Quarter Pounder with Cheese",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/double-quarter-pounder-with-cheese.html",
+    "description": "Two quarter pound* 100% Canadian beef patties. Layered with two slices of melty cheese, slivered onions and pickles on sesame seed bun. *Weight before cooking…",
+    "excerpt": true
+  },
+  {
+    "name": "Double Quarter Pounder without Cheese",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/double-quarter-pounder-without-cheese.html",
+    "description": "Two quarter pound* 100% Canadian beef patties layered with tangy pickles, ketchup, mustard and the sweet bite of slivered onions, on a toasted sesame seed…",
+    "excerpt": true
+  },
+  {
+    "name": "Quarter Pounder BLT",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/quarter-pounder-blt.html",
+    "description": "Sink your teeth into crisp bacon, juicy tomato and fresh lettuce to reach the beefy, cheesy core of the Quarter Pounder. Did we mention the…",
+    "excerpt": true
+  },
+  {
+    "name": "Double Quarter Pounder BLT",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/double-quarter-pounder-blt.html",
+    "description": "Two quarter pound* 100% Canadian beef patties. Layered with a slice of processed cheese, hickory-smoked bacon strips, fresh lettuce, tomato, slivered onions, mayo-style sauce, ketchup,…",
+    "excerpt": true
+  },
+  {
+    "name": "Egg 'N Cheese McMuffin",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/egg-n-cheese-mcmuffin.html",
+    "description": "Made with a freshly cracked Canada Grade A egg and tasty processed cheese on a perfectly toasted English muffin.",
+    "excerpt": true
+  },
+  {
+    "name": "Egg 'N Cheese McGriddles",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/egg-n-cheese-mcgriddles.html",
+    "description": "Made with a freshly cracked Canada Grade A egg and processed cheese on two sweet, warm, maple-flavoured griddle cakes.",
+    "excerpt": true
+  },
+  {
+    "name": "Egg BLT McMuffin",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/egg-blt-mcmuffin.html",
+    "description": "This breakfast sandwich is made with a freshly cracked Canada Grade A egg, topped with crispy hickory smoked bacon (B), crisp lettuce (L) and fresh…",
+    "excerpt": true
+  },
+  {
+    "name": "Egg BLT McMuffin with Shredded Lettuce (McDonald’s in Walmart)",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/egg-blt-mcmuffin-with-shredded-lettuce.html",
+    "description": "This breakfast sandwich is made with a freshly cracked Canada Grade A egg, topped with crispy hickory smoked bacon (B), shredded lettuce (L) and fresh…",
+    "excerpt": true
+  },
+  {
+    "name": "Chicken McMuffin",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/chicken-mcmuffin.html",
+    "description": "A breaded seasoned chicken patty, made with chicken raised on Canadian farms, with mayo- style sauce, a slice of tasty processed cheese sitting on a…",
+    "excerpt": true
+  },
+  {
+    "name": "Egg McMuffin",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/egg-mcmuffin.html",
+    "description": "Our signature breakfast sandwich boasts a freshly cracked Canada Grade A egg topped with Canadian bacon and a slice of tasty processed cheese, sitting happily…",
+    "excerpt": true
+  },
+  {
+    "name": "Sausage 'N Egg McMuffin",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/sausage-n-egg-mcmuffin.html",
+    "description": "The savoury taste of sausage, tasty processed cheese and a freshly cracked Canada Grade A egg add up to triple deliciousness on a toasty English…",
+    "excerpt": true
+  },
+  {
+    "name": "Bacon 'N Egg McMuffin",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/bacon-n-egg-mcmuffin.html",
+    "description": "Take your bacon and eggs the tasty way. Crispy hickory smoked bacon with a freshly cracked Canada Grade A egg. Topped with processed cheese, nestled…",
+    "excerpt": true
+  },
+  {
+    "name": "McCrispy",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/mccrispy.html",
+    "description": "The McCrispy is a crispy chicken sandwich made with tender and juicy 100% Canadian-raised seasoned chicken. It’s topped with shredded lettuce and creamy mayo-style sauce…",
+    "excerpt": true
+  },
+  {
+    "name": "Spicy McCrispy",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/spicy-mccrispy.html",
+    "description": "The Spicy McCrispy is a crispy chicken sandwich topped with our signature habanero sauce. Made with tender and juicy 100% Canadian-raised seasoned chicken and served…",
+    "excerpt": true
+  },
+  {
+    "name": "Spicy McCrispy Bacon Deluxe",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/spicy-mccrispy-bacon-deluxe.html",
+    "description": "The Spicy Bacon Deluxe McCrispy is big on everything, including heat. With our southern-style fried chicken patty on a soft potato bun, topped with shredded…",
+    "excerpt": true
+  },
+  {
+    "name": "McCrispy Bacon Deluxe",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/mccrispy-bacon-deluxe.html",
+    "description": "Bacon and a slice of fresh tomato take the McCrispy to the next level. Made with crispy, tender and juicy 100% Canadian-raised seasoned chicken, then…",
+    "excerpt": true
+  },
+  {
+    "name": "Grilled Chicken Sandwich",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/mccrispy-with-grilled-chicken.html",
+    "description": "The Grilled Chicken Sandwich is made with tender and juicy 100% Canadian-raised grilled seasoned chicken. Topped with shredded lettuce, creamy mayo-style sauce and served on…",
+    "excerpt": true
+  },
+  {
+    "name": "Bacon Deluxe Grilled Chicken Sandwich",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/bacon-deluxe-mccrispy-sandwich-with-grilled-chicken.html",
+    "description": "Bacon and a slice of fresh tomato take the Grilled Chicken Sandwich to the next level. Made with tender and juicy 100% Canadian-raised grilled seasoned…",
+    "excerpt": true
+  },
+  {
+    "name": "Spicy Grilled Chicken Sandwich",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/spicy-grilled-chicken-sandwich.html",
+    "description": "Made with tender and juicy 100% Canadian-raised grilled seasoned chicken, and topped with shredded lettuce and our signature Habanero sauce, it’s a spicy-lovers dream served…",
+    "excerpt": true
+  },
+  {
+    "name": "Spicy Bacon Deluxe Grilled Chicken Sandwich",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/spicy-bacon-deluxe-grilled-chicken-sandwich.html",
+    "description": "The Spicy Bacon Deluxe Grilled Chicken Sandwich is big on everything, including heat. Made with 100% Canadian-raised grilled seasoned chicken on a soft potato bun,…",
+    "excerpt": true
+  },
+  {
+    "name": "Spicy Habanero McChicken",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/habanero-mcchicken-sandwich.html",
+    "description": "Our classic McChicken packed with a punch! This spicy Habanero McChicken® is topped with our creamy Habanero sauce. Perfectly breaded seasoned chicken, crisp shredded lettuce,…",
+    "excerpt": true
+  },
+  {
+    "name": "McChicken",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/mcchicken.html",
+    "description": "Breaded seasoned chicken and crisp lettuce, topped with our Mayo-Style Sauce. Some ingredients are just meant to be together.",
+    "excerpt": true
+  },
+  {
+    "name": "4 Chicken McNuggets",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/4-chicken-mcnuggets.html",
+    "description": "No artificial flavours, colours or preservatives. Made with 100% seasoned chicken breast, the Chicken McNuggets you crave are still simply delicious.",
+    "excerpt": true
+  },
+  {
+    "name": "6 Chicken McNuggets",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/6-chicken-mcnuggets.html",
+    "description": "No artificial flavours, colours or preservatives. Made with 100% seasoned chicken breast, the Chicken McNuggets you crave are still simply delicious.",
+    "excerpt": true
+  },
+  {
+    "name": "10 Chicken McNuggets",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/10-chicken-mcnuggets.html",
+    "description": "No artificial flavours, colours or preservatives. Made with 100% seasoned chicken breast, the Chicken McNuggets you crave are still simply delicious.",
+    "excerpt": true
+  },
+  {
+    "name": "20 Chicken McNuggets (Serves 2)",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/20-chicken-mcnuggets.html",
+    "description": "No artificial flavours, colours or preservatives. Made with 100% seasoned chicken breast, the Chicken McNuggets you crave are still simply delicious.",
+    "excerpt": true
+  },
+  {
+    "name": "Orange Dream",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/orange-dream-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large A throwback with a twist: Sprite® mixed with orange cream flavoured syrup to…",
+    "excerpt": true
+  },
+  {
+    "name": "Sprite® Berry Bliss",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/berry-bliss-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large Sprite® just got a glow-up with: electric blue raspberry flavoured syrup over ice.…",
+    "excerpt": true
+  },
+  {
+    "name": "Creamy Strawberry Coke®",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/strawberry-coke-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large This is more than Coca-Cola®, this is the ultimate treat Coca-Cola®. Strawberries and…",
+    "excerpt": true
+  },
+  {
+    "name": "Strawberry Watermelon Refresher",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/strawberry-watermelon-refresher-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large A refreshing lemonade beverage to quench your thirst, made with real lemon juice…",
+    "excerpt": true
+  },
+  {
+    "name": "Mango Pineapple Refresher",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/mango-pineapple-refresher-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large A match made in the McDonald’s kitchen, a refreshing lemonade beverage made with…",
+    "excerpt": true
+  },
+  {
+    "name": "Blackberry Passionfruit Refresher",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/blackberry-passionfruit-refresher-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large Turn your lemonade beverage all the way up to 100 with the sweet…",
+    "excerpt": true
+  },
+  {
+    "name": "Strawberry Banana Real Fruit Smoothie",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/strawberry-banana-smoothie-with-yogurt-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large Get a taste of real strawberry and banana purée blended to perfection with…",
+    "excerpt": true
+  },
+  {
+    "name": "Blueberry Pomegranate Real Fruit Smoothie",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/blueberry-pomegranate-smoothie-with-yogurt-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large Made with real fruit purée and ice, it’s a refreshing way to enjoy…",
+    "excerpt": true
+  },
+  {
+    "name": "Mango Pineapple Real Fruit Smoothie",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/mango-pineapple-smoothie-with-yogurt-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large Blended with ice, real mango and pineapple purée. Enjoy it with or without…",
+    "excerpt": true
+  },
+  {
+    "name": "Fuze Iced Tea",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/fuze-iced-tea-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†C Child * cite27†L Large A refreshing blend of real tea and natural lemon flavour,…",
+    "excerpt": true
+  },
+  {
+    "name": "Fruitopia Strawberry Passion Awareness",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/fruitopia-strawberry-passion-awareness-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†C Child * cite27†L Large Real fruit beverage with added vitamin C, no artificial flavours…",
+    "excerpt": true
+  },
+  {
+    "name": "Fruitopia Orange Groove",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/fruitopia-orange-groove-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†C Child * cite27†L Large Real fruit beverage with added vitamin C, no artificial flavours…",
+    "excerpt": true
+  },
+  {
+    "name": "Coca-Cola Zero",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/coca-cola-zero-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†C Child * cite27†L Large Real Coca-Cola taste with zero calories and zero sugar. Perfection…",
+    "excerpt": true
+  },
+  {
+    "name": "Coca-Cola",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/coca-cola-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†C Child * cite27†L Large Enjoy your favourite McDonald's meal with a Coke. The original,…",
+    "excerpt": true
+  },
+  {
+    "name": "Diet Coke",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/diet-coke-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†C Child * cite27†L Large Enjoy your favourite McDonald's meal with a Diet Coke. A…",
+    "excerpt": true
+  },
+  {
+    "name": "Sprite",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/sprite-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†C Child * cite27†L Large The great taste of crisp, clear, Sprite. Made with 100%…",
+    "excerpt": true
+  },
+  {
+    "name": "Barq's Root Beer",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/barqs-root-beer-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†C Child * cite27†L Large Get a tasty kick from every sip of ice cold…",
+    "excerpt": true
+  },
+  {
+    "name": "Minute Maid Orange Juice*",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/orange-juice-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large Start your day with the goodness of pure orange juice*. No preservatives. No…",
+    "excerpt": true
+  },
+  {
+    "name": "Minute Maid Apple Juice*",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/apple-juice-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large Enjoy the goodness of pure apple juice*. No preservatives. No sugar added. An…",
+    "excerpt": true
+  },
+  {
+    "name": "1% Partly Skimmed Milk - 250 ml",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/1-partly-skimmed-milk-250-ml.html",
+    "description": "Wholesome, delicious, low fat milk; a source of Vitamin A and an excellent source of calcium. Available in 1% chocolate milk too!",
+    "excerpt": true
+  },
+  {
+    "name": "1% Partly Skimmed Chocolate Milk - 250 ml",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/1-partly-skimmed-chocolate-milk.html",
+    "description": "Wholesome, delicious, low fat chocolate milk; a source of Vitamin A and an excellent source of calcium. Available in 1% milk too!",
+    "excerpt": true
+  },
+  {
+    "name": "Red Bull® Energy Drink",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/red-bull-energy-drink.html",
+    "description": "Enjoy the great taste you know and love of Red Bull® Energy Drink. High caffeine content. 80 mg of caffeine. Health Canada Caution: Not recommended…",
+    "excerpt": true
+  },
+  {
+    "name": "Red Bull Zero® Energy Drink",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/red-bull-zero-energy-drink.html",
+    "description": "Enjoy the great taste you know and love of Red Bull Zero® Energy Drink. High caffeine content. 80 mg of caffeine. Health Canada Caution: Not…",
+    "excerpt": true
+  },
+  {
+    "name": "Dasani Water",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/dasani-water.html",
+    "description": "Quench your thirst with a bottle of cool and refreshing Dasani water. Add a bottle to your meal order today!",
+    "excerpt": true
+  },
+  {
+    "name": "Mighty McGriddles",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/mighty-mcgriddle.html",
+    "description": "Get a double portion of hickory-smoked bacon, plus a freshly-cracked Canada Grade A egg, processed cheese and savoury sausage all on two sweet, warm, maple-flavoured…",
+    "excerpt": true
+  },
+  {
+    "name": "Mighty McMuffin",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/mighty-mcmuffin.html",
+    "description": "Get a double portion of hickory-smoked bacon, plus a freshly-cracked Canada Grade A egg , processed cheese and savoury sausage on a toasted English muffin.…",
+    "excerpt": true
+  },
+  {
+    "name": "Spicy Egg & Hash Brown Breakfast Wrap",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/spicy-egg-hash-brown-breakfast-wrap.html",
+    "description": "Made with a freshly-cracked Canadian Free Run Egg and processed cheese, topped with Spicy Habanero sauce, shredded lettuce, tomato and a crispy hash brown, all…",
+    "excerpt": true
+  },
+  {
+    "name": "Chicken Breakfast Wrap",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/chicken-hash-brown-breakfast-wrap.html",
+    "description": "Made with a breaded seasoned chicken patty and processed cheese, topped with mayo-style sauce, shredded lettuce and a crispy hash brown, all wrapped in a…",
+    "excerpt": true
+  },
+  {
+    "name": "Sausage, Bacon & Egg Breakfast Wrap",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/sausage-bacon-egg-breakfast-wrap.html",
+    "description": "Made with savoury sausage, hickory-smoked bacon, a freshly-cracked Candian Free-Run Egg, and processed cheese, topped with mayo-style sauce and a crispy hash brown, all wrapped…",
+    "excerpt": true
+  },
+  {
+    "name": "Plain Bagel With Butter",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/plain-bagel-with-butter.html",
+    "description": "Fall in love with one of our toasted plain bagels. Crispy on the outside, warm and chewy on the inside. Enjoy one toasted with butter…",
+    "excerpt": true
+  },
+  {
+    "name": "Everything Bagel with Butter",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/everything-bagel-with-butter.html",
+    "description": "Made with onion, garlic and sunflower seeds, topped with sesame seeds, poppy seeds and roasted onion. Enjoy one toasted with butter today. Not available in…",
+    "excerpt": true
+  },
+  {
+    "name": "Sesame Bagel with Butter",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/sesame-seed-bagel-with-butter-qc-only.html",
+    "description": "A toasted bagel topped with sesame seeds, crispy on the outside, warm and tender on the inside. Enjoy one toasted with butter today.",
+    "excerpt": true
+  },
+  {
+    "name": "Plain Bagel With Regular Cream Cheese Product",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/plain-bagel-with-plain-cream-cheese.html",
+    "description": "Fall in love with one of our plain bagels. Crispy on the outside, warm and chewy on the inside. Enjoy one toasted with regular cream…",
+    "excerpt": true
+  },
+  {
+    "name": "Everything Bagel With Regular Cream Cheese Product",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/everything-bagel-with-plain-cream-cheese.html",
+    "description": "Made with onion, garlic and sunflower seeds, topped with sesame seeds, poppy seeds and roasted onion. Enjoy one toasted with regular cream cheese product today.…",
+    "excerpt": true
+  },
+  {
+    "name": "Sesame Bagel With Regular Cream Cheese Product",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/sesame-seed-bagel-95g-with-plain-cream-cheese.html",
+    "description": "A toasted bagel topped with sesame seeds, crispy on the outside, warm and tender on the inside. Enjoy one toasted with regular cream cheese product…",
+    "excerpt": true
+  },
+  {
+    "name": "Egg BLT Bagel with Plain Bagel",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/egg-blt-with-plain-bagel.html",
+    "description": "Made with a plain bagel, and topped with a freshly cracked Canada Grade A egg, hickory smoked bacon, sliced tomato and crisp lettuce.",
+    "excerpt": true
+  },
+  {
+    "name": "Egg BLT Bagel with Everything Bagel",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/egg-blt-with-everything-bagel.html",
+    "description": "Made with an everything bagel, and topped with a freshly cracked Canada Grade A egg, hickory smoked bacon, sliced tomato and crisp lettuce. Not available…",
+    "excerpt": true
+  },
+  {
+    "name": "Sesame Egg BLT Bagel",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/egg-blt-with-sesame-seed-bagel.html",
+    "description": "Made with a sesame bagel, and topped with a freshly cracked Canada Grade A egg, hickory smoked bacon, sliced tomato and crisp lettuce.",
+    "excerpt": true
+  },
+  {
+    "name": "Bacon ‘N Egg Bagel with Plain Bagel",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/bacon-n-egg-with-plain-bagel.html",
+    "description": "Enjoy a plain bagel, topped with hickory smoked bacon, a freshly cracked Canada Grade A egg and slice of processed cheese.",
+    "excerpt": true
+  },
+  {
+    "name": "Bacon ‘N Egg Bagel with Everything Bagel",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/bacon-n-egg-with-everything-bagel.html",
+    "description": "Enjoy an everything bagel, topped with hickory smoked bacon, a freshly cracked Canada Grade A egg and slice of processed cheese. Not available in Quebec.",
+    "excerpt": true
+  },
+  {
+    "name": "Sesame Bacon ‘N Egg Bagel",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/bacon-n-egg-with-sesame-seed-bagel.html",
+    "description": "Enjoy a sesame bagel, topped with hickory smoked bacon, a freshly cracked Canada Grade A egg and slice of processed cheese.",
+    "excerpt": true
+  },
+  {
+    "name": "Sausage ‘N Egg Bagel with Plain Bagel",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/sausage-n-egg-with-plain-bagel.html",
+    "description": "Delicious sausage and a freshly cracked Canada Grade A egg with processed cheese, all in between a plain bagel.",
+    "excerpt": true
+  },
+  {
+    "name": "Sausage ‘N Egg Bagel with Everything Bagel",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/sausage-n-egg-with-everything-bagel.html",
+    "description": "Delicious sausage and a freshly cracked Canada Grade A egg with processed cheese, all in between an everything bagel. Not available in Quebec.",
+    "excerpt": true
+  },
+  {
+    "name": "Sesame Sausage ‘N Egg Bagel",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/sausage-n-egg-with-sesame-seed-bagel.html",
+    "description": "Delicious sausage and a freshly cracked Canada Grade A egg with processed cheese, all in between a sesame bagel.",
+    "excerpt": true
+  },
+  {
+    "name": "Chicken McGriddles",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/chicken-mcgriddles.html",
+    "description": "A breaded seasoned chicken patty, made with chicken raised on Canadian farms, on two sweet, warm maple-flavoured griddle cakes.",
+    "excerpt": true
+  },
+  {
+    "name": "Bacon, Egg & Cheese McGriddles",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/bacon-egg-cheese-mcgriddles.html",
+    "description": "Sizzling crispy hickory smoked bacon, a freshly cracked Canada Grade A egg and processed cheese piled up on two sweet, warm, maple-flavoured griddle cakes.",
+    "excerpt": true
+  },
+  {
+    "name": "Sausage Egg & Cheese McGriddles",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/sausage-egg-cheese-mcgriddles.html",
+    "description": "Savoury sausage, a freshly cracked Canada Grade A egg and processed cheese piled up on two sweet, warm, maple-flavoured griddle cakes.",
+    "excerpt": true
+  },
+  {
+    "name": "Sausage McGriddles",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/sausage-mcgriddles.html",
+    "description": "Savoury sausage piled up on two sweet, warm, maple-flavoured griddle cakes.",
+    "excerpt": true
+  },
+  {
+    "name": "Breakfast Burrito",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/breakfast-burrito.html",
+    "description": "A savoury mix of fluffy eggs, tomatoes, green chilies, onions, sausage and processed cheese all wrapped in a warm white flour tortilla and served with…",
+    "excerpt": true
+  },
+  {
+    "name": "English Muffin with Butter",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/english-muffin-with-butter.html",
+    "description": "Melted butter sitting happily on a toasted English muffin.",
+    "excerpt": true
+  },
+  {
+    "name": "Hash Browns",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/hash-browns.html",
+    "description": "That crisp, flaky, fluffy-on-the-inside favourite. A perfect breakfast companion, and irresistible on its own.",
+    "excerpt": true
+  },
+  {
+    "name": "Hotcakes with Syrup and Butter",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/hotcakes-with-syrup-and-butter.html",
+    "description": "Three golden-brown, melt-in-your-mouth hotcakes served with butter and tasty syrup on the side.",
+    "excerpt": true
+  },
+  {
+    "name": "Hotcakes",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/hotcakes.html",
+    "description": "Start the day with three golden-brown, melt-in-your-mouth hotcakes.",
+    "excerpt": true
+  },
+  {
+    "name": "Caesar and Bacon McCrispy®",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/caesar-and-bacon-mccrispy.html",
+    "description": "A crispy chicken patty – made with 100% Canadian-raised seasoned chicken – and shredded lettuce on a soft potato bun, topped with a Caesar parmesan…",
+    "excerpt": true
+  },
+  {
+    "name": "Caesar and Bacon McWrap with Crispy Chicken",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/caesar-bacon-mcwrap-crispy.html",
+    "description": "Made with 100% Canadian-raised seasoned chicken topped with a Caesar parmesan sauce, shredded lettuce, crispy onions and hickory-smoked bacon. All wrapped in a soft white…",
+    "excerpt": true
+  },
+  {
+    "name": "Caesar and Bacon McWrap with Grilled Chicken",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/caesar-bacon-mcwrap-grilled.html",
+    "description": "Made with 100% Canadian-raised seasoned chicken topped with a Caesar parmesan sauce, shredded lettuce, crispy onions and hickory-smoked bacon. All wrapped in a soft white…",
+    "excerpt": true
+  },
+  {
+    "name": "Chicken Parmi Burger",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/chicken-parmi-burger.html",
+    "description": "Straight from Australia, the Chicken Parmi Burger has landed in Canada. Crispy seasoned chicken layered with marinara sauce, creamy parmesan sauce, shredded lettuce, and white…",
+    "excerpt": true
+  },
+  {
+    "name": "6 Garlic & Black Pepper Chicken McNuggets",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/6-garlic-pepper-mcnuggets.html",
+    "description": "Last seen in Japan, these Chicken McNuggets have made their way to Canada. Crispy Chicken McNuggets with a garlic and black pepper breading, built for…",
+    "excerpt": true
+  },
+  {
+    "name": "10 Garlic & Black Pepper Chicken McNuggets",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/10-garlic-pepper-mcnuggets.html",
+    "description": "Last seen in Japan, these Chicken McNuggets have made their way to Canada. Crispy Chicken McNuggets with a garlic and black pepper breading, built for…",
+    "excerpt": true
+  },
+  {
+    "name": "20 Garlic & Black Pepper Chicken McNuggets",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/20-garlic-pepper-mcnuggets.html",
+    "description": "Last seen in Japan, these Chicken McNuggets have made their way to Canada. Crispy Chicken McNuggets with a garlic and black pepper breading, built for…",
+    "excerpt": true
+  },
+  {
+    "name": "Creamy Chipotle Chicken McWrap - Crispy",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/creamy-chipotle-chicken-mcwrap-crispy.html",
+    "description": "Made with 100% Canadian-raised seasoned chicken topped with creamy chipotle sauce, crispy tri-colour tortilla strips, shredded lettuce, sliced tomato and cucumbers. All wrapped in a…",
+    "excerpt": true
+  },
+  {
+    "name": "Creamy Chipotle Chicken McWrap - Grilled",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/creamy-chipotle-chicken-mcwrap-grilled.html",
+    "description": "Made with 100% Canadian-raised seasoned chicken topped with creamy chipotle sauce, crispy tri-colour tortilla strips, shredded lettuce, sliced tomato and cucumbers. All wrapped in a…",
+    "excerpt": true
+  },
+  {
+    "name": "Sweet Chili Junior Chicken",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/sweet-chili-junior-chicken.html",
+    "description": "Your tastebuds will be singing a whole new tune with a remixed Sweet Chili Junior Chicken made with Canadian-raised crispy seasoned chicken, topped with crunchy…",
+    "excerpt": true
+  },
+  {
+    "name": "Spicy Buffalo Chicken Poutine (Québec)",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/spicy-buffalo-chicken-poutine.html",
+    "description": "Change your size * cite1†R Regular Size * cite25†L Large Made with our World Famous Fries^{TM} layered with stringy cheese curds and savoury gravy and…",
+    "excerpt": true
+  },
+  {
+    "name": "Chicken Snack Wrap Happy Meal with Crispy Chicken",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/happy-meal-snack-wrap-crispy.html",
+    "description": "Made with 100% Canadian-raised seasoned chicken topped with shredded lettuce and mayo-style sauce wrapped in a soft white flour tortilla. Try one today with your…",
+    "excerpt": true
+  },
+  {
+    "name": "Spicy Buffalo Chicken Snack Wrap with Grilled Chicken",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/spicy-buffalo-snack-wrap-grilled.html",
+    "description": "Made with 100% Canadian raised seasoned chicken topped with shredded lettuce, shredded cheese and spicy buffalo sauce wrapped in a soft white flour tortilla.",
+    "excerpt": true
+  },
+  {
+    "name": "Spicy Buffalo Chicken Snack Wrap with Crispy Chicken",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/spicy-buffalo-snack-wrap-crispy.html",
+    "description": "Made with 100% Canadian raised seasoned chicken topped with shredded lettuce, shredded cheese and spicy buffalo sauce wrapped in a soft white flour tortilla.",
+    "excerpt": true
+  },
+  {
+    "name": "Sweet Chili McWrap - Grilled",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/new-sweet-chili-mcwrap-grilled.html",
+    "description": "Made with 100% Canadian raised seasoned chicken topped with shredded lettuce, cucumbers, mayo-style sauce and sweet chili sauce. All wrapped up in a soft white…",
+    "excerpt": true
+  },
+  {
+    "name": "Sweet Chili McWrap - Crispy",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/new-sweet-chili-mcwrap-crispy.html",
+    "description": "Made with 100% Canadian raised seasoned chicken topped with shredded lettuce, cucumbers, mayo-style sauce and sweet chili sauce. All wrapped up in a soft white…",
+    "excerpt": true
+  },
+  {
+    "name": "Chicken & Bacon McWrap - Crispy",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/new-chicken-and-bacon-mcwrap-crispy.html",
+    "description": "Made with 100% Canadian raised seasoned chicken topped with shredded lettuce, sliced tomato, cucumbers, hickory-smoked bacon and mayo-style sauce. All wrapped up in a soft…",
+    "excerpt": true
+  },
+  {
+    "name": "Chicken & Bacon McWrap - Grilled",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/new-chicken-and-bacon-mcwrap-grilled.html",
+    "description": "Made with 100% Canadian raised seasoned chicken topped with shredded lettuce, sliced tomato, cucumbers, hickory-smoked bacon and mayo-style sauce. All wrapped up in a soft…",
+    "excerpt": true
+  },
+  {
+    "name": "Ranch Chicken Snack Wrap with Grilled Chicken",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/ranch-chicken-snack-wrap-grilled-for-relaunch.html",
+    "description": "Made with 100% Canadian raised seasoned chicken topped with shredded lettuce, shredded cheese and ranch sauce wrapped in a soft white flour tortilla.",
+    "excerpt": true
+  },
+  {
+    "name": "Ranch Chicken Snack Wrap with Crispy Chicken",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/ranch-chicken-snack-wrap-crispy-for-relaunch.html",
+    "description": "Made with 100% Canadian raised seasoned chicken topped with shredded lettuce, shredded cheese and ranch sauce wrapped in a soft white flour tortilla.",
+    "excerpt": true
+  },
+  {
+    "name": "SNICKERS® McFlurry",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/snickers-mcflurry-regular.html",
+    "description": "Change your size * cite1†R Regular Size * cite25†SS Snack Size Treat yourself to creamy vanilla soft serve swirled together with SNICKERS® pieces.",
+    "excerpt": true
+  },
+  {
+    "name": "Stroopwafel McFlurry​",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/stroopwafel-mcflurry-regular-size.html",
+    "description": "Change your size * cite1†R Regular Size * cite25†SS Snack Size Missing from the Netherlands, now somehow spotted in Canada. Creamy vanilla soft serve swirled…",
+    "excerpt": true
+  },
+  {
+    "name": "Strawberry Cheesecake McFlurry",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/strawberry-cheesecake-mcflurry-regular.html",
+    "description": "Change your size * cite1†R Regular Size * cite25†SS Snack Size The perfect companion to summer! Strawberry sauce made with real strawberry pieces mixed with…",
+    "excerpt": true
+  },
+  {
+    "name": "Strawberry Sundae",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/sundae-strawberry.html",
+    "description": "Smooth and creamy vanilla soft serve, topped with strawberry sauce.",
+    "excerpt": true
+  },
+  {
+    "name": "Baked Strawberry Pie",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/strawberry-pie.html",
+    "description": "A baked pie featuring a warm strawberry filling made with real strawberry pieces and surrounded by a flaky golden-brown crust. Sweet, delicious, and baked fresh…",
+    "excerpt": true
+  },
+  {
+    "name": "Hot Fudge Sundae",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/sundae-hot-fudge.html",
+    "description": "Smooth and creamy vanilla soft serve, topped with decadent hot fudge sauce. Mmmm!",
+    "excerpt": true
+  },
+  {
+    "name": "Hot Caramel Sundae",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/sundae-hot-caramel.html",
+    "description": "Smooth and creamy vanilla soft serve, topped with your choice of yummy caramel sauce. Mmmm!",
+    "excerpt": true
+  },
+  {
+    "name": "Oreo McFlurry",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/mcflurry-oreo-regular-size-portion.html",
+    "description": "Change your size * cite1†R Regular Size * cite25†S Small Treat yourself to creamy vanilla soft serve swirled together with crunchy OREO® cookie pieces.",
+    "excerpt": true
+  },
+  {
+    "name": "SKOR McFlurry",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/mcflurry-dessert-crushed-skor-candy-bars-regular-size-portion.html",
+    "description": "Change your size * cite1†R Regular Size * cite25†SS Snack Size Treat yourself to creamy vanilla soft serve swirled together with SKOR® pieces. SKOR® ALLERGY…",
+    "excerpt": true
+  },
+  {
+    "name": "Smarties McFlurry",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/smarties-mcflurry-regular-size-portion.html",
+    "description": "Change your size * cite1†R Regular Size * cite25†SS Snack Size Treat yourself to creamy vanilla soft serve swirled together with crushed SMARTIES®. No artificial…",
+    "excerpt": true
+  },
+  {
+    "name": "Chocolate Triple Thick Milkshake",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/triple-thick-milkshake-chocolate-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†L Large * cite26†S Small * cite27†SS Snack Size Thick, smooth, and deliciously creamy soft serve, mixed with…",
+    "excerpt": true
+  },
+  {
+    "name": "Vanilla Triple Thick Milkshake",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/triple-thick-milkshake-vanilla-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large * cite27†SS Snack Size Thick, smooth, and deliciously creamy soft serve, mixed with…",
+    "excerpt": true
+  },
+  {
+    "name": "Strawberry Triple Thick Milkshake",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/triple-thick-milkshake-strawberry-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large * cite27†SS Snack Size Thick, smooth, and deliciously creamy soft serve, mixed with…",
+    "excerpt": true
+  },
+  {
+    "name": "Baked Apple Pie",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/baked-apple-pie.html",
+    "description": "It’s the tradition you love to uphold, with delicious apples lightly spiced with cinnamon in a flaky crust, baked fresh daily.",
+    "excerpt": true
+  },
+  {
+    "name": "Pistachio Cloud Iced Coffee",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/pistachio-cloud-iced-coffee-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large Form an orderly line, next stop, Cloud Nine! This iced coffee, made with…",
+    "excerpt": true
+  },
+  {
+    "name": "Pistachio Coffee Frappé",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/pistachio-coffee-frappe-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large One sip and we bet you’ll be saying, ‘what the frappé?!’ Made with…",
+    "excerpt": true
+  },
+  {
+    "name": "Pistachio Iced Coffee",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/pistachio-iced-coffee-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large Cool and refreshing, Premium Roast Coffee on ice, brewed from 100% Arabica beans,…",
+    "excerpt": true
+  },
+  {
+    "name": "Pistachio Latte",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/pistachio-latte-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large Treat yourself with the smooth and creamy Pistachio Latte, made with our signature…",
+    "excerpt": true
+  },
+  {
+    "name": "Cloud Iced Coffee",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/cloud-iced-coffee-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large The iced coffee order of your dreams, made with Premium Roast Coffee -…",
+    "excerpt": true
+  },
+  {
+    "name": "Salted Caramel Cloud Iced Coffee",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/salted-caramel-cloud-iced-coffee-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large Form an orderly line, next stop, Cloud Nine! This iced coffee, made with…",
+    "excerpt": true
+  },
+  {
+    "name": "French Vanilla Cloud Iced Coffee",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/french-vanilla-cloud-iced-coffee-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large Ooh là là, there’s a new iced coffee in town. We’re talking Premium…",
+    "excerpt": true
+  },
+  {
+    "name": "Cloud Iced Coffee with Sugar-Free Syrup",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/cloud-iced-coffee-with-sugar-free-syrup-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large Forecast says cloudy with a chance of iced coffee. Say hello to Premium…",
+    "excerpt": true
+  },
+  {
+    "name": "Salted Caramel Coffee Frappé",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/salted-caramel-coffee-frappe-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large One sip and we bet you’ll be saying, ‘what the frappé?!’ Made with…",
+    "excerpt": true
+  },
+  {
+    "name": "McCafé Premium Roast Brewed Oat Iced Coffee",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/oat-iced-coffee-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large Cool and refreshing, Premium Roast Coffee on ice, brewed from 100% Arabica beans,…",
+    "excerpt": true
+  },
+  {
+    "name": "Salted Caramel Latte",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/salted-caramel-latte-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large Treat yourself with the smooth and creamy Salted Caramel Latte, made with our…",
+    "excerpt": true
+  },
+  {
+    "name": "Salted Caramel Iced Coffee",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/salted-caramel-iced-coffee-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large Cool and refreshing, Premium Roast Coffee on ice, brewed from 100% Arabica beans,…",
+    "excerpt": true
+  },
+  {
+    "name": "Berry McPops",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/berry-mcpops.html",
+    "description": "Mini pink powdered donut with a berries and cherry filling.",
+    "excerpt": true
+  },
+  {
+    "name": "White Chocolate McPops",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/white-chocolate-mcpops.html",
+    "description": "Mini powdered donut with white chocolate filling.",
+    "excerpt": true
+  },
+  {
+    "name": "Hazelnut & Cocoa McPops",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/hazelnut-cocoa-mcpops.html",
+    "description": "Mini donut with hazelnut filling, dusted with cocoa powder.",
+    "excerpt": true
+  },
+  {
+    "name": "Premium Roast Brewed Coffee",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/coffee-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large * cite27†XL Extra Large Brewed from 100% Arabica beans, fire-roasted for a rich,…",
+    "excerpt": true
+  },
+  {
+    "name": "Premium Tea",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/premium-tea-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large * cite27†XL Extra Large Relax. It’s your time to enjoy a long, slow…",
+    "excerpt": true
+  },
+  {
+    "name": "Cappuccino - 2% milk",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/cappuccino-with-2-milk-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large Our Cappuccino is bold and classic, made with our signature McCafé espresso topped…",
+    "excerpt": true
+  },
+  {
+    "name": "Latte - 2% milk",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/latte-with-2-milk-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large Treat yourself with the smooth and sophisticated Latte, made with our signature McCafé…",
+    "excerpt": true
+  },
+  {
+    "name": "French Vanilla Latte - 2% milk",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/french-vanilla-latte-with-2-milk-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large Treat yourself with the smooth and creamy French Vanilla Latte, made with our…",
+    "excerpt": true
+  },
+  {
+    "name": "Latte with Sugar Free Syrup - 2% milk",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/latte-with-sugar-free-syrup-with-2-milk-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large Enjoy our Latte with Sugar-Free syrup, made with our signature McCafé espresso and…",
+    "excerpt": true
+  },
+  {
+    "name": "Mocha",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/mocha-with-2-milk-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large Made with 100% Arabica bean espresso, fresh milk, steamed and frothed, real whipped…",
+    "excerpt": true
+  },
+  {
+    "name": "Espresso",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/espresso.html",
+    "description": "Get ready for a McCafé Espresso – a bold boost of rich flavour from our freshly ground espresso, made from 100% Arabica beans.",
+    "excerpt": true
+  },
+  {
+    "name": "Double Espresso",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/double-espresso.html",
+    "description": "Get ready for a McCafé Espresso – a bold boost of rich flavour from our freshly ground espresso, made from 100% Arabica beans.",
+    "excerpt": true
+  },
+  {
+    "name": "Americano",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/americano-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large Our Americano is bold and robust, made with our signature McCafé espresso combined…",
+    "excerpt": true
+  },
+  {
+    "name": "Hot Chocolate",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/hot-chocolate-with-2-milk-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large A hot chocolate made with a perfect balance of sweetness, vanilla, chocolate and…",
+    "excerpt": true
+  },
+  {
+    "name": "Premium Roast Brewed Iced Coffee",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/iced-coffee-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large Cool and refreshing, premium roast coffee on ice, brewed from 100% Arabica beans,…",
+    "excerpt": true
+  },
+  {
+    "name": "French Vanilla Iced Coffee",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/vanilla-iced-coffee-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large Cool and refreshing, premium roast coffee on ice, brewed from 100% Arabica beans,…",
+    "excerpt": true
+  },
+  {
+    "name": "Iced Coffee with Sugar Free Syrup",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/iced-coffee-with-sugar-free-syrup-medium.html",
+    "description": "Change your size * cite1†M Medium * cite25†S Small * cite26†L Large Cool and refreshing, Premium Roast Coffee on ice, brewed from 100% Arabica beans,…",
+    "excerpt": true
+  },
+  {
+    "name": "Coffee Frappé",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/coffee-iced-frapp-medium.html",
+    "description": "Change your size * cite25†S Small * cite1†M Medium * cite26†L Large Coffee Frappé is made with the great taste of 100% Arabica beans in…",
+    "excerpt": true
+  },
+  {
+    "name": "Vanilla Chai Frappé",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/vanilla-chai-iced-frapp-small.html",
+    "description": "Change your size * cite1†S Small * cite26†M Medium * cite27†L Large Vanilla Chai Iced Frappé is made with the refreshingly exotic combination of vanilla…",
+    "excerpt": true
+  },
+  {
+    "name": "Fruit & Fibre Muffin",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/fruit-fibre-muffin.html",
+    "description": "A perfect companion to coffee; a quick-and-easy mid-morning or afternoon treat. With a choice of five delectable flavours including Banana Chocolate Chunk, Blueberry, Carrot, Fruit…",
+    "excerpt": true
+  },
+  {
+    "name": "Chocolate Brownie Muffin",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/chocolate-brownie-muffin.html",
+    "description": "Baked fresh daily and moist like a brownie, with the decadent taste of chocolate mixed with sweet chocolate chips and topped with crunchy brownie pieces.",
+    "excerpt": true
+  },
+  {
+    "name": "Blueberry Muffin",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/blueberry-muffin.html",
+    "description": "A perfect companion to coffee; a quick-and-easy mid-morning or afternoon treat. With a choice of five delectable flavours including Banana Chocolate Chunk, Blueberry, Carrot, Fruit…",
+    "excerpt": true
+  },
+  {
+    "name": "Carrot Muffin",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/carrot-muffin.html",
+    "description": "A perfect companion to coffee; a quick-and-easy mid-morning or afternoon treat. With a choice of five delectable flavours including Banana Chocolate Chunk, Blueberry, Carrot, Fruit…",
+    "excerpt": true
+  },
+  {
+    "name": "Cranberry Orange Muffin",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/cranberry-orange-muffin-201057.html",
+    "description": "A perfect companion to coffee; a quick-and-easy mid-morning or afternoon treat. With a choice of five delectable flavours including Banana Chocolate Chunk, Blueberry, Carrot, Fruit…",
+    "excerpt": true
+  },
+  {
+    "name": "Chocolate Chip Muffin",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/chocolate-chip-muffin.html",
+    "description": "Baked fresh daily, the Chocolate Chip Muffin is sweet and delicious, mixed with milk chocolate chips and topped with more milk chocolate chips.",
+    "excerpt": true
+  },
+  {
+    "name": "McVeggie",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/mcveggie.html",
+    "description": "A breaded veggie patty made with a blend of vegetables (including carrots, green beans, zucchini, peas, soybeans, broccoli and corn) and seasoning, topped with shredded…",
+    "excerpt": true
+  },
+  {
+    "name": "Spicy McVeggie",
+    "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/product/spicy-mcveggie.html",
+    "description": "A breaded veggie patty made with a blend of vegetables (including carrots, green beans, zucchini, peas, soybeans, broccoli and corn) and seasoning, topped with shredded…",
+    "excerpt": true
+  }
+]
