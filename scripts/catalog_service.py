@@ -267,7 +267,7 @@ def fetch(url):
 def atomic_json(path, data):
     path.parent.mkdir(parents=True, exist_ok=True)
     temporary = path.with_suffix('.tmp')
-    temporary.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n')
+    temporary.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     os.replace(temporary, path)
 
 
@@ -284,9 +284,9 @@ class Catalog:
             path = self.runtime / filename
             if not path.exists():
                 path = self.seeds / filename
-            self.snapshots[provider] = validate(json.loads(path.read_text()), provider)
+            self.snapshots[provider] = validate(json.loads(path.read_text(encoding='utf-8')), provider)
         status_path = self.runtime / 'status.json'
-        self.status = json.loads(status_path.read_text()) if status_path.exists() else {'providers': {}}
+        self.status = json.loads(status_path.read_text(encoding='utf-8')) if status_path.exists() else {'providers': {}}
 
     def bundle(self):
         with self.lock:
