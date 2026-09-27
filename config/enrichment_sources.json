@@ -135,6 +135,20 @@
       "reviewedAt": "2026-09-27T03:32:38.164080+00:00"
     },
     {
+      "id": "skip-cibc-monthly-voucher",
+      "providerId": "prov_skip",
+      "title": "$10 monthly voucher after four $30+ orders",
+      "sourceUrl": "https://www.skipthedishes.com/rewards/skipplus?appRender=true",
+      "terms": "Eligible CIBC cardholders linked to Skip+ receive a $10 voucher in My Skip after four orders of $30 or more in a calendar month, before taxes, tips and fees. Confirm account eligibility and voucher availability.",
+      "expiresOn": null,
+      "code": "",
+      "restaurantNameContains": "",
+      "minimumCents": 3000,
+      "country": "CA",
+      "eligibility": "confirm_in_provider",
+      "reviewedAt": "2026-09-27T03:32:38.164080+00:00"
+    },
+    {
       "providerId": "prov_direct",
       "expiresOn": null,
       "code": "3BURGER",
