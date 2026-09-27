@@ -6,7 +6,7 @@
     "country": "CA",
     "currency": "CAD"
   },
-  "generatedAt": "2026-09-27T04:53:32.298135+00:00",
+  "generatedAt": "2026-09-27T15:50:39.341817+00:00",
   "provenance": {
     "baseline": "Curated merchant directory and direct-menu observations.",
     "providers": "Committed provider catalogs from the acquisition collector.",
@@ -9170,7 +9170,7 @@
         "coverage": "partial: structured public menu only",
         "fulfillmentMode": "unspecified",
         "rating": null,
-        "imageUrl": "",
+        "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/b322f5a0-0ad0-46ec-89c1-23a84c8332f9.jpg",
         "menuItems": [
           {
             "name": "Solo (Breaded Wings)(1 Lb)",
@@ -12738,7 +12738,7 @@
         "coverage": "partial: structured public menu only",
         "fulfillmentMode": "unspecified",
         "rating": null,
-        "imageUrl": "",
+        "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/70c55d95-f0b1-4fca-aac8-e9ab5b933108.png",
         "menuItems": [
           {
             "name": "Cineplex Popcorn",
@@ -15420,7 +15420,7 @@
         "coverage": "partial: structured public menu only",
         "fulfillmentMode": "unspecified",
         "rating": null,
-        "imageUrl": "",
+        "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/0a3fa89d-0be6-4809-842c-41e1c982b24f.jpeg",
         "menuItems": [
           {
             "name": "Chicken Souvlaki Wrap",
@@ -16014,7 +16014,7 @@
         "coverage": "partial: structured public menu only",
         "fulfillmentMode": "unspecified",
         "rating": null,
-        "imageUrl": "",
+        "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/5f2cfba7-2f2b-4344-bec3-0947fd0a3154.png",
         "menuItems": [
           {
             "name": "Buffalo Chicken Poutine",
@@ -25605,13 +25605,14 @@
           ],
           "id": "ss_doordash_36209643",
           "addressSourceUrl": "https://www.doordash.com/store/philthy-wings-fredericton-36209643/",
-          "imageUrl": "",
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/b322f5a0-0ad0-46ec-89c1-23a84c8332f9.jpg",
           "categories": [
             "American",
             "Canadian",
             "Fast Food"
           ],
-          "observedAt": "2026-09-27T01:32:12.128527+00:00"
+          "observedAt": "2026-09-27T01:32:12.128527+00:00",
+          "imageSourceUrl": "https://www.doordash.com/store/philthy-wings-fredericton-36209643/"
         },
         {
           "name": "Philthy Pierogi",
@@ -29207,7 +29208,7 @@
           ],
           "id": "ss_doordash_31852895",
           "addressSourceUrl": "https://www.doordash.com/store/cineplex-fredericton-31852895/",
-          "imageUrl": "",
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/70c55d95-f0b1-4fca-aac8-e9ab5b933108.png",
           "categories": [
             "American",
             "Candy Stores",
@@ -29215,7 +29216,8 @@
             "Popcorn",
             "Snacks"
           ],
-          "observedAt": "2026-09-27T01:33:04.048942+00:00"
+          "observedAt": "2026-09-27T01:33:04.048942+00:00",
+          "imageSourceUrl": "https://www.doordash.com/store/cineplex-fredericton-31852895/"
         },
         {
           "name": "Betty Lee's - Baking Paradise - Tobe Milk Tea",
@@ -32330,13 +32332,14 @@
           "directoryObservedAt": "2026-09-27T01:31:07.613749+00:00",
           "address": "1111 Regent St, Fredericton, NB E3B 3Z2, Canada",
           "addressSourceUrl": "https://www.doordash.com/store/yassou-souvlaki-&-donair-fredericton-24875523/",
-          "imageUrl": "",
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/0a3fa89d-0be6-4809-842c-41e1c982b24f.jpeg",
           "categories": [
             "Greek",
             "Wraps",
             "Gyro"
           ],
-          "observedAt": "2026-09-27T01:33:55.918957+00:00"
+          "observedAt": "2026-09-27T01:33:55.918957+00:00",
+          "imageSourceUrl": "https://www.doordash.com/store/yassou-souvlaki-&-donair-fredericton-24875523/"
         },
         {
           "id": "ss_doordash_1176055",
@@ -32500,13 +32503,14 @@
           "directoryObservedAt": "2026-09-27T01:31:07.613758+00:00",
           "address": "361 Rue Smythe, Fredericton, NB E3B 3E3, Canada",
           "addressSourceUrl": "https://www.doordash.com/store/country-fried-fredericton-37817609/",
-          "imageUrl": "",
+          "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/5f2cfba7-2f2b-4344-bec3-0947fd0a3154.png",
           "categories": [
             "Sandwiches",
             "Canadian",
             "Poutineries"
           ],
-          "observedAt": "2026-09-27T01:34:01.128371+00:00"
+          "observedAt": "2026-09-27T01:34:01.128371+00:00",
+          "imageSourceUrl": "https://www.doordash.com/store/country-fried-fredericton-37817609/"
         },
         {
           "id": "ss_doordash_740167",
@@ -35733,86 +35737,86 @@
         "verifiedAt": "2026-09-27T03:39:28.615846+00:00",
         "needsReview": false
       },
-    {
-      "id": "taco-boyz-burrito-loco",
-      "providerId": "prov_direct",
-      "title": "Monday: regular burritos and bowls for $9.95",
-      "sourceUrl": "https://www.tacoboyz.com/",
-      "terms": "Taco Boyz lists this as a weekly special every Monday. Choose the Fredericton location and confirm eligible items, availability for your selected fulfillment mode (delivery, pickup, or dine-in), and current price when ordering. Not a coupon code; taxes and availability may vary.",
-      "expiresOn": null,
-      "code": "",
-      "restaurantNameContains": "Taco Boyz",
-      "minimumCents": 0,
-      "country": "CA",
-      "eligibility": "public_restaurant",
-      "reviewedAt": "2026-09-27T15:04:48+00:00",
-      "verifiedAt": "2026-09-27T15:04:48+00:00",
-      "needsReview": false
-    },
-    {
-      "id": "taco-boyz-taco-dayz",
-      "providerId": "prov_direct",
-      "title": "Wednesday: three tacos for $10.95",
-      "sourceUrl": "https://www.tacoboyz.com/",
-      "terms": "Taco Boyz lists this as a weekly special every Wednesday. Choose the Fredericton location and confirm eligible tacos, availability for your selected fulfillment mode (delivery, pickup, or dine-in), and current price when ordering. Not a coupon code; taxes and availability may vary.",
-      "expiresOn": null,
-      "code": "",
-      "restaurantNameContains": "Taco Boyz",
-      "minimumCents": 0,
-      "country": "CA",
-      "eligibility": "public_restaurant",
-      "reviewedAt": "2026-09-27T15:04:48+00:00",
-      "verifiedAt": "2026-09-27T15:04:48+00:00",
-      "needsReview": false
-    },
-    {
-      "id": "taco-boyz-siesta-saturday",
-      "providerId": "prov_direct",
-      "title": "Saturday: regular quesadillas for $9.95",
-      "sourceUrl": "https://www.tacoboyz.com/",
-      "terms": "Taco Boyz lists this as a weekly special every Saturday. Choose the Fredericton location and confirm eligible items, availability for your selected fulfillment mode (delivery, pickup, or dine-in), and current price when ordering. Not a coupon code; taxes and availability may vary.",
-      "expiresOn": null,
-      "code": "",
-      "restaurantNameContains": "Taco Boyz",
-      "minimumCents": 0,
-      "country": "CA",
-      "eligibility": "public_restaurant",
-      "reviewedAt": "2026-09-27T15:04:48+00:00",
-      "verifiedAt": "2026-09-27T15:04:48+00:00",
-      "needsReview": false
-    },
-    {
-      "id": "mcdonalds-five-dollar-mcvalue",
-      "providerId": "prov_direct",
-      "title": "$5 McValue Meals (in-store or drive-thru; no delivery)",
-      "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/newsroom/article/McDonald-s-Canada-Announces-One-Year-Price-Promise-on--5-McValue--Meals-and--1-small-McCaf---Coffee-.html",
-      "terms": "Canada-wide one-year price promise announced January 13, 2026. Lunch and dinner: McDouble, Junior Chicken, or Chicken Snack Wrap meal with small fries and a small fountain drink. Breakfast until 11 a.m.: Sausage McMuffin, Sausage McGriddles, Breakfast Burrito, or Bagel with Cream Cheese meal, each with a hash brown and small McCafé coffee. In-store or drive-thru only; McDonald’s says this offer is not available through delivery. Prices before tax; item availability varies by restaurant.",
-      "expiresOn": "2027-01-12",
-      "code": "",
-      "restaurantNameContains": "McDonald",
-      "minimumCents": 0,
-      "country": "CA",
-      "eligibility": "public_restaurant",
-      "reviewedAt": "2026-09-27T15:04:48+00:00",
-      "verifiedAt": "2026-09-27T15:04:48+00:00",
-      "needsReview": false
-    },
-    {
-      "id": "mcdonalds-one-dollar-coffee",
-      "providerId": "prov_direct",
-      "title": "$1 small McCafé Premium Roast coffee (no delivery)",
-      "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/newsroom/article/McDonald-s-Canada-Announces-One-Year-Price-Promise-on--5-McValue--Meals-and--1-small-McCaf---Coffee-.html",
-      "terms": "Small McCafé Premium Roast coffee for $1, with no minimum purchase. In-store or drive-thru only; McDonald’s says this offer is not available through delivery. Prices before tax; availability varies by restaurant. This is part of the one-year price promise announced January 13, 2026.",
-      "expiresOn": "2027-01-12",
-      "code": "",
-      "restaurantNameContains": "McDonald",
-      "minimumCents": 0,
-      "country": "CA",
-      "eligibility": "public_restaurant",
-      "reviewedAt": "2026-09-27T15:04:48+00:00",
-      "verifiedAt": "2026-09-27T15:04:48+00:00",
-      "needsReview": false
-    }
+      {
+        "id": "taco-boyz-burrito-loco",
+        "providerId": "prov_direct",
+        "title": "Monday: regular burritos and bowls for $9.95",
+        "sourceUrl": "https://www.tacoboyz.com/",
+        "terms": "Taco Boyz lists this as a weekly special every Monday. Choose the Fredericton location and confirm eligible items, availability for your selected fulfillment mode (delivery, pickup, or dine-in), and current price when ordering. Not a coupon code; taxes and availability may vary.",
+        "expiresOn": null,
+        "code": "",
+        "restaurantNameContains": "Taco Boyz",
+        "minimumCents": 0,
+        "country": "CA",
+        "eligibility": "public_restaurant",
+        "reviewedAt": "2026-09-27T15:04:48+00:00",
+        "verifiedAt": "2026-09-27T15:04:48+00:00",
+        "needsReview": false
+      },
+      {
+        "id": "taco-boyz-taco-dayz",
+        "providerId": "prov_direct",
+        "title": "Wednesday: three tacos for $10.95",
+        "sourceUrl": "https://www.tacoboyz.com/",
+        "terms": "Taco Boyz lists this as a weekly special every Wednesday. Choose the Fredericton location and confirm eligible tacos, availability for your selected fulfillment mode (delivery, pickup, or dine-in), and current price when ordering. Not a coupon code; taxes and availability may vary.",
+        "expiresOn": null,
+        "code": "",
+        "restaurantNameContains": "Taco Boyz",
+        "minimumCents": 0,
+        "country": "CA",
+        "eligibility": "public_restaurant",
+        "reviewedAt": "2026-09-27T15:04:48+00:00",
+        "verifiedAt": "2026-09-27T15:04:48+00:00",
+        "needsReview": false
+      },
+      {
+        "id": "taco-boyz-siesta-saturday",
+        "providerId": "prov_direct",
+        "title": "Saturday: regular quesadillas for $9.95",
+        "sourceUrl": "https://www.tacoboyz.com/",
+        "terms": "Taco Boyz lists this as a weekly special every Saturday. Choose the Fredericton location and confirm eligible items, availability for your selected fulfillment mode (delivery, pickup, or dine-in), and current price when ordering. Not a coupon code; taxes and availability may vary.",
+        "expiresOn": null,
+        "code": "",
+        "restaurantNameContains": "Taco Boyz",
+        "minimumCents": 0,
+        "country": "CA",
+        "eligibility": "public_restaurant",
+        "reviewedAt": "2026-09-27T15:04:48+00:00",
+        "verifiedAt": "2026-09-27T15:04:48+00:00",
+        "needsReview": false
+      },
+      {
+        "id": "mcdonalds-five-dollar-mcvalue",
+        "providerId": "prov_direct",
+        "title": "$5 McValue Meals (in-store or drive-thru; no delivery)",
+        "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/newsroom/article/McDonald-s-Canada-Announces-One-Year-Price-Promise-on--5-McValue--Meals-and--1-small-McCaf---Coffee-.html",
+        "terms": "Canada-wide one-year price promise announced January 13, 2026. Lunch and dinner: McDouble, Junior Chicken, or Chicken Snack Wrap meal with small fries and a small fountain drink. Breakfast until 11 a.m.: Sausage McMuffin, Sausage McGriddles, Breakfast Burrito, or Bagel with Cream Cheese meal, each with a hash brown and small McCafé coffee. In-store or drive-thru only; McDonald’s says this offer is not available through delivery. Prices before tax; item availability varies by restaurant.",
+        "expiresOn": "2027-01-12",
+        "code": "",
+        "restaurantNameContains": "McDonald",
+        "minimumCents": 0,
+        "country": "CA",
+        "eligibility": "public_restaurant",
+        "reviewedAt": "2026-09-27T15:04:48+00:00",
+        "verifiedAt": "2026-09-27T15:04:48+00:00",
+        "needsReview": false
+      },
+      {
+        "id": "mcdonalds-one-dollar-coffee",
+        "providerId": "prov_direct",
+        "title": "$1 small McCafé Premium Roast coffee (no delivery)",
+        "sourceUrl": "https://www.mcdonalds.com/ca/en-ca/newsroom/article/McDonald-s-Canada-Announces-One-Year-Price-Promise-on--5-McValue--Meals-and--1-small-McCaf---Coffee-.html",
+        "terms": "Small McCafé Premium Roast coffee for $1, with no minimum purchase. In-store or drive-thru only; McDonald’s says this offer is not available through delivery. Prices before tax; availability varies by restaurant. This is part of the one-year price promise announced January 13, 2026.",
+        "expiresOn": "2027-01-12",
+        "code": "",
+        "restaurantNameContains": "McDonald",
+        "minimumCents": 0,
+        "country": "CA",
+        "eligibility": "public_restaurant",
+        "reviewedAt": "2026-09-27T15:04:48+00:00",
+        "verifiedAt": "2026-09-27T15:04:48+00:00",
+        "needsReview": false
+      }
     ],
     "directMenus": [
       {
@@ -36737,6 +36741,8 @@
         "Greco Cheesy Bread": "https://menu-images-static.skipthedishes.com/images/resized/item-940293ca76dcb30defe7.jpg",
         "Donair Eggroll": "https://menu-images-static.skipthedishes.com/images/resized/item-10b9f6cc25c606eb230c.jpg",
         "Donair Dippers": "https://menu-images-static.skipthedishes.com/images/resized/item-27ba5da610bf2be5c30e.jpg",
+        "8 Donair Dippers": "https://menu-images-static.skipthedishes.com/images/resized/item-27ba5da610bf2be5c30e.jpg",
+        "20 Donair Dippers": "https://menu-images-static.skipthedishes.com/images/resized/item-27ba5da610bf2be5c30e.jpg",
         "Regular Wings (8 pcs)": "https://menu-images-static.skipthedishes.com/images/resized/item-903328a394fbeaa3cd78.jpg",
         "Regular Wings (15 pcs)": "https://menu-images-static.skipthedishes.com/images/resized/item-00b9e025e17ac8ed01b5.jpg",
         "Regular Wings (40 pcs)": "https://menu-images-static.skipthedishes.com/images/resized/item-2191a70d092739664bca.jpg",
@@ -38189,6 +38195,8 @@
         "Greco Cheesy Bread": "https://menu-images-static.skipthedishes.com/images/resized/item-940293ca76dcb30defe7.jpg",
         "Donair Eggroll": "https://menu-images-static.skipthedishes.com/images/resized/item-10b9f6cc25c606eb230c.jpg",
         "Donair Dippers": "https://menu-images-static.skipthedishes.com/images/resized/item-27ba5da610bf2be5c30e.jpg",
+        "8 Donair Dippers": "https://menu-images-static.skipthedishes.com/images/resized/item-27ba5da610bf2be5c30e.jpg",
+        "20 Donair Dippers": "https://menu-images-static.skipthedishes.com/images/resized/item-27ba5da610bf2be5c30e.jpg",
         "Regular Wings (8 pcs)": "https://menu-images-static.skipthedishes.com/images/resized/item-903328a394fbeaa3cd78.jpg",
         "Regular Wings (15 pcs)": "https://menu-images-static.skipthedishes.com/images/resized/item-00b9e025e17ac8ed01b5.jpg",
         "Regular Wings (40 pcs)": "https://menu-images-static.skipthedishes.com/images/resized/item-2191a70d092739664bca.jpg",
