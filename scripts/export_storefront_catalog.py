@@ -119,6 +119,11 @@ def main():
             oid=iid+'_prov_direct'
             result['offers'].append({'id':oid,'restaurantId':rid,'menuItemId':iid,'providerId':'prov_direct','price':{'amountCents':raw['amountCents'],'currency':'CAD'},'estimatedMinutes':0})
             result['provenance'][oid]={'sourceUrl':menu['sourceUrl'],'startingPrice':True,'fulfillmentMode':'pickup'}
+    # Only expose restaurant-direct ordering when collected prices exist for this branch.
+    direct_ids={offer['restaurantId'] for offer in result['offers'] if offer['providerId']=='prov_direct'}
+    result['merchantOrdering']={rid:entry for rid,entry in result['merchantOrdering'].items() if rid in direct_ids}
+    for restaurant in result['restaurants']:
+        if restaurant['id'] not in direct_ids:restaurant['appURL']=''
     target=WEB/'src/catalog/catalog.json';target.write_text(json.dumps(result,indent=2)+'\n')
     print('Exported',len(result['restaurants']),'restaurants,',len(result['items']),'pictured items,',len(result['offers']),'collected provider prices; no synthetic offers')
 if __name__=='__main__':main()
