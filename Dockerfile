@@ -9,11 +9,12 @@ ENV GONOSUMDB=github.com/ChristianDenniss/*
 RUN if [ -n "$GITHUB_TOKEN" ]; then \
   git config --global url."https://x-access-token:${GITHUB_TOKEN}@github.com/".insteadOf "https://github.com/"; \
   fi
-COPY go.mod go.sum ./
+COPY nibble-data-acquisition/go.mod nibble-data-acquisition/go.sum ./
+COPY nibble-platform-contracts /nibble-platform-contracts
 RUN --mount=type=cache,target=/go/pkg/mod \
   go mod download
-COPY cmd cmd
-COPY internal internal
+COPY nibble-data-acquisition/cmd cmd
+COPY nibble-data-acquisition/internal internal
 RUN --mount=type=cache,target=/go/pkg/mod \
   --mount=type=cache,target=/root/.cache/go-build \
   CGO_ENABLED=0 go build -mod=mod -trimpath -ldflags="-s -w" -o /out/data-acquisition ./cmd/data-acquisition
