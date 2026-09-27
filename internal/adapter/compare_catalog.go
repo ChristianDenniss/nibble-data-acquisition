@@ -87,9 +87,10 @@ func IngestCompareCatalog(ctx context.Context, client ingestv2.IngestServiceClie
 		}
 	}
 
+	const burgerImage = "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=480&q=80&auto=format&fit=crop"
 	for _, item := range []*ingestv2.SourceItem{
-		{Id: "si_store_burger", SourceCategoryId: "cat_store", Name: "Classic Burger"},
-		{Id: "si_skip_burger", SourceCategoryId: "cat_skip", Name: "Classic Burger"},
+		{Id: "si_store_burger", SourceCategoryId: "cat_store", Name: "Classic Burger", ImageUrl: burgerImage},
+		{Id: "si_skip_burger", SourceCategoryId: "cat_skip", Name: "Classic Burger", ImageUrl: burgerImage},
 	} {
 		if _, err := client.RecordSourceItem(ctx, &ingestv2.RecordSourceItemRequest{Item: item}); err != nil {
 			return err

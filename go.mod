@@ -7,6 +7,8 @@ require (
 	google.golang.org/grpc v1.68.1
 )
 
+replace github.com/ChristianDenniss/platform-contracts => ../nibble-platform-contracts
+
 require (
 	golang.org/x/net v0.29.0 // indirect
 	golang.org/x/sys v0.28.0 // indirect
