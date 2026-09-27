@@ -6,7 +6,7 @@
     "country": "CA",
     "currency": "CAD"
   },
-  "generatedAt": "2026-09-27T04:50:14.315820+00:00",
+  "generatedAt": "2026-09-27T04:53:32.298135+00:00",
   "provenance": {
     "baseline": "Curated merchant directory and direct-menu observations.",
     "providers": "Committed provider catalogs from the acquisition collector.",
@@ -3035,6 +3035,186 @@
         "image_status": "source_page_only",
         "source_url": "https://order.online/en-US/store/thai-manao-fredericton-757986",
         "observed_at": "2026-09-27"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_cashew_chicken",
+        "name": "Cashew Chicken",
+        "description": "Thai fried-chicken stir-fry with cashew nuts and steamed Thai jasmine rice.",
+        "section": "Thai Cuisine",
+        "image_url": "",
+        "image_source_url": "https://www.sunprincefredericton.com/menu",
+        "image_status": "source_page_only",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "observed_at": "2026-09-27"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_pad_king_chicken",
+        "name": "Pad King - Chicken",
+        "description": "Thai ginger stir-fry with steamed Thai jasmine rice.",
+        "section": "Thai Cuisine",
+        "image_url": "",
+        "image_source_url": "https://www.sunprincefredericton.com/menu",
+        "image_status": "source_page_only",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "observed_at": "2026-09-27"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_green_curry_chicken",
+        "name": "Green Curry - Chicken",
+        "description": "Thai green curry with steamed Thai jasmine rice.",
+        "section": "Thai Cuisine",
+        "image_url": "",
+        "image_source_url": "https://www.sunprincefredericton.com/menu",
+        "image_status": "source_page_only",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "observed_at": "2026-09-27"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_red_curry_chicken",
+        "name": "Red Curry - Chicken",
+        "description": "Thai red curry with steamed Thai jasmine rice.",
+        "section": "Thai Cuisine",
+        "image_url": "",
+        "image_source_url": "https://www.sunprincefredericton.com/menu",
+        "image_status": "source_page_only",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "observed_at": "2026-09-27"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_pad_thai_chicken",
+        "name": "Pad Thai - Chicken",
+        "description": "Thai stir-fried rice noodles with authentic tamarind and fish sauce based sauce.",
+        "section": "Thai Cuisine",
+        "image_url": "",
+        "image_source_url": "https://www.sunprincefredericton.com/menu",
+        "image_status": "source_page_only",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "observed_at": "2026-09-27"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_pad_see_ew_chicken",
+        "name": "Pad See Ew - Chicken",
+        "description": "Thai stir-fried wide rice noodles with seasoning soy sauce.",
+        "section": "Thai Cuisine",
+        "image_url": "",
+        "image_source_url": "https://www.sunprincefredericton.com/menu",
+        "image_status": "source_page_only",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "observed_at": "2026-09-27"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_red_curry_fried_rice",
+        "name": "Thai Red Curry Fried Rice - Chicken",
+        "description": "Thai fried rice with red curry paste.",
+        "section": "Fried Rice",
+        "image_url": "",
+        "image_source_url": "https://www.sunprincefredericton.com/menu",
+        "image_status": "source_page_only",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "observed_at": "2026-09-27"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_bulgogi",
+        "name": "Bulgogi",
+        "description": "Korean BBQ beef with steamed rice and kimchi.",
+        "section": "Korean Cuisine",
+        "image_url": "",
+        "image_source_url": "https://www.sunprincefredericton.com/menu",
+        "image_status": "source_page_only",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "observed_at": "2026-09-27"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_chow_mein_chicken",
+        "name": "Chow Mein - Chicken",
+        "description": "Atlantic Canada-style chow mein with plain fried rice.",
+        "section": "Chinese Cuisine",
+        "image_url": "",
+        "image_source_url": "https://www.sunprincefredericton.com/menu",
+        "image_status": "source_page_only",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "observed_at": "2026-09-27"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_chicken_broccoli",
+        "name": "Chicken & Broccoli",
+        "description": "Chicken and broccoli stir-fry with plain fried rice.",
+        "section": "Chinese Cuisine",
+        "image_url": "",
+        "image_source_url": "https://www.sunprincefredericton.com/menu",
+        "image_status": "source_page_only",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "observed_at": "2026-09-27"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_beef_broccoli",
+        "name": "Beef & Broccoli",
+        "description": "Beef and broccoli stir-fry with plain fried rice.",
+        "section": "Chinese Cuisine",
+        "image_url": "",
+        "image_source_url": "https://www.sunprincefredericton.com/menu",
+        "image_status": "source_page_only",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "observed_at": "2026-09-27"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_chicken_balls_side",
+        "name": "Chicken Balls (4)",
+        "description": "Deep fried chicken balls with sweet and sour sauce.",
+        "section": "Sides & Extras",
+        "image_url": "",
+        "image_source_url": "https://www.sunprincefredericton.com/menu",
+        "image_status": "source_page_only",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "observed_at": "2026-09-27"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_honey_garlic_ribs",
+        "name": "Honey Garlic Spareribs (4)",
+        "description": "Honey garlic spareribs.",
+        "section": "Sides & Extras",
+        "image_url": "",
+        "image_source_url": "https://www.sunprincefredericton.com/menu",
+        "image_status": "source_page_only",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "observed_at": "2026-09-27"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_stir_fry_noodles",
+        "name": "Stir-Fry Noodles",
+        "description": "Stir-fry lo mein noodles.",
+        "section": "Sides & Extras",
+        "image_url": "",
+        "image_source_url": "https://www.sunprincefredericton.com/menu",
+        "image_status": "source_page_only",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "observed_at": "2026-09-27"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_kimchi",
+        "name": "Kimchi",
+        "description": "Extra kimchi side.",
+        "section": "Sides & Extras",
+        "image_url": "",
+        "image_source_url": "https://www.sunprincefredericton.com/menu",
+        "image_status": "source_page_only",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "observed_at": "2026-09-27"
       }
     ],
     "priceObservations": [
@@ -4800,6 +4980,186 @@
         "fees_cents": "0",
         "observed_at": "2026-09-27",
         "source_url": "https://order.online/en-US/store/thai-manao-fredericton-757986",
+        "price_status": "observed_merchant_menu"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_cashew_chicken",
+        "channel": "merchant_web",
+        "fulfillment_mode": "pickup",
+        "price_cents": 1899,
+        "currency": "CAD",
+        "fees_cents": "0",
+        "observed_at": "2026-09-27",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "price_status": "observed_merchant_menu"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_pad_king_chicken",
+        "channel": "merchant_web",
+        "fulfillment_mode": "pickup",
+        "price_cents": 1799,
+        "currency": "CAD",
+        "fees_cents": "0",
+        "observed_at": "2026-09-27",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "price_status": "observed_merchant_menu"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_green_curry_chicken",
+        "channel": "merchant_web",
+        "fulfillment_mode": "pickup",
+        "price_cents": 1899,
+        "currency": "CAD",
+        "fees_cents": "0",
+        "observed_at": "2026-09-27",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "price_status": "observed_merchant_menu"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_red_curry_chicken",
+        "channel": "merchant_web",
+        "fulfillment_mode": "pickup",
+        "price_cents": 1899,
+        "currency": "CAD",
+        "fees_cents": "0",
+        "observed_at": "2026-09-27",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "price_status": "observed_merchant_menu"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_pad_thai_chicken",
+        "channel": "merchant_web",
+        "fulfillment_mode": "pickup",
+        "price_cents": 1799,
+        "currency": "CAD",
+        "fees_cents": "0",
+        "observed_at": "2026-09-27",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "price_status": "observed_merchant_menu"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_pad_see_ew_chicken",
+        "channel": "merchant_web",
+        "fulfillment_mode": "pickup",
+        "price_cents": 1799,
+        "currency": "CAD",
+        "fees_cents": "0",
+        "observed_at": "2026-09-27",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "price_status": "observed_merchant_menu"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_red_curry_fried_rice",
+        "channel": "merchant_web",
+        "fulfillment_mode": "pickup",
+        "price_cents": 1799,
+        "currency": "CAD",
+        "fees_cents": "0",
+        "observed_at": "2026-09-27",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "price_status": "observed_merchant_menu"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_bulgogi",
+        "channel": "merchant_web",
+        "fulfillment_mode": "pickup",
+        "price_cents": 1999,
+        "currency": "CAD",
+        "fees_cents": "0",
+        "observed_at": "2026-09-27",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "price_status": "observed_merchant_menu"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_chow_mein_chicken",
+        "channel": "merchant_web",
+        "fulfillment_mode": "pickup",
+        "price_cents": 1699,
+        "currency": "CAD",
+        "fees_cents": "0",
+        "observed_at": "2026-09-27",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "price_status": "observed_merchant_menu"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_chicken_broccoli",
+        "channel": "merchant_web",
+        "fulfillment_mode": "pickup",
+        "price_cents": 1899,
+        "currency": "CAD",
+        "fees_cents": "0",
+        "observed_at": "2026-09-27",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "price_status": "observed_merchant_menu"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_beef_broccoli",
+        "channel": "merchant_web",
+        "fulfillment_mode": "pickup",
+        "price_cents": 1999,
+        "currency": "CAD",
+        "fees_cents": "0",
+        "observed_at": "2026-09-27",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "price_status": "observed_merchant_menu"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_chicken_balls_side",
+        "channel": "merchant_web",
+        "fulfillment_mode": "pickup",
+        "price_cents": 899,
+        "currency": "CAD",
+        "fees_cents": "0",
+        "observed_at": "2026-09-27",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "price_status": "observed_merchant_menu"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_honey_garlic_ribs",
+        "channel": "merchant_web",
+        "fulfillment_mode": "pickup",
+        "price_cents": 899,
+        "currency": "CAD",
+        "fees_cents": "0",
+        "observed_at": "2026-09-27",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "price_status": "observed_merchant_menu"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_stir_fry_noodles",
+        "channel": "merchant_web",
+        "fulfillment_mode": "pickup",
+        "price_cents": 999,
+        "currency": "CAD",
+        "fees_cents": "0",
+        "observed_at": "2026-09-27",
+        "source_url": "https://www.sunprincefredericton.com/menu",
+        "price_status": "observed_merchant_menu"
+      },
+      {
+        "restaurant_id": "rest_sun_prince",
+        "item_id": "sun_prince_kimchi",
+        "channel": "merchant_web",
+        "fulfillment_mode": "pickup",
+        "price_cents": 299,
+        "currency": "CAD",
+        "fees_cents": "0",
+        "observed_at": "2026-09-27",
+        "source_url": "https://www.sunprincefredericton.com/menu",
         "price_status": "observed_merchant_menu"
       }
     ]
@@ -19695,6 +20055,119 @@
             "description": "Chicken katsu with Japanese curry.",
             "section": "Featured Items",
             "priceCents": 1905
+          }
+        ]
+      },
+      {
+        "restaurantId": "rest_sun_prince",
+        "name": "Sun Prince Restaurant",
+        "sourceUrl": "https://www.sunprincefredericton.com/menu",
+        "fulfillmentMode": "pickup",
+        "items": [
+          {
+            "id": "sun_prince_cashew_chicken",
+            "name": "Cashew Chicken",
+            "description": "Thai fried-chicken stir-fry with cashew nuts and steamed Thai jasmine rice.",
+            "section": "Thai Cuisine",
+            "priceCents": 1899
+          },
+          {
+            "id": "sun_prince_pad_king_chicken",
+            "name": "Pad King - Chicken",
+            "description": "Thai ginger stir-fry with steamed Thai jasmine rice.",
+            "section": "Thai Cuisine",
+            "priceCents": 1799
+          },
+          {
+            "id": "sun_prince_green_curry_chicken",
+            "name": "Green Curry - Chicken",
+            "description": "Thai green curry with steamed Thai jasmine rice.",
+            "section": "Thai Cuisine",
+            "priceCents": 1899
+          },
+          {
+            "id": "sun_prince_red_curry_chicken",
+            "name": "Red Curry - Chicken",
+            "description": "Thai red curry with steamed Thai jasmine rice.",
+            "section": "Thai Cuisine",
+            "priceCents": 1899
+          },
+          {
+            "id": "sun_prince_pad_thai_chicken",
+            "name": "Pad Thai - Chicken",
+            "description": "Thai stir-fried rice noodles with authentic tamarind and fish sauce based sauce.",
+            "section": "Thai Cuisine",
+            "priceCents": 1799
+          },
+          {
+            "id": "sun_prince_pad_see_ew_chicken",
+            "name": "Pad See Ew - Chicken",
+            "description": "Thai stir-fried wide rice noodles with seasoning soy sauce.",
+            "section": "Thai Cuisine",
+            "priceCents": 1799
+          },
+          {
+            "id": "sun_prince_red_curry_fried_rice",
+            "name": "Thai Red Curry Fried Rice - Chicken",
+            "description": "Thai fried rice with red curry paste.",
+            "section": "Fried Rice",
+            "priceCents": 1799
+          },
+          {
+            "id": "sun_prince_bulgogi",
+            "name": "Bulgogi",
+            "description": "Korean BBQ beef with steamed rice and kimchi.",
+            "section": "Korean Cuisine",
+            "priceCents": 1999
+          },
+          {
+            "id": "sun_prince_chow_mein_chicken",
+            "name": "Chow Mein - Chicken",
+            "description": "Atlantic Canada-style chow mein with plain fried rice.",
+            "section": "Chinese Cuisine",
+            "priceCents": 1699
+          },
+          {
+            "id": "sun_prince_chicken_broccoli",
+            "name": "Chicken & Broccoli",
+            "description": "Chicken and broccoli stir-fry with plain fried rice.",
+            "section": "Chinese Cuisine",
+            "priceCents": 1899
+          },
+          {
+            "id": "sun_prince_beef_broccoli",
+            "name": "Beef & Broccoli",
+            "description": "Beef and broccoli stir-fry with plain fried rice.",
+            "section": "Chinese Cuisine",
+            "priceCents": 1999
+          },
+          {
+            "id": "sun_prince_chicken_balls_side",
+            "name": "Chicken Balls (4)",
+            "description": "Deep fried chicken balls with sweet and sour sauce.",
+            "section": "Sides & Extras",
+            "priceCents": 899
+          },
+          {
+            "id": "sun_prince_honey_garlic_ribs",
+            "name": "Honey Garlic Spareribs (4)",
+            "description": "Honey garlic spareribs.",
+            "section": "Sides & Extras",
+            "priceCents": 899
+          },
+          {
+            "id": "sun_prince_stir_fry_noodles",
+            "name": "Stir-Fry Noodles",
+            "description": "Stir-fry lo mein noodles.",
+            "section": "Sides & Extras",
+            "priceCents": 999
+          },
+          {
+            "id": "sun_prince_kimchi",
+            "name": "Kimchi",
+            "description": "Extra kimchi side.",
+            "section": "Sides & Extras",
+            "priceCents": 299
           }
         ]
       }

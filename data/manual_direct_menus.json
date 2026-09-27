@@ -220,6 +220,29 @@
         {"id":"thai_manao_pot_sticker","name":"Pot Sticker","description":"Chicken pot stickers.","section":"Appetizer","priceCents":1285},
         {"id":"thai_manao_katsu_curry","name":"Katsu W/Curry Chicken","description":"Chicken katsu with Japanese curry.","section":"Featured Items","priceCents":1905}
       ]
+    },
+    {
+      "restaurantId": "rest_sun_prince",
+      "name": "Sun Prince Restaurant",
+      "sourceUrl": "https://www.sunprincefredericton.com/menu",
+      "fulfillmentMode": "pickup",
+      "items": [
+        {"id":"sun_prince_cashew_chicken","name":"Cashew Chicken","description":"Thai fried-chicken stir-fry with cashew nuts and steamed Thai jasmine rice.","section":"Thai Cuisine","priceCents":1899},
+        {"id":"sun_prince_pad_king_chicken","name":"Pad King - Chicken","description":"Thai ginger stir-fry with steamed Thai jasmine rice.","section":"Thai Cuisine","priceCents":1799},
+        {"id":"sun_prince_green_curry_chicken","name":"Green Curry - Chicken","description":"Thai green curry with steamed Thai jasmine rice.","section":"Thai Cuisine","priceCents":1899},
+        {"id":"sun_prince_red_curry_chicken","name":"Red Curry - Chicken","description":"Thai red curry with steamed Thai jasmine rice.","section":"Thai Cuisine","priceCents":1899},
+        {"id":"sun_prince_pad_thai_chicken","name":"Pad Thai - Chicken","description":"Thai stir-fried rice noodles with authentic tamarind and fish sauce based sauce.","section":"Thai Cuisine","priceCents":1799},
+        {"id":"sun_prince_pad_see_ew_chicken","name":"Pad See Ew - Chicken","description":"Thai stir-fried wide rice noodles with seasoning soy sauce.","section":"Thai Cuisine","priceCents":1799},
+        {"id":"sun_prince_red_curry_fried_rice","name":"Thai Red Curry Fried Rice - Chicken","description":"Thai fried rice with red curry paste.","section":"Fried Rice","priceCents":1799},
+        {"id":"sun_prince_bulgogi","name":"Bulgogi","description":"Korean BBQ beef with steamed rice and kimchi.","section":"Korean Cuisine","priceCents":1999},
+        {"id":"sun_prince_chow_mein_chicken","name":"Chow Mein - Chicken","description":"Atlantic Canada-style chow mein with plain fried rice.","section":"Chinese Cuisine","priceCents":1699},
+        {"id":"sun_prince_chicken_broccoli","name":"Chicken & Broccoli","description":"Chicken and broccoli stir-fry with plain fried rice.","section":"Chinese Cuisine","priceCents":1899},
+        {"id":"sun_prince_beef_broccoli","name":"Beef & Broccoli","description":"Beef and broccoli stir-fry with plain fried rice.","section":"Chinese Cuisine","priceCents":1999},
+        {"id":"sun_prince_chicken_balls_side","name":"Chicken Balls (4)","description":"Deep fried chicken balls with sweet and sour sauce.","section":"Sides & Extras","priceCents":899},
+        {"id":"sun_prince_honey_garlic_ribs","name":"Honey Garlic Spareribs (4)","description":"Honey garlic spareribs.","section":"Sides & Extras","priceCents":899},
+        {"id":"sun_prince_stir_fry_noodles","name":"Stir-Fry Noodles","description":"Stir-fry lo mein noodles.","section":"Sides & Extras","priceCents":999},
+        {"id":"sun_prince_kimchi","name":"Kimchi","description":"Extra kimchi side.","section":"Sides & Extras","priceCents":299}
+      ]
     }
   ]
 }
