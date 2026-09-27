@@ -1,0 +1,25 @@
+[
+  {
+    "restaurantMatch": "Taco Boyz",
+    "sourceUrl": "https://www.tacoboyz.com/",
+    "checkedAt": "2026-09-27T15:24:43.300051+00:00",
+    "deliveryVerified": false,
+    "offers": [
+      {
+        "day": "Monday",
+        "title": "Regular burrito or bowl",
+        "amountCents": 995
+      },
+      {
+        "day": "Wednesday",
+        "title": "Three tacos",
+        "amountCents": 1095
+      },
+      {
+        "day": "Saturday",
+        "title": "Regular quesadilla",
+        "amountCents": 995
+      }
+    ]
+  }
+]

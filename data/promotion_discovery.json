@@ -1,0 +1,36 @@
+{
+  "checkedOn": "2026-09-27",
+  "candidates": [
+    {
+      "provider": "Uber Eats",
+      "sourceUrl": "https://www.ubereats.com/ca/brand-city/fredericton-nb/kfc",
+      "restaurant": "KFC Canada (283 Main Street)",
+      "offer": "BOGO bucket listings",
+      "status": "needs_current_branch_verification",
+      "reason": "Search index observed two months ago; not evidence of current eligibility. Not published or deducted."
+    },
+    {
+      "provider": "DoorDash",
+      "sourceUrl": "https://help.doordash.com/en-us/consumers/article/spring-staycation-wendys-buy-one-get-one-classic-or-spicy-chicken-sandwich-march-2026",
+      "offer": "Wendy's chicken sandwich BOGO",
+      "status": "expired",
+      "reason": "Campaign ended March 29, 2026. Not published or deducted."
+    },
+    {
+      "provider": "Uber Eats",
+      "sourceUrl": "https://www.ubereats.com/ca/store/kfc-canada-283-main-street/0a0FFEi7Wr2ISYJQFUb31g",
+      "restaurant": "KFC Canada (283 Main Street)",
+      "offer": "BOGO XL Popcorn Chicken Bucket",
+      "status": "needs_current_branch_verification",
+      "reason": "Indexed page crawled two weeks ago; current direct request returned HTTP 403. Not published or deducted."
+    },
+    {
+      "provider": "Uber Eats",
+      "sourceUrl": "https://www.ubereats.com/ca/store/burger-king-1140-smythe-street/2naUpFbQX3SA9pxNSUy8nw",
+      "restaurant": "Burger King (1140 Smythe Street)",
+      "offer": "BOGO Whopper Jr.",
+      "status": "needs_current_branch_verification",
+      "reason": "Indexed page crawled three weeks ago. Not published or deducted."
+    }
+  ]
+}

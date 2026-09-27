@@ -9,6 +9,7 @@ import re
 from urllib.parse import urlparse
 from doordash_page import store_header
 from enrichment import rating_for
+from export_public_promotions import export as export_public_promotions
 from item_descriptions import enrich as enrich_item_descriptions
 ROOT = Path(__file__).resolve().parents[2]
 WEB = ROOT / 'nibble-web-platform'
@@ -125,6 +126,7 @@ def main():
     result['merchantOrdering']={rid:entry for rid,entry in result['merchantOrdering'].items() if rid in direct_ids}
     for restaurant in result['restaurants']:
         if restaurant['id'] not in direct_ids:restaurant['appURL']=''
+    (WEB/'src/catalog/publicPromotions.json').write_text(json.dumps(export_public_promotions(result),indent=2)+'\n')
     enrich_item_descriptions(result)
     target=WEB/'src/catalog/catalog.json';target.write_text(json.dumps(result,indent=2)+'\n')
     print('Exported',len(result['restaurants']),'restaurants,',len(result['items']),'pictured items,',len(result['offers']),'collected provider prices; no synthetic offers')
