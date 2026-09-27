@@ -1,0 +1,195 @@
+{
+  "city": "Fredericton",
+  "region": "NB",
+  "sourceUrl": "https://www.skipthedishes.com/cities/fredericton",
+  "retrievedAt": "2026-09-27T02:26:58.166238+00:00",
+  "stores": [
+    {
+      "id": "ss_skip_5ef34bf83f44c4ca69672f3a",
+      "name": "Taco Boyz",
+      "url": "https://www.skipthedishes.com/taco-boyz-520",
+      "address": "520 Smythe St, Fredericton, NB",
+      "sourceCrawlAgeAtRetrieval": "2 weeks",
+      "menuItems": [
+        {
+          "name": "Regular Loaded Fries",
+          "amountCents": 1295,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "Large Loaded Fries",
+          "amountCents": 1555,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "Filled Churro Bites",
+          "amountCents": 385,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "Tortilla Chips",
+          "amountCents": 260,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "Side of Guacamole",
+          "amountCents": 275,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "Side Sauce",
+          "amountCents": 235,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "Taco Take-Out Kit",
+          "amountCents": 7795,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "Chips & Dips",
+          "amountCents": 2075,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "Cookie Platter",
+          "amountCents": 775,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "8oz Take Home Salsa",
+          "amountCents": 910,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "8oz Sides",
+          "amountCents": 795,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "Take Home Hot Sauce",
+          "amountCents": 1555,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "Pop",
+          "amountCents": 455,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "Jarritos",
+          "amountCents": 490,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "Water",
+          "amountCents": 375,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "Fuze Iced Tea",
+          "amountCents": 455,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "Vitamin Water",
+          "amountCents": 490,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "Monster Energy",
+          "amountCents": 715,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "Chocolate Milk",
+          "amountCents": 425,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "Juice",
+          "amountCents": 455,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "Three Tacos",
+          "amountCents": null,
+          "currency": "CAD",
+          "priceKind": "options",
+          "priceNote": "Select options in the app"
+        },
+        {
+          "name": "Regular Burrito Bowl",
+          "amountCents": null,
+          "currency": "CAD",
+          "priceKind": "options",
+          "priceNote": "Select options in the app"
+        },
+        {
+          "name": "Regular Burrito",
+          "amountCents": null,
+          "currency": "CAD",
+          "priceKind": "options",
+          "priceNote": "Select options in the app"
+        },
+        {
+          "name": "Two Tacos",
+          "amountCents": null,
+          "currency": "CAD",
+          "priceKind": "options",
+          "priceNote": "Select options in the app"
+        },
+        {
+          "name": "Large Burrito",
+          "amountCents": null,
+          "currency": "CAD",
+          "priceKind": "options",
+          "priceNote": "Select options in the app"
+        },
+        {
+          "name": "Chips & Guacamole",
+          "amountCents": null,
+          "currency": "CAD",
+          "priceKind": "options",
+          "priceNote": "Select options in the app"
+        },
+        {
+          "name": "Chips & Salsa",
+          "amountCents": null,
+          "currency": "CAD",
+          "priceKind": "options",
+          "priceNote": "Select options in the app"
+        },
+        {
+          "name": "Side of Queso",
+          "amountCents": null,
+          "currency": "CAD",
+          "priceKind": "options",
+          "priceNote": "Select options in the app"
+        }
+      ],
+      "coverage": "partial indexed menu; option prices unavailable",
+      "fulfillmentMode": "unspecified"
+    }
+  ]
+}

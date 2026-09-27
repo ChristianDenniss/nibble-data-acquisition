@@ -6,6 +6,7 @@ import hashlib
 import json
 from pathlib import Path
 import re
+from urllib.parse import urlparse
 from doordash_page import store_header
 from enrichment import rating_for
 ROOT = Path(__file__).resolve().parents[2]
@@ -54,10 +55,12 @@ def main():
     imagefile.write_text(json.dumps(images,indent=2)+'\n')
     restaurant_images=json.loads((WEB/'public/images/menu/restaurants.json').read_text())
     chosen=[r for r in catalog['restaurants'] if r['items']]
-    chosen.sort(key=lambda r: (0 if 'Taco Boyz' in r['name'] else 1 if 'McDonald' in r['name'] else 2, r['name']))
+    chosen.sort(key=lambda r: (0 if r['id']=='catalog-ss_ubereats_0a5ba1d349096949787465cf' else 1 if r['id']=='catalog-ss_ubereats_b516b917b6ed6c6e5c3ba08c' else 2, r['name']))
     enrichment_path=ROOT/'nibble-data-acquisition/data/enrichment.json'
     enrichment=json.loads(enrichment_path.read_text()) if enrichment_path.exists() else {}
-    result={'restaurants':[],'items':[],'offers':[],'provenance':{},'links':{},'providerIds':{},'menuCounts':{},'ratings':{},'merchantOrdering':{},'promotions':enrichment.get('promotions',[])}
+    media_path=ROOT/'nibble-data-acquisition/data/provider_metadata.json'
+    media=json.loads(media_path.read_text()) if media_path.exists() else {}
+    result={'restaurants':[],'items':[],'offers':[],'provenance':{},'links':{},'providerIds':{},'menuCounts':{},'ratings':{},'merchantOrdering':{},'promotions':enrichment.get('promotions',[]),'providerScores':{}}
     for r in chosen:
         rid=r['id'];name=r['name'];lower=name.lower()
         cuisine='mexican' if 'taco' in lower else 'pizza' if any(k in lower for k in ['pizza','pizzeria','wingstreet']) else 'shawarma' if 'osmow' in lower else 'chicken' if any(k in lower for k in ['kfc','swiss']) else 'burgers'
@@ -82,15 +85,17 @@ def main():
                     except (ValueError,KeyError):continue
                     break
         if rating:result['ratings'][rid]=rating
-        result['restaurants'].append({'id':rid,'name':name,'imageURL':(restaurant_images.get(rid) or images[hero])['file'],'location':{'latitude':lat,'longitude':lng,'address':next((source['address'] for source in r['sources'] if source['provider']=='DoorDash' and source.get('address')),r['address']),'city':'Fredericton','region':'NB','postalCode':''},'cuisineIds':['cui_'+cuisine],'categoryIds':['cat_food'],'rating':{'average':rating['average'],'count':rating['count']} if rating else {'average':0,'count':0},'phone':'','appURL':merchant['orderUrl'] if merchant else '','hours':[]})
+        result['restaurants'].append({'id':rid,'name':name,'imageURL':restaurant_images.get(rid,{}).get('file') or (r.get('image') if urlparse(r.get('image','')).hostname in {'menu-images-static.skipthedishes.com','tb-static.uber.com','img.cdn4dd.com'} else None) or images[hero]['file'],'location':{'latitude':lat,'longitude':lng,'address':next((source['address'] for source in r['sources'] if source['provider']=='DoorDash' and source.get('address')),r['address']),'city':'Fredericton','region':'NB','postalCode':''},'cuisineIds':['cui_'+cuisine],'categoryIds':['cat_food'],'rating':{'average':rating['average'],'count':rating['count']} if rating else {'average':0,'count':0},'phone':'','appURL':merchant['orderUrl'] if merchant else '','hours':[]})
         result['links'][rid]={PROVIDERS[s['provider']]:s['url'] for s in r['sources'] if s['provider'] in PROVIDERS}
         result['providerIds'][rid]=list(result['links'][rid])
+        result['providerScores'][rid]=[{'provider':source['provider'],'sourceUrl':source['url'],**media[source['url']]['score']} for source in r['sources'] if media.get(source['url'],{}).get('score',{} ) and media[source['url']]['score'].get('value') is not None]
         result['menuCounts'][rid]=len(r['items'])
         for raw in r['items']:
             itemname=clean(raw['name']);iid=rid+'_'+hashlib.sha256(raw['id'].encode()).hexdigest()[:12]
             photo=photo_for(itemname,name)
             section=raw.get('section') or ('Drinks' if photo in ['drink','coffee','water'] else 'Sides & sweets' if photo in ['dessert','churros-stuffed','fries','nachos'] else 'Mains')
-            result['items'].append({'id':iid,'restaurantId':rid,'name':itemname,'description':'','section':section,'imageURL':images[photo]['file']})
+            provider_photo=next((media.get(offer['sourceUrl'],{}).get('itemImages',{}).get(raw['name']) for offer in raw['offers'] if media.get(offer['sourceUrl'],{}).get('itemImages',{}).get(raw['name'])),None)
+            result['items'].append({'id':iid,'restaurantId':rid,'name':itemname,'description':'','section':section,'imageURL':provider_photo or images[photo]['file']})
             for offer in raw['offers']:
                 if offer.get('amountCents') is None:continue
                 provider=PROVIDERS.get(offer['provider'])

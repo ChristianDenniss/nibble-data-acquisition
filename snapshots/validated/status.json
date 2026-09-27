@@ -57,309 +57,249 @@
       ]
     },
     "DoorDash": {
-      "lastAttemptAt": "2026-09-27T01:34:17.623444+00:00",
-      "updatedStores": 23,
+      "lastAttemptAt": "2026-09-27T03:57:52.602460+00:00",
+      "updatedStores": 5,
       "attempts": [
         {
-          "url": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
-          "status": "directory",
-          "restaurants": 47
-        },
-        {
-          "url": "https://www.doordash.com/en/store/pizza-hut-fredericton-27511224/",
-          "status": "failed",
-          "reason": "No supported structured menu prices; blocked or changed page layout"
-        },
-        {
-          "url": "https://www.doordash.com/store/boston-pizza-fredericton-1354144/",
-          "status": "failed",
-          "reason": "No supported structured menu prices; blocked or changed page layout"
-        },
-        {
-          "url": "https://www.doordash.com/store/osmows-shawarma-fredericton-32003605/",
-          "status": "success",
-          "items": 59
-        },
-        {
-          "url": "https://www.doordash.com/store/barburrito-fredericton-2369553/",
-          "status": "failed",
-          "reason": "No supported structured menu prices; blocked or changed page layout"
-        },
-        {
-          "url": "https://www.doordash.com/store/moseys-southern-bbq-fredericton-32789245/",
-          "status": "failed",
-          "reason": "No supported structured menu prices; blocked or changed page layout"
-        },
-        {
-          "url": "https://www.doordash.com/store/montanas-bbq-%26-bar-fredericton-653262/",
-          "status": "success",
-          "items": 79
-        },
-        {
-          "url": "https://www.doordash.com/store/swiss-chalet-fredericton-24855116/",
-          "status": "success",
-          "items": 65
-        },
-        {
           "url": "https://www.doordash.com/store/east-side-marios-fredericton-1067206/",
-          "status": "failed",
-          "reason": "Conflicting prices for the same menu item"
-        },
-        {
-          "url": "https://www.doordash.com/store/wayback-burgers-fredericton-33396692/",
-          "status": "failed",
-          "reason": "No supported structured menu prices; blocked or changed page layout"
-        },
-        {
-          "url": "https://www.doordash.com/store/byblos-restaurant-and-bar-fredericton-1260721/",
-          "status": "failed",
-          "reason": "No supported structured menu prices; blocked or changed page layout"
-        },
-        {
-          "url": "https://www.doordash.com/store/rocket-burger-fredericton-925310/",
           "status": "success",
-          "items": 21
-        },
-        {
-          "url": "https://www.doordash.com/store/kfc-fredericton-1089202/",
-          "status": "success",
-          "items": 81
-        },
-        {
-          "url": "https://www.doordash.com/store/pine-tree-pub-fredericton-36271967/",
-          "status": "success",
-          "items": 31
-        },
-        {
-          "url": "https://www.doordash.com/store/wingstreet-by-pizza-hut-fredericton-28425386/",
-          "status": "success",
-          "items": 45
-        },
-        {
-          "url": "https://www.doordash.com/store/pizza-salvator%C3%A9-fredericton-30359691/",
-          "status": "blocked",
-          "reason": "HTTP 403"
-        },
-        {
-          "url": "https://www.doordash.com/store/popeyes-louisiana-kitchen-fredericton-28127592/",
-          "status": "failed",
-          "reason": "No supported structured menu prices; blocked or changed page layout"
-        },
-        {
-          "url": "https://www.doordash.com/store/the-hilltop-maritime-tavern-fredericton-33319203/",
-          "status": "failed",
-          "reason": "No supported structured menu prices; blocked or changed page layout"
-        },
-        {
-          "url": "https://www.doordash.com/store/edo-japan-fredericton-33266395/",
-          "status": "blocked",
-          "reason": "HTTP 403"
-        },
-        {
-          "url": "https://www.doordash.com/store/philthy-wings-fredericton-36209643/",
-          "status": "success",
-          "items": 24
-        },
-        {
-          "url": "https://www.doordash.com/store/philthy-pierogi-fredericton-36378925/",
-          "status": "success",
-          "items": 37
-        },
-        {
-          "url": "https://www.doordash.com/store/wendys-fredericton-24492414/",
-          "status": "success",
-          "items": 73
-        },
-        {
-          "url": "https://www.doordash.com/store/little-caesars-fredericton-1527827/",
-          "status": "failed",
-          "reason": "No supported structured menu prices; blocked or changed page layout"
-        },
-        {
-          "url": "https://www.doordash.com/store/pizza-delight-fredericton-25576438/",
-          "status": "failed",
-          "reason": "No supported structured menu prices; blocked or changed page layout"
-        },
-        {
-          "url": "https://www.doordash.com/store/dairy-queen-fredericton-24459162/",
-          "status": "blocked",
-          "reason": "HTTP 403"
-        },
-        {
-          "url": "https://www.doordash.com/store/mary-browns-chicken-fredericton-25038341/",
-          "status": "failed",
-          "reason": "No supported structured menu prices; blocked or changed page layout"
+          "items": 78
         },
         {
           "url": "https://www.doordash.com/store/subway-fredericton-2518559/",
-          "status": "failed",
-          "reason": "Conflicting prices for the same menu item"
-        },
-        {
-          "url": "https://www.doordash.com/store/a%26w-fredericton-29573744/",
           "status": "success",
-          "items": 82
-        },
-        {
-          "url": "https://www.doordash.com/store/firehouse-subs-fredericton-36333145/",
-          "status": "failed",
-          "reason": "No supported structured menu prices; blocked or changed page layout"
+          "items": 55
         },
         {
           "url": "https://www.doordash.com/store/philthy-phillys-fredericton-32775541/",
-          "status": "blocked",
-          "reason": "HTTP 403"
+          "status": "success",
+          "items": 72
         },
         {
           "url": "https://www.doordash.com/store/papa-johns-pizza-canada-fredericton-1306543/",
-          "status": "blocked",
-          "reason": "HTTP 403"
-        },
-        {
-          "url": "https://www.doordash.com/store/luna-pizza-fredericton-2834176/",
-          "status": "success",
-          "items": 82
-        },
-        {
-          "url": "https://www.doordash.com/store/giseles-pizzeria-fredericton-27554984/",
-          "status": "success",
-          "items": 86
-        },
-        {
-          "url": "https://www.doordash.com/store/pizza-pizza-fredericton-28828775/",
-          "status": "success",
-          "items": 80
-        },
-        {
-          "url": "https://www.doordash.com/store/cineplex-fredericton-31852895/",
-          "status": "success",
-          "items": 21
-        },
-        {
-          "url": "https://www.doordash.com/store/betty-lees---baking-paradise---tobe-milk-tea-fredericton-23836195/",
-          "status": "failed",
-          "reason": "No supported structured menu prices; blocked or changed page layout"
-        },
-        {
-          "url": "https://www.doordash.com/store/harveys-fredericton-1065452/",
-          "status": "success",
-          "items": 82
-        },
-        {
-          "url": "https://www.doordash.com/store/jack%E2%80%99s-pizza-and-donair-fredericton-1540160/",
-          "status": "blocked",
-          "reason": "HTTP 403"
-        },
-        {
-          "url": "https://www.doordash.com/store/a&w-fredericton-27672217/",
-          "status": "failed",
-          "reason": "No supported structured menu prices; blocked or changed page layout"
-        },
-        {
-          "url": "https://www.doordash.com/store/wendys-fredericton-24492416/",
           "status": "success",
           "items": 73
         },
         {
-          "url": "https://www.doordash.com/store/burger-king-fredericton-872884/",
-          "status": "blocked",
-          "reason": "HTTP 403"
-        },
-        {
-          "url": "https://www.doordash.com/store/sweet-jesus-fredericton-32686227/",
-          "status": "failed",
-          "reason": "No supported structured menu prices; blocked or changed page layout"
-        },
-        {
-          "url": "https://www.doordash.com/store/greco-pizza-fredericton-1814763/",
+          "url": "https://www.doordash.com/store/jack%E2%80%99s-pizza-and-donair-fredericton-1540160/",
           "status": "success",
-          "items": 81
-        },
-        {
-          "url": "https://www.doordash.com/store/smokes-poutinerie-fredericton-719055/",
-          "status": "failed",
-          "reason": "No supported structured menu prices; blocked or changed page layout"
-        },
-        {
-          "url": "https://www.doordash.com/store/chicken-chicken-by-pizza-pizza-fredericton-26317412/",
-          "status": "success",
-          "items": 54
-        },
-        {
-          "url": "https://www.doordash.com/store/st-hubert-fredericton-1158915/",
-          "status": "failed",
-          "reason": "No supported structured menu prices; blocked or changed page layout"
-        },
-        {
-          "url": "https://www.doordash.com/store/pjs-wings-an-things-fredericton-1342790/",
-          "status": "success",
-          "items": 31
-        },
-        {
-          "url": "https://www.doordash.com/store/sun-prince-restaurant-fredericton-28386205/",
-          "status": "failed",
-          "reason": "No supported structured menu prices; blocked or changed page layout"
-        },
-        {
-          "url": "https://www.doordash.com/store/boustan-fredericton-35874329/",
-          "status": "blocked",
-          "reason": "HTTP 403"
-        },
-        {
-          "url": "https://www.doordash.com/store/js-asian-kitchen-fredericton-1050806/",
-          "status": "failed",
-          "reason": "No supported structured menu prices; blocked or changed page layout"
-        },
-        {
-          "url": "https://www.doordash.com/store/yassou-souvlaki-&-donair-fredericton-24875523/",
-          "status": "success",
-          "items": 81
-        },
-        {
-          "url": "https://www.doordash.com/store/taco-bell-fredericton-1176055/",
-          "status": "blocked",
-          "reason": "HTTP 403"
-        },
-        {
-          "url": "https://www.doordash.com/store/country-fried-fredericton-37817609/",
-          "status": "success",
-          "items": 20
-        },
-        {
-          "url": "https://www.doordash.com/store/naru-japanese-restaurant-fredericton-740167/",
-          "status": "failed",
-          "reason": "No supported structured menu prices; blocked or changed page layout"
-        },
-        {
-          "url": "https://www.doordash.com/store/monks-&-jonesie-fredericton-1084851/",
-          "status": "success",
-          "items": 59
-        },
-        {
-          "url": "https://www.doordash.com/store/street-greek-north-fredericton-24809569/",
-          "status": "failed",
-          "reason": "No supported structured menu prices; blocked or changed page layout"
-        },
-        {
-          "url": "https://www.doordash.com/store/mantra-restaurant-&-bar-fredericton-38798997/",
-          "status": "blocked",
-          "reason": "HTTP 403"
+          "items": 70
         }
       ]
     },
     "SkipTheDishes": {
-      "lastAttemptAt": "2026-09-27T02:35:46.770282+00:00",
-      "updatedStores": 0,
+      "lastAttemptAt": "2026-09-27T04:01:12.122772+00:00",
+      "updatedStores": 24,
       "attempts": [
         {
-          "url": "https://www.skipthedishes.com/cities/fredericton",
-          "status": "directory",
-          "restaurants": 0
+          "url": "https://www.skipthedishes.com/maybee-brewing-company-wilsey-rd",
+          "status": "failed",
+          "reason": "Skip listing is not a restaurant"
         },
         {
-          "url": "https://www.skipthedishes.com/taco-boyz-520",
+          "url": "https://www.skipthedishes.com/cineplex-regent-street",
+          "status": "success",
+          "items": 20
+        },
+        {
+          "url": "https://www.skipthedishes.com/little-caesars-pizza-prospect-street",
+          "status": "success",
+          "items": 111
+        },
+        {
+          "url": "https://www.skipthedishes.com/booster-juice-prospect-street",
           "status": "failed",
-          "reason": "Skip menu branch identity unavailable"
+          "reason": "Skip structured menu is empty"
+        },
+        {
+          "url": "https://www.skipthedishes.com/little-caesars-pizza-main-street",
+          "status": "success",
+          "items": 111
+        },
+        {
+          "url": "https://www.skipthedishes.com/pizza-hut-230-main-st-fredericton",
+          "status": "failed",
+          "reason": "Skip structured menu is empty"
+        },
+        {
+          "url": "https://www.skipthedishes.com/subway-245-bishop-drive",
+          "status": "failed",
+          "reason": "Skip structured menu is empty"
+        },
+        {
+          "url": "https://www.skipthedishes.com/saint-louis-bar-and-grill-king-street",
+          "status": "success",
+          "items": 132
+        },
+        {
+          "url": "https://www.skipthedishes.com/byblos-restaurant-and-bar",
+          "status": "success",
+          "items": 73
+        },
+        {
+          "url": "https://www.skipthedishes.com/burger-king-smythe-street",
+          "status": "success",
+          "items": 206
+        },
+        {
+          "url": "https://www.skipthedishes.com/mcdonalds-prospect-st-fred",
+          "status": "success",
+          "items": 212
+        },
+        {
+          "url": "https://www.skipthedishes.com/subway-prospect-street",
+          "status": "success",
+          "items": 129
+        },
+        {
+          "url": "https://www.skipthedishes.com/mcdonalds-wm-regent-mall",
+          "status": "failed",
+          "reason": "Skip structured menu is empty"
+        },
+        {
+          "url": "https://www.skipthedishes.com/booster-juice-1381-regent-street",
+          "status": "failed",
+          "reason": "Skip structured menu is empty"
+        },
+        {
+          "url": "https://www.skipthedishes.com/harveys-trinity-avenue",
+          "status": "success",
+          "items": 90
+        },
+        {
+          "url": "https://www.skipthedishes.com/kfc-regent-street",
+          "status": "success",
+          "items": 99
+        },
+        {
+          "url": "https://www.skipthedishes.com/boston-pizza-prospect-street",
+          "status": "success",
+          "items": 169
+        },
+        {
+          "url": "https://www.skipthedishes.com/mcdonalds-nashwaaksis-fred",
+          "status": "success",
+          "items": 200
+        },
+        {
+          "url": "https://www.skipthedishes.com/subway-douglas-ave",
+          "status": "failed",
+          "reason": "Skip structured menu is empty"
+        },
+        {
+          "url": "https://www.skipthedishes.com/kfc-283-main-street",
+          "status": "success",
+          "items": 103
+        },
+        {
+          "url": "https://www.skipthedishes.com/590-two-nations-crossing",
+          "status": "success",
+          "items": 199
+        },
+        {
+          "url": "https://www.skipthedishes.com/subway-349-king-street",
+          "status": "failed",
+          "reason": "Skip structured menu is empty"
+        },
+        {
+          "url": "https://www.skipthedishes.com/monks-and-jonesie-downtown",
+          "status": "success",
+          "items": 79
+        },
+        {
+          "url": "https://www.skipthedishes.com/subway-265-main-street",
+          "status": "failed",
+          "reason": "Skip structured menu is empty"
+        },
+        {
+          "url": "https://www.skipthedishes.com/dairy-queen-union-st",
+          "status": "failed",
+          "reason": "Skip structured menu is empty"
+        },
+        {
+          "url": "https://www.skipthedishes.com/dairy-queen-prospect-st",
+          "status": "failed",
+          "reason": "Skip structured menu is empty"
+        },
+        {
+          "url": "https://www.skipthedishes.com/popeyes-louisiana-kitchen-75",
+          "status": "failed",
+          "reason": "Skip structured menu is empty"
+        },
+        {
+          "url": "https://www.skipthedishes.com/edo-japan-regent-street",
+          "status": "failed",
+          "reason": "Skip structured menu is empty"
+        },
+        {
+          "url": "https://www.skipthedishes.com/sweet-jesus-280-king-street",
+          "status": "success",
+          "items": 12
+        },
+        {
+          "url": "https://www.skipthedishes.com/a-and-w-235-main-street-fredericton",
+          "status": "success",
+          "items": 136
+        },
+        {
+          "url": "https://www.skipthedishes.com/mcdonalds-wm-fredericton-north",
+          "status": "failed",
+          "reason": "Skip structured menu is empty"
+        },
+        {
+          "url": "https://www.skipthedishes.com/a-and-w-prospect-street",
+          "status": "failed",
+          "reason": "Skip structured menu is empty"
+        },
+        {
+          "url": "https://www.skipthedishes.com/harveys-460-regent-street",
+          "status": "success",
+          "items": 115
+        },
+        {
+          "url": "https://www.skipthedishes.com/wendys-370-main-street",
+          "status": "failed",
+          "reason": "Skip structured menu is empty"
+        },
+        {
+          "url": "https://www.skipthedishes.com/wendys-prospect",
+          "status": "failed",
+          "reason": "Skip structured menu is empty"
+        },
+        {
+          "url": "https://www.skipthedishes.com/moseys-southern-bbq-prospect-street",
+          "status": "success",
+          "items": 21
+        },
+        {
+          "url": "https://www.skipthedishes.com/wingstreet-only-at-pizza-hut-main-street",
+          "status": "failed",
+          "reason": "Skip structured menu is empty"
+        },
+        {
+          "url": "https://www.skipthedishes.com/wingstreet-only-at-pizza-hut-smythe-st",
+          "status": "success",
+          "items": 39
+        },
+        {
+          "url": "https://www.skipthedishes.com/pizza-hut-1180-smythe",
+          "status": "success",
+          "items": 138
+        },
+        {
+          "url": "https://www.skipthedishes.com/pizza-pizza-1111",
+          "status": "success",
+          "items": 162
+        },
+        {
+          "url": "https://www.skipthedishes.com/pizza-pizza-fredericton",
+          "status": "success",
+          "items": 162
+        },
+        {
+          "url": "https://www.skipthedishes.com/kfc-prospect-st",
+          "status": "success",
+          "items": 94
         }
       ]
     }

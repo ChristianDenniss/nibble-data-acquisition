@@ -1,0 +1,15 @@
+FROM golang:1.23-bookworm AS build
+WORKDIR /workspace
+COPY go.mod go.sum ./
+COPY vendor ./vendor
+COPY cmd/catalog-publish ./cmd/catalog-publish
+RUN go mod edit -dropreplace=github.com/ChristianDenniss/platform-contracts && CGO_ENABLED=0 go build -mod=vendor -o /catalog-publish ./cmd/catalog-publish
+FROM python:3.13-slim
+WORKDIR /app
+COPY --from=build /catalog-publish /usr/local/bin/catalog-publish
+COPY scripts ./
+COPY data ./data
+RUN python -m unittest -v test_catalog_service && mkdir /snapshots && chown 65534:65534 /snapshots
+USER 65534:65534
+ENTRYPOINT ["python", "catalog_service.py"]
+CMD ["--seeds", "/app/data", "--runtime", "/snapshots", "--interval-hours", "12"]

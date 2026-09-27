@@ -5,7 +5,7 @@
       "match": "Taco Boyz",
       "sourceUrl": "https://www.tacoboyz.com/order-online/",
       "orderUrl": "https://www.tacoboyz.com/order-online/",
-      "note": "Choose the Smythe Street location. Confirm delivery availability and prices on the restaurant website."
+      "note": "Choose the matching Fredericton location. Confirm delivery availability and prices on the restaurant website."
     },
     {
       "match": "McDonald",
@@ -17,7 +17,7 @@
       "match": "Osmow",
       "sourceUrl": "https://osmows.com/",
       "orderUrl": "https://osmows.order.online/business/-30028",
-      "note": "Restaurant ordering powered by DoorDash. Choose 1180 Smythe Street; confirm fulfillment and prices."
+      "note": "Restaurant ordering powered by DoorDash. Choose the matching Fredericton location; confirm fulfillment and prices."
     },
     {
       "match": "Wendy",
@@ -29,25 +29,25 @@
       "match": "Montana",
       "sourceUrl": "https://www.montanas.ca/en/faq.html",
       "orderUrl": "https://order.montanas.ca/",
-      "note": "Restaurant takeout ordering. Select 6 Trinity Avenue; delivery availability must be checked separately."
+      "note": "Restaurant takeout ordering. Select the matching restaurant; delivery availability must be checked separately."
     },
     {
       "match": "Harvey",
       "sourceUrl": "https://www.harveys.ca/en/downloadtheapp.html",
       "orderUrl": "https://www.harveys.ca/en/downloadtheapp.html",
-      "note": "Harvey\u2019s own ordering app. Select 460 Regent Street and confirm delivery prices; some coupons are pickup only."
+      "note": "Harvey\u2019s own ordering app. Select the matching restaurant and confirm delivery prices; some coupons are pickup only."
     },
     {
       "match": "Swiss Chalet",
       "sourceUrl": "https://www.swisschalet.com/en/mobileapp.html",
       "orderUrl": "https://order.swisschalet.com/",
-      "note": "Restaurant delivery and pickup ordering. Select 961 Prospect Street; confirm options and delivery charges."
+      "note": "Restaurant delivery and pickup ordering. Select the matching restaurant; confirm options and delivery charges."
     },
     {
       "match": "KFC",
       "sourceUrl": "https://www.kfc.ca/",
       "orderUrl": "https://www.kfc.ca/",
-      "note": "KFC\u2019s own ordering website and app. Select 1165 Prospect Street, then pickup or delivery, to see local prices and rewards."
+      "note": "KFC\u2019s own ordering website and app. Select the matching restaurant, then pickup or delivery, to see local prices and rewards."
     }
   ],
   "promotions": [

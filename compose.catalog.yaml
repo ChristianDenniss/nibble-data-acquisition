@@ -1,0 +1,19 @@
+# Run alongside the existing local API/Postgres stack; no customer-facing port.
+services:
+  acquisition:
+    build:
+      context: .
+      dockerfile: Dockerfile.catalog
+    image: nibble-acquisition:expanded
+    container_name: nibble-acquisition-worker
+    restart: unless-stopped
+    environment:
+      API_ENGINE_GRPC_ADDR: ${API_ENGINE_GRPC_ADDR:-nibble-api-catalog:9090}
+    volumes:
+      - ./snapshots/validated:/snapshots
+    networks:
+      - catalog
+networks:
+  catalog:
+    external: true
+    name: ${NIBBLE_NETWORK:-doordash_default}

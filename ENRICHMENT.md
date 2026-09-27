@@ -32,3 +32,19 @@ Source hashes deliberately include public page text, so navigation/content chang
 ## Images
 
 The image refresh requests larger source renditions (typically 1,200–1,600 pixels), not artificial pixel upscaling. Fifteen distinct Luna dish photos come from its own ordering page; other menu photography is illustrative and may be reused. Some original sources are smaller and cannot gain genuine detail. Image source URLs and verified dimensions are recorded in the web image manifests.
+
+## Scheduled provider collection
+
+`catalog_service.py` and `provider_directory.py` are the running provider collector, now included on this feature branch. `skip_page.py` reads public Next.js menu and directory data: restaurant identity, Fredericton address, item prices in CAD cents, sections and image URLs. Zero-price configurable items remain unquoted. Neighborhood, cuisine and brand discovery is restricted to Fredericton. DoorDash JSON-LD parsing accepts both `$` and `CA$` prices only when the matching store explicitly establishes CAD.
+
+```sh
+# Requires the existing API ingest service and Docker network.
+docker compose -f compose.catalog.yaml up -d --build
+docker logs -f nibble-acquisition-worker
+```
+
+The worker runs every 12 hours, retains last-good menus, archives successful public pages and individual store observations, and publishes through private gRPC. The container restarts automatically unless stopped. It must have Docker running and network access; laptop sleep/offline periods suspend progress. Set `NIBBLE_NETWORK` and `API_ENGINE_GRPC_ADDR` for another stack. The API must support the `application/vnd.nibble.catalog.v1+json` snapshot bundle; the currently running local API does. Seed files contain retained source observations with their original age metadata, not guaranteed current checkout prices.
+
+Read collection counts/failures in `snapshots/validated/status.json`. Three consecutive challenge responses or a rate limit stop further requests to that provider for the cycle. No user sessions, authentication, captcha solving or checkout requests are used. Discovery is bounded to 100 city pages per cycle. Source image URLs, item identifiers and Skip's native score scale are retained; personalized delivery charges and configured item options still need provider checkout confirmation.
+
+The Go publisher builds against the committed vendored contract. The Docker build removes only the local sibling-module replacement inside its build stage; it does not modify the repository's `go.mod`.
