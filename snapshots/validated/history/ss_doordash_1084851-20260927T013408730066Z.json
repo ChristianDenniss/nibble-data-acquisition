@@ -1,0 +1,434 @@
+{
+  "id": "ss_doordash_1084851",
+  "menuItems": [
+    {
+      "name": "Famous Carrot Cake",
+      "amountCents": 1100,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Desserts"
+    },
+    {
+      "name": "Fish Tacos (3)",
+      "amountCents": 2530,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Plates and Bowls"
+    },
+    {
+      "name": "Mojo Dip",
+      "amountCents": 2090,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "BBQ Chicken Nachos",
+      "amountCents": 2530,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Chicken Shawarma",
+      "amountCents": 2090,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Naan-Wiches"
+    },
+    {
+      "name": "Beef Brisket Naan-Wich",
+      "amountCents": 2420,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Naan-Wiches"
+    },
+    {
+      "name": "The Mervin Burger",
+      "amountCents": 2420,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches"
+    },
+    {
+      "name": "Chocolate Peanut Butter Pie",
+      "amountCents": 1100,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Desserts"
+    },
+    {
+      "name": "Crunchy Chicken Caesar Wrap",
+      "amountCents": 2200,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches"
+    },
+    {
+      "name": "Mac and Cheese Bites",
+      "amountCents": 1760,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Butter Chicken Naan-Wich",
+      "amountCents": 2090,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Naan-Wiches"
+    },
+    {
+      "name": "Pulled Duck Naan-Wich",
+      "amountCents": 2420,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Naan-Wiches"
+    },
+    {
+      "name": "Naked Wings",
+      "amountCents": 2090,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Mac Attack Nachos",
+      "amountCents": 2530,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Chicken Taquitos",
+      "amountCents": 1870,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Cauliflower Wings",
+      "amountCents": 1760,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Butter Chicken Naan-chos",
+      "amountCents": 2310,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Fried Pickles",
+      "amountCents": 1100,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Poutine",
+      "amountCents": 1540,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Pork Belly Bites",
+      "amountCents": 1760,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Greek Nachos",
+      "amountCents": 2640,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Halloumi Fries",
+      "amountCents": 1760,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Halloumi Plate",
+      "amountCents": 2200,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Maple Mustard Sprout",
+      "amountCents": 1760,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Loaded Sweet Potato Fries",
+      "amountCents": 2200,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "MJ Combo Platter",
+      "amountCents": 3300,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Harvest Salad",
+      "amountCents": 2200,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Salads"
+    },
+    {
+      "name": "Steak Salad",
+      "amountCents": 2530,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Salads"
+    },
+    {
+      "name": "Greek Chicken Salad",
+      "amountCents": 2200,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Salads"
+    },
+    {
+      "name": "Dragon Bowl",
+      "amountCents": 2090,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Salads"
+    },
+    {
+      "name": "Chicken Taco Salad",
+      "amountCents": 2420,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Salads"
+    },
+    {
+      "name": "Chicken Caesar Salad",
+      "amountCents": 2200,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Salads"
+    },
+    {
+      "name": "Honey Mustard Chicken",
+      "amountCents": 2090,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Naan-Wiches"
+    },
+    {
+      "name": "Spicy Hawaiian Chicken Naan-Wich",
+      "amountCents": 2200,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Naan-Wiches"
+    },
+    {
+      "name": "Southwest Steak Melt",
+      "amountCents": 2530,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Naan-Wiches"
+    },
+    {
+      "name": "Donair",
+      "amountCents": 2200,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Naan-Wiches"
+    },
+    {
+      "name": "Cowboy Burger",
+      "amountCents": 2530,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches"
+    },
+    {
+      "name": "The M&J Club on a Bun",
+      "amountCents": 2200,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches"
+    },
+    {
+      "name": "Pesto Chicken Wrap",
+      "amountCents": 2090,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches"
+    },
+    {
+      "name": "Cali Club",
+      "amountCents": 2200,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches"
+    },
+    {
+      "name": "Thai Chicken Peanut Wrap",
+      "amountCents": 1980,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches"
+    },
+    {
+      "name": "Dill'icious Fish Burger",
+      "amountCents": 2310,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches"
+    },
+    {
+      "name": "French Dip",
+      "amountCents": 2530,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches"
+    },
+    {
+      "name": "Smoked Meat Grilled Cheese",
+      "amountCents": 2420,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches"
+    },
+    {
+      "name": "Maple Curry Penne",
+      "amountCents": 2645,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Plates and Bowls"
+    },
+    {
+      "name": "Crispy Dill Chicken Tacos (3)",
+      "amountCents": 2310,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Plates and Bowls"
+    },
+    {
+      "name": "Fried Fish with Salt and Vinegar Chips",
+      "amountCents": 2750,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Plates and Bowls"
+    },
+    {
+      "name": "Vietnamese Pork Bowl",
+      "amountCents": 2310,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Plates and Bowls"
+    },
+    {
+      "name": "Poutine battle",
+      "amountCents": 2440,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Plates and Bowls"
+    },
+    {
+      "name": "Korean BBQ Bowl",
+      "amountCents": 2310,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Plates and Bowls"
+    },
+    {
+      "name": "Chicken and Waffles",
+      "amountCents": 2640,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Plates and Bowls"
+    },
+    {
+      "name": "Pop",
+      "amountCents": 440,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Bottled Water",
+      "amountCents": 440,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Side Barbanaise",
+      "amountCents": 220,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Side Sauces"
+    },
+    {
+      "name": "Side Tzatiki",
+      "amountCents": 220,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Side Sauces"
+    },
+    {
+      "name": "Side Gravy",
+      "amountCents": 220,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Side Sauces"
+    },
+    {
+      "name": "Side Peppercorn Aioli",
+      "amountCents": 220,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Side Sauces"
+    },
+    {
+      "name": "Side Sour Cream",
+      "amountCents": 220,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Side Sauces"
+    },
+    {
+      "name": "Side Toum Sauce",
+      "amountCents": 220,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Side Sauces"
+    }
+  ],
+  "retrievedAt": "2026-09-27T01:34:08.730027+00:00",
+  "coverage": "partial: structured public menu only",
+  "name": "Monks & Jonesie",
+  "url": "https://www.doordash.com/store/monks-&-jonesie-fredericton-1084851/",
+  "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+  "directoryObservedAt": "2026-09-27T01:31:07.613767+00:00",
+  "address": "130 Bishop Drive Fredericton, NB E3C 0E1, Canada",
+  "addressSourceUrl": "https://www.doordash.com/store/monks-&-jonesie-fredericton-1084851/",
+  "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/Monks__Jonesie_Fredericton.png",
+  "categories": [
+    "American",
+    "Fast Casual",
+    "Sandwiches",
+    "Salads"
+  ],
+  "observedAt": "2026-09-27T01:34:08.730027+00:00"
+}

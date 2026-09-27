@@ -1,0 +1,589 @@
+{
+  "name": "Pizza Pizza",
+  "url": "https://www.doordash.com/store/pizza-pizza-fredericton-28828775/",
+  "address": "1111 Regent St, Fredericton NB E3B 3Z2, Canada",
+  "retrievedAt": "2026-09-27T01:32:59.899595+00:00",
+  "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+  "coverage": "partial: structured public menu only",
+  "fulfillmentMode": "unspecified",
+  "menuItems": [
+    {
+      "name": "Large",
+      "amountCents": 1869,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Create Your Own"
+    },
+    {
+      "name": "Medium",
+      "amountCents": 1529,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Create Your Own"
+    },
+    {
+      "name": "Single Curly Fries",
+      "amountCents": 759,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    },
+    {
+      "name": "Small",
+      "amountCents": 1239,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Create Your Own"
+    },
+    {
+      "name": "Medium Pepperoni",
+      "amountCents": 1784,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "Large Pepperoni",
+      "amountCents": 2164,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "10 Wings",
+      "amountCents": 1719,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "Medium Meat Supreme",
+      "amountCents": 2549,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "Pepperoni Panzerotti",
+      "amountCents": 1049,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "X-Large",
+      "amountCents": 2349,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Create Your Own"
+    },
+    {
+      "name": "PARTY",
+      "amountCents": 3109,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Create Your Own"
+    },
+    {
+      "name": "X-Large Stuffed Crust Pizza",
+      "amountCents": 3129,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Create Your Own"
+    },
+    {
+      "name": "XXL",
+      "amountCents": 2649,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Create Your Own"
+    },
+    {
+      "name": "Large Butter Chicken",
+      "amountCents": 3114,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "Medium Tandoori Chicken",
+      "amountCents": 2929,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "X-Large Tandoori Chicken",
+      "amountCents": 4264,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "Medium Butter Chicken",
+      "amountCents": 2589,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "Large Spicy BBQ Chicken",
+      "amountCents": 3114,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "Medium Spicy BBQ Chicken",
+      "amountCents": 2589,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "Medium Canadian",
+      "amountCents": 2294,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "Large Tandoori Chicken",
+      "amountCents": 3534,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "Large Meat Supreme",
+      "amountCents": 3049,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "Small Spicy BBQ Chicken",
+      "amountCents": 2144,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "Small Tropical Hawaiian",
+      "amountCents": 1899,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "Small Meat Supreme",
+      "amountCents": 2119,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "X-Large Pepperoni",
+      "amountCents": 2679,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "Medium Donair Pizza",
+      "amountCents": 2759,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "Large Canadian",
+      "amountCents": 2754,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "Small Butter Chicken",
+      "amountCents": 2144,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "Small Classic Super",
+      "amountCents": 1899,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "Small Ultimate Pepperoni",
+      "amountCents": 1569,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "Medium Ultimate Pepperoni",
+      "amountCents": 1912,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "Large Ultimate Pepperoni",
+      "amountCents": 2312,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "X-Large Ultimate Pepperoni",
+      "amountCents": 2844,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "X-Large Meat Supreme",
+      "amountCents": 3669,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "Large Tropical Hawaiian",
+      "amountCents": 2754,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "X-Large Tropical Hawaiian",
+      "amountCents": 3339,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "Small Canadian",
+      "amountCents": 1899,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "X-Large Canadian",
+      "amountCents": 3339,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "X-Large Spicy BBQ Chicken",
+      "amountCents": 3764,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "Medium Classic Super",
+      "amountCents": 2294,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "Large Classic Super",
+      "amountCents": 2754,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "X-Large Classic Super",
+      "amountCents": 3339,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "Large Donair Pizza",
+      "amountCents": 3324,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "Small Tandoori Chicken",
+      "amountCents": 2414,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "Small Donair Pizza",
+      "amountCents": 2279,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "X-Large Donair Pizza",
+      "amountCents": 4014,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "Small Pepperoni",
+      "amountCents": 1459,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meat Favourites"
+    },
+    {
+      "name": "X-Large Plant-Based Pepperoni",
+      "amountCents": 2854,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Veggie Favourites"
+    },
+    {
+      "name": "Medium Garden Veggie",
+      "amountCents": 2294,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Veggie Favourites"
+    },
+    {
+      "name": "X-Large Garden Veggie",
+      "amountCents": 3339,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Veggie Favourites"
+    },
+    {
+      "name": "Medium Plant-Based Pepperoni",
+      "amountCents": 1909,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Veggie Favourites"
+    },
+    {
+      "name": "X-Large Mediterranean Vegetarian",
+      "amountCents": 4064,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Veggie Favourites"
+    },
+    {
+      "name": "Large Mediterranean Vegetarian",
+      "amountCents": 3384,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Veggie Favourites"
+    },
+    {
+      "name": "Large Classic Cheese",
+      "amountCents": 1869,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Veggie Favourites"
+    },
+    {
+      "name": "Medium Creamy Mushroom Florentine",
+      "amountCents": 2639,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Veggie Favourites"
+    },
+    {
+      "name": "X-Large Classic Cheese",
+      "amountCents": 2349,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Veggie Favourites"
+    },
+    {
+      "name": "Small Creamy Mushroom Florentine",
+      "amountCents": 2174,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Veggie Favourites"
+    },
+    {
+      "name": "Small Garden Veggie",
+      "amountCents": 1899,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Veggie Favourites"
+    },
+    {
+      "name": "Small Plant-Based Pepperoni",
+      "amountCents": 1569,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Veggie Favourites"
+    },
+    {
+      "name": "Large Garden Veggie",
+      "amountCents": 2754,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Veggie Favourites"
+    },
+    {
+      "name": "Medium Mediterranean Vegetarian",
+      "amountCents": 2819,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Veggie Favourites"
+    },
+    {
+      "name": "Medium Pesto Amore",
+      "amountCents": 2464,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Veggie Favourites"
+    },
+    {
+      "name": "Large Pesto Amore",
+      "amountCents": 2964,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Veggie Favourites"
+    },
+    {
+      "name": "Large Creamy Mushroom Florentine",
+      "amountCents": 3179,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Veggie Favourites"
+    },
+    {
+      "name": "X-Large Creamy Mushroom Florentine",
+      "amountCents": 3844,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Veggie Favourites"
+    },
+    {
+      "name": "Small Mediterranean Vegetarian",
+      "amountCents": 2339,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Veggie Favourites"
+    },
+    {
+      "name": "X-Large Pesto Amore",
+      "amountCents": 3589,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Veggie Favourites"
+    },
+    {
+      "name": "Medium Classic Cheese",
+      "amountCents": 1529,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Veggie Favourites"
+    },
+    {
+      "name": "GLUTEN FREE CRUST PIZZA",
+      "amountCents": 2079,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Alternative Crusts"
+    },
+    {
+      "name": "Cauliflower Crust Pizza",
+      "amountCents": 2079,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Alternative Crusts"
+    },
+    {
+      "name": "Mr. Funguy",
+      "amountCents": 2399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Ancient Grains Crust Pizzas"
+    },
+    {
+      "name": "Broc Party",
+      "amountCents": 2399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Ancient Grains Crust Pizzas"
+    },
+    {
+      "name": "Honey I'm Home",
+      "amountCents": 2399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Ancient Grains Crust Pizzas"
+    },
+    {
+      "name": "Rosé All Day",
+      "amountCents": 2399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Ancient Grains Crust Pizzas"
+    },
+    {
+      "name": "Bee Sting",
+      "amountCents": 2399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Ancient Grains Crust Pizzas"
+    },
+    {
+      "name": "Charred Cup",
+      "amountCents": 2399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Ancient Grains Crust Pizzas"
+    },
+    {
+      "name": "Double Curly Fries",
+      "amountCents": 1099,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    },
+    {
+      "name": "Creamy Garlic and Cheese Tots",
+      "amountCents": 1109,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    },
+    {
+      "name": "Large Donair Poutine",
+      "amountCents": 1279,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    }
+  ],
+  "id": "ss_doordash_28828775",
+  "directoryObservedAt": "2026-09-27T01:31:07.613694+00:00",
+  "addressSourceUrl": "https://www.doordash.com/store/pizza-pizza-fredericton-28828775/",
+  "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/pizza-pizza-cover.jpg",
+  "categories": [
+    "Pizza",
+    "Chicken Wings",
+    "Sandwiches",
+    "Fries",
+    "Desserts",
+    "Stromboli",
+    "Indian",
+    "Italian",
+    "Halal",
+    "Chicken",
+    "DINEOUT-Fast food"
+  ],
+  "observedAt": "2026-09-27T01:32:59.899595+00:00"
+}

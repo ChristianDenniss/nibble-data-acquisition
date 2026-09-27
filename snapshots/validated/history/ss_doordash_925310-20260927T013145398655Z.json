@@ -1,0 +1,168 @@
+{
+  "name": "Rocket Burger",
+  "url": "https://www.doordash.com/store/rocket-burger-fredericton-925310/",
+  "address": "349 King St, Fredericton, NB E3B 1E4, Canada",
+  "retrievedAt": "2026-09-27T01:31:45.398619+00:00",
+  "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+  "coverage": "partial: structured public menu only",
+  "fulfillmentMode": "unspecified",
+  "menuItems": [
+    {
+      "name": "Rocket Burger",
+      "amountCents": 800,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burgers"
+    },
+    {
+      "name": "Shuttle Corn",
+      "amountCents": 700,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Rocket Dog",
+      "amountCents": 450,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Other Sandwiches"
+    },
+    {
+      "name": "Small Mac & Cheese",
+      "amountCents": 725,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Atlas Burger",
+      "amountCents": 1275,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burgers"
+    },
+    {
+      "name": "Ballistic Burger",
+      "amountCents": 1200,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burgers"
+    },
+    {
+      "name": "Rocket Chicken",
+      "amountCents": 1175,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Other Sandwiches"
+    },
+    {
+      "name": "Donair Burger",
+      "amountCents": 1000,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burgers"
+    },
+    {
+      "name": "Meteor Veggie Burger",
+      "amountCents": 1075,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Other Sandwiches"
+    },
+    {
+      "name": "Neptune Burger",
+      "amountCents": 1275,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burgers"
+    },
+    {
+      "name": "Spudnik Salad",
+      "amountCents": 725,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Large Mac & Cheese",
+      "amountCents": 1350,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Orion Burger",
+      "amountCents": 1275,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burgers"
+    },
+    {
+      "name": "The Afterburner",
+      "amountCents": 1050,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burgers"
+    },
+    {
+      "name": "Umami Comet",
+      "amountCents": 1275,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burgers"
+    },
+    {
+      "name": "Chicken Bacon Club",
+      "amountCents": 1300,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Other Sandwiches"
+    },
+    {
+      "name": "Jamaican Rocket Chicken",
+      "amountCents": 1275,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Other Sandwiches"
+    },
+    {
+      "name": "Soda",
+      "amountCents": 190,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Drinks"
+    },
+    {
+      "name": "Juice",
+      "amountCents": 350,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Powerade",
+      "amountCents": 350,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Dasani 500ml",
+      "amountCents": 250,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    }
+  ],
+  "id": "ss_doordash_925310",
+  "directoryObservedAt": "2026-09-27T01:31:07.613607+00:00",
+  "addressSourceUrl": "https://www.doordash.com/store/rocket-burger-fredericton-925310/",
+  "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/RocketBurger344FrederictonNB.png",
+  "categories": [
+    "Burgers",
+    "Sandwiches",
+    "Hot Dogs"
+  ],
+  "observedAt": "2026-09-27T01:31:45.398619+00:00"
+}

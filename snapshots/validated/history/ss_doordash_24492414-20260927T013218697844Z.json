@@ -1,0 +1,532 @@
+{
+  "name": "Wendy's",
+  "url": "https://www.doordash.com/store/wendys-fredericton-24492414/",
+  "address": "967 Prospect St, Fredericton, NB E3B 3H4, Canada",
+  "retrievedAt": "2026-09-27T01:32:18.697747+00:00",
+  "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+  "coverage": "partial: structured public menu only",
+  "fulfillmentMode": "unspecified",
+  "menuItems": [
+    {
+      "name": "Baconator® with Cheese Combo",
+      "amountCents": 1705,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Combos"
+    },
+    {
+      "name": "Asiago Ranch Chicken Club Combo",
+      "amountCents": 1644,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Combos"
+    },
+    {
+      "name": "Dave's Double® with Cheese Combo",
+      "amountCents": 1620,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Combos"
+    },
+    {
+      "name": "Dave's Single® with Cheese Combo",
+      "amountCents": 1427,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Combos"
+    },
+    {
+      "name": "6-Piece Crispy Chicken Nuggets (Cals: 190)",
+      "amountCents": 483,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Everyday Value Menu"
+    },
+    {
+      "name": "10-Piece Crispy Chicken Nuggets (Cals: 410)",
+      "amountCents": 943,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken, Wraps & More"
+    },
+    {
+      "name": "Son of Baconator® with Cheese Combo",
+      "amountCents": 1499,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Combos"
+    },
+    {
+      "name": "Spicy Chicken Sandwich Combo",
+      "amountCents": 1487,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Combos"
+    },
+    {
+      "name": "Baconator® with Cheese (Cals: 970)",
+      "amountCents": 1172,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Cheeseburgers"
+    },
+    {
+      "name": "Cinnabon® Pull-Apart (Cals: 530)",
+      "amountCents": 604,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Fries & Sides"
+    },
+    {
+      "name": "Chili (Cals: 290-380)",
+      "amountCents": 483,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Fries & Sides"
+    },
+    {
+      "name": "Poutine (Cals: 330-640)",
+      "amountCents": 507,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Fries & Sides"
+    },
+    {
+      "name": "Korean BBQ Chicken Sandwich Combo",
+      "amountCents": 1560,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Limited Time Offers"
+    },
+    {
+      "name": "Spicy Buffalo Chicken Sandwich (Cals: 450)",
+      "amountCents": 1027,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Limited Time Offers"
+    },
+    {
+      "name": "Spicy Korean BBQ Chicken Sandwich Combo",
+      "amountCents": 1560,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Limited Time Offers"
+    },
+    {
+      "name": "Buffalo Chicken Sandwich Combo",
+      "amountCents": 1560,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Limited Time Offers"
+    },
+    {
+      "name": "Spicy Korean BBQ Chicken Sandwich (Cals: 480)",
+      "amountCents": 1027,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Limited Time Offers"
+    },
+    {
+      "name": "Korean BBQ Chicken Sandwich (Cals: 490)",
+      "amountCents": 1027,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Limited Time Offers"
+    },
+    {
+      "name": "Buffalo Shaker Fries (Cals: 290)",
+      "amountCents": 483,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Limited Time Offers"
+    },
+    {
+      "name": "Buffalo Chicken Sandwich (Cals: 460)",
+      "amountCents": 1027,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Limited Time Offers"
+    },
+    {
+      "name": "Spicy Buffalo Chicken Sandwich Combo",
+      "amountCents": 1560,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Limited Time Offers"
+    },
+    {
+      "name": "5-Piece Chicken Strips Combo",
+      "amountCents": 1862,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Combos"
+    },
+    {
+      "name": "3-Piece Classic Chicken Strips Combo",
+      "amountCents": 1499,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Combos"
+    },
+    {
+      "name": "10-Piece Crispy Chicken Nuggets Combo",
+      "amountCents": 1499,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Combos"
+    },
+    {
+      "name": "Classic Chicken Sandwich Combo",
+      "amountCents": 1487,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Combos"
+    },
+    {
+      "name": "Dave's Triple® with Cheese Combo",
+      "amountCents": 1814,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Combos"
+    },
+    {
+      "name": "Bacon Deluxe 1/2 lb* Double with Cheese Combo",
+      "amountCents": 1729,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Combos"
+    },
+    {
+      "name": "Grilled Caesar Salad Combo",
+      "amountCents": 1777,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Combos"
+    },
+    {
+      "name": "Grilled Chicken Wrap Duo Combo",
+      "amountCents": 1463,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Combos"
+    },
+    {
+      "name": "Spicy Chicken Wrap Duo Combo",
+      "amountCents": 1463,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Combos"
+    },
+    {
+      "name": "Bacon Deluxe 1/4 lb* Single with Cheese Combo",
+      "amountCents": 1523,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Combos"
+    },
+    {
+      "name": "Apple Pecan Chicken Salad Combo",
+      "amountCents": 1777,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Combos"
+    },
+    {
+      "name": "Bacon Deluxe 3/4 lb* Triple with Cheese Combo",
+      "amountCents": 1923,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Combos"
+    },
+    {
+      "name": "Taco Salad Combo",
+      "amountCents": 1777,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Combos"
+    },
+    {
+      "name": "Classic Chicken Wrap Duo Combo",
+      "amountCents": 1463,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Combos"
+    },
+    {
+      "name": "Dave's Single® with Cheese (Cals: 590)",
+      "amountCents": 894,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Cheeseburgers"
+    },
+    {
+      "name": "Dave's Double® with Cheese (Cals: 860)",
+      "amountCents": 1088,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Cheeseburgers"
+    },
+    {
+      "name": "Bacon Deluxe 1/4 lb* Single with Cheese (Cals: 650)",
+      "amountCents": 991,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Cheeseburgers"
+    },
+    {
+      "name": "Double Jr. Bacon Cheeseburger (Cals: 530)",
+      "amountCents": 507,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Everyday Value Menu"
+    },
+    {
+      "name": "Son of Baconator® with Cheese (Cals: 670)",
+      "amountCents": 967,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Cheeseburgers"
+    },
+    {
+      "name": "Dave's Triple® with Cheese (Cals: 1170)",
+      "amountCents": 1281,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Cheeseburgers"
+    },
+    {
+      "name": "Jr. Bacon Cheeseburger (Cals: 390)",
+      "amountCents": 386,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Everyday Value Menu"
+    },
+    {
+      "name": "Cheesy Cheddar Burger (Cals: 320)",
+      "amountCents": 386,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Everyday Value Menu"
+    },
+    {
+      "name": "Double Stack (Cals: 440)",
+      "amountCents": 507,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Everyday Value Menu"
+    },
+    {
+      "name": "Jr. Hamburger Deluxe (Cals: 360)",
+      "amountCents": 289,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Cheeseburgers"
+    },
+    {
+      "name": "Jr. Cheeseburger Deluxe (Cals: 360)",
+      "amountCents": 386,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Everyday Value Menu"
+    },
+    {
+      "name": "Bacon Deluxe 1/2 lb* Double with Cheese (Cals: 920)",
+      "amountCents": 1197,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Cheeseburgers"
+    },
+    {
+      "name": "Bacon Deluxe 3/4 lb* Triple with Cheese (Cals: 1220)",
+      "amountCents": 1390,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Cheeseburgers"
+    },
+    {
+      "name": "5-Piece Chicken Strips (Cals: 640)",
+      "amountCents": 1330,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken, Wraps & More"
+    },
+    {
+      "name": "Spicy Chicken Sandwich (Cals: 450)",
+      "amountCents": 955,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken, Wraps & More"
+    },
+    {
+      "name": "Spicy Chicken Wrap Duo (Cals: 720)",
+      "amountCents": 930,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken, Wraps & More"
+    },
+    {
+      "name": "Classic Chicken Wrap Duo (Cals: 730)",
+      "amountCents": 930,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken, Wraps & More"
+    },
+    {
+      "name": "Classic Chicken Sandwich (Cals: 480)",
+      "amountCents": 955,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken, Wraps & More"
+    },
+    {
+      "name": "Grilled Chicken Wrap Duo (Cals: 600)",
+      "amountCents": 930,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken, Wraps & More"
+    },
+    {
+      "name": "3-Piece Classic Chicken Strips (Cals: 480-640)",
+      "amountCents": 967,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken, Wraps & More"
+    },
+    {
+      "name": "Spicy Asiago Ranch Chicken Club (Cals: 590)",
+      "amountCents": 1112,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken, Wraps & More"
+    },
+    {
+      "name": "Classic Asiago Ranch Chicken Club (Cals: 610)",
+      "amountCents": 1112,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken, Wraps & More"
+    },
+    {
+      "name": "Grilled Caesar Salad (Cals: 570)",
+      "amountCents": 1245,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Fresh-Made Salads"
+    },
+    {
+      "name": "Taco Salad (Cals: 680)",
+      "amountCents": 1245,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Fresh-Made Salads"
+    },
+    {
+      "name": "Apple Pecan Chicken Salad (Cals: 490)",
+      "amountCents": 1245,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Fresh-Made Salads"
+    },
+    {
+      "name": "Caesar Side Salad (Cals: 340)",
+      "amountCents": 519,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Fresh-Made Salads"
+    },
+    {
+      "name": "Cheese Fries (Cals: 470)",
+      "amountCents": 459,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Everyday Value Menu"
+    },
+    {
+      "name": "Crispy Chicken Sandwich (Cals - 330)",
+      "amountCents": 483,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Everyday Value Menu"
+    },
+    {
+      "name": "Kids' Chicken Nuggets Meal (4 pcs) (Cals: 420)",
+      "amountCents": 701,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Wendy's Kids' Meals"
+    },
+    {
+      "name": "Kids' Cheeseburger Meal (Cals: 510)",
+      "amountCents": 616,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Wendy's Kids' Meals"
+    },
+    {
+      "name": "Kids' Hamburger Meal (Cals: 470)",
+      "amountCents": 592,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Wendy's Kids' Meals"
+    },
+    {
+      "name": "French Toast Sticks Kids’ Meal, 3 PC (Cals: 480-800)",
+      "amountCents": 652,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Wendy's Kids' Meals"
+    },
+    {
+      "name": "Fries with Sea Salt (Cals: 210-470)",
+      "amountCents": 192,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Fries & Sides"
+    },
+    {
+      "name": "Chili Cheese Fries (Cals: 520)",
+      "amountCents": 664,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Fries & Sides"
+    },
+    {
+      "name": "Baconator® Fries (Cals: 410)",
+      "amountCents": 640,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Fries & Sides"
+    },
+    {
+      "name": "Chili Cheese Nachos (Cals: 380)",
+      "amountCents": 446,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Fries & Sides"
+    },
+    {
+      "name": "Homestyle French Toast Sticks, 6 PC. (Cals: 490)",
+      "amountCents": 725,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Fries & Sides"
+    },
+    {
+      "name": "Homestyle French Toast Sticks, 4 PC. (Cals: 330)",
+      "amountCents": 604,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Fries & Sides"
+    }
+  ],
+  "id": "ss_doordash_24492414",
+  "addressSourceUrl": "https://www.doordash.com/store/wendys-fredericton-24492414/",
+  "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/Wendys-Store-Logo.png",
+  "categories": [
+    "Burgers",
+    "Chicken",
+    "Sandwiches",
+    "Fast Food"
+  ],
+  "observedAt": "2026-09-27T01:32:18.697747+00:00"
+}

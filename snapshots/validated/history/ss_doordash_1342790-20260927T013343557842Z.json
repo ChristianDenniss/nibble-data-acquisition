@@ -1,0 +1,236 @@
+{
+  "id": "ss_doordash_1342790",
+  "menuItems": [
+    {
+      "name": "Chicken Wings (12)",
+      "amountCents": 1900,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Hillbilly",
+      "amountCents": 975,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Fresh Cut Fries",
+      "amountCents": 700,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Chicken Wings (24)",
+      "amountCents": 3600,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Cup Of Chicken",
+      "amountCents": 900,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Tender & Fries (3)",
+      "amountCents": 1900,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Hillbilly Fries With Chicken",
+      "amountCents": 1500,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Haddock Bites",
+      "amountCents": 1100,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Fish And Chips",
+      "amountCents": 2100,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Texas Tornado Combo",
+      "amountCents": 1700,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Texas Tornado",
+      "amountCents": 1500,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Chicken Tenders (6)",
+      "amountCents": 1900,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Chicken Tenders (10)",
+      "amountCents": 2900,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Chicken Caesar Salad",
+      "amountCents": 1500,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Regular Poutine",
+      "amountCents": 1100,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Chicken Tenders (4)",
+      "amountCents": 1300,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Extra Haddock Fillet",
+      "amountCents": 1300,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Fish Sandwich Combo",
+      "amountCents": 1600,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Fish Tacos (2)",
+      "amountCents": 1200,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Chicken Wrap Combo",
+      "amountCents": 1500,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "PJ's Cajun Chicken Sandwich",
+      "amountCents": 1350,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Fish Sandwich",
+      "amountCents": 1100,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Chicken Caesar Wrap",
+      "amountCents": 1100,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Blt Sandwich",
+      "amountCents": 975,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Pop",
+      "amountCents": 250,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Dr Pepper",
+      "amountCents": 250,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Extra sauces",
+      "amountCents": 100,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Water",
+      "amountCents": 250,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Blt Combo",
+      "amountCents": 1400,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Chicken Wings (6)",
+      "amountCents": 1000,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    },
+    {
+      "name": "Wing Platter",
+      "amountCents": 7500,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Meals And Drinks"
+    }
+  ],
+  "retrievedAt": "2026-09-27T01:33:43.557810+00:00",
+  "coverage": "partial: structured public menu only",
+  "name": "PJ's Wings An Things",
+  "url": "https://www.doordash.com/store/pjs-wings-an-things-fredericton-1342790/",
+  "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+  "directoryObservedAt": "2026-09-27T01:31:07.613725+00:00",
+  "address": "PJ's Wings an Things, 38 Main St, Fredericton, NB E3A 1B8, Canada",
+  "addressSourceUrl": "https://www.doordash.com/store/pjs-wings-an-things-fredericton-1342790/",
+  "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/PJs_Wings_An_Things.png",
+  "categories": [
+    "Chicken Wings",
+    "Sandwiches"
+  ],
+  "observedAt": "2026-09-27T01:33:43.557810+00:00"
+}

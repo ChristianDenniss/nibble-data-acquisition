@@ -1,0 +1,36 @@
+{
+  "providers": {
+    "Uber Eats": {
+      "lastAttemptAt": "2026-09-27T01:28:16.632201+00:00",
+      "updatedStores": 0,
+      "attempts": [
+        {
+          "url": "https://www.ubereats.com/ca/city/fredericton-nb",
+          "status": "directory",
+          "restaurants": 0
+        },
+        {
+          "url": "https://www.ubereats.com/ca/store/mcdonalds-prospect-st-fred/IhQG17aIXrqBSA8455bEwg",
+          "status": "blocked",
+          "reason": "Provider challenge; retry next scheduled cycle"
+        }
+      ]
+    },
+    "DoorDash": {
+      "lastAttemptAt": "2026-09-27T01:28:17.864056+00:00",
+      "updatedStores": 0,
+      "attempts": [
+        {
+          "url": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+          "status": "directory",
+          "restaurants": 47
+        },
+        {
+          "url": "https://www.doordash.com/store/taco-boyz-fredericton-23391251/",
+          "status": "blocked",
+          "reason": "HTTP 403"
+        }
+      ]
+    }
+  }
+}

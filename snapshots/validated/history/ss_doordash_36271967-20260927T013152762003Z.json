@@ -1,0 +1,239 @@
+{
+  "name": "Pine Tree Pub",
+  "url": "https://www.doordash.com/store/pine-tree-pub-fredericton-36271967/",
+  "address": "185 Gabriel Dr, Fredericton NB E3A 5V9, Canada",
+  "retrievedAt": "2026-09-27T01:31:52.761970+00:00",
+  "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+  "coverage": "partial: structured public menu only",
+  "fulfillmentMode": "unspecified",
+  "menuItems": [
+    {
+      "name": "Clubhouse",
+      "amountCents": 1675,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Handhelds"
+    },
+    {
+      "name": "Chicken Caesar Wrap",
+      "amountCents": 1550,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Handhelds"
+    },
+    {
+      "name": "Spin Dip",
+      "amountCents": 1900,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Fish and Chips",
+      "amountCents": 2195,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Classics"
+    },
+    {
+      "name": "Wings",
+      "amountCents": 2000,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Philly Cheese Taquitos",
+      "amountCents": 1800,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Hot Turkey",
+      "amountCents": 2320,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Classics"
+    },
+    {
+      "name": "Indian Taco",
+      "amountCents": 2065,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Classics"
+    },
+    {
+      "name": "Nachos",
+      "amountCents": 2000,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Hamburger",
+      "amountCents": 1160,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Handhelds"
+    },
+    {
+      "name": "Mozza Sticks",
+      "amountCents": 1290,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Buffalo Dip",
+      "amountCents": 1900,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Potato Skins",
+      "amountCents": 1700,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Turkey Gravy Poutine",
+      "amountCents": 1290,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Fries",
+      "amountCents": 775,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Quesadilla",
+      "amountCents": 1900,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Sweet Potato",
+      "amountCents": 905,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Fries with the Works",
+      "amountCents": 1935,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Onions Rings",
+      "amountCents": 775,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Philly Cheesesteak",
+      "amountCents": 1805,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Handhelds"
+    },
+    {
+      "name": "Chicken Cheddar",
+      "amountCents": 1805,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Handhelds"
+    },
+    {
+      "name": "BLT",
+      "amountCents": 1030,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Handhelds"
+    },
+    {
+      "name": "Chicken Burger",
+      "amountCents": 1675,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Handhelds"
+    },
+    {
+      "name": "Fish Burger",
+      "amountCents": 1160,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Handhelds"
+    },
+    {
+      "name": "Caesar Salad",
+      "amountCents": 1550,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Salads"
+    },
+    {
+      "name": "Garden Salad",
+      "amountCents": 1550,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Salads"
+    },
+    {
+      "name": "Maple Ginger Stirfry",
+      "amountCents": 2065,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Classics"
+    },
+    {
+      "name": "Hot Hamburger",
+      "amountCents": 2320,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Classics"
+    },
+    {
+      "name": "Bottled Pop",
+      "amountCents": 335,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Chocolate Milk",
+      "amountCents": 325,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Bottled Water",
+      "amountCents": 195,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    }
+  ],
+  "id": "ss_doordash_36271967",
+  "directoryObservedAt": "2026-09-27T01:31:07.613617+00:00",
+  "addressSourceUrl": "https://www.doordash.com/store/pine-tree-pub-fredericton-36271967/",
+  "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/7de28edc-afad-4930-9fc7-db8a93f1fd3e.08",
+  "categories": [
+    "Canadian",
+    "Salad",
+    "American",
+    "Pubs"
+  ],
+  "observedAt": "2026-09-27T01:31:52.761970+00:00"
+}

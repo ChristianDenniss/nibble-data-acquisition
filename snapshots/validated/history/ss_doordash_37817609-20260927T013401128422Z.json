@@ -1,0 +1,160 @@
+{
+  "id": "ss_doordash_37817609",
+  "menuItems": [
+    {
+      "name": "Buffalo Chicken Poutine",
+      "amountCents": 1800,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Poutines"
+    },
+    {
+      "name": "Pulled Pork Poutine",
+      "amountCents": 1800,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Poutines"
+    },
+    {
+      "name": "Wontons 1 Dozen",
+      "amountCents": 950,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Main Menu"
+    },
+    {
+      "name": "Classic Chicken Sandwich",
+      "amountCents": 1200,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches"
+    },
+    {
+      "name": "Boneless Wings Reg",
+      "amountCents": 1100,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Boneless Wings"
+    },
+    {
+      "name": "Regular Poutine",
+      "amountCents": 1400,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Poutines"
+    },
+    {
+      "name": "Chicken Bacon Ranch Poutine",
+      "amountCents": 2100,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Poutines"
+    },
+    {
+      "name": "Medium Regular Poutine",
+      "amountCents": 950,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Poutines"
+    },
+    {
+      "name": "Chicken Tenders/Fries",
+      "amountCents": 1800,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Extras"
+    },
+    {
+      "name": "Chicken Bacon Ranch Sandwitch",
+      "amountCents": 1200,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches"
+    },
+    {
+      "name": "Loaded Baked Potato",
+      "amountCents": 1800,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Poutines"
+    },
+    {
+      "name": "Boneless Wings Lrg",
+      "amountCents": 2050,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Boneless Wings"
+    },
+    {
+      "name": "Poutine Sandwich",
+      "amountCents": 1200,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches"
+    },
+    {
+      "name": "Buffalo Blue Cheese Sandwich",
+      "amountCents": 1200,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches"
+    },
+    {
+      "name": "Hot Pepper Poutine",
+      "amountCents": 1800,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Poutines"
+    },
+    {
+      "name": "Fried Chicken Salad",
+      "amountCents": 1550,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Main Menu"
+    },
+    {
+      "name": "Fries",
+      "amountCents": 950,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Extras"
+    },
+    {
+      "name": "Kids Tenders/fries",
+      "amountCents": 1100,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Main Menu"
+    },
+    {
+      "name": "Drinks",
+      "amountCents": 250,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Extras"
+    },
+    {
+      "name": "Cesar Chicken Sandwich",
+      "amountCents": 1200,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches"
+    }
+  ],
+  "retrievedAt": "2026-09-27T01:34:01.128371+00:00",
+  "coverage": "partial: structured public menu only",
+  "name": "Country fried",
+  "url": "https://www.doordash.com/store/country-fried-fredericton-37817609/",
+  "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+  "directoryObservedAt": "2026-09-27T01:31:07.613758+00:00",
+  "address": "361 Rue Smythe, Fredericton, NB E3B 3E3, Canada",
+  "addressSourceUrl": "https://www.doordash.com/store/country-fried-fredericton-37817609/",
+  "imageUrl": "",
+  "categories": [
+    "Sandwiches",
+    "Canadian",
+    "Poutineries"
+  ],
+  "observedAt": "2026-09-27T01:34:01.128371+00:00"
+}

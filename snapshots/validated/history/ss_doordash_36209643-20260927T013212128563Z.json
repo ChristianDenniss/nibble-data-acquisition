@@ -1,0 +1,188 @@
+{
+  "name": "Philthy Wings",
+  "url": "https://www.doordash.com/store/philthy-wings-fredericton-36209643/",
+  "address": "10 Av Trinity, Fredericton, NB E3C 0B8, Canada",
+  "retrievedAt": "2026-09-27T01:32:12.128527+00:00",
+  "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+  "coverage": "partial: structured public menu only",
+  "fulfillmentMode": "unspecified",
+  "menuItems": [
+    {
+      "name": "Solo (Breaded Wings)(1 Lb)",
+      "amountCents": 3299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Wings "
+    },
+    {
+      "name": "Half Pound Breaded Wings (0.5 LB)",
+      "amountCents": 2099,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Wings "
+    },
+    {
+      "name": "Half Pound Wings (0.5 LB)",
+      "amountCents": 1899,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Wings "
+    },
+    {
+      "name": "Solo Wings (1 Lb)",
+      "amountCents": 2799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Wings "
+    },
+    {
+      "name": "Cheese Curds",
+      "amountCents": 1149,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Philthy's Classic Chicken Sandwich",
+      "amountCents": 1599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Club Sandwiches"
+    },
+    {
+      "name": "Signature Fries",
+      "amountCents": 999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Cheesy Pierogi",
+      "amountCents": 949,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Buffalo Hot Chicken Sandwich",
+      "amountCents": 1699,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Club Sandwiches"
+    },
+    {
+      "name": "Jalapeño Poppers",
+      "amountCents": 1149,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Couplet Wings (2 Lb)",
+      "amountCents": 4999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Wings "
+    },
+    {
+      "name": "Onion Rings",
+      "amountCents": 1099,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Couplet (Breaded wings) (2 Lb)",
+      "amountCents": 5699,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Wings "
+    },
+    {
+      "name": "Chicken Fingers with Fries",
+      "amountCents": 1599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Tenders\n"
+    },
+    {
+      "name": "Buffalo Chicken Fingers and Fries",
+      "amountCents": 1699,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Tenders\n"
+    },
+    {
+      "name": "Sweet Heat Chicken Sandwich",
+      "amountCents": 1699,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Club Sandwiches"
+    },
+    {
+      "name": "Gravy",
+      "amountCents": 389,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Gluten-Free Gravy",
+      "amountCents": 389,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Classic Poutine",
+      "amountCents": 1599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Fuze Iced Tea",
+      "amountCents": 399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Minute Maid Juice",
+      "amountCents": 399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Barqs Root Beer",
+      "amountCents": 399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Pop",
+      "amountCents": 279,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Monster",
+      "amountCents": 499,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    }
+  ],
+  "id": "ss_doordash_36209643",
+  "addressSourceUrl": "https://www.doordash.com/store/philthy-wings-fredericton-36209643/",
+  "imageUrl": "",
+  "categories": [
+    "American",
+    "Canadian",
+    "Fast Food"
+  ],
+  "observedAt": "2026-09-27T01:32:12.128527+00:00"
+}

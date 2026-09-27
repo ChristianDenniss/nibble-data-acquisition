@@ -1,0 +1,586 @@
+{
+  "id": "ss_doordash_1814763",
+  "menuItems": [
+    {
+      "name": "Small Garlic Fingers",
+      "amountCents": 1120,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Garlic Fingers"
+    },
+    {
+      "name": "Wings",
+      "amountCents": 1474,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Wings"
+    },
+    {
+      "name": "Donair",
+      "amountCents": 1002,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Donairs"
+    },
+    {
+      "name": "Pop 2L",
+      "amountCents": 589,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "Small Mighty Meaty® Pizza",
+      "amountCents": 1745,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Small Pizzas "
+    },
+    {
+      "name": "Medium Garlic Fingers",
+      "amountCents": 1828,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Donair Oven Sub®",
+      "amountCents": 1061,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Oven Subs®"
+    },
+    {
+      "name": "Cinnful Bites",
+      "amountCents": 825,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "Medium Build Your Own Pizza",
+      "amountCents": 1887,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Medium Mighty Meaty® Pizza",
+      "amountCents": 2595,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Donair Egg Roll (with Side of Donair Sauce)",
+      "amountCents": 471,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Donair with Cheese",
+      "amountCents": 1179,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Donairs"
+    },
+    {
+      "name": "Creamy Alfredo Pasta",
+      "amountCents": 1299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Current Specials "
+    },
+    {
+      "name": "East Coast Kitchen Party",
+      "amountCents": 4999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Current Specials "
+    },
+    {
+      "name": "Meatball Marinara Pasta",
+      "amountCents": 1299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Current Specials "
+    },
+    {
+      "name": "2 Can Dine",
+      "amountCents": 2999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Current Specials "
+    },
+    {
+      "name": "8 Donair Dippers",
+      "amountCents": 825,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Greco Cheese, Bacon & Garlic Bread",
+      "amountCents": 825,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "16 Pretzel Bites",
+      "amountCents": 943,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "12 Donair Dippers",
+      "amountCents": 1237,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "15 Donair Dippers",
+      "amountCents": 1415,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "20 Donair Dippers",
+      "amountCents": 1769,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Boneless Chicken",
+      "amountCents": 1474,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Wings"
+    },
+    {
+      "name": "Large Garlic Fingers",
+      "amountCents": 2418,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Party Garlic Fingers",
+      "amountCents": 3102,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Party 1/2 Garlic Fingers, 1/2 GrecoWorks",
+      "amountCents": 3810,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Garlic Fingers"
+    },
+    {
+      "name": "Assorted Oven Sub®",
+      "amountCents": 1061,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Oven Subs®"
+    },
+    {
+      "name": "Pizza Oven Sub®",
+      "amountCents": 1061,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Oven Subs®"
+    },
+    {
+      "name": "BBQ Chicken Oven Sub®",
+      "amountCents": 1061,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Oven Subs®"
+    },
+    {
+      "name": "Hawaiian Oven Sub®",
+      "amountCents": 1061,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Oven Subs®"
+    },
+    {
+      "name": "Italian Oven Sub®",
+      "amountCents": 1061,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Oven Subs®"
+    },
+    {
+      "name": "Veggie Oven Sub®",
+      "amountCents": 1061,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Oven Subs®"
+    },
+    {
+      "name": "GrecoWorks® Calzone - Large",
+      "amountCents": 1533,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Calzones"
+    },
+    {
+      "name": "Donair Calzone - Large",
+      "amountCents": 1533,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Calzones"
+    },
+    {
+      "name": "Pepperoni Duo Calzone -  Large",
+      "amountCents": 1533,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Calzones"
+    },
+    {
+      "name": "Mighty Meaty Calzone - Large",
+      "amountCents": 1533,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Calzones"
+    },
+    {
+      "name": "BBQ Chicken Calzone - Large",
+      "amountCents": 1533,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Calzones"
+    },
+    {
+      "name": "Hawaiian Calzone - Large",
+      "amountCents": 1533,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Calzones"
+    },
+    {
+      "name": "Small BBQ Chicken Pizza",
+      "amountCents": 1804,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Small Pizzas "
+    },
+    {
+      "name": "Small Veggie Pizza",
+      "amountCents": 1745,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Small Pizzas "
+    },
+    {
+      "name": "Small Pepperoni Duo Pizza",
+      "amountCents": 1745,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Small Pizzas "
+    },
+    {
+      "name": "Small Donair Pizza",
+      "amountCents": 1745,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Small Pizzas "
+    },
+    {
+      "name": "Small GrecoWorks® Pizza",
+      "amountCents": 1745,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Small Pizzas "
+    },
+    {
+      "name": "Small Hawaiian Deluxe Pizza",
+      "amountCents": 1745,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Small Pizzas "
+    },
+    {
+      "name": "Small Build Your Own Pizza",
+      "amountCents": 1179,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Small Pizzas "
+    },
+    {
+      "name": "Small SuperWorks® Pizza",
+      "amountCents": 1804,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Small Pizzas "
+    },
+    {
+      "name": "Small Canadian Pizza",
+      "amountCents": 1745,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Small Pizzas "
+    },
+    {
+      "name": "Medium Donair Pizza",
+      "amountCents": 2595,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Medium BBQ Chicken Pizza",
+      "amountCents": 2677,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Medium Canadian Pizza",
+      "amountCents": 2595,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Medium Hawaiian Deluxe Pizza",
+      "amountCents": 2595,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Medium GrecoWorks® Pizza",
+      "amountCents": 2595,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Medium Pizzas "
+    },
+    {
+      "name": "Medium Pepperoni Duo Pizza",
+      "amountCents": 2595,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Medium SuperWorks® Pizza",
+      "amountCents": 2677,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Medium Veggie Pizza",
+      "amountCents": 2595,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Large Mighty Meaty® Pizza",
+      "amountCents": 3149,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Large GrecoWorks® Pizza",
+      "amountCents": 3149,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Large Pizzas"
+    },
+    {
+      "name": "Large Donair Pizza",
+      "amountCents": 3149,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Large Canadian Pizza",
+      "amountCents": 3149,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Large Pepperoni Duo Pizza",
+      "amountCents": 3149,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Large Pizzas"
+    },
+    {
+      "name": "Large SuperWorks® Pizza",
+      "amountCents": 3385,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Large BBQ Chicken Pizza",
+      "amountCents": 3385,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Large Build Your Own Pizza",
+      "amountCents": 2500,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Large Veggie Pizza",
+      "amountCents": 3149,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Large Hawaiian Deluxe Pizza",
+      "amountCents": 3149,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Party Build Your Own Pizza",
+      "amountCents": 3102,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Party SuperWorks® Pizza",
+      "amountCents": 3810,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Party BBQ Chicken Pizza",
+      "amountCents": 3810,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Party Pizzas "
+    },
+    {
+      "name": "Party Donair Pizza",
+      "amountCents": 3810,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Party Canadian Pizza",
+      "amountCents": 3810,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Party Pepperoni Duo Pizza",
+      "amountCents": 3810,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Party Pizzas "
+    },
+    {
+      "name": "Party Mighty Meaty® Pizza",
+      "amountCents": 3810,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Party GrecoWorks® Pizza",
+      "amountCents": 3810,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Party Pizzas "
+    },
+    {
+      "name": "Party Hawaiian Deluxe Pizza",
+      "amountCents": 3810,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Party  Veggie Pizza",
+      "amountCents": 3810,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Cheddar Chipotle Dip",
+      "amountCents": 152,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dips"
+    },
+    {
+      "name": "Creamy Garlic Dip",
+      "amountCents": 152,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dips"
+    },
+    {
+      "name": "Creamy Ranch Dip",
+      "amountCents": 152,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dips"
+    },
+    {
+      "name": "Donair Sauce",
+      "amountCents": 152,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dips"
+    },
+    {
+      "name": "Wing Sauce",
+      "amountCents": 152,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dips"
+    },
+    {
+      "name": "Pizza Sauce",
+      "amountCents": 152,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dips"
+    }
+  ],
+  "retrievedAt": "2026-09-27T01:33:29.663369+00:00",
+  "coverage": "partial: structured public menu only",
+  "name": "Greco Pizza",
+  "url": "https://www.doordash.com/store/greco-pizza-fredericton-1814763/",
+  "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+  "directoryObservedAt": "2026-09-27T01:31:07.613682+00:00",
+  "address": "529 Dundonald St, Fredericton, NB E3B 7J5, Canada",
+  "addressSourceUrl": "https://www.doordash.com/store/greco-pizza-fredericton-1814763/",
+  "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/0f339c9d-9c9a-4a0c-8901-0e808c15d0b5.png",
+  "categories": [
+    "Italian",
+    "Pizzeria"
+  ],
+  "observedAt": "2026-09-27T01:33:29.663369+00:00"
+}

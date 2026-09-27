@@ -1,0 +1,126 @@
+{
+  "providers": {
+    "Uber Eats": {
+      "lastAttemptAt": "2026-09-27T01:23:07.599269+00:00",
+      "updatedStores": 0,
+      "attempts": [
+        {
+          "url": "https://www.ubereats.com/ca/city/fredericton-nb",
+          "status": "directory",
+          "restaurants": 20
+        },
+        {
+          "url": "https://www.ubereats.com/ca/city/fredericton-nb?page=2",
+          "status": "directory",
+          "restaurants": 0
+        },
+        {
+          "url": "https://www.ubereats.com/ca/city/fredericton-nb?page=3",
+          "status": "directory",
+          "restaurants": 0
+        },
+        {
+          "url": "https://www.ubereats.com/ca/city/fredericton-nb?page=4",
+          "status": "directory",
+          "restaurants": 0
+        },
+        {
+          "url": "https://www.ubereats.com/ca/city/fredericton-nb?page=5",
+          "status": "directory",
+          "restaurants": 0
+        },
+        {
+          "url": "https://www.ubereats.com/ca/city/fredericton-nb?page=2#main-content",
+          "status": "directory",
+          "restaurants": 0
+        },
+        {
+          "url": "https://www.ubereats.com/ca/city/fredericton-nb?page=3#main-content",
+          "status": "directory",
+          "restaurants": 0
+        },
+        {
+          "url": "https://www.ubereats.com/ca/city/fredericton-nb?page=4#main-content",
+          "status": "directory",
+          "restaurants": 0
+        },
+        {
+          "url": "https://www.ubereats.com/ca/city/fredericton-nb?page=6",
+          "status": "directory",
+          "restaurants": 0
+        },
+        {
+          "url": "https://www.ubereats.com/ca/city/fredericton-nb?page=5#main-content",
+          "status": "directory",
+          "restaurants": 0
+        },
+        {
+          "url": "https://www.ubereats.com/ca/city/fredericton-nb?page=7",
+          "status": "directory",
+          "restaurants": 0
+        },
+        {
+          "url": "https://www.ubereats.com/ca/city/fredericton-nb?page=6#main-content",
+          "status": "directory",
+          "restaurants": 0
+        },
+        {
+          "url": "https://www.ubereats.com/ca/city/fredericton-nb?page=8",
+          "status": "directory",
+          "restaurants": 0
+        },
+        {
+          "url": "https://www.ubereats.com/ca/city/fredericton-nb?page=7#main-content",
+          "status": "directory",
+          "restaurants": 0
+        },
+        {
+          "url": "https://www.ubereats.com/ca/city/fredericton-nb?page=9",
+          "status": "directory",
+          "restaurants": 0
+        },
+        {
+          "url": "https://www.ubereats.com/ca/city/fredericton-nb?page=8#main-content",
+          "status": "directory",
+          "restaurants": 0
+        },
+        {
+          "url": "https://www.ubereats.com/ca/city/fredericton-nb?page=9#main-content",
+          "status": "directory",
+          "restaurants": 0
+        },
+        {
+          "url": "https://www.ubereats.com/ca/store/mcdonalds-prospect-st-fred/IhQG17aIXrqBSA8455bEwg",
+          "status": "blocked",
+          "reason": "Provider challenge; retry next scheduled cycle"
+        }
+      ]
+    },
+    "DoorDash": {
+      "lastAttemptAt": "2026-09-27T01:23:22.809351+00:00",
+      "updatedStores": 0,
+      "attempts": [
+        {
+          "url": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+          "status": "directory",
+          "restaurants": 0
+        },
+        {
+          "url": "https://www.doordash.com/en-CA/store/taco-boyz-fredericton-23391251/",
+          "status": "failed",
+          "reason": "No supported structured menu prices; blocked or changed page layout"
+        },
+        {
+          "url": "https://www.doordash.com/store/mcdonalds-fredericton-1139998/",
+          "status": "failed",
+          "reason": "No supported structured menu prices; blocked or changed page layout"
+        },
+        {
+          "url": "https://www.doordash.com/en/store/pizza-hut-fredericton-27511224/",
+          "status": "failed",
+          "reason": "No supported structured menu prices; blocked or changed page layout"
+        }
+      ]
+    }
+  }
+}

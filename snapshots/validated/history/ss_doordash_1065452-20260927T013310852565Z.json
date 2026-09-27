@@ -1,0 +1,596 @@
+{
+  "name": "Harvey's",
+  "url": "https://www.doordash.com/store/harveys-fredericton-1065452/",
+  "address": "460 Regent St, Fredericton, NB E3B 3X8, Canada",
+  "retrievedAt": "2026-09-27T01:33:10.852520+00:00",
+  "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+  "coverage": "partial: structured public menu only",
+  "fulfillmentMode": "unspecified",
+  "menuItems": [
+    {
+      "name": "Angus Burger Combo 710-1110 cals",
+      "amountCents": 1589,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Combos"
+    },
+    {
+      "name": "Deep Fried Pickles 250 cals",
+      "amountCents": 509,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Crispy Chicken Sandwich Combo 830-1230 cals",
+      "amountCents": 1619,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Original Burger 380 cals",
+      "amountCents": 869,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "Grilled Hot Dog 340 cals",
+      "amountCents": 599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "Big Harv® Angus Combo 1050-1450 cals",
+      "amountCents": 1999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Combos"
+    },
+    {
+      "name": "Donuts 8 Pack 720 cals",
+      "amountCents": 459,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "Original Burger Combo 680-1080 cals",
+      "amountCents": 1489,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Combos"
+    },
+    {
+      "name": "Double Original Burger Combo 890-1290 cals",
+      "amountCents": 1669,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Combos"
+    },
+    {
+      "name": "Buffalo Chicken Sandwich Combo 930-1330 cals",
+      "amountCents": 1659,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Large Onion Rings 600 cals",
+      "amountCents": 579,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Crispy Chicken Wrap Combo 970-1370 cals",
+      "amountCents": 1649,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Big Harv® Orginal Combo 990-1390 cals",
+      "amountCents": 1789,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Combos"
+    },
+    {
+      "name": "Jr. Burger Combo 550-950 cals",
+      "amountCents": 989,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Combos"
+    },
+    {
+      "name": "Double Angus Burger Combo 950-1350 cals",
+      "amountCents": 1879,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Combos"
+    },
+    {
+      "name": "Double Jr. Burger Combo 650-1050 cals",
+      "amountCents": 1109,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Combos"
+    },
+    {
+      "name": "Chicken Strips Combo (4 Pieces) 680-1080 cals",
+      "amountCents": 1679,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Grilled Chicken Sandwich Combo 570-970 cals",
+      "amountCents": 1619,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Chicken Nuggets (8) Combo 1000-1400 cals",
+      "amountCents": 1589,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Grilled Chicken Wrap Combo 745-1145 cals",
+      "amountCents": 1649,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Buffalo Chicken Wrap Combo 1070-1470 cals",
+      "amountCents": 1689,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Chicken Nuggets (5) Combo 740-1140 cals",
+      "amountCents": 1229,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Buffalo Chicken Nuggets Combo (8) 1090-1490 cals",
+      "amountCents": 1629,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Jr. Crispy Combo 590-990 cals",
+      "amountCents": 1039,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Grilled Chicken Salad with 20oz Soft Drink 205-475 cals",
+      "amountCents": 1519,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Crispy Chicken Salad with 20oz Soft Drink 430-700 cals",
+      "amountCents": 1519,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Jr. Buffalo Chicken Combo 610-1010 cals",
+      "amountCents": 1069,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Buffalo Chicken Nuggets Combo (12) 1500-1900 cals",
+      "amountCents": 2109,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Buffalo Chicken Salad with 20oz Soft Drink 530-800 cals",
+      "amountCents": 1549,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Chicken Nuggets (12) Combo 1350-1750 cals",
+      "amountCents": 2069,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Buffalo Chicken Nuggets Combo (5) 790-1190 cals",
+      "amountCents": 1269,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Large Bacon Double Cheese Poutine Combo 1400-1670 cals",
+      "amountCents": 1659,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Poutine Combos"
+    },
+    {
+      "name": "Large Chicken Bacon Ranch Poutine Combo 1700-1970 cals",
+      "amountCents": 1799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Poutine Combos"
+    },
+    {
+      "name": "Large Buffalo Chicken Poutine Combo 1490-1760 cals",
+      "amountCents": 1659,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Poutine Combos"
+    },
+    {
+      "name": "Large Classic Poutine Combo 1210-1480 cals",
+      "amountCents": 1309,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Poutine Combos"
+    },
+    {
+      "name": "Regular Buffalo Chicken Poutine Combo 850-1120 cals",
+      "amountCents": 1299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Poutine Combos"
+    },
+    {
+      "name": "Regular Chicken Bacon Ranch Poutine Combo 910-1180 cals",
+      "amountCents": 1449,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Poutine Combos"
+    },
+    {
+      "name": "Regular Classic Poutine Combo 700-970 cals",
+      "amountCents": 1069,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Poutine Combos"
+    },
+    {
+      "name": "Regular Bacon Double Cheese Poutine Combo 850-1120 cals",
+      "amountCents": 1299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Poutine Combos"
+    },
+    {
+      "name": "Pickle Pickle Poutine- Lg with a  20 oz drink - 1550-1840 Cals",
+      "amountCents": 1659,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Poutine Combos"
+    },
+    {
+      "name": "Pickle Pickle Poutine- Rg with a 20 oz drink - 930-1220 Cals",
+      "amountCents": 1299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Poutine Combos"
+    },
+    {
+      "name": "Veggie Burger Combo 630-1030 cals",
+      "amountCents": 1489,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Other Combos"
+    },
+    {
+      "name": "Grilled Hot Dog Combo 640-1040 cals",
+      "amountCents": 1199,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Other Combos"
+    },
+    {
+      "name": "Jr. Cheeseburger Kids Meal 600-820 cals",
+      "amountCents": 649,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Kids"
+    },
+    {
+      "name": "Jr. Burger Kids Meal 570-790 cals",
+      "amountCents": 599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Kids"
+    },
+    {
+      "name": "Kids Chicken Nuggets (5) Combo 760-980 cals",
+      "amountCents": 789,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Kids"
+    },
+    {
+      "name": "Jr. Crispy Chicken Kids Meal 610-830 cals",
+      "amountCents": 659,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Kids"
+    },
+    {
+      "name": "Large Buffalo Chicken Poutine 1490 cals",
+      "amountCents": 1359,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Large Bacon Double Cheese Poutine 1400 cals",
+      "amountCents": 1359,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Regular Classic Poutine 700 cals",
+      "amountCents": 769,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Regular Buffalo Chicken Poutine 850 cals",
+      "amountCents": 999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Large Classic Poutine 1210 cals",
+      "amountCents": 1009,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Regular Chicken Bacon Ranch Poutine 910 cals",
+      "amountCents": 1149,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Large Chicken Bacon Ranch Poutine 1700 cals",
+      "amountCents": 1499,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Large Fries 550 cals",
+      "amountCents": 579,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Regular Onion Rings 300 cals",
+      "amountCents": 489,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Regular Bacon Double Cheese Poutine 850 cals",
+      "amountCents": 999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Pickle Pickle Poutine- Regular - 930 Cals",
+      "amountCents": 999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Side Salad 35 cals",
+      "amountCents": 549,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Side Gravy 40 cals",
+      "amountCents": 119,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Extra Dipping Sauces 45-120 cals",
+      "amountCents": 59,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Pickle Pickle Poutine- Large -1550 Cals",
+      "amountCents": 1359,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Frings 620 cals",
+      "amountCents": 549,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Regular Fries 430 cals",
+      "amountCents": 489,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Large Shake made with OREO® 790 cals",
+      "amountCents": 659,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Regular Fountain Pop 0-270 cals",
+      "amountCents": 369,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Large Chocolate Shake 890 cals",
+      "amountCents": 579,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Large Shake made with SKOR® 1020 cals",
+      "amountCents": 659,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Regular Chocolate Shake 660 cals",
+      "amountCents": 489,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Large Orange Cream Shake 740 cals",
+      "amountCents": 579,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Large Strawberry Shake 870 cals",
+      "amountCents": 579,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Large Vanilla Shake 720 cals",
+      "amountCents": 579,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Large Fountain Pop 0-430 cals",
+      "amountCents": 429,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Regular Vanilla Shake 580 cals",
+      "amountCents": 489,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Large Salted Caramel Shake 860 cals",
+      "amountCents": 579,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Regular Shake made with SKOR® 730 cals",
+      "amountCents": 569,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Bottled Water 0 cals",
+      "amountCents": 289,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Watermelon Red Bull Energy Drink, 250 ml 110 cals",
+      "amountCents": 479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Dole Orange Juice 220 cals",
+      "amountCents": 359,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Chocolate Milk 120 cals",
+      "amountCents": 229,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Dole Apple Juice 210 cals",
+      "amountCents": 359,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Red Bull Energy Drink, 250 ml 110 cals",
+      "amountCents": 479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    }
+  ],
+  "id": "ss_doordash_1065452",
+  "directoryObservedAt": "2026-09-27T01:31:07.613674+00:00",
+  "addressSourceUrl": "https://www.doordash.com/store/harveys-fredericton-1065452/",
+  "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/1c31966a-261b-4f80-a6d2-8a37e5647b6a.jpg",
+  "categories": [
+    "Burgers",
+    "Chicken",
+    "Sandwiches",
+    "Poutineries"
+  ],
+  "observedAt": "2026-09-27T01:33:10.852520+00:00"
+}

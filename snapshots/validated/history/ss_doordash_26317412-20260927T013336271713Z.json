@@ -1,0 +1,404 @@
+{
+  "id": "ss_doordash_26317412",
+  "menuItems": [
+    {
+      "name": "10 Wings",
+      "amountCents": 1719,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken"
+    },
+    {
+      "name": "Jalapeno Poppers",
+      "amountCents": 979,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    },
+    {
+      "name": "Single Curly Fries",
+      "amountCents": 759,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    },
+    {
+      "name": "20 Wings",
+      "amountCents": 3229,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken"
+    },
+    {
+      "name": "Funnel Cake Stix with Caramel",
+      "amountCents": 959,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Desserts"
+    },
+    {
+      "name": "10 Chicken Bites",
+      "amountCents": 1719,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken"
+    },
+    {
+      "name": "Snack Box - Chicken Bites",
+      "amountCents": 1529,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken"
+    },
+    {
+      "name": "Spicy Sriracha Mayo Chicken Sandwich",
+      "amountCents": 1029,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches"
+    },
+    {
+      "name": "Poutine",
+      "amountCents": 829,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    },
+    {
+      "name": "Double Curly Fries",
+      "amountCents": 1099,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    },
+    {
+      "name": "Garlic Cheese Fingers",
+      "amountCents": 949,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Cheesy Bread"
+    },
+    {
+      "name": "Snack Box - Chicken Wings",
+      "amountCents": 1529,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken"
+    },
+    {
+      "name": "Chicken Wings (10 Wings) + Dipping Sauce + Single Fries",
+      "amountCents": 2587,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Perfect Pairs"
+    },
+    {
+      "name": "Chicken Wings (20 Wings) + 2 Dipping Sauce + Double Fries",
+      "amountCents": 4516,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Perfect Pairs"
+    },
+    {
+      "name": "Snack Box - Popcorn Chicken",
+      "amountCents": 1529,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken"
+    },
+    {
+      "name": "10 Gluten-Free Chicken Bites (baked)",
+      "amountCents": 1719,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken"
+    },
+    {
+      "name": "20 Chicken Bites",
+      "amountCents": 3229,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken"
+    },
+    {
+      "name": "5 pc. Plant-Based Chick'n Bites",
+      "amountCents": 829,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Plant-Based"
+    },
+    {
+      "name": "10 pc. Plant-Based Chick'n Bites",
+      "amountCents": 1719,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Plant-Based"
+    },
+    {
+      "name": "20 pc. Plant-Based Chick'n Bites",
+      "amountCents": 3229,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Plant-Based"
+    },
+    {
+      "name": "Plant-Based Chick'n Sandwich",
+      "amountCents": 1089,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Plant-Based"
+    },
+    {
+      "name": "Spicy Plant-Based Chick'n Sandwich",
+      "amountCents": 1089,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Plant-Based"
+    },
+    {
+      "name": "Cheese Volcano Dipper",
+      "amountCents": 1449,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Cheesy Bread"
+    },
+    {
+      "name": "Pepperoni Volcano Dipper",
+      "amountCents": 1449,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Cheesy Bread"
+    },
+    {
+      "name": "Bottle Pop",
+      "amountCents": 309,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Peace Tea Raspberry",
+      "amountCents": 329,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Can Pop",
+      "amountCents": 219,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Monster Original",
+      "amountCents": 599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Bottled Water",
+      "amountCents": 279,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Minute Maid Orange Juice",
+      "amountCents": 309,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Minute Maid Apple Juice",
+      "amountCents": 309,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Fuze Iced Tea Lemon",
+      "amountCents": 309,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Dipping Sauce",
+      "amountCents": 169,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Famous Dips"
+    },
+    {
+      "name": "Caramel Dip",
+      "amountCents": 159,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Desserts"
+    },
+    {
+      "name": "Double Onion Rings",
+      "amountCents": 1099,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    },
+    {
+      "name": "Creamy Garlic and Cheese Tots",
+      "amountCents": 1109,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    },
+    {
+      "name": "Fiery Chicken Poutine",
+      "amountCents": 1049,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    },
+    {
+      "name": "Popcorn Chicken Poutine",
+      "amountCents": 1049,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    },
+    {
+      "name": "Single Fries",
+      "amountCents": 699,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    },
+    {
+      "name": "Large Popcorn Chicken Poutine",
+      "amountCents": 1399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    },
+    {
+      "name": "Donair Poutine",
+      "amountCents": 1029,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    },
+    {
+      "name": "Large Donair Poutine",
+      "amountCents": 1279,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    },
+    {
+      "name": "Poutine Loaded Tots",
+      "amountCents": 1209,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    },
+    {
+      "name": "Buffalo Popcorn Chicken and Cheese Tots",
+      "amountCents": 1209,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    },
+    {
+      "name": "Double Fries",
+      "amountCents": 949,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    },
+    {
+      "name": "Single bag of Chips",
+      "amountCents": 239,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    },
+    {
+      "name": "Single Onion Rings",
+      "amountCents": 759,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    },
+    {
+      "name": "Greek Poutine",
+      "amountCents": 1049,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    },
+    {
+      "name": "Large Greek Poutine",
+      "amountCents": 1399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    },
+    {
+      "name": "Cheeseburger Poutine",
+      "amountCents": 1049,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    },
+    {
+      "name": "Large Cheeseburger Poutine",
+      "amountCents": 1399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    },
+    {
+      "name": "Large Fiery Chicken Poutine",
+      "amountCents": 1399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    },
+    {
+      "name": "Large Poutine",
+      "amountCents": 1099,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    },
+    {
+      "name": "Tots with Dip",
+      "amountCents": 1059,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Apps & Sides"
+    }
+  ],
+  "retrievedAt": "2026-09-27T01:33:36.271670+00:00",
+  "coverage": "partial: structured public menu only",
+  "name": "Chicken Chicken by Pizza Pizza",
+  "url": "https://www.doordash.com/store/chicken-chicken-by-pizza-pizza-fredericton-26317412/",
+  "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+  "directoryObservedAt": "2026-09-27T01:31:07.613699+00:00",
+  "address": "127 Main St, Fredericton, NB E3A 1C6, Canada",
+  "addressSourceUrl": "https://www.doordash.com/store/chicken-chicken-by-pizza-pizza-fredericton-26317412/",
+  "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/d98a4303-b47a-44b5-aa45-786b6239c185.png",
+  "categories": [
+    "Chicken",
+    "Chicken Wings",
+    "Chicken Sandwiches",
+    "Fries",
+    "Desserts",
+    "Indian",
+    "Italian",
+    "Halal",
+    "DINEOUT-Fast food"
+  ],
+  "observedAt": "2026-09-27T01:33:36.271670+00:00"
+}

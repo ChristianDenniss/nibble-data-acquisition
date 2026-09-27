@@ -1,0 +1,1474 @@
+{
+  "provider": "DoorDash",
+  "city": "Fredericton",
+  "region": "NB",
+  "sourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+  "retrievedAt": "2026-09-27T01:11:20.438137+00:00",
+  "stale": true,
+  "provenance": "Indexed public DoorDash pages/search extracts; not a live scrape. Each store retains its source age. Full menu completeness is unverified.",
+  "stores": [
+    {
+      "name": "Taco Boyz",
+      "url": "https://www.doordash.com/store/taco-boyz-fredericton-23391251/",
+      "address": "520 Smythe St #2A, Fredericton, NB",
+      "rating": "4.4",
+      "sourceCrawlAgeAtRetrieval": "3 weeks",
+      "coverage": "partial indexed menu",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [
+        {
+          "name": "Three Tacos",
+          "amountCents": 1685,
+          "currency": "CAD",
+          "priceKind": "from"
+        },
+        {
+          "name": "Large Burrito",
+          "amountCents": 1725,
+          "currency": "CAD",
+          "priceKind": "from"
+        },
+        {
+          "name": "Monster Burrito",
+          "amountCents": 2025,
+          "currency": "CAD",
+          "priceKind": "from"
+        },
+        {
+          "name": "Taco Pocket",
+          "amountCents": 1625,
+          "currency": "CAD",
+          "priceKind": "from"
+        },
+        {
+          "name": "Large Nachos",
+          "amountCents": 1555,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "Regular Burrito Bowl",
+          "amountCents": 1555,
+          "currency": "CAD",
+          "priceKind": "from"
+        }
+      ],
+      "id": "ss_doordash_23391251",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "directoryObservedAt": "2026-09-27T01:28:17.721683+00:00"
+    },
+    {
+      "name": "McDonald's",
+      "url": "https://www.doordash.com/store/mcdonalds-fredericton-1139998/",
+      "address": "",
+      "rating": "4.0",
+      "sourceCrawlAgeAtRetrieval": "2 weeks",
+      "coverage": "partial indexed menu",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [
+        {
+          "name": "10 McNuggets Extra Value Meal",
+          "amountCents": 1599,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "Big Mac Extra Value Meal",
+          "amountCents": 1329,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "Quarter Pounder with Cheese Extra Value Meal",
+          "amountCents": 1449,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "6 McNuggets Extra Value Meal",
+          "amountCents": 1339,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "Junior Chicken McValue Meal",
+          "amountCents": 600,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "Family Bundle (Serves 3)",
+          "amountCents": 2569,
+          "currency": "CAD",
+          "priceKind": "base"
+        }
+      ],
+      "promotions": [
+        {
+          "title": "First-order delivery fee promotion advertised",
+          "conditions": "First order only; address, eligibility and expiry must be confirmed with DoorDash.",
+          "expiresAt": null
+        }
+      ],
+      "id": "ss_doordash_1139998",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "directoryObservedAt": "2026-09-27T01:28:17.721707+00:00"
+    },
+    {
+      "name": "Pizza Hut",
+      "url": "https://www.doordash.com/store/pizza-hut-fredericton-27511224/",
+      "address": "",
+      "rating": "4.5",
+      "sourceCrawlAgeAtRetrieval": "3 months",
+      "coverage": "partial indexed menu",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [
+        {
+          "name": "Boneless Bites",
+          "amountCents": 1379,
+          "currency": "CAD",
+          "priceKind": "base",
+          "promotions": [
+            {
+              "title": "Boneless Bites advertised free on CA$30+",
+              "conditions": "Qualifying order of at least CA$30; eligibility and expiry unverified. Not applied to this price.",
+              "minimumSubtotalCents": 3000,
+              "expiresAt": null
+            }
+          ]
+        },
+        {
+          "name": "12\" Medium Create Your Own",
+          "amountCents": 1849,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "Large Breadsticks",
+          "amountCents": 1049,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "14\" Large Create Your Own",
+          "amountCents": 2149,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "Cinnabon Mini Rolls",
+          "amountCents": 1079,
+          "currency": "CAD",
+          "priceKind": "base"
+        },
+        {
+          "name": "14\" Large Pepperoni Lover's",
+          "amountCents": 3229,
+          "currency": "CAD",
+          "priceKind": "base"
+        }
+      ],
+      "promotions": [
+        {
+          "title": "First-order delivery fee promotion advertised",
+          "conditions": "First order only; address, eligibility and expiry must be confirmed with DoorDash.",
+          "expiresAt": null
+        }
+      ],
+      "id": "ss_doordash_27511224",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "directoryObservedAt": "2026-09-27T01:28:17.721686+00:00"
+    },
+    {
+      "name": "Boston Pizza",
+      "url": "https://www.doordash.com/store/boston-pizza-fredericton-1354144/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "2 months ago",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "partial indexed menu",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [
+        {
+          "name": "The Hungry Carnivore",
+          "currency": "CAD",
+          "amountCents": 2519,
+          "priceKind": "from"
+        },
+        {
+          "name": "Create Your Own Pasta",
+          "currency": "CAD",
+          "amountCents": 2039,
+          "priceKind": "from"
+        },
+        {
+          "name": "Stuffed Crust Mozza Sticks",
+          "currency": "CAD",
+          "amountCents": 1399,
+          "priceKind": "base"
+        },
+        {
+          "name": "Wing Combo",
+          "currency": "CAD",
+          "amountCents": 2299,
+          "priceKind": "from"
+        },
+        {
+          "name": "Chicken Parmesan",
+          "currency": "CAD",
+          "amountCents": 2629,
+          "priceKind": "base"
+        },
+        {
+          "name": "Smoky Mountain Spaghetti Meatballs",
+          "currency": "CAD",
+          "amountCents": 2629,
+          "priceKind": "from"
+        }
+      ],
+      "id": "ss_doordash_1354144",
+      "directoryObservedAt": "2026-09-27T01:28:17.721646+00:00"
+    },
+    {
+      "name": "Osmow's Shawarma",
+      "url": "https://www.doordash.com/store/osmows-shawarma-fredericton-32003605/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "last year",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "directory only; menu unavailable",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [],
+      "id": "ss_doordash_32003605",
+      "directoryObservedAt": "2026-09-27T01:28:17.721704+00:00"
+    },
+    {
+      "name": "BarBurrito",
+      "url": "https://www.doordash.com/store/barburrito-fredericton-2369553/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "3 months ago",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "partial indexed menu",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [
+        {
+          "name": "Bowl",
+          "currency": "CAD",
+          "amountCents": 1449,
+          "priceKind": "base"
+        },
+        {
+          "name": "BBOX",
+          "currency": "CAD",
+          "amountCents": 1689,
+          "priceKind": "base"
+        },
+        {
+          "name": "Regular Burrito",
+          "currency": "CAD",
+          "amountCents": 1349,
+          "priceKind": "base"
+        },
+        {
+          "name": "Large Burrito",
+          "currency": "CAD",
+          "amountCents": 1749,
+          "priceKind": "base"
+        },
+        {
+          "name": "Tacos",
+          "currency": "CAD",
+          "amountCents": 1549,
+          "priceKind": "base"
+        },
+        {
+          "name": "Quesadilla",
+          "currency": "CAD",
+          "amountCents": 1449,
+          "priceKind": "base"
+        }
+      ],
+      "id": "ss_doordash_2369553",
+      "directoryObservedAt": "2026-09-27T01:28:17.721676+00:00"
+    },
+    {
+      "name": "Mosey's Southern BBQ",
+      "url": "https://www.doordash.com/store/moseys-southern-bbq-fredericton-32789245/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "1.1 years ago",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "partial indexed menu",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [
+        {
+          "name": "Smoky BBQ Beef Sandwich",
+          "currency": "CAD",
+          "amountCents": 1995,
+          "priceKind": "base"
+        },
+        {
+          "name": "Bacon Mac & Cheese - Full Size",
+          "currency": "CAD",
+          "amountCents": 1995,
+          "priceKind": "base"
+        },
+        {
+          "name": "Slow Cooked BBQ Pulled Pork Sandwich Combo",
+          "currency": "CAD",
+          "amountCents": 1945,
+          "priceKind": "base"
+        },
+        {
+          "name": "Southern Fried Chicken Sandwich",
+          "currency": "CAD",
+          "amountCents": 1795,
+          "priceKind": "base"
+        },
+        {
+          "name": "Crispy Chicken Tenders",
+          "currency": "CAD",
+          "amountCents": 1745,
+          "priceKind": "base"
+        }
+      ],
+      "id": "ss_doordash_32789245",
+      "directoryObservedAt": "2026-09-27T01:28:17.721672+00:00"
+    },
+    {
+      "name": "Montana's BBQ & Bar",
+      "url": "https://www.doordash.com/store/montanas-bbq-&-bar-fredericton-653262/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "2 weeks (directory listing; store page unavailable)",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "directory only; menu unavailable",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [],
+      "id": "ss_doordash_653262",
+      "directoryObservedAt": "2026-09-27T01:28:17.721774+00:00"
+    },
+    {
+      "name": "Swiss Chalet",
+      "url": "https://www.doordash.com/store/swiss-chalet-fredericton-24855116/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "last year",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "directory only; menu unavailable",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [],
+      "id": "ss_doordash_24855116",
+      "directoryObservedAt": "2026-09-27T01:28:17.721789+00:00"
+    },
+    {
+      "name": "East Side Mario's",
+      "url": "https://www.doordash.com/store/east-side-marios-fredericton-1067206/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "last year",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "directory only; menu unavailable",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [],
+      "id": "ss_doordash_1067206",
+      "directoryObservedAt": "2026-09-27T01:28:17.721781+00:00"
+    },
+    {
+      "name": "Wayback Burgers",
+      "url": "https://www.doordash.com/store/wayback-burgers-fredericton-33396692/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "1.3 years ago",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "directory only; menu unavailable",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [],
+      "id": "ss_doordash_33396692",
+      "directoryObservedAt": "2026-09-27T01:28:17.721802+00:00"
+    },
+    {
+      "name": "Byblos Restaurant And Bar",
+      "url": "https://www.doordash.com/store/byblos-restaurant-and-bar-fredericton-1260721/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "3 weeks ago",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "partial indexed menu",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [
+        {
+          "name": "Chicken Shawarma Plate",
+          "currency": "CAD",
+          "amountCents": 2499,
+          "priceKind": "base"
+        },
+        {
+          "name": "Traditional Shawarma Wrap",
+          "currency": "CAD",
+          "amountCents": 1599,
+          "priceKind": "base"
+        },
+        {
+          "name": "Kibbeh Mezza",
+          "currency": "CAD",
+          "amountCents": 2099,
+          "priceKind": "base"
+        },
+        {
+          "name": "Hummus Awarma",
+          "currency": "CAD",
+          "amountCents": 1999,
+          "priceKind": "base"
+        },
+        {
+          "name": "Falafels Mezza",
+          "currency": "CAD",
+          "amountCents": 1599,
+          "priceKind": "base"
+        },
+        {
+          "name": "Garlic Potatoes",
+          "currency": "CAD",
+          "amountCents": 1079,
+          "priceKind": "base"
+        }
+      ],
+      "id": "ss_doordash_1260721",
+      "directoryObservedAt": "2026-09-27T01:28:17.721792+00:00"
+    },
+    {
+      "name": "Rocket Burger",
+      "url": "https://www.doordash.com/store/rocket-burger-fredericton-925310/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "last month",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "partial indexed menu",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [
+        {
+          "name": "Ballistic Burger",
+          "currency": "CAD",
+          "amountCents": 1200,
+          "priceKind": "base"
+        },
+        {
+          "name": "Rocket Burger",
+          "currency": "CAD",
+          "amountCents": 800,
+          "priceKind": "base"
+        },
+        {
+          "name": "Atlas Burger",
+          "currency": "CAD",
+          "amountCents": 1275,
+          "priceKind": "base"
+        },
+        {
+          "name": "Shuttle Corn",
+          "currency": "CAD",
+          "amountCents": 700,
+          "priceKind": "base"
+        },
+        {
+          "name": "Small Mac & Cheese",
+          "currency": "CAD",
+          "amountCents": 725,
+          "priceKind": "base"
+        },
+        {
+          "name": "Rocket Dog",
+          "currency": "CAD",
+          "amountCents": 450,
+          "priceKind": "base"
+        }
+      ],
+      "id": "ss_doordash_925310",
+      "directoryObservedAt": "2026-09-27T01:28:17.721689+00:00"
+    },
+    {
+      "name": "KFC",
+      "url": "https://www.doordash.com/store/kfc-fredericton-1089202/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "1.1 years ago",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "partial indexed menu",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [
+        {
+          "name": "Pickle Sandwich",
+          "currency": "CAD",
+          "amountCents": 1319,
+          "priceKind": "base"
+        },
+        {
+          "name": "Pickle Sandwich Box Meal",
+          "currency": "CAD",
+          "amountCents": 2039,
+          "priceKind": "base"
+        },
+        {
+          "name": "4 Piece Chicken Box",
+          "currency": "CAD",
+          "amountCents": 2249,
+          "priceKind": "base"
+        },
+        {
+          "name": "Pickle Sandwich Combo",
+          "currency": "CAD",
+          "amountCents": 1679,
+          "priceKind": "base"
+        },
+        {
+          "name": "4 Piece Original Recipe Chicken",
+          "currency": "CAD",
+          "amountCents": 1519,
+          "priceKind": "base"
+        },
+        {
+          "name": "4 Piece Original Recipe Chicken Combo",
+          "currency": "CAD",
+          "amountCents": 1889,
+          "priceKind": "base"
+        }
+      ],
+      "id": "ss_doordash_1089202",
+      "directoryObservedAt": "2026-09-27T01:28:17.721679+00:00"
+    },
+    {
+      "name": "Pine Tree Pub",
+      "url": "https://www.doordash.com/store/pine-tree-pub-fredericton-36271967/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "2 months ago",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "partial indexed menu",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [
+        {
+          "name": "Chicken Caesar Wrap",
+          "currency": "CAD",
+          "amountCents": 1550,
+          "priceKind": "base"
+        },
+        {
+          "name": "Clubhouse",
+          "currency": "CAD",
+          "amountCents": 1675,
+          "priceKind": "base"
+        },
+        {
+          "name": "Fish and Chips",
+          "currency": "CAD",
+          "amountCents": 2195,
+          "priceKind": "base"
+        },
+        {
+          "name": "Spin Dip",
+          "currency": "CAD",
+          "amountCents": 1900,
+          "priceKind": "base"
+        },
+        {
+          "name": "Potato Skins",
+          "currency": "CAD",
+          "amountCents": 1700,
+          "priceKind": "base"
+        },
+        {
+          "name": "Hot Turkey",
+          "currency": "CAD",
+          "amountCents": 2320,
+          "priceKind": "base"
+        }
+      ],
+      "id": "ss_doordash_36271967",
+      "directoryObservedAt": "2026-09-27T01:28:17.721696+00:00"
+    },
+    {
+      "name": "WingStreet by Pizza Hut",
+      "url": "https://www.doordash.com/store/wingstreet-by-pizza-hut-fredericton-28425386/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "8 months ago",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "partial indexed menu",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [
+        {
+          "name": "Meal for 1",
+          "currency": "CAD",
+          "amountCents": 1399,
+          "priceKind": "base"
+        },
+        {
+          "name": "Meal for 2",
+          "currency": "CAD",
+          "amountCents": 2899,
+          "priceKind": "base"
+        },
+        {
+          "name": "Boneless - Honey Garlic Sauce",
+          "currency": "CAD",
+          "amountCents": 1149,
+          "priceKind": "base"
+        },
+        {
+          "name": "Mozzarella Sticks",
+          "currency": "CAD",
+          "amountCents": 1099,
+          "priceKind": "base"
+        },
+        {
+          "name": "Family Bundle",
+          "currency": "CAD",
+          "amountCents": 5699,
+          "priceKind": "base"
+        },
+        {
+          "name": "Regular Breadsticks",
+          "currency": "CAD",
+          "amountCents": 689,
+          "priceKind": "base"
+        }
+      ],
+      "id": "ss_doordash_28425386",
+      "directoryObservedAt": "2026-09-27T01:28:17.721693+00:00"
+    },
+    {
+      "name": "Pizza Salvatoré",
+      "url": "https://www.doordash.com/store/pizza-salvator%C3%A9-fredericton-30359691/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "2 months ago",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "partial indexed menu",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [
+        {
+          "name": "Duo (12\")",
+          "currency": "CAD",
+          "amountCents": 2699,
+          "priceKind": "base"
+        },
+        {
+          "name": "Duo",
+          "currency": "CAD",
+          "amountCents": 2599,
+          "priceKind": "base"
+        },
+        {
+          "name": "50% Off on 2nd Large Pizza",
+          "currency": "CAD",
+          "amountCents": 4199,
+          "priceKind": "from"
+        }
+      ],
+      "id": "ss_doordash_30359691",
+      "directoryObservedAt": "2026-09-27T01:28:17.721668+00:00"
+    },
+    {
+      "name": "Popeyes Louisiana Kitchen",
+      "url": "https://www.doordash.com/store/popeyes-louisiana-kitchen-fredericton-28127592/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "last year",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "directory only; menu unavailable",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [],
+      "id": "ss_doordash_28127592"
+    },
+    {
+      "name": "The Hilltop Maritime Tavern",
+      "url": "https://www.doordash.com/store/the-hilltop-maritime-tavern-fredericton-33319203/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "2 months ago",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "partial indexed menu",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [
+        {
+          "name": "HALF Hilltop Club",
+          "currency": "CAD",
+          "amountCents": 1499,
+          "priceKind": "base"
+        }
+      ],
+      "id": "ss_doordash_33319203",
+      "directoryObservedAt": "2026-09-27T01:28:17.721805+00:00"
+    },
+    {
+      "name": "Edo Japan",
+      "url": "https://www.doordash.com/store/edo-japan-fredericton-33266395/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "4 months ago",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "partial indexed menu",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [
+        {
+          "name": "Build your own Yakisoba Noodle Bowl",
+          "currency": "CAD",
+          "amountCents": 1564,
+          "priceKind": "from"
+        },
+        {
+          "name": "Teriyaki Chicken",
+          "currency": "CAD",
+          "amountCents": 1593,
+          "priceKind": "base"
+        },
+        {
+          "name": "Gyoza",
+          "currency": "CAD",
+          "amountCents": 466,
+          "priceKind": "from"
+        },
+        {
+          "name": "Chicken Ramen Soup",
+          "currency": "CAD",
+          "amountCents": 1564,
+          "priceKind": "base"
+        }
+      ],
+      "id": "ss_doordash_33266395"
+    },
+    {
+      "name": "Philthy Wings",
+      "url": "https://www.doordash.com/store/philthy-wings-fredericton-36209643/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "3 months ago",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "partial indexed menu",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [
+        {
+          "name": "Solo Wings (1 Lb)",
+          "currency": "CAD",
+          "amountCents": 2799,
+          "priceKind": "base"
+        },
+        {
+          "name": "Philthy's Classic Chicken Sandwich",
+          "currency": "CAD",
+          "amountCents": 1599,
+          "priceKind": "base"
+        },
+        {
+          "name": "Half Pound Wings (0.5 LB)",
+          "currency": "CAD",
+          "amountCents": 1599,
+          "priceKind": "base"
+        },
+        {
+          "name": "Cheese Curds",
+          "currency": "CAD",
+          "amountCents": 1149,
+          "priceKind": "base"
+        },
+        {
+          "name": "Buffalo Hot Chicken Sandwich",
+          "currency": "CAD",
+          "amountCents": 1699,
+          "priceKind": "base"
+        },
+        {
+          "name": "Signature Fries",
+          "currency": "CAD",
+          "amountCents": 999,
+          "priceKind": "base"
+        }
+      ],
+      "id": "ss_doordash_36209643"
+    },
+    {
+      "name": "Philthy Pierogi",
+      "url": "https://www.doordash.com/store/philthy-pierogi-fredericton-36378925/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "2 weeks (directory listing; store page unavailable)",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "directory only; menu unavailable",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [],
+      "id": "ss_doordash_36378925"
+    },
+    {
+      "name": "Wendy's",
+      "url": "https://www.doordash.com/store/wendys-fredericton-24492414/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "2 weeks (directory listing; store page unavailable)",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "directory only; menu unavailable",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [],
+      "id": "ss_doordash_24492414"
+    },
+    {
+      "name": "Little Caesars",
+      "url": "https://www.doordash.com/store/little-caesars-fredericton-1527827/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "1.3 years ago",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "directory only; menu unavailable",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [],
+      "id": "ss_doordash_1527827",
+      "directoryObservedAt": "2026-09-27T01:28:17.721740+00:00"
+    },
+    {
+      "name": "Pizza Delight",
+      "url": "https://www.doordash.com/store/pizza-delight-fredericton-25576438/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "last year",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "partial indexed menu",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [
+        {
+          "name": "Online for Two",
+          "currency": "CAD",
+          "amountCents": 3568,
+          "priceKind": "base"
+        },
+        {
+          "name": "15\" 3-topp + 15\" Garlic Cheese Fingers",
+          "currency": "CAD",
+          "amountCents": 4365,
+          "priceKind": "base"
+        },
+        {
+          "name": "9\" 3-topp + 9\" Garlic Cheese Fingers",
+          "currency": "CAD",
+          "amountCents": 2477,
+          "priceKind": "base"
+        },
+        {
+          "name": "12\" Garlic Cheese Fingers",
+          "currency": "CAD",
+          "amountCents": 1728,
+          "priceKind": "base"
+        },
+        {
+          "name": "9\" BBQ Nacho",
+          "currency": "CAD",
+          "amountCents": 1415,
+          "priceKind": "base"
+        },
+        {
+          "name": "12\"",
+          "currency": "CAD",
+          "amountCents": 1851,
+          "priceKind": "base"
+        }
+      ],
+      "id": "ss_doordash_25576438",
+      "directoryObservedAt": "2026-09-27T01:28:17.721737+00:00"
+    },
+    {
+      "name": "Dairy Queen",
+      "url": "https://www.doordash.com/store/dairy-queen-fredericton-24459162/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "1.3 years ago",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "directory only; menu unavailable",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [],
+      "id": "ss_doordash_24459162"
+    },
+    {
+      "name": "Mary Brown's Chicken",
+      "url": "https://www.doordash.com/store/mary-browns-chicken-fredericton-25038341/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "last year",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "directory only; menu unavailable",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [],
+      "id": "ss_doordash_25038341",
+      "directoryObservedAt": "2026-09-27T01:28:17.721715+00:00"
+    },
+    {
+      "name": "Subway",
+      "url": "https://www.doordash.com/store/subway-fredericton-2518559/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "4 weeks ago",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "partial indexed menu",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [
+        {
+          "name": "Rotisserie-Style Chicken",
+          "currency": "CAD",
+          "amountCents": 1019,
+          "priceKind": "base"
+        },
+        {
+          "name": "Steak & Cheese",
+          "currency": "CAD",
+          "amountCents": 1089,
+          "priceKind": "base"
+        },
+        {
+          "name": "Classic Rotisserie-Style Chicken",
+          "currency": "CAD",
+          "amountCents": 1439,
+          "priceKind": "base"
+        },
+        {
+          "name": "Sweet Onion Chicken Teriyaki",
+          "currency": "CAD",
+          "amountCents": 1039,
+          "priceKind": "base"
+        },
+        {
+          "name": "Steak'n Bacon",
+          "currency": "CAD",
+          "amountCents": 1259,
+          "priceKind": "base"
+        }
+      ],
+      "id": "ss_doordash_2518559",
+      "directoryObservedAt": "2026-09-27T01:28:17.721718+00:00"
+    },
+    {
+      "name": "A&W",
+      "url": "https://www.doordash.com/store/a%26w-fredericton-29573744/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "2 weeks (directory listing; store page unavailable)",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "directory only; menu unavailable",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [],
+      "id": "ss_doordash_29573744"
+    },
+    {
+      "name": "Firehouse Subs",
+      "url": "https://www.doordash.com/store/firehouse-subs-fredericton-36333145/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "last month",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "partial indexed menu",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [
+        {
+          "name": "Italian™",
+          "currency": "CAD",
+          "amountCents": 1589,
+          "priceKind": "base"
+        },
+        {
+          "name": "Spicy Cajun Chicken",
+          "currency": "CAD",
+          "amountCents": 1779,
+          "priceKind": "base"
+        },
+        {
+          "name": "Firehouse Meatball®",
+          "currency": "CAD",
+          "amountCents": 1539,
+          "priceKind": "base"
+        },
+        {
+          "name": "Hook & Ladder®",
+          "currency": "CAD",
+          "amountCents": 1589,
+          "priceKind": "base"
+        },
+        {
+          "name": "Club on a Sub™",
+          "currency": "CAD",
+          "amountCents": 1749,
+          "priceKind": "base"
+        },
+        {
+          "name": "Smokehouse Beef & Cheddar Brisket™",
+          "currency": "CAD",
+          "amountCents": 1889,
+          "priceKind": "base"
+        }
+      ],
+      "id": "ss_doordash_36333145"
+    },
+    {
+      "name": "Philthy Philly's",
+      "url": "https://www.doordash.com/store/philthy-phillys-fredericton-32775541/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "last year",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "partial indexed menu",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [
+        {
+          "name": "The Big Texan",
+          "currency": "CAD",
+          "amountCents": 2233,
+          "priceKind": "base"
+        },
+        {
+          "name": "Cheese curds bites",
+          "currency": "CAD",
+          "amountCents": 999,
+          "priceKind": "base"
+        }
+      ],
+      "id": "ss_doordash_32775541"
+    },
+    {
+      "name": "Papa Johns Pizza Canada",
+      "url": "https://www.doordash.com/store/papa-johns-pizza-canada-fredericton-1306543/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "1.2 years ago",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "directory only; menu unavailable",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [],
+      "id": "ss_doordash_1306543",
+      "directoryObservedAt": "2026-09-27T01:28:17.721743+00:00"
+    },
+    {
+      "name": "Luna Pizza",
+      "url": "https://www.doordash.com/store/luna-pizza-fredericton-2834176/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "last year",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "partial indexed menu",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [
+        {
+          "name": "Fettuccine Alfredo",
+          "currency": "CAD",
+          "amountCents": 1995,
+          "priceKind": "base"
+        },
+        {
+          "name": "Wings",
+          "currency": "CAD",
+          "amountCents": 1395,
+          "priceKind": "base"
+        },
+        {
+          "name": "One Topping Pizza (15\" Large)",
+          "currency": "CAD",
+          "amountCents": 2699,
+          "priceKind": "base"
+        },
+        {
+          "name": "Lasagna",
+          "currency": "CAD",
+          "amountCents": 1495,
+          "priceKind": "base"
+        },
+        {
+          "name": "Cajun Chicken Penne",
+          "currency": "CAD",
+          "amountCents": 2295,
+          "priceKind": "base"
+        },
+        {
+          "name": "Two Topping Pizza (12\" Medium)",
+          "currency": "CAD",
+          "amountCents": 2399,
+          "priceKind": "base"
+        }
+      ],
+      "id": "ss_doordash_2834176",
+      "directoryObservedAt": "2026-09-27T01:28:17.721734+00:00"
+    },
+    {
+      "name": "Gisele's Pizzeria",
+      "url": "https://www.doordash.com/store/giseles-pizzeria-fredericton-27554984/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "2 weeks (directory listing; store page unavailable)",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "directory only; menu unavailable",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [],
+      "id": "ss_doordash_27554984"
+    },
+    {
+      "name": "Pizza Pizza",
+      "url": "https://www.doordash.com/store/pizza-pizza-fredericton-28828775/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "2 weeks (directory listing; store page unavailable)",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "directory only; menu unavailable",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [],
+      "id": "ss_doordash_28828775",
+      "directoryObservedAt": "2026-09-27T01:28:17.721768+00:00"
+    },
+    {
+      "name": "Cineplex",
+      "url": "https://www.doordash.com/store/cineplex-fredericton-31852895/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "1.1 years ago",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "directory only; menu unavailable",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [],
+      "id": "ss_doordash_31852895"
+    },
+    {
+      "name": "Betty Lee's - Baking Paradise - Tobe Milk Tea",
+      "url": "https://www.doordash.com/store/betty-lees---baking-paradise---tobe-milk-tea-fredericton-23836195/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "4 weeks ago",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "partial indexed menu",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [
+        {
+          "name": "Vietnamese Noodle / Pho",
+          "currency": "CAD",
+          "amountCents": 1799,
+          "priceKind": "base"
+        },
+        {
+          "name": "Vermicelli Bowl",
+          "currency": "CAD",
+          "amountCents": 1799,
+          "priceKind": "base"
+        },
+        {
+          "name": "Lemongrass Noodle Soup (Spicy)",
+          "currency": "CAD",
+          "amountCents": 1899,
+          "priceKind": "base"
+        },
+        {
+          "name": "Roasted Chicken Sandwich",
+          "currency": "CAD",
+          "amountCents": 1179,
+          "priceKind": "base"
+        },
+        {
+          "name": "BBQ Pork Sandwich",
+          "currency": "CAD",
+          "amountCents": 1179,
+          "priceKind": "base"
+        },
+        {
+          "name": "Golden Stir-fried Rice (Serve for two)",
+          "currency": "CAD",
+          "amountCents": 1699,
+          "priceKind": "base"
+        }
+      ],
+      "id": "ss_doordash_23836195",
+      "directoryObservedAt": "2026-09-27T01:28:17.721765+00:00"
+    },
+    {
+      "name": "Harvey's",
+      "url": "https://www.doordash.com/store/harveys-fredericton-1065452/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "2 weeks ago",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "partial indexed menu",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [
+        {
+          "name": "Big Harv® Angus Combo 1050-1450 cals",
+          "currency": "CAD",
+          "amountCents": 1999,
+          "priceKind": "base"
+        },
+        {
+          "name": "Crispy Chicken Wrap Combo 970-1370 cals",
+          "currency": "CAD",
+          "amountCents": 1649,
+          "priceKind": "base"
+        },
+        {
+          "name": "Angus Burger Combo 710-1110 cals",
+          "currency": "CAD",
+          "amountCents": 1589,
+          "priceKind": "base"
+        },
+        {
+          "name": "Crispy Chicken Sandwich Combo 830-1230 cals",
+          "currency": "CAD",
+          "amountCents": 1619,
+          "priceKind": "base"
+        },
+        {
+          "name": "Double Original Burger Combo 890-1290 cals",
+          "currency": "CAD",
+          "amountCents": 1669,
+          "priceKind": "base"
+        },
+        {
+          "name": "Chicken Strips Combo (4 Pieces) 680-1080 cals",
+          "currency": "CAD",
+          "amountCents": 1679,
+          "priceKind": "base"
+        }
+      ],
+      "id": "ss_doordash_1065452",
+      "directoryObservedAt": "2026-09-27T01:28:17.721749+00:00"
+    },
+    {
+      "name": "Jack’s Pizza and Donair",
+      "url": "https://www.doordash.com/store/jack%E2%80%99s-pizza-and-donair-fredericton-1540160/",
+      "address": "",
+      "sourceCrawlAgeAtRetrieval": "9 months ago",
+      "retrievedAt": "2026-09-27T01:23:11.970461+00:00",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "coverage": "partial indexed menu",
+      "fulfillmentMode": "unspecified",
+      "menuItems": [
+        {
+          "name": "Garlic Cheese Fingers",
+          "currency": "CAD",
+          "amountCents": 1249,
+          "priceKind": "base"
+        },
+        {
+          "name": "New York-Style Chicken Wings",
+          "currency": "CAD",
+          "amountCents": 795,
+          "priceKind": "base"
+        },
+        {
+          "name": "9\" Pizza & 9\" Garlic Fingers",
+          "currency": "CAD",
+          "amountCents": 2199,
+          "priceKind": "base"
+        },
+        {
+          "name": "Traditional Poutine",
+          "currency": "CAD",
+          "amountCents": 1199,
+          "priceKind": "base"
+        },
+        {
+          "name": "16\" Pizza & 12\" Garlic Fingers",
+          "currency": "CAD",
+          "amountCents": 3299,
+          "priceKind": "base"
+        },
+        {
+          "name": "Large Donair",
+          "currency": "CAD",
+          "amountCents": 1599,
+          "priceKind": "base"
+        }
+      ],
+      "id": "ss_doordash_1540160",
+      "directoryObservedAt": "2026-09-27T01:28:17.721746+00:00"
+    },
+    {
+      "id": "ss_doordash_27672217",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:28:17.721699+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "A&W",
+      "url": "https://www.doordash.com/store/a&w-fredericton-27672217/",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "directoryObservedAt": "2026-09-27T01:28:17.721700+00:00"
+    },
+    {
+      "id": "ss_doordash_24492416",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:28:17.721727+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "Wendy's",
+      "url": "https://www.doordash.com/store/wendys-fredericton-24492416/",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "directoryObservedAt": "2026-09-27T01:28:17.721728+00:00"
+    },
+    {
+      "id": "ss_doordash_872884",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:28:17.721730+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "Burger King",
+      "url": "https://www.doordash.com/store/burger-king-fredericton-872884/",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "directoryObservedAt": "2026-09-27T01:28:17.721731+00:00"
+    },
+    {
+      "id": "ss_doordash_32686227",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:28:17.721752+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "Sweet Jesus",
+      "url": "https://www.doordash.com/store/sweet-jesus-fredericton-32686227/",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "directoryObservedAt": "2026-09-27T01:28:17.721753+00:00"
+    },
+    {
+      "id": "ss_doordash_1814763",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:28:17.721757+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "Greco Pizza",
+      "url": "https://www.doordash.com/store/greco-pizza-fredericton-1814763/",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "directoryObservedAt": "2026-09-27T01:28:17.721758+00:00"
+    },
+    {
+      "id": "ss_doordash_719055",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:28:17.721761+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "Smoke's Poutinerie",
+      "url": "https://www.doordash.com/store/smokes-poutinerie-fredericton-719055/",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "directoryObservedAt": "2026-09-27T01:28:17.721762+00:00"
+    },
+    {
+      "id": "ss_doordash_26317412",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:28:17.721771+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "Chicken Chicken by Pizza Pizza",
+      "url": "https://www.doordash.com/store/chicken-chicken-by-pizza-pizza-fredericton-26317412/",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "directoryObservedAt": "2026-09-27T01:28:17.721771+00:00"
+    },
+    {
+      "id": "ss_doordash_1158915",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:28:17.721786+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "St-Hubert",
+      "url": "https://www.doordash.com/store/st-hubert-fredericton-1158915/",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "directoryObservedAt": "2026-09-27T01:28:17.721787+00:00"
+    },
+    {
+      "id": "ss_doordash_1342790",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:28:17.721795+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "PJ's Wings An Things",
+      "url": "https://www.doordash.com/store/pjs-wings-an-things-fredericton-1342790/",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "directoryObservedAt": "2026-09-27T01:28:17.721796+00:00"
+    },
+    {
+      "id": "ss_doordash_28386205",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:28:17.721799+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "Sun Prince Restaurant",
+      "url": "https://www.doordash.com/store/sun-prince-restaurant-fredericton-28386205/",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "directoryObservedAt": "2026-09-27T01:28:17.721799+00:00"
+    },
+    {
+      "id": "ss_doordash_35874329",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:28:17.721808+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "Boustan",
+      "url": "https://www.doordash.com/store/boustan-fredericton-35874329/",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "directoryObservedAt": "2026-09-27T01:28:17.721808+00:00"
+    },
+    {
+      "id": "ss_doordash_1050806",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:28:17.721811+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "J's Asian Kitchen",
+      "url": "https://www.doordash.com/store/js-asian-kitchen-fredericton-1050806/",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "directoryObservedAt": "2026-09-27T01:28:17.721812+00:00"
+    },
+    {
+      "id": "ss_doordash_24875523",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:28:17.721814+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "Yassou souvlaki & donair",
+      "url": "https://www.doordash.com/store/yassou-souvlaki-&-donair-fredericton-24875523/",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "directoryObservedAt": "2026-09-27T01:28:17.721815+00:00"
+    },
+    {
+      "id": "ss_doordash_1176055",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:28:17.721818+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "Taco Bell",
+      "url": "https://www.doordash.com/store/taco-bell-fredericton-1176055/",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "directoryObservedAt": "2026-09-27T01:28:17.721818+00:00"
+    },
+    {
+      "id": "ss_doordash_37817609",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:28:17.721821+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "Country fried",
+      "url": "https://www.doordash.com/store/country-fried-fredericton-37817609/",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "directoryObservedAt": "2026-09-27T01:28:17.721822+00:00"
+    },
+    {
+      "id": "ss_doordash_740167",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:28:17.721825+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "Naru Japanese Restaurant",
+      "url": "https://www.doordash.com/store/naru-japanese-restaurant-fredericton-740167/",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "directoryObservedAt": "2026-09-27T01:28:17.721826+00:00"
+    },
+    {
+      "id": "ss_doordash_1084851",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:28:17.721828+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "Monks & Jonesie",
+      "url": "https://www.doordash.com/store/monks-&-jonesie-fredericton-1084851/",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "directoryObservedAt": "2026-09-27T01:28:17.721829+00:00"
+    },
+    {
+      "id": "ss_doordash_24809569",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:28:17.721832+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "Street Greek North",
+      "url": "https://www.doordash.com/store/street-greek-north-fredericton-24809569/",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "directoryObservedAt": "2026-09-27T01:28:17.721833+00:00"
+    },
+    {
+      "id": "ss_doordash_38798997",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:28:17.721835+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "Mantra Restaurant & Bar",
+      "url": "https://www.doordash.com/store/mantra-restaurant-&-bar-fredericton-38798997/",
+      "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+      "directoryObservedAt": "2026-09-27T01:28:17.721836+00:00"
+    }
+  ]
+}

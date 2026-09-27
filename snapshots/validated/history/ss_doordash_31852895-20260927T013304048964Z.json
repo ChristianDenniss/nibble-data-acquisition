@@ -1,0 +1,169 @@
+{
+  "name": "Cineplex",
+  "url": "https://www.doordash.com/store/cineplex-fredericton-31852895/",
+  "address": "1381 Regent St, Fredericton NB E3C 1A2, Canada",
+  "retrievedAt": "2026-09-27T01:33:04.048942+00:00",
+  "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+  "coverage": "partial: structured public menu only",
+  "fulfillmentMode": "unspecified",
+  "menuItems": [
+    {
+      "name": "Cineplex Popcorn",
+      "amountCents": 925,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Popcorn"
+    },
+    {
+      "name": "Fountain Drinks",
+      "amountCents": 649,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Pretzelmaker Pretzel Bites",
+      "amountCents": 599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Candy & Snacks"
+    },
+    {
+      "name": "Candy",
+      "amountCents": 625,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Candy & Snacks"
+    },
+    {
+      "name": "Pretzelmaker Pretzel",
+      "amountCents": 545,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Candy & Snacks"
+    },
+    {
+      "name": "Classic Hot Dog",
+      "amountCents": 649,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Candy & Snacks"
+    },
+    {
+      "name": "Nachos Grande",
+      "amountCents": 799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Candy & Snacks"
+    },
+    {
+      "name": "Mighty Pop Popcorn",
+      "amountCents": 2999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Popcorn"
+    },
+    {
+      "name": "Combo for Two",
+      "amountCents": 2649,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Combos"
+    },
+    {
+      "name": "Ultimate Movie Snacks Combo",
+      "amountCents": 3999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Combos"
+    },
+    {
+      "name": "Mine & Yours Combo",
+      "amountCents": 3698,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Combos"
+    },
+    {
+      "name": "Bottled Drinks",
+      "amountCents": 549,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Harry Potter Plush Combo",
+      "amountCents": 3599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Harry Potter 25th Anniversary"
+    },
+    {
+      "name": "Harry Potter Plush",
+      "amountCents": 1499,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Harry Potter 25th Anniversary"
+    },
+    {
+      "name": "Mighty Pop Combo",
+      "amountCents": 4599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Combos"
+    },
+    {
+      "name": "Popcorn Party Combo",
+      "amountCents": 5996,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Combos"
+    },
+    {
+      "name": "Shake It! Popcorn Seasoning",
+      "amountCents": 149,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Popcorn"
+    },
+    {
+      "name": "Poptopia Gourmet Popcorn",
+      "amountCents": 799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Popcorn"
+    },
+    {
+      "name": "Nacho Dip",
+      "amountCents": 150,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Candy & Snacks"
+    },
+    {
+      "name": "Monster Energy Drink",
+      "amountCents": 599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Popcorn Paul - Squishmallow",
+      "amountCents": 2299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Cineplex Branded Merchandise!"
+    }
+  ],
+  "id": "ss_doordash_31852895",
+  "addressSourceUrl": "https://www.doordash.com/store/cineplex-fredericton-31852895/",
+  "imageUrl": "",
+  "categories": [
+    "American",
+    "Candy Stores",
+    "Chocolates",
+    "Popcorn",
+    "Snacks"
+  ],
+  "observedAt": "2026-09-27T01:33:04.048942+00:00"
+}

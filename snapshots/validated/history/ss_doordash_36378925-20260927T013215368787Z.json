@@ -1,0 +1,280 @@
+{
+  "name": "Philthy Pierogi",
+  "url": "https://www.doordash.com/store/philthy-pierogi-fredericton-36378925/",
+  "address": "10 Av Trinity, Fredericton, NB E3C 0B8, Canada",
+  "retrievedAt": "2026-09-27T01:32:15.368747+00:00",
+  "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+  "coverage": "partial: structured public menu only",
+  "fulfillmentMode": "unspecified",
+  "menuItems": [
+    {
+      "name": "Chicken Bacon Ranch Pierogi",
+      "amountCents": 1399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pierogi's"
+    },
+    {
+      "name": "Cheese Curds Bites",
+      "amountCents": 999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Original Pierogi",
+      "amountCents": 999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pierogi's"
+    },
+    {
+      "name": "Buffalo Chicken Pierogi",
+      "amountCents": 1299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pierogi's"
+    },
+    {
+      "name": "Bacon Cheese Steak Pierogi",
+      "amountCents": 1799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pierogi's"
+    },
+    {
+      "name": "Skor Cheesecake",
+      "amountCents": 1099,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Desserts"
+    },
+    {
+      "name": "Chili Cheese Fries",
+      "amountCents": 849,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Grilled Chicken Pierogi",
+      "amountCents": 1299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pierogi's"
+    },
+    {
+      "name": "Meat Eater Pierogi",
+      "amountCents": 1899,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pierogi's"
+    },
+    {
+      "name": "Pulled Pork Pierogi",
+      "amountCents": 1399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pierogi's"
+    },
+    {
+      "name": "Jalapeño Poppers",
+      "amountCents": 999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Bacon Pierogi",
+      "amountCents": 1399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pierogi's"
+    },
+    {
+      "name": "Italian Spicy Sausage Pierogi",
+      "amountCents": 1299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pierogi's"
+    },
+    {
+      "name": "The Breakfast Pierogi",
+      "amountCents": 1399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pierogi's"
+    },
+    {
+      "name": "Notorious P.I.G Pierogi",
+      "amountCents": 1799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pierogi's"
+    },
+    {
+      "name": "O-Ring Pierogi",
+      "amountCents": 1399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pierogi's"
+    },
+    {
+      "name": "Greasy Vegetable Pierogi",
+      "amountCents": 1299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pierogi's"
+    },
+    {
+      "name": "The Greek Pierogi",
+      "amountCents": 1299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pierogi's"
+    },
+    {
+      "name": "Chili Heartburn Pierogi",
+      "amountCents": 1399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pierogi's"
+    },
+    {
+      "name": "Cheese Steak Pierogi",
+      "amountCents": 1299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pierogi's"
+    },
+    {
+      "name": "Peppercorn Steak Pierogi",
+      "amountCents": 1399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pierogi's"
+    },
+    {
+      "name": "Cheeseburger Pierogi",
+      "amountCents": 1799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pierogi's"
+    },
+    {
+      "name": "Feta Fries",
+      "amountCents": 719,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "O-Rings",
+      "amountCents": 699,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Gravy (4 Oz)",
+      "amountCents": 399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Gluten-Friendly Vegetable Gravy (4 Oz)",
+      "amountCents": 399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Fries",
+      "amountCents": 499,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Fries and Gravy",
+      "amountCents": 649,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Colossal Carrot Cake",
+      "amountCents": 949,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Desserts"
+    },
+    {
+      "name": "Skor Mini Pancakes",
+      "amountCents": 1099,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Desserts"
+    },
+    {
+      "name": "S'mores Mini Pancakes",
+      "amountCents": 1099,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Desserts"
+    },
+    {
+      "name": "Plain Cheesecake",
+      "amountCents": 999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Desserts"
+    },
+    {
+      "name": "Cinnamon and Sugar Mini Pancakes",
+      "amountCents": 1099,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Desserts"
+    },
+    {
+      "name": "Pop",
+      "amountCents": 249,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Fuze Iced Tea - Lemon",
+      "amountCents": 399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Minute Maid Juice",
+      "amountCents": 399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    },
+    {
+      "name": "Water Bottle",
+      "amountCents": 299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Beverages"
+    }
+  ],
+  "id": "ss_doordash_36378925",
+  "addressSourceUrl": "https://www.doordash.com/store/philthy-pierogi-fredericton-36378925/",
+  "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/3a0d2a30-4fd4-40b4-b6d1-27260c1d724d.png",
+  "categories": [
+    "American",
+    "Canadian",
+    "Casual Dining",
+    "Fast Food"
+  ],
+  "observedAt": "2026-09-27T01:32:15.368747+00:00"
+}

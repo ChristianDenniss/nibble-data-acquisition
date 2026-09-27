@@ -1,0 +1,467 @@
+{
+  "city": "Fredericton",
+  "region": "NB",
+  "sourceUrl": "https://www.ubereats.com/ca/city/fredericton-nb",
+  "retrievedAt": "2026-09-27T00:36:40.933778+00:00",
+  "stale": true,
+  "stores": [
+    {
+      "name": "McDonald's (PROSPECT ST-FRED)",
+      "url": "https://www.ubereats.com/ca/store/mcdonalds-prospect-st-fred/IhQG17aIXrqBSA8455bEwg",
+      "address": "1177 Prospect Street, Fredericton, NAMER E3B 3B9",
+      "rating": "4.2",
+      "sourceCrawlAgeAtRetrieval": "3 weeks",
+      "menuItems": [
+        {
+          "name": "10 Chicken McNuggets",
+          "amountCents": 1119,
+          "currency": "CAD"
+        },
+        {
+          "name": "Big Mac",
+          "amountCents": 839,
+          "currency": "CAD"
+        },
+        {
+          "name": "McChicken",
+          "amountCents": 719,
+          "currency": "CAD"
+        }
+      ],
+      "id": "ss_ubereats_b516b917b6ed6c6e5c3ba08c",
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/651e0fc72a660b32e7c27501373f2317/7d9011fd8e36c5a7ce512c5a2f2d7fe5.jpeg",
+      "categories": [
+        "Burgers",
+        "Fast Food",
+        "Chicken",
+        "Canadian",
+        "Family Friendly",
+        "Coffee and Tea"
+      ],
+      "directorySourceUrl": "https://www.ubereats.com/ca/city/fredericton-nb",
+      "directoryObservedAt": "2026-09-27T01:22:15.255796+00:00"
+    },
+    {
+      "name": "Osmow's Shawarma (Fredericton - 1180 Smythe St)",
+      "url": "https://www.ubereats.com/ca/store/osmows-shawarma-fredericton-1180-smythe-st/STsM3Vo_VU-DBZs_Yb2K1g",
+      "address": "1180 Smythe St, Fredericton, NB E3B 3H5",
+      "rating": "4.2",
+      "sourceCrawlAgeAtRetrieval": "3 months",
+      "menuItems": [
+        {
+          "name": "Half & Half",
+          "amountCents": 1619,
+          "currency": "CAD"
+        },
+        {
+          "name": "On The ROCKS",
+          "amountCents": 1499,
+          "currency": "CAD"
+        },
+        {
+          "name": "Shawarma Wrap",
+          "amountCents": 1169,
+          "currency": "CAD"
+        }
+      ],
+      "id": "ss_ubereats_bc8238a5d7db467ed41c2b0d",
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7c887f8dddbc124500e3d9660e04b41b/811141f8f192e16f7ae3ad5ab7d1de57.jpeg",
+      "categories": [
+        "salad",
+        "Halal",
+        "Middle Eastern",
+        "Rice Dishes",
+        "Sandwich",
+        "Wraps",
+        "Keto"
+      ],
+      "directorySourceUrl": "https://www.ubereats.com/ca/city/fredericton-nb",
+      "directoryObservedAt": "2026-09-27T01:22:15.255813+00:00"
+    },
+    {
+      "name": "Gahan House Riverside",
+      "url": "https://www.ubereats.com/ca/store/gahan-house-riverside/naaZLaEEXWezTBwjy9CPTw",
+      "address": "426 Queen Street, Fredericton, NB E3B 1B6",
+      "rating": "4.2",
+      "sourceCrawlAgeAtRetrieval": "1 week",
+      "menuItems": [
+        {
+          "name": "Coconut Chicken Curry",
+          "amountCents": 2900,
+          "currency": "CAD"
+        },
+        {
+          "name": "Chicken Bites",
+          "amountCents": 2050,
+          "currency": "CAD"
+        },
+        {
+          "name": "Tacos",
+          "amountCents": 2200,
+          "currency": "CAD"
+        }
+      ],
+      "id": "ss_ubereats_7026de2282a35b77702a31ea"
+    },
+    {
+      "name": "Taco Boyz (520 Smythe St. Fredericton)",
+      "url": "https://www.ubereats.com/ca/store/taco-boyz-520-smythe-st-fredericton/gnecSBVbV9ygUE84RWhwVA",
+      "address": "520 Smythe Street, Unit 2a Fredericton, Nb E3b 3e6 Canada,",
+      "rating": "4.1",
+      "sourceCrawlAgeAtRetrieval": "5 months",
+      "menuItems": [
+        {
+          "name": "Regular Nachos",
+          "amountCents": 1265,
+          "currency": "CAD"
+        },
+        {
+          "name": "Large Nachos",
+          "amountCents": 1530,
+          "currency": "CAD"
+        },
+        {
+          "name": "Churro",
+          "amountCents": 385,
+          "currency": "CAD"
+        },
+        {
+          "name": "Regular Burrito",
+          "amountCents": null,
+          "currency": "CAD",
+          "priceNote": "Depends on options"
+        }
+      ],
+      "id": "ss_ubereats_0a5ba1d349096949787465cf",
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/840ae3e793d9794b9fa83b8bab7e1d9e/891233042e9ada9873fc6d9c4e835eac.jpeg",
+      "categories": [
+        "Tacos",
+        "Mexican",
+        "Latin American"
+      ],
+      "directorySourceUrl": "https://www.ubereats.com/ca/city/fredericton-nb",
+      "directoryObservedAt": "2026-09-27T01:22:15.255831+00:00"
+    },
+    {
+      "name": "Pizza Hut (1180 Smythe Street)",
+      "url": "https://www.ubereats.com/ca/store/pizza-hut-1180-smythe-street/8TbR2ZlqX_G2VCHXiBCDrQ",
+      "address": "1180 Smythe Street Fredericton, Nb E3b 3h5 Canada,",
+      "rating": "4.4",
+      "sourceCrawlAgeAtRetrieval": "1 day",
+      "menuItems": [
+        {
+          "name": "Boneless Bites",
+          "amountCents": 1379,
+          "currency": "CAD"
+        },
+        {
+          "name": "Chicken Strips My Box",
+          "amountCents": 1619,
+          "currency": "CAD"
+        },
+        {
+          "name": "Family Buffet Box",
+          "amountCents": 4595,
+          "currency": "CAD"
+        }
+      ],
+      "id": "ss_ubereats_041c3ddf79bdba9aec389684",
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/69b38e3c4719a1ee705d2856bc8a116d/811141f8f192e16f7ae3ad5ab7d1de57.jpeg",
+      "categories": [
+        "Pasta",
+        "PIzza"
+      ],
+      "directorySourceUrl": "https://www.ubereats.com/ca/city/fredericton-nb",
+      "directoryObservedAt": "2026-09-27T01:22:15.255833+00:00"
+    },
+    {
+      "id": "ss_ubereats_49846df7683e641f6ac1cc0c",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:22:15.255817+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "McDonald's (NASHWAAKSIS-FRED)",
+      "url": "https://www.ubereats.com/ca/store/mcdonalds-nashwaaksis-fred/K31Zx7LPWJixnfDvqf7XhQ",
+      "address": "94 Main St, Fredericton, NB E3A 9N6",
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/651e0fc72a660b32e7c27501373f2317/7d9011fd8e36c5a7ce512c5a2f2d7fe5.jpeg",
+      "categories": [
+        "Burgers",
+        "Fast Food",
+        "Chicken",
+        "Canadian",
+        "Family Friendly",
+        "Coffee and Tea"
+      ],
+      "directorySourceUrl": "https://www.ubereats.com/ca/city/fredericton-nb",
+      "directoryObservedAt": "2026-09-27T01:22:15.255819+00:00"
+    },
+    {
+      "id": "ss_ubereats_b95c97726012c3b06035ab43",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:22:15.255821+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "Dairy Queen (1250 Prospect St)",
+      "url": "https://www.ubereats.com/ca/store/dairy-queen-1250-prospect-st/EnVZf0dqXcm4nUXacg_UGQ",
+      "address": "1250 Prospect St Fredericton, Nb E3b 3c1 Canada,",
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7a77cfd6f4347cf8d9619ae124e0ee85/08829600257ed8168dd856cafb7446c8.jpeg",
+      "categories": [
+        "Desserts",
+        "Ice Cream",
+        "Chicken",
+        "Burgers",
+        "Fast Food"
+      ],
+      "directorySourceUrl": "https://www.ubereats.com/ca/city/fredericton-nb",
+      "directoryObservedAt": "2026-09-27T01:22:15.255822+00:00"
+    },
+    {
+      "id": "ss_ubereats_dd4a46e4b7651804eee5e2ba",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:22:15.255825+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "KFC Canada (1165 Prospect Street)",
+      "url": "https://www.ubereats.com/ca/store/kfc-canada-1165-prospect-street/8oPqXLbCXSSlWHu-tsp5CA",
+      "address": "1165 Prospect Street, Fredericton, NB E3B 3B9",
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/7b99294535430562a02451d82b35b31b/7d9011fd8e36c5a7ce512c5a2f2d7fe5.jpeg",
+      "categories": [
+        "American",
+        "Fast Food",
+        "Canadian"
+      ],
+      "directorySourceUrl": "https://www.ubereats.com/ca/city/fredericton-nb",
+      "directoryObservedAt": "2026-09-27T01:22:15.255826+00:00"
+    },
+    {
+      "id": "ss_ubereats_65f2e4acfb53a9a306a095c3",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:22:15.255828+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "The Tandoori Adda",
+      "url": "https://www.ubereats.com/ca/store/the-tandoori-adda/m_ebHpoVXfSsKoDxmzESXg",
+      "address": "74 Regent Street Fredericton, Nb E3b 3w4 Canada,",
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/6e2e6357318ecb66a19879718bdcfc36/dfe73df3a8123af1971eabf3eeff9ac1.jpeg",
+      "categories": [
+        "Indian",
+        "Vegetarian",
+        "Asian"
+      ],
+      "directorySourceUrl": "https://www.ubereats.com/ca/city/fredericton-nb",
+      "directoryObservedAt": "2026-09-27T01:22:15.255829+00:00"
+    },
+    {
+      "id": "ss_ubereats_8b6bfb82d30268e22a241644",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:22:15.255836+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "Wendy's (370 Main Street)",
+      "url": "https://www.ubereats.com/ca/store/wendys-370-main-street/_nzJfXxqUJuNByDsiCf0Pw",
+      "address": "370 Main Street, Fredericton, NAMER E3A 1E5",
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2074df00efb853c6bdd3ffd621c34424/7d9011fd8e36c5a7ce512c5a2f2d7fe5.jpeg",
+      "categories": [
+        "Burgers",
+        "Chicken",
+        "Sandwich"
+      ],
+      "directorySourceUrl": "https://www.ubereats.com/ca/city/fredericton-nb",
+      "directoryObservedAt": "2026-09-27T01:22:15.255836+00:00"
+    },
+    {
+      "id": "ss_ubereats_2259a671ddd4edbf20b29bf8",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:22:15.255838+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "A&W (235 Main St)",
+      "url": "https://www.ubereats.com/ca/store/a%26w-235-main-st/VaIJOPm3Wm6l9DvO0S7Ufw",
+      "address": "235 Main Street, Fredericton, NAMER E3A 1E1",
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/a70acbd8d376400ef3870182315acdbb/7d9011fd8e36c5a7ce512c5a2f2d7fe5.jpeg",
+      "categories": [
+        "Burgers",
+        "Breakfast and Brunch",
+        "Fast Food",
+        "Burgers",
+        "Sandwich"
+      ],
+      "directorySourceUrl": "https://www.ubereats.com/ca/city/fredericton-nb",
+      "directoryObservedAt": "2026-09-27T01:22:15.255839+00:00"
+    },
+    {
+      "id": "ss_ubereats_9c3b54ffe8d017b16f9d1903",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:22:15.255841+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "BarBurrito (1111 Regent St)",
+      "url": "https://www.ubereats.com/ca/store/barburrito-1111-regent-st/atKbs3jCVIyj4wvPVu0QJw",
+      "address": "1111 Regent St, Unit 10, Fredericton, NAMER E3B 3Z2",
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/69e753bab542800ae615b1e36b8bc235/7d9011fd8e36c5a7ce512c5a2f2d7fe5.jpeg",
+      "categories": [
+        "Burritos",
+        "Mexican",
+        "Sandwich"
+      ],
+      "directorySourceUrl": "https://www.ubereats.com/ca/city/fredericton-nb",
+      "directoryObservedAt": "2026-09-27T01:22:15.255842+00:00"
+    },
+    {
+      "id": "ss_ubereats_f4e63ac345914b3e23d08b75",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:22:15.255844+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "Papa John's Pizza (528 SMYTHE STREET)",
+      "url": "https://www.ubereats.com/ca/store/papa-johns-pizza-528-smythe-street/y_hllQJrXnGpZxIovrnmfA",
+      "address": "528 Smythe St, Fredericton, NB E3B 3E6",
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/aecc44718efee53a2776dcec15e736e5/7d9011fd8e36c5a7ce512c5a2f2d7fe5.jpeg",
+      "categories": [
+        "Italian",
+        "Pizza",
+        "Wings"
+      ],
+      "directorySourceUrl": "https://www.ubereats.com/ca/city/fredericton-nb",
+      "directoryObservedAt": "2026-09-27T01:22:15.255845+00:00"
+    },
+    {
+      "id": "ss_ubereats_b6d9219e33a3b627b1f3e3f8",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:22:15.255847+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "St. Louis Bar & Grill (280 King Street)",
+      "url": "https://www.ubereats.com/ca/store/st-louis-bar-%26-grill-280-king-street/yQBVrw3yUmuZNTeg0LVo2w",
+      "address": "280 King St, Fredericton, NAMER E3B 1E2",
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/ddce9016ff6e26fbbd2fa378d07f713f/7d9011fd8e36c5a7ce512c5a2f2d7fe5.jpeg",
+      "categories": [
+        "Wings",
+        "Chicken",
+        "Burgers",
+        "Salads",
+        "Pizza",
+        "Pasta",
+        "Poutine",
+        "Canadian",
+        "Desserts"
+      ],
+      "directorySourceUrl": "https://www.ubereats.com/ca/city/fredericton-nb",
+      "directoryObservedAt": "2026-09-27T01:22:15.255848+00:00"
+    },
+    {
+      "id": "ss_ubereats_dc644f140109cb05c0c042ae",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:22:15.255849+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "Boustan (20 Two Nations Crossing B)",
+      "url": "https://www.ubereats.com/ca/store/boustan-20-two-nations-crossing-b/kHejs5lPUY-olEhxjC15_g",
+      "address": "220 Two Nations Crossing B, Fredericton, NAMER E3A 0H2",
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/73464d55e5317eadda19edbf073b8039/811141f8f192e16f7ae3ad5ab7d1de57.jpeg",
+      "categories": [
+        "Middle Eastern",
+        "Lebanese",
+        "Arab"
+      ],
+      "directorySourceUrl": "https://www.ubereats.com/ca/city/fredericton-nb",
+      "directoryObservedAt": "2026-09-27T01:22:15.255850+00:00"
+    },
+    {
+      "id": "ss_ubereats_8eeb1fd0d61243a54c720db7",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:22:15.255863+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "Burger King (1140 Smythe Street)",
+      "url": "https://www.ubereats.com/ca/store/burger-king-1140-smythe-street/2naUpFbQX3SA9pxNSUy8nw",
+      "address": "1140 Smythe Street, Fredericton, NB E3B 3H5",
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/10a0a59a948a6dea38aa54f7b29b9b9a/7d9011fd8e36c5a7ce512c5a2f2d7fe5.jpeg",
+      "categories": [
+        "American",
+        "burger",
+        "Comfort Food",
+        "Fast Food",
+        "Sandwich"
+      ],
+      "directorySourceUrl": "https://www.ubereats.com/ca/city/fredericton-nb",
+      "directoryObservedAt": "2026-09-27T01:22:15.255864+00:00"
+    },
+    {
+      "id": "ss_ubereats_768ae723aba59e73d1882fb4",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:22:15.255866+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "Wendy's (967 Prospect St)",
+      "url": "https://www.ubereats.com/ca/store/wendys-967-prospect-st/Lcpo83WtVRObpJuMJMZHAw",
+      "address": "967 Prospect Street, Fredericton, Ca, E3b 3h4,",
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/2074df00efb853c6bdd3ffd621c34424/7d9011fd8e36c5a7ce512c5a2f2d7fe5.jpeg",
+      "categories": [
+        "Burgers",
+        "Chicken",
+        "Sandwich"
+      ],
+      "directorySourceUrl": "https://www.ubereats.com/ca/city/fredericton-nb",
+      "directoryObservedAt": "2026-09-27T01:22:15.255867+00:00"
+    },
+    {
+      "id": "ss_ubereats_648a1991ac2111d344806465",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:22:15.255869+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "Subway (1055 PROSPECT ST UNIT #1)",
+      "url": "https://www.ubereats.com/ca/store/subway-1055-prospect-st-unit-1/OWxwR3kBX_yNyQvEfW5xrA",
+      "address": "1055 Prospect St Unit #1 Fredericton, Nb E3B 3B9",
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/47606fa4d2f95253722ed46a2eefa8dc/7d9011fd8e36c5a7ce512c5a2f2d7fe5.jpeg",
+      "categories": [
+        "American",
+        "Fast Food",
+        "Sandwich"
+      ],
+      "directorySourceUrl": "https://www.ubereats.com/ca/city/fredericton-nb",
+      "directoryObservedAt": "2026-09-27T01:22:15.255870+00:00"
+    },
+    {
+      "id": "ss_ubereats_8eb0ffaa8024fc6be61e6777",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:22:15.255889+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "Pizza Hut Canada (230 Main Street)",
+      "url": "https://www.ubereats.com/ca/store/pizza-hut-canada-230-main-street/2AX_FnJHW5Sml1xKoE9eFw",
+      "address": "230 Main Street Fredericton, Nb E3a 1c9 Canada,",
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/69b38e3c4719a1ee705d2856bc8a116d/811141f8f192e16f7ae3ad5ab7d1de57.jpeg",
+      "categories": [
+        "Pasta",
+        "PIzza"
+      ],
+      "directorySourceUrl": "https://www.ubereats.com/ca/city/fredericton-nb",
+      "directoryObservedAt": "2026-09-27T01:22:15.255890+00:00"
+    },
+    {
+      "id": "ss_ubereats_b94ee3d76040de9b473ef00f",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:22:15.255892+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "Haveli Indian Bar & Grill",
+      "url": "https://www.ubereats.com/ca/store/haveli-indian-bar-%26-grill/oo-po9ToWMm-SaOmagAZwA",
+      "address": "1033 Prospect St E, Fredericton, NB E3B 3B9",
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/1fcf73869641abaa020ed363a411ed76/08829600257ed8168dd856cafb7446c8.webp",
+      "categories": [
+        "Indian",
+        "Vegetarian",
+        "Asian"
+      ],
+      "directorySourceUrl": "https://www.ubereats.com/ca/city/fredericton-nb",
+      "directoryObservedAt": "2026-09-27T01:22:15.255893+00:00"
+    },
+    {
+      "id": "ss_ubereats_d2ec809ae6d4ef87ee449ba5",
+      "menuItems": [],
+      "retrievedAt": "2026-09-27T01:22:15.255895+00:00",
+      "coverage": "directory only; menu unavailable",
+      "name": "Boston Pizza (1230 Prospect St)",
+      "url": "https://www.ubereats.com/ca/store/boston-pizza-1230-prospect-st/mblmVJwXXAef1mFPvKrZPw",
+      "address": "1230 Prospect Street, Fredericton, NAMER E3B 3C1",
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/53489aeddf82096895d670345b8e5be6/7d9011fd8e36c5a7ce512c5a2f2d7fe5.jpeg",
+      "categories": [
+        "Pizza",
+        "American",
+        "Italian",
+        "Italian",
+        "pasta",
+        "pizza"
+      ],
+      "directorySourceUrl": "https://www.ubereats.com/ca/city/fredericton-nb",
+      "directoryObservedAt": "2026-09-27T01:22:15.255896+00:00"
+    }
+  ]
+}

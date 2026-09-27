@@ -1,0 +1,596 @@
+{
+  "name": "A&W",
+  "url": "https://www.doordash.com/store/a%26w-fredericton-29573744/",
+  "address": "1018 Prospect St, Fredericton, NB E3B 3C1, Canada",
+  "retrievedAt": "2026-09-27T01:32:39.235170+00:00",
+  "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+  "coverage": "partial: structured public menu only",
+  "fulfillmentMode": "unspecified",
+  "menuItems": [
+    {
+      "name": "Double Mozza Combo",
+      "amountCents": 1978,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Combos"
+    },
+    {
+      "name": "Mozza Combo",
+      "amountCents": 1786,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Combos"
+    },
+    {
+      "name": "A&W Plant-Based Combo",
+      "amountCents": 1786,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Combos"
+    },
+    {
+      "name": "Cheddar Bacon Uncle Combo",
+      "amountCents": 2038,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Combos"
+    },
+    {
+      "name": "Papa Combo",
+      "amountCents": 1774,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Combos"
+    },
+    {
+      "name": "Mama Combo",
+      "amountCents": 1558,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Combos"
+    },
+    {
+      "name": "Double Teen Combo",
+      "amountCents": 1978,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Combos"
+    },
+    {
+      "name": "Chicken Strips 5",
+      "amountCents": 1379,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "SP Fries",
+      "amountCents": 635,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "Teen Combo",
+      "amountCents": 1786,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Combos"
+    },
+    {
+      "name": "Poutine",
+      "amountCents": 779,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "Fries",
+      "amountCents": 515,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "Grandpa Combo",
+      "amountCents": 1966,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Combos"
+    },
+    {
+      "name": "Double Buddy Combo",
+      "amountCents": 1164,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Combos"
+    },
+    {
+      "name": "Masala Veggie Combo",
+      "amountCents": 1786,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Combos"
+    },
+    {
+      "name": "Spicy Piri Beef Buddy Combo",
+      "amountCents": 1164,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Combos"
+    },
+    {
+      "name": "Buddy Combo",
+      "amountCents": 1044,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Combos"
+    },
+    {
+      "name": "Crispy Veggie Combo",
+      "amountCents": 1786,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Combos"
+    },
+    {
+      "name": "Nashville Chicken Combo",
+      "amountCents": 1918,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Chicken Strips 3 Combo",
+      "amountCents": 1762,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Chubby Chicken Cruncher Combo",
+      "amountCents": 1918,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Chicken Strips 5 Combo",
+      "amountCents": 2098,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Chicken BLT Cruncher Combo",
+      "amountCents": 2038,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "2 Bacon Wraps Combo",
+      "amountCents": 1498,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "2 Chipotle Wrap Combo",
+      "amountCents": 1498,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Spicy Chipotle Chicken Combo",
+      "amountCents": 1858,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Double Chicken Buddy Combo",
+      "amountCents": 1318,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Chipotle Wrap Combo",
+      "amountCents": 1186,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Chicken Buddy Combo",
+      "amountCents": 1174,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "1 Bacon Wrap Combo",
+      "amountCents": 1186,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Chubby Chicken Combo",
+      "amountCents": 1786,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Chicken BLT Combo",
+      "amountCents": 1858,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "English Muffin Chicken & Cheddar Combo",
+      "amountCents": 1066,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "All Day Breakfast Combos"
+    },
+    {
+      "name": "English Muffin Cheese & Egger Combo",
+      "amountCents": 934,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "All Day Breakfast Combos"
+    },
+    {
+      "name": "Seeded Spicy Chipotle Chicken & Cheddar",
+      "amountCents": 599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "All Day Breakfast Combos"
+    },
+    {
+      "name": "Seeded Chicken & Cheddar",
+      "amountCents": 599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "All Day Breakfast Combos"
+    },
+    {
+      "name": "Sausage & Egger Combo",
+      "amountCents": 1054,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "All Day Breakfast Combos"
+    },
+    {
+      "name": "Cheese & Egger Combo",
+      "amountCents": 934,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "All Day Breakfast Combos"
+    },
+    {
+      "name": "Sausage & Cheddar Combo",
+      "amountCents": 934,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "All Day Breakfast Combos"
+    },
+    {
+      "name": "English Muffin Sausage & Cheddar Combo",
+      "amountCents": 934,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "All Day Breakfast Combos"
+    },
+    {
+      "name": "English Muffin Sausage & Egger Combo",
+      "amountCents": 1054,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "All Day Breakfast Combos"
+    },
+    {
+      "name": "Breakfast Wrap Combo",
+      "amountCents": 934,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "All Day Breakfast Combos"
+    },
+    {
+      "name": "English Muffin Spicy Chipotle Chicken & Cheddar Combo",
+      "amountCents": 1066,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "All Day Breakfast Combos"
+    },
+    {
+      "name": "Bacon & Egger Combo",
+      "amountCents": 1054,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "All Day Breakfast Combos"
+    },
+    {
+      "name": "English Muffin Bacon & Egger Combo",
+      "amountCents": 1054,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "All Day Breakfast Combos"
+    },
+    {
+      "name": "Mama",
+      "amountCents": 839,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Double Teen",
+      "amountCents": 1259,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Double Mozza",
+      "amountCents": 1259,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Cheddar Bacon Uncle",
+      "amountCents": 1319,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Double Buddy",
+      "amountCents": 479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Nashville Chicken",
+      "amountCents": 1199,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Crispy Veggie",
+      "amountCents": 1067,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Grandpa",
+      "amountCents": 1247,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "2 Bacon Wraps",
+      "amountCents": 779,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Double Buddy Cheese",
+      "amountCents": 599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Chicken BLT",
+      "amountCents": 1139,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Masala Veggie",
+      "amountCents": 1067,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Plant-Based",
+      "amountCents": 1067,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Buddy",
+      "amountCents": 359,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Papa",
+      "amountCents": 1055,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Spicy Piri Chicken Buddy",
+      "amountCents": 479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "2 Chipotle Wrap",
+      "amountCents": 779,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Chicken Buddy",
+      "amountCents": 455,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Double Chicken Buddy",
+      "amountCents": 599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Spicy Piri Beef Buddy",
+      "amountCents": 479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Spicy Piri Potato Buddy",
+      "amountCents": 479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Chubby Chicken",
+      "amountCents": 1067,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Bacon Wrap",
+      "amountCents": 467,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Chipotle Wrap",
+      "amountCents": 467,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Chicken Strips 3",
+      "amountCents": 1043,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Spicy Chipotle Chicken",
+      "amountCents": 1139,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Chubby Chicken Cruncher",
+      "amountCents": 1199,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Chicken BLT Cruncher",
+      "amountCents": 1319,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Mozza",
+      "amountCents": 1067,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Teen",
+      "amountCents": 1067,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Individual Items"
+    },
+    {
+      "name": "Cheese & Egger",
+      "amountCents": 467,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "All Day Breakfast"
+    },
+    {
+      "name": "English Muffin Sausage & Egger",
+      "amountCents": 587,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "All Day Breakfast"
+    },
+    {
+      "name": "Breakfast Wrap",
+      "amountCents": 467,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "All Day Breakfast"
+    },
+    {
+      "name": "English Muffin Sausage & Cheddar",
+      "amountCents": 467,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "All Day Breakfast"
+    },
+    {
+      "name": "English Muffin Cheese & Egger",
+      "amountCents": 467,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "All Day Breakfast"
+    },
+    {
+      "name": "Sausage & Cheddar",
+      "amountCents": 467,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "All Day Breakfast"
+    },
+    {
+      "name": "English Muffin Chicken & Cheddar",
+      "amountCents": 599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "All Day Breakfast"
+    }
+  ],
+  "id": "ss_doordash_29573744",
+  "addressSourceUrl": "https://www.doordash.com/store/a%26w-fredericton-29573744/",
+  "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/aandwlogoNEW.jpg",
+  "categories": [
+    "Burgers",
+    "Chicken",
+    "Wraps",
+    "Breakfast",
+    "Canadian"
+  ],
+  "observedAt": "2026-09-27T01:32:39.235170+00:00"
+}

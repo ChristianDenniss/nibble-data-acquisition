@@ -1,0 +1,322 @@
+{
+  "name": "Taco Boyz",
+  "url": "https://www.doordash.com/en-CA/store/taco-boyz-fredericton-23391251/",
+  "address": "520 Smythe St #2a, Fredericton, NB E3B 1W8, Canada",
+  "rating": "4.4",
+  "coverage": "partial: structured public menu only",
+  "fulfillmentMode": "unspecified",
+  "menuItems": [
+    {
+      "name": "Three Tacos",
+      "amountCents": 1685,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Tacos & Taco Pockets"
+    },
+    {
+      "name": "Taco Pocket",
+      "amountCents": 1625,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Tacos & Taco Pockets"
+    },
+    {
+      "name": "Regular Burrito Bowl",
+      "amountCents": 1555,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Burrito Bowls"
+    },
+    {
+      "name": "Large Burrito",
+      "amountCents": 1725,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Burritos"
+    },
+    {
+      "name": "Large Quesadilla",
+      "amountCents": 1770,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Quesadillas"
+    },
+    {
+      "name": "Two Tacos",
+      "amountCents": 1295,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Tacos & Taco Pockets"
+    },
+    {
+      "name": "Regular Burrito",
+      "amountCents": 1555,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Burritos"
+    },
+    {
+      "name": "Large Burrito Bowl",
+      "amountCents": 1725,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Burrito Bowls"
+    },
+    {
+      "name": "Jarritos",
+      "amountCents": 490,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Large Nachos",
+      "amountCents": 1555,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Nachos"
+    },
+    {
+      "name": "Regular Nachos",
+      "amountCents": 1295,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Nachos"
+    },
+    {
+      "name": "Regular Quesadilla",
+      "amountCents": 1465,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Quesadillas"
+    },
+    {
+      "name": "Regular Loaded Fries",
+      "amountCents": 1295,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "New!"
+    },
+    {
+      "name": "Large Loaded Fries",
+      "amountCents": 1555,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "New!"
+    },
+    {
+      "name": "Filled Churro Bites",
+      "amountCents": 385,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Desserts"
+    },
+    {
+      "name": "Monster Burrito Bowl",
+      "amountCents": 2025,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Burrito Bowls"
+    },
+    {
+      "name": "Monster Burrito",
+      "amountCents": 2025,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Burritos"
+    },
+    {
+      "name": "One Taco",
+      "amountCents": 660,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Tacos & Taco Pockets"
+    },
+    {
+      "name": "Regular Chimichanga",
+      "amountCents": 1620,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Chimichanga"
+    },
+    {
+      "name": "Large Chimichanga",
+      "amountCents": 1855,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Chimichanga"
+    },
+    {
+      "name": "Monster Chimichanga",
+      "amountCents": 2115,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Chimichanga"
+    },
+    {
+      "name": "Churro",
+      "amountCents": 425,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Desserts"
+    },
+    {
+      "name": "Deep-Fried Chimi Cheesecake",
+      "amountCents": 635,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Desserts"
+    },
+    {
+      "name": "Tortilla Chips",
+      "amountCents": 260,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Extras"
+    },
+    {
+      "name": "Chips & Guacamole",
+      "amountCents": 360,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Extras"
+    },
+    {
+      "name": "Chips  & Queso",
+      "amountCents": 325,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Extras"
+    },
+    {
+      "name": "Chips & Salsa",
+      "amountCents": 325,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Extras"
+    },
+    {
+      "name": "Side of Queso",
+      "amountCents": 130,
+      "currency": "CAD",
+      "priceKind": "from",
+      "section": "Extras"
+    },
+    {
+      "name": "Side of Guacamole",
+      "amountCents": 275,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Extras"
+    },
+    {
+      "name": "Side Sauce",
+      "amountCents": 235,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Extras"
+    },
+    {
+      "name": "Taco Take-Out Kit",
+      "amountCents": 7795,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Take Home"
+    },
+    {
+      "name": "Chips & Dips",
+      "amountCents": 2075,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Take Home"
+    },
+    {
+      "name": "8oz Take Home Salsa",
+      "amountCents": 910,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Take Home"
+    },
+    {
+      "name": "8oz Sides",
+      "amountCents": 795,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Take Home"
+    },
+    {
+      "name": "Take Home Hot Sauce",
+      "amountCents": 1555,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Take Home"
+    },
+    {
+      "name": "Pop",
+      "amountCents": 455,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Water",
+      "amountCents": 375,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Fuze Iced Tea",
+      "amountCents": 455,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Vitamin Water",
+      "amountCents": 490,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Monster Energy",
+      "amountCents": 715,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Chocolate Milk",
+      "amountCents": 425,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Juice",
+      "amountCents": 455,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Powerade",
+      "amountCents": 490,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    }
+  ],
+  "id": "ss_doordash_23391251",
+  "addressSourceUrl": "https://www.doordash.com/en-CA/store/taco-boyz-fredericton-23391251/",
+  "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/1f920f6f-3edb-4dcb-9dd8-eaba212c7bd9.png",
+  "categories": [
+    "Mexican",
+    "Fast Casual"
+  ],
+  "observedAt": "2026-09-27T01:29:45.948134+00:00",
+  "retrievedAt": "2026-09-27T01:29:45.948134+00:00",
+  "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+  "directoryObservedAt": "2026-09-27T01:29:44.141520+00:00"
+}

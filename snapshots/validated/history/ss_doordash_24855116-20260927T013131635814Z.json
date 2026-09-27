@@ -1,0 +1,478 @@
+{
+  "name": "Swiss Chalet",
+  "url": "https://www.doordash.com/store/swiss-chalet-fredericton-24855116/",
+  "address": "961 Prospect St, Fredericton, NB E3B 2T7, Canada",
+  "retrievedAt": "2026-09-27T01:31:31.635772+00:00",
+  "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+  "coverage": "partial: structured public menu only",
+  "fulfillmentMode": "unspecified",
+  "menuItems": [
+    {
+      "name": "Quarter Chicken Dinner",
+      "amountCents": 1999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Rotisserie Chicken"
+    },
+    {
+      "name": "Half Chicken Dinner",
+      "amountCents": 2399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Rotisserie Chicken"
+    },
+    {
+      "name": "Quarter Chicken Dinner - White Meat",
+      "amountCents": 2199,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Rotisserie Chicken"
+    },
+    {
+      "name": "Cheese Perogies",
+      "amountCents": 1079,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Starters"
+    },
+    {
+      "name": "Rotisserie Chicken Club Wrap",
+      "amountCents": 1999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Handhelds - New Items!"
+    },
+    {
+      "name": "Double Leg Dinner",
+      "amountCents": 2299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Rotisserie Chicken"
+    },
+    {
+      "name": "2 Bottles of Pop",
+      "amountCents": 499,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "Chalet Chicken Soup",
+      "amountCents": 699,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Starters"
+    },
+    {
+      "name": "Chicken Spring Rolls",
+      "amountCents": 1079,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Starters"
+    },
+    {
+      "name": "Crispy Chicken Tenders",
+      "amountCents": 1979,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Wings & Tenders"
+    },
+    {
+      "name": "Garlic Cheese Loaf",
+      "amountCents": 1079,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Starters"
+    },
+    {
+      "name": "Wings Dinner 8 Pieces",
+      "amountCents": 1949,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Wings & Tenders"
+    },
+    {
+      "name": "Thanksgiving Feast - Half Chicken",
+      "amountCents": 2649,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Rotisserie Chicken"
+    },
+    {
+      "name": "Thanksgiving Chicken & Half Rack Combo",
+      "amountCents": 3479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "BBQ Ribs"
+    },
+    {
+      "name": "Thanksgiving Feast - Double Leg",
+      "amountCents": 2579,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Rotisserie Chicken"
+    },
+    {
+      "name": "Chicken Broccoli & Cheddar Soup - Family Size",
+      "amountCents": 1699,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Starters"
+    },
+    {
+      "name": "Chicken Broccoli & Cheddar Soup",
+      "amountCents": 799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Starters"
+    },
+    {
+      "name": "Thanksgiving Family Feast",
+      "amountCents": 5999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Deals & Specials"
+    },
+    {
+      "name": "Thanksgiving Third Rack",
+      "amountCents": 2489,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "BBQ Ribs"
+    },
+    {
+      "name": "Thanksgiving Half Rack",
+      "amountCents": 2899,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "BBQ Ribs"
+    },
+    {
+      "name": "Thanksgiving Chicken & Third Rack Combo",
+      "amountCents": 3079,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "BBQ Ribs"
+    },
+    {
+      "name": "Thanksgiving Feast - White Meat",
+      "amountCents": 2449,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Rotisserie Chicken"
+    },
+    {
+      "name": "Thanksgiving Feast",
+      "amountCents": 2249,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Rotisserie Chicken"
+    },
+    {
+      "name": "NEW! Deluxe Family PAK",
+      "amountCents": 5499,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Deals & Specials"
+    },
+    {
+      "name": "Chicken & Back Ribs Family PAK",
+      "amountCents": 5999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Deals & Specials"
+    },
+    {
+      "name": "Dinner Deal for 2",
+      "amountCents": 4699,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Deals & Specials"
+    },
+    {
+      "name": "Deluxe Dinner Deal",
+      "amountCents": 2999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Deals & Specials"
+    },
+    {
+      "name": "Dinner Deal",
+      "amountCents": 2599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Deals & Specials"
+    },
+    {
+      "name": "Chicken & Wings Family PAK",
+      "amountCents": 5799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Deals & Specials"
+    },
+    {
+      "name": "Classic Family PAK",
+      "amountCents": 4999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Deals & Specials"
+    },
+    {
+      "name": "NEW! Four Cheese Spinach Dip",
+      "amountCents": 1249,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Starters"
+    },
+    {
+      "name": "Loaded Perogies",
+      "amountCents": 1229,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Starters"
+    },
+    {
+      "name": "Poutine",
+      "amountCents": 845,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Starters"
+    },
+    {
+      "name": "Garden Salad",
+      "amountCents": 809,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Starters"
+    },
+    {
+      "name": "Chicken & Third Rack Combo",
+      "amountCents": 2729,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "BBQ Ribs"
+    },
+    {
+      "name": "Chicken & Half Rack Combo",
+      "amountCents": 3309,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "BBQ Ribs"
+    },
+    {
+      "name": "Wings & Third Rack Combo",
+      "amountCents": 2649,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "BBQ Ribs"
+    },
+    {
+      "name": "BBQ Back Ribs & Wings Party PAK",
+      "amountCents": 4099,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "BBQ Ribs"
+    },
+    {
+      "name": "Wings & Half Rack Combo",
+      "amountCents": 3269,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "BBQ Ribs"
+    },
+    {
+      "name": "Third Rack BBQ Back Ribs",
+      "amountCents": 2159,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "BBQ Ribs"
+    },
+    {
+      "name": "BBQ Back Ribs & Wings Party PAK Deluxe",
+      "amountCents": 5019,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "BBQ Ribs"
+    },
+    {
+      "name": "Half Rack BBQ Back Ribs",
+      "amountCents": 2629,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "BBQ Ribs"
+    },
+    {
+      "name": "Full Rack BBQ Back Ribs",
+      "amountCents": 3379,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "BBQ Ribs"
+    },
+    {
+      "name": "NEW! Chicken Fiesta Salad",
+      "amountCents": 2279,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Bowls & More - New Items!"
+    },
+    {
+      "name": "Chicken Stir Fry Bowl",
+      "amountCents": 2159,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Bowls & More - New Items!"
+    },
+    {
+      "name": "NEW! Fiesta Salad",
+      "amountCents": 1849,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Bowls & More - New Items!"
+    },
+    {
+      "name": "Vegetable Teriyaki Stir Fry Bowl",
+      "amountCents": 1999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Bowls & More - New Items!"
+    },
+    {
+      "name": "Hearty Vegetable Pot Pie",
+      "amountCents": 1979,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Bowls & More - New Items!"
+    },
+    {
+      "name": "Chicken Pot Pie",
+      "amountCents": 1979,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Bowls & More - New Items!"
+    },
+    {
+      "name": "Hot Rotisserie Chicken Sandwich",
+      "amountCents": 2049,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Handhelds - New Items!"
+    },
+    {
+      "name": "Rotisserie Chicken on a Bun",
+      "amountCents": 1949,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Handhelds - New Items!"
+    },
+    {
+      "name": "Chicken BLT",
+      "amountCents": 2209,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Handhelds - New Items!"
+    },
+    {
+      "name": "Bacon Cheeseburger",
+      "amountCents": 2249,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Handhelds - New Items!"
+    },
+    {
+      "name": "Veggie Burger",
+      "amountCents": 2029,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Handhelds - New Items!"
+    },
+    {
+      "name": "Classic Burger",
+      "amountCents": 1929,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Handhelds - New Items!"
+    },
+    {
+      "name": "NEW! Chicken Caesar Wrap",
+      "amountCents": 1949,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Handhelds - New Items!"
+    },
+    {
+      "name": "NEW! Crispy Chicken Sandwich",
+      "amountCents": 1999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Handhelds - New Items!"
+    },
+    {
+      "name": "Wings Dinner 12 Pieces",
+      "amountCents": 2429,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Wings & Tenders"
+    },
+    {
+      "name": "Wings 15 Pieces",
+      "amountCents": 2619,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Wings & Tenders"
+    },
+    {
+      "name": "Wings 10 Pieces",
+      "amountCents": 2029,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Wings & Tenders"
+    },
+    {
+      "name": "NEW! Kids Mac & Cheese",
+      "amountCents": 1169,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Kids Meals"
+    },
+    {
+      "name": "Kids Cheezy Chalet Burger",
+      "amountCents": 1219,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Kids Meals"
+    },
+    {
+      "name": "Chicken Tenderz & Dip",
+      "amountCents": 1219,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Kids Meals"
+    },
+    {
+      "name": "Kids Cheezy Pizza",
+      "amountCents": 1169,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Kids Meals"
+    },
+    {
+      "name": "NEW! Mini-Donuts",
+      "amountCents": 809,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Desserts"
+    }
+  ],
+  "id": "ss_doordash_24855116",
+  "directoryObservedAt": "2026-09-27T01:31:07.613716+00:00",
+  "addressSourceUrl": "https://www.doordash.com/store/swiss-chalet-fredericton-24855116/",
+  "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/0f746580-8c9f-45e7-b604-d06e4a660c40.png",
+  "categories": [
+    "Chicken",
+    "Ribs",
+    "Sandwiches",
+    "Poutineries",
+    "Family Meals"
+  ],
+  "observedAt": "2026-09-27T01:31:31.635772+00:00"
+}

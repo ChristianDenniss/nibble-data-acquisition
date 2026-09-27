@@ -1,0 +1,587 @@
+{
+  "id": "ss_doordash_24875523",
+  "menuItems": [
+    {
+      "name": "Chicken Souvlaki Wrap",
+      "amountCents": 1450,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Souvlaki Wraps"
+    },
+    {
+      "name": "Chicken Plate",
+      "amountCents": 2750,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dinner Plates"
+    },
+    {
+      "name": "Combination Plate",
+      "amountCents": 3050,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dinner Plates"
+    },
+    {
+      "name": "Greek Salad",
+      "amountCents": 1100,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Salads"
+    },
+    {
+      "name": "Chicken Shawarma Plate",
+      "amountCents": 2750,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dinner Plates"
+    },
+    {
+      "name": "Baklava",
+      "amountCents": 650,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "Poutine Small",
+      "amountCents": 1000,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Donair (Gyro)",
+      "amountCents": 1450,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Donairs (Gyros)"
+    },
+    {
+      "name": "Greek Potatoes Small",
+      "amountCents": 1000,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "French Fries",
+      "amountCents": 800,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "Lamb Plate",
+      "amountCents": 3050,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dinner Plates"
+    },
+    {
+      "name": "Spanakopita (4 Pieces)",
+      "amountCents": 900,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Calamari",
+      "amountCents": 1650,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Tzatziki and Pita Medium",
+      "amountCents": 1000,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Donair Cheese Bread",
+      "amountCents": 1200,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Feta Melt",
+      "amountCents": 1000,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Chicken Orzo Soup (16oz)",
+      "amountCents": 1000,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Garlic Cheese Bread",
+      "amountCents": 1000,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Tzatziki and Pita",
+      "amountCents": 550,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Donair Dippers",
+      "amountCents": 900,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Dolmades (4 Pieces)",
+      "amountCents": 900,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Poutine Large",
+      "amountCents": 1400,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Donair Poutine",
+      "amountCents": 1450,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Donair Poutine Large",
+      "amountCents": 1850,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Lentil Soup",
+      "amountCents": 900,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Feta Melt Large",
+      "amountCents": 1400,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Falafel Balls",
+      "amountCents": 900,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Hummus and Pita",
+      "amountCents": 550,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Hummus and Pita Medium",
+      "amountCents": 1000,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Big Fat Greek Potatoes",
+      "amountCents": 1900,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Saganaki",
+      "amountCents": 2000,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Greek Potatoes Large",
+      "amountCents": 1450,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Mixed Pikilia",
+      "amountCents": 2300,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Vegetarian Pikilia",
+      "amountCents": 2100,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Authentic Greek Salad",
+      "amountCents": 1300,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Salads"
+    },
+    {
+      "name": "Garden Salad",
+      "amountCents": 1100,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Salads"
+    },
+    {
+      "name": "Caesar Salad",
+      "amountCents": 1100,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Salads"
+    },
+    {
+      "name": "Yassou Combo",
+      "amountCents": 1750,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Donairs (Gyros)"
+    },
+    {
+      "name": "Yassou Special",
+      "amountCents": 1950,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Donairs (Gyros)"
+    },
+    {
+      "name": "Big Fat Greek Gyro",
+      "amountCents": 1750,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Donairs (Gyros)"
+    },
+    {
+      "name": "Oven-baked Donair",
+      "amountCents": 1650,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Donairs (Gyros)"
+    },
+    {
+      "name": "Chicken Caesar Wrap",
+      "amountCents": 1450,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Souvlaki Wraps"
+    },
+    {
+      "name": "Lamb Souvlaki Wrap",
+      "amountCents": 1750,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Souvlaki Wraps"
+    },
+    {
+      "name": "Falafel Wrap",
+      "amountCents": 1450,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Souvlaki Wraps"
+    },
+    {
+      "name": "Greek Salad Wrap",
+      "amountCents": 1450,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Souvlaki Wraps"
+    },
+    {
+      "name": "Veggie Wrap",
+      "amountCents": 1450,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Souvlaki Wraps"
+    },
+    {
+      "name": "Chicken Shawarma Wrap",
+      "amountCents": 1450,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Souvlaki Wraps"
+    },
+    {
+      "name": "Pork Souvlaki Wrap",
+      "amountCents": 1450,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Souvlaki Wraps"
+    },
+    {
+      "name": "Beef Souvlaki Wrap",
+      "amountCents": 1750,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Souvlaki Wraps"
+    },
+    {
+      "name": "Hungry Man's Gyro (Donair) Wrap",
+      "amountCents": 1950,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Hungry Man's Wraps"
+    },
+    {
+      "name": "Hungry Man's Chicken Souvlaki Wrap",
+      "amountCents": 1950,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Hungry Man's Wraps"
+    },
+    {
+      "name": "Hungry Man's Yassou Wrap Combo",
+      "amountCents": 1950,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Hungry Man's Wraps"
+    },
+    {
+      "name": "Chicken Pita Pocket",
+      "amountCents": 1650,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pita Pockets"
+    },
+    {
+      "name": "Steak Pita Pocket",
+      "amountCents": 1750,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pita Pockets"
+    },
+    {
+      "name": "Falafel Bowl",
+      "amountCents": 1850,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Bowls"
+    },
+    {
+      "name": "Chicken Bowl",
+      "amountCents": 1850,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Bowls"
+    },
+    {
+      "name": "Donair Bowl",
+      "amountCents": 1850,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Bowls"
+    },
+    {
+      "name": "Chicken Shawarma Bowl",
+      "amountCents": 1850,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Bowls"
+    },
+    {
+      "name": "Yassou Combo Bowl",
+      "amountCents": 2200,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Bowls"
+    },
+    {
+      "name": "Beef Bowl",
+      "amountCents": 2200,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Bowls"
+    },
+    {
+      "name": "Lamb Bowl",
+      "amountCents": 2200,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Bowls"
+    },
+    {
+      "name": "Tofu Bowl",
+      "amountCents": 1850,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Bowls"
+    },
+    {
+      "name": "Pork Bowl",
+      "amountCents": 1850,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Bowls"
+    },
+    {
+      "name": "Steak Pita Pocket Bowl",
+      "amountCents": 2200,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Bowls"
+    },
+    {
+      "name": "Chicken Pita Pocket Bowl",
+      "amountCents": 2100,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Bowls"
+    },
+    {
+      "name": "All-meat Lover's Plate",
+      "amountCents": 3500,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dinner Plates"
+    },
+    {
+      "name": "Beef Plate",
+      "amountCents": 3050,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dinner Plates"
+    },
+    {
+      "name": "Shrimp Plate",
+      "amountCents": 3050,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dinner Plates"
+    },
+    {
+      "name": "Salmon Plate",
+      "amountCents": 3300,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dinner Plates"
+    },
+    {
+      "name": "Yassou Mix Plate",
+      "amountCents": 5150,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dinner Plates"
+    },
+    {
+      "name": "Falafel Plate",
+      "amountCents": 2500,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dinner Plates"
+    },
+    {
+      "name": "Tofu and Veggie Skewer Plate",
+      "amountCents": 2500,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dinner Plates"
+    },
+    {
+      "name": "Calamari Plate",
+      "amountCents": 3050,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dinner Plates"
+    },
+    {
+      "name": "Donair Plate",
+      "amountCents": 2750,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dinner Plates"
+    },
+    {
+      "name": "Pork Plate",
+      "amountCents": 2750,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dinner Plates"
+    },
+    {
+      "name": "Stir-fried Chicken Plate",
+      "amountCents": 2500,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Stir-fried Dinner Plates"
+    },
+    {
+      "name": "Stir-fried Lamb Plate",
+      "amountCents": 2750,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Stir-fried Dinner Plates"
+    },
+    {
+      "name": "Stir-fried Vegetarian Plate",
+      "amountCents": 2400,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Stir-fried Dinner Plates"
+    },
+    {
+      "name": "Shrimp Stirfry plate",
+      "amountCents": 2750,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Stir-fried Dinner Plates"
+    },
+    {
+      "name": "Stir-fried Beef Plate",
+      "amountCents": 2750,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Stir-fried Dinner Plates"
+    },
+    {
+      "name": "Stir-fried Pork Plate",
+      "amountCents": 2500,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Stir-fried Dinner Plates"
+    }
+  ],
+  "retrievedAt": "2026-09-27T01:33:55.918957+00:00",
+  "coverage": "partial: structured public menu only",
+  "name": "Yassou souvlaki & donair",
+  "url": "https://www.doordash.com/store/yassou-souvlaki-&-donair-fredericton-24875523/",
+  "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+  "directoryObservedAt": "2026-09-27T01:31:07.613749+00:00",
+  "address": "1111 Regent St, Fredericton, NB E3B 3Z2, Canada",
+  "addressSourceUrl": "https://www.doordash.com/store/yassou-souvlaki-&-donair-fredericton-24875523/",
+  "imageUrl": "",
+  "categories": [
+    "Greek",
+    "Wraps",
+    "Gyro"
+  ],
+  "observedAt": "2026-09-27T01:33:55.918957+00:00"
+}

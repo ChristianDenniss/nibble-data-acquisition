@@ -1,0 +1,543 @@
+{
+  "name": "McDonald's",
+  "url": "https://www.doordash.com/store/mcdonalds-fredericton-1139998/",
+  "address": "McDonald's, 1177 Prospect St, Fredericton, NB E3B 3B9, Canada",
+  "rating": "4.0",
+  "coverage": "partial: structured public menu only",
+  "fulfillmentMode": "unspecified",
+  "menuItems": [
+    {
+      "name": "World Famous Fries [240.0 Cals]",
+      "amountCents": 349,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McValue Snacks"
+    },
+    {
+      "name": "10 McNuggets Extra Value Meal [840-1190 Cals]",
+      "amountCents": 1599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken & Fish"
+    },
+    {
+      "name": "Big Mac Extra Value Meal [710-1140 Cals]",
+      "amountCents": 1349,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Meals"
+    },
+    {
+      "name": "Oreo McFlurry [330.0 Cals]",
+      "amountCents": 479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "10 Chicken McNuggets [490-630 Cals]",
+      "amountCents": 1139,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "6 Chicken McNuggets [290-360 Cals]",
+      "amountCents": 889,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "Double Cheeseburger [420.0 Cals]",
+      "amountCents": 549,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "Quarter Pounder with Cheese Extra Value Meal [670-1100 Cals]",
+      "amountCents": 1469,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Meals"
+    },
+    {
+      "name": "Double Quarter Pounder with Cheese Extra Value Meal [890-1320 Cals]",
+      "amountCents": 1739,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Meals"
+    },
+    {
+      "name": "Family Bundle (Serves 3) [1510-2930 Cals]",
+      "amountCents": 2619,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Bundles and Sharing"
+    },
+    {
+      "name": "Big Mac [560.0 Cals]",
+      "amountCents": 859,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "6 McNuggets Extra Value Meal [640-920 Cals]",
+      "amountCents": 1359,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken & Fish"
+    },
+    {
+      "name": "Value Bundle Meal (Serves 4) [2280-3700 Cals]",
+      "amountCents": 2629,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Bundles and Sharing"
+    },
+    {
+      "name": "40-piece Chicken McNuggets (Serves 4) [1860-2210 Cals]",
+      "amountCents": 2999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Bundles and Sharing"
+    },
+    {
+      "name": "20-piece Chicken McNuggets Meal (Serves 2) [1650-2280 Cals]",
+      "amountCents": 2519,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Bundles and Sharing"
+    },
+    {
+      "name": "Double Quarter Pounder BLT Extra Value Meal [990-1430 Cals]",
+      "amountCents": 1799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Meals"
+    },
+    {
+      "name": "Quarter Pounder BLT Extra Value Meal [750-1180 Cals]",
+      "amountCents": 1489,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Meals"
+    },
+    {
+      "name": "Double Hamburger Extra Value Meal [560-710 Cals]",
+      "amountCents": 599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Meals"
+    },
+    {
+      "name": "Cheeseburger Deluxe Extra Value Meal [580-730 Cals]",
+      "amountCents": 929,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Meals"
+    },
+    {
+      "name": "Quarter Pounder without Cheese Extra Value Meal [570-1000 Cals]",
+      "amountCents": 1469,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Meals"
+    },
+    {
+      "name": "Double Quarter Pounder without Cheese Extra Value Meal [790-1220 Cals]",
+      "amountCents": 1739,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Meals"
+    },
+    {
+      "name": "McVeggie Extra Value Meal [820-1030 Cals]",
+      "amountCents": 1199,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McVeggie & Wraps"
+    },
+    {
+      "name": "Spicy McVeggie Extra Value Meal [800-1010 Cals]",
+      "amountCents": 1229,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McVeggie & Wraps"
+    },
+    {
+      "name": "Double Big Mac Extra Value Meal [1090-1300 Cals]",
+      "amountCents": 1599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Meals"
+    },
+    {
+      "name": "Big Mac (No Meat) Extra Value Meal [540-970 Cals]",
+      "amountCents": 1249,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Burger Meals"
+    },
+    {
+      "name": "McChicken Extra Value Meal [620-1052 Cals]",
+      "amountCents": 1219,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken & Fish"
+    },
+    {
+      "name": "Spicy Habanero McChicken Extra Value Meal [610-1040 Cals]",
+      "amountCents": 1259,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken & Fish"
+    },
+    {
+      "name": "Double Filet-O-Fish Extra Value Meal [710-1140 Cals]",
+      "amountCents": 1469,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken & Fish"
+    },
+    {
+      "name": "Filet-O-Fish Extra Value Meal [540-970 Cals]",
+      "amountCents": 1269,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken & Fish"
+    },
+    {
+      "name": "Spicy Bacon Deluxe McCrispy Extra Value Meal [930-1140 Cals]",
+      "amountCents": 1639,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken & Fish"
+    },
+    {
+      "name": "Bacon Deluxe McCrispy Extra Value Meal [940-1150 Cals]",
+      "amountCents": 1619,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken & Fish"
+    },
+    {
+      "name": "McCrispy Extra Value Meal [870-1080 Cals]",
+      "amountCents": 1409,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken & Fish"
+    },
+    {
+      "name": "Sweet Chili McWrap with Crispy Chicken Extra Value Meal  [940-1150 Cals]",
+      "amountCents": 1499,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McVeggie & Wraps"
+    },
+    {
+      "name": "Chicken & Bacon McWrap with Crispy Chicken Extra Value Meal [950-1160 Cals]",
+      "amountCents": 1529,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McVeggie & Wraps"
+    },
+    {
+      "name": "Sweet Chili Junior Chicken Extra Value Meal [760-970 Cals]",
+      "amountCents": 969,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken & Fish"
+    },
+    {
+      "name": "Grilled Chicken Sandwich Extra Value Meal [740-950 Cals]",
+      "amountCents": 1409,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken & Fish"
+    },
+    {
+      "name": "Caesar and Bacon McWrap with Crispy Chicken Meal [980-1190 Cals]",
+      "amountCents": 1529,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McVeggie & Wraps"
+    },
+    {
+      "name": "Caesar and Bacon McWrap with Grilled Chicken Meal [840-1050 Cals]",
+      "amountCents": 1529,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McVeggie & Wraps"
+    },
+    {
+      "name": "Sweet Chili McWrap with Grilled Chicken Extra Value Meal [810-1020 Cals]",
+      "amountCents": 1499,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McVeggie & Wraps"
+    },
+    {
+      "name": "Chicken & Bacon McWrap with Grilled Chicken Extra Value Meal [830-1040 Cals]",
+      "amountCents": 1529,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McVeggie & Wraps"
+    },
+    {
+      "name": "6 Garlic & Black Pepper Chicken McNuggets Meal [660-960 Cals]",
+      "amountCents": 1339,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "World Menu Heist"
+    },
+    {
+      "name": "10 Garlic & Black Pepper Chicken McNuggets Meal [880-1270 Cals]",
+      "amountCents": 1599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "World Menu Heist"
+    },
+    {
+      "name": "Bacon Deluxe Grilled Chicken Sandwich Extra Value Meal [810-1020 Cals]",
+      "amountCents": 1619,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken & Fish"
+    },
+    {
+      "name": "Spicy Grilled Chicken Sandwich Extra Value Meal [720-930 Cals]",
+      "amountCents": 1449,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken & Fish"
+    },
+    {
+      "name": "Spicy Bacon Deluxe Grilled Chicken Extra Value Meal [800-1010 Cals]",
+      "amountCents": 1639,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken & Fish"
+    },
+    {
+      "name": "Spicy McCrispy Extra Value Meal [860-1070 Cals]",
+      "amountCents": 1449,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken & Fish"
+    },
+    {
+      "name": "Caesar and Bacon McCrispy Extra Value Meal [950-1160 Cals]",
+      "amountCents": 1619,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken & Fish"
+    },
+    {
+      "name": "Chicken & Bacon McWrap with Crispy Chicken [600.0 Cals]",
+      "amountCents": 1029,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McVeggie & Wraps"
+    },
+    {
+      "name": "Spicy McVeggie [450.0 Cals]",
+      "amountCents": 729,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McVeggie & Wraps"
+    },
+    {
+      "name": "Ranch Chicken Snack Wrap with Crispy Chicken [320.0 Cals]",
+      "amountCents": 469,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McVeggie & Wraps"
+    },
+    {
+      "name": "Ranch Chicken Snack Wrap with Grilled Chicken [260.0 Cals]",
+      "amountCents": 469,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McVeggie & Wraps"
+    },
+    {
+      "name": "Spicy Buffalo Chicken Snack Wrap with Crispy Chicken [310.0 Cals]",
+      "amountCents": 469,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McVeggie & Wraps"
+    },
+    {
+      "name": "Sweet Chili McWrap with Crispy Chicken [590.0 Cals]",
+      "amountCents": 999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McVeggie & Wraps"
+    },
+    {
+      "name": "Spicy Buffalo Chicken Snack Wrap with Grilled Chicken [240.0 Cals]",
+      "amountCents": 469,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McVeggie & Wraps"
+    },
+    {
+      "name": "Caesar and Bacon McWrap with Crispy Chicken [630.0 Cals]",
+      "amountCents": 1029,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McVeggie & Wraps"
+    },
+    {
+      "name": "Caesar and Bacon McWrap with Grilled Chicken [490.0 Cals]",
+      "amountCents": 1029,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McVeggie & Wraps"
+    },
+    {
+      "name": "Sweet Chili McWrap with Grilled Chicken [460.0 Cals]",
+      "amountCents": 999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McVeggie & Wraps"
+    },
+    {
+      "name": "Chicken & Bacon McWrap with Grilled Chicken [480.0 Cals]",
+      "amountCents": 1029,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McVeggie & Wraps"
+    },
+    {
+      "name": "McVeggie [470.0 Cals]",
+      "amountCents": 699,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McVeggie & Wraps"
+    },
+    {
+      "name": "10 Garlic & Black Pepper Chicken McNuggets [490-580 Cals]",
+      "amountCents": 1119,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "World Menu Heist"
+    },
+    {
+      "name": "20 Garlic & Black Pepper Chicken McNuggets [1010-1280 Cals]",
+      "amountCents": 1779,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "World Menu Heist"
+    },
+    {
+      "name": "Cheesy Bacon McFlavour Fries [540.0 Cals]",
+      "amountCents": 649,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "World Menu Heist"
+    },
+    {
+      "name": "Black Garlic Sauce [40.0 Cals]",
+      "amountCents": 69,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "World Menu Heist"
+    },
+    {
+      "name": "Stroopwafel McFlurry [480.0 Cals]",
+      "amountCents": 549,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "World Menu Heist"
+    },
+    {
+      "name": "6 Garlic & Black Pepper Chicken McNuggets [310-400 Cals]",
+      "amountCents": 869,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "World Menu Heist"
+    },
+    {
+      "name": "Ranch Snack Wrap w/ Crispy Chicken McValue Meal [560-710 Cals]",
+      "amountCents": 600,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McValue Meals"
+    },
+    {
+      "name": "Ranch Snack Wrap w/ Grilled Chicken McValue Meal [500-650 Cals]",
+      "amountCents": 600,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McValue Meals"
+    },
+    {
+      "name": "Spicy Buffalo Snack Wrap w/ Crispy Chicken McValue Meal [550-700 Cals]",
+      "amountCents": 600,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McValue Meals"
+    },
+    {
+      "name": "Spicy Buffalo Snack Wrap w/ Grilled Chicken McValue Meal [480-630 Cals]",
+      "amountCents": 600,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McValue Meals"
+    },
+    {
+      "name": "McDouble McValue Meal [610-760 Cals]",
+      "amountCents": 600,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McValue Meals"
+    },
+    {
+      "name": "Junior Chicken McValue Meal [620-770 Cals]",
+      "amountCents": 600,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McValue Meals"
+    },
+    {
+      "name": "McDouble [380.0 Cals]",
+      "amountCents": 489,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McValue Snacks"
+    },
+    {
+      "name": "Cheeseburger [290.0 Cals]",
+      "amountCents": 419,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McValue Snacks"
+    },
+    {
+      "name": "Sausage McMuffin [370.0 Cals]",
+      "amountCents": 379,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "McValue Snacks"
+    }
+  ],
+  "id": "ss_doordash_1139998",
+  "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+  "directoryObservedAt": "2026-09-27T01:29:44.141553+00:00",
+  "addressSourceUrl": "https://www.doordash.com/store/mcdonalds-fredericton-1139998/",
+  "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/Screen_Shot_2020-06-25_at_3.28.21_PM.png",
+  "categories": [
+    "Burgers",
+    "Chicken",
+    "Wraps",
+    "Breakfast",
+    "Fish",
+    "Coffee"
+  ],
+  "observedAt": "2026-09-27T01:29:49.998727+00:00",
+  "retrievedAt": "2026-09-27T01:29:49.998727+00:00"
+}

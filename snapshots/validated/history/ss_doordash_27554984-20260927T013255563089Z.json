@@ -1,0 +1,624 @@
+{
+  "name": "Gisele's Pizzeria",
+  "url": "https://www.doordash.com/store/giseles-pizzeria-fredericton-27554984/",
+  "address": "506 Forest Hill Rd, Fredericton, NB E3B 4K4, Canada",
+  "retrievedAt": "2026-09-27T01:32:55.563032+00:00",
+  "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+  "coverage": "partial: structured public menu only",
+  "fulfillmentMode": "unspecified",
+  "menuItems": [
+    {
+      "name": "Wings",
+      "amountCents": 2199,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "9\" Garlic Cheese Fingers",
+      "amountCents": 1699,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "Garlic Cheese Fingers 12\"",
+      "amountCents": 2199,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "12\" Pepperoni Pizza",
+      "amountCents": 2399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "12\" Pizzas"
+    },
+    {
+      "name": "12\" Meat Lovers Pizza",
+      "amountCents": 2799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "12\" Pizzas"
+    },
+    {
+      "name": "Donair Wrap",
+      "amountCents": 1399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "12\" Gisele’s Special Pizza",
+      "amountCents": 3099,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "12\" Pizzas"
+    },
+    {
+      "name": "French Fries",
+      "amountCents": 899,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Oven Baked Donair Sub",
+      "amountCents": 999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "2L Bottle Pop Pepsi",
+      "amountCents": 799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "12” Pizza w/9” Garlic Fingers",
+      "amountCents": 4199,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "591ml Bottle Pop Pepsi",
+      "amountCents": 649,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "Cheesy Breadsticks",
+      "amountCents": 1699,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Thai Bites",
+      "amountCents": 1999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Breaded Pickle Spears",
+      "amountCents": 1699,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Onion Rings",
+      "amountCents": 1195,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Nachos",
+      "amountCents": 2599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Medium Single Pizza 12\"",
+      "amountCents": 2199,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Create Your Own Pizza"
+    },
+    {
+      "name": "Small Single Pizza 9\"",
+      "amountCents": 1699,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Create Your Own Pizza"
+    },
+    {
+      "name": "X-Large Single Pizza 18\"",
+      "amountCents": 3799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Create Your Own Pizza"
+    },
+    {
+      "name": "Large Single Pizza 15\"",
+      "amountCents": 2999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Create Your Own Pizza"
+    },
+    {
+      "name": "Vegan Garlic Cheese Fingers",
+      "amountCents": 2399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Vegan Pizzas"
+    },
+    {
+      "name": "Vegan Cheese Pizza",
+      "amountCents": 2399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Vegan Pizzas"
+    },
+    {
+      "name": "Vegan Veggie Pizza",
+      "amountCents": 3199,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Vegan Pizzas"
+    },
+    {
+      "name": "Vegan Broccoli & Mushroom Pizza",
+      "amountCents": 2899,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Vegan Pizzas"
+    },
+    {
+      "name": "Vegan BBQ Pizza",
+      "amountCents": 2799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Vegan Pizzas"
+    },
+    {
+      "name": "Vegan Pepperoni Pizza",
+      "amountCents": 3199,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Vegan Pizzas"
+    },
+    {
+      "name": "Vegan Margherita Pizza",
+      "amountCents": 2799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Vegan Pizzas"
+    },
+    {
+      "name": "Chicken Souvlaki Platter",
+      "amountCents": 3199,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Platters"
+    },
+    {
+      "name": "Chicken Strips Platter",
+      "amountCents": 2099,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Platters"
+    },
+    {
+      "name": "9\" Gisele’s Special Pizza",
+      "amountCents": 2399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "9\" Pizzas"
+    },
+    {
+      "name": "9\" Pepperoni Pizza",
+      "amountCents": 1799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "9\" Pizzas"
+    },
+    {
+      "name": "9\" Meat Lovers Pizza",
+      "amountCents": 2099,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "9\" Pizzas"
+    },
+    {
+      "name": "9\" Margherita Pizza",
+      "amountCents": 2099,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "9\" Pizzas"
+    },
+    {
+      "name": "9\" BBQ Chicken Pizza",
+      "amountCents": 2399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "9\" Pizzas"
+    },
+    {
+      "name": "9\" Canadian Style Pizza",
+      "amountCents": 2099,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "9\" Pizzas"
+    },
+    {
+      "name": "9\" Donair Pizza",
+      "amountCents": 2399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "9\" Pizzas"
+    },
+    {
+      "name": "9\" Veggie Pizza",
+      "amountCents": 2399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "9\" Pizzas"
+    },
+    {
+      "name": "9\" Cheese Pizza",
+      "amountCents": 1699,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "9\" Pizzas"
+    },
+    {
+      "name": "9\" Butter Chicken Pizza",
+      "amountCents": 2399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "9\" Pizzas"
+    },
+    {
+      "name": "9\" Chicken Bacon Ranch Pizza",
+      "amountCents": 2399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "9\" Pizzas"
+    },
+    {
+      "name": "9\" Double Bacon Cheeseburger Pizza",
+      "amountCents": 2199,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "9\" Pizzas"
+    },
+    {
+      "name": "9\" Hawaiian Pizza",
+      "amountCents": 2099,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "9\" Pizzas"
+    },
+    {
+      "name": "9\" Deluxe Pizza",
+      "amountCents": 2099,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "9\" Pizzas"
+    },
+    {
+      "name": "12\" Chicken Bacon Ranch Pizza",
+      "amountCents": 2999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "12\" Pizzas"
+    },
+    {
+      "name": "12\" BBQ Chicken Pizza",
+      "amountCents": 2999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "12\" Pizzas"
+    },
+    {
+      "name": "12\" Donair Pizza",
+      "amountCents": 2899,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "12\" Pizzas"
+    },
+    {
+      "name": "12\" Cheese Pizza",
+      "amountCents": 2199,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "12\" Pizzas"
+    },
+    {
+      "name": "12\" Hawaiian Pizza",
+      "amountCents": 2799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "12\" Pizzas"
+    },
+    {
+      "name": "12\" Double Bacon Cheeseburger Pizza",
+      "amountCents": 2799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "12\" Pizzas"
+    },
+    {
+      "name": "12\" Deluxe Pizza",
+      "amountCents": 2749,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "12\" Pizzas"
+    },
+    {
+      "name": "12\" Veggie Pizza",
+      "amountCents": 2999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "12\" Pizzas"
+    },
+    {
+      "name": "12\" Margherita Pizza",
+      "amountCents": 2699,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "12\" Pizzas"
+    },
+    {
+      "name": "12\" Canadian Style Pizza",
+      "amountCents": 2699,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "12\" Pizzas"
+    },
+    {
+      "name": "12\" Butter Chicken Pizza",
+      "amountCents": 2999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "12\" Pizzas"
+    },
+    {
+      "name": "15\" Meat Lovers Pizza",
+      "amountCents": 3899,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "15\" Pizzas"
+    },
+    {
+      "name": "15\" Deluxe Pizza",
+      "amountCents": 3899,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "15\" Pizzas"
+    },
+    {
+      "name": "15\" Pepperoni Pizza",
+      "amountCents": 3199,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "15\" Pizzas"
+    },
+    {
+      "name": "15\" BBQ Chicken Pizza",
+      "amountCents": 3999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "15\" Pizzas"
+    },
+    {
+      "name": "15\" Gisele’s Special Pizza",
+      "amountCents": 4199,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "15\" Pizzas"
+    },
+    {
+      "name": "15\" Donair Pizza",
+      "amountCents": 3999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "15\" Pizzas"
+    },
+    {
+      "name": "Butter Chicken Pizza",
+      "amountCents": 3999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "15\" Pizzas"
+    },
+    {
+      "name": "15\" Hawaiian Pizza",
+      "amountCents": 3899,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "15\" Pizzas"
+    },
+    {
+      "name": "15\" Double Bacon Cheeseburger Pizza",
+      "amountCents": 3999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "15\" Pizzas"
+    },
+    {
+      "name": "15\" Veggie Pizza",
+      "amountCents": 3999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "15\" Pizzas"
+    },
+    {
+      "name": "15\" Margherita Pizza",
+      "amountCents": 3899,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "15\" Pizzas"
+    },
+    {
+      "name": "15\" Cheese Pizza",
+      "amountCents": 2999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "15\" Pizzas"
+    },
+    {
+      "name": "15\" Canadian Style Pizza",
+      "amountCents": 3899,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "15\" Pizzas"
+    },
+    {
+      "name": "15\" Chicken Bacon Ranch Pizza",
+      "amountCents": 3999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "15\" Pizzas"
+    },
+    {
+      "name": "18\" Meat Lovers Pizza",
+      "amountCents": 4899,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "18\" Pizzas"
+    },
+    {
+      "name": "18\" Deluxe Pizza",
+      "amountCents": 4899,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "18\" Pizzas"
+    },
+    {
+      "name": "18\" Pepperoni Pizza",
+      "amountCents": 3899,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "18\" Pizzas"
+    },
+    {
+      "name": "18\" Veggie Pizza",
+      "amountCents": 4999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "18\" Pizzas"
+    },
+    {
+      "name": "18\" Canadian Style Pizza",
+      "amountCents": 4799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "18\" Pizzas"
+    },
+    {
+      "name": "18\" Margherita Pizza",
+      "amountCents": 4799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "18\" Pizzas"
+    },
+    {
+      "name": "18\" Double Bacon Cheeseburger Pizza",
+      "amountCents": 4899,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "18\" Pizzas"
+    },
+    {
+      "name": "18\" Chicken Bacon Ranch Pizza",
+      "amountCents": 4999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "18\" Pizzas"
+    },
+    {
+      "name": "18\" BBQ Chicken Pizza",
+      "amountCents": 4999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "18\" Pizzas"
+    },
+    {
+      "name": "18\" Gisele’s Special Pizza",
+      "amountCents": 5199,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "18\" Pizzas"
+    },
+    {
+      "name": "18\" Butter Chicken Pizza",
+      "amountCents": 4999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "18\" Pizzas"
+    },
+    {
+      "name": "18\" Cheese Pizza",
+      "amountCents": 3799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "18\" Pizzas"
+    },
+    {
+      "name": "18\" Hawaiian Pizza",
+      "amountCents": 4799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "18\" Pizzas"
+    },
+    {
+      "name": "18\" Donair Pizza",
+      "amountCents": 4999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "18\" Pizzas"
+    },
+    {
+      "name": "Greek Salad",
+      "amountCents": 1699,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Salads"
+    },
+    {
+      "name": "Chicken Caesar Salad",
+      "amountCents": 2099,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Salads"
+    },
+    {
+      "name": "Caesar Salad",
+      "amountCents": 1599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Salads"
+    }
+  ],
+  "id": "ss_doordash_27554984",
+  "addressSourceUrl": "https://www.doordash.com/store/giseles-pizzeria-fredericton-27554984/",
+  "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/e29efb35-92b0-4818-adc0-bb537116e551.jpg",
+  "categories": [
+    "Pizza",
+    "Souvlaki",
+    "Wraps",
+    "Falafel",
+    "Chicken Wings"
+  ],
+  "observedAt": "2026-09-27T01:32:55.563032+00:00"
+}

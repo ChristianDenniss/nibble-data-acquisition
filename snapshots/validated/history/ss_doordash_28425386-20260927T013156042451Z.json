@@ -1,0 +1,337 @@
+{
+  "name": "WingStreet by Pizza Hut",
+  "url": "https://www.doordash.com/store/wingstreet-by-pizza-hut-fredericton-28425386/",
+  "address": "1180 Smythe St, Fredericton, NB E3B 3H5, Canada",
+  "retrievedAt": "2026-09-27T01:31:56.042407+00:00",
+  "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+  "coverage": "partial: structured public menu only",
+  "fulfillmentMode": "unspecified",
+  "menuItems": [
+    {
+      "name": "Boneless - Honey Garlic Sauce",
+      "amountCents": 1149,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Boneless Bites"
+    },
+    {
+      "name": "Mozzarella Sticks",
+      "amountCents": 1099,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Regular Breadsticks",
+      "amountCents": 689,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Waffle Fries",
+      "amountCents": 659,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Cinnabon® Mini Rolls",
+      "amountCents": 1079,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dessert"
+    },
+    {
+      "name": "Boneless - Honey BBQ Sauce",
+      "amountCents": 1149,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Boneless Bites"
+    },
+    {
+      "name": "Traditional - Burnin'Hot Buffalo Sauce",
+      "amountCents": 1299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Traditional Wings"
+    },
+    {
+      "name": "Boneless - Medium Buffalo Sauce",
+      "amountCents": 1149,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Boneless Bites"
+    },
+    {
+      "name": "Large Breadsticks",
+      "amountCents": 1049,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Ultimate Hershey's® Chipits® Cookie",
+      "amountCents": 1079,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dessert"
+    },
+    {
+      "name": "Traditional - Honey Garlic Sauce",
+      "amountCents": 1299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Traditional Wings"
+    },
+    {
+      "name": "Boneless - Garlic Parmesan Sauce",
+      "amountCents": 1149,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Boneless Bites"
+    },
+    {
+      "name": "16pc Pack",
+      "amountCents": 3276,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Bundles"
+    },
+    {
+      "name": "8pc Pack",
+      "amountCents": 1896,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Bundles"
+    },
+    {
+      "name": "56pc Pack",
+      "amountCents": 11499,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Bundles"
+    },
+    {
+      "name": "88pc Pack",
+      "amountCents": 15294,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Bundles"
+    },
+    {
+      "name": "24pc Pack",
+      "amountCents": 4829,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Bundles"
+    },
+    {
+      "name": "42pc Pack",
+      "amountCents": 7819,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Bundles"
+    },
+    {
+      "name": "Chicken Strips",
+      "amountCents": 1099,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Wings"
+    },
+    {
+      "name": "Traditional - Salt & Pepper",
+      "amountCents": 1299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Traditional Wings"
+    },
+    {
+      "name": "Traditional - Medium Buffalo Sauce",
+      "amountCents": 1299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Traditional Wings"
+    },
+    {
+      "name": "Traditional - Mild Buffalo Sauce",
+      "amountCents": 1299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Traditional Wings"
+    },
+    {
+      "name": "Traditional - Nashville Hot Rub",
+      "amountCents": 1299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Traditional Wings"
+    },
+    {
+      "name": "Traditional - Sweet n'Spicy Sauce",
+      "amountCents": 1299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Traditional Wings"
+    },
+    {
+      "name": "Traditional - Naked",
+      "amountCents": 1299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Traditional Wings"
+    },
+    {
+      "name": "Traditional - Garlic Parmesan Sauce",
+      "amountCents": 1299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Traditional Wings"
+    },
+    {
+      "name": "Traditional - Honey BBQ Sauce",
+      "amountCents": 1299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Traditional Wings"
+    },
+    {
+      "name": "Traditional - Spicy Garlic Sauce",
+      "amountCents": 1299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Traditional Wings"
+    },
+    {
+      "name": "Traditional - Sweet & Creamy Garlic Sauce",
+      "amountCents": 1299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Traditional Wings"
+    },
+    {
+      "name": "Boneless - Burning'Hot Buffalo Sauce",
+      "amountCents": 1149,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Boneless Bites"
+    },
+    {
+      "name": "Boneless - Salt & Pepper",
+      "amountCents": 1149,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Boneless Bites"
+    },
+    {
+      "name": "Boneless - Mild Buffalo Sauce",
+      "amountCents": 1149,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Boneless Bites"
+    },
+    {
+      "name": "Boneless - Sweet n'Spicy Sauce",
+      "amountCents": 1149,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Boneless Bites"
+    },
+    {
+      "name": "Boneless - Naked",
+      "amountCents": 1149,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Boneless Bites"
+    },
+    {
+      "name": "Boneless - Sweet & Creamy Garlic Sauce",
+      "amountCents": 1149,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Boneless Bites"
+    },
+    {
+      "name": "Boneless - Spicy Garlic Sauce",
+      "amountCents": 1149,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Boneless Bites"
+    },
+    {
+      "name": "Boneless - Nashville Hot Rub",
+      "amountCents": 1149,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Boneless Bites"
+    },
+    {
+      "name": "Nashville Hot Waffle Fries",
+      "amountCents": 659,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Regular Garlic Bread",
+      "amountCents": 649,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Dips",
+      "amountCents": 144,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Large Garlic Bread",
+      "amountCents": 899,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Hershey's® Chipits® Triple Chocolate Brownie",
+      "amountCents": 1079,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dessert"
+    },
+    {
+      "name": "591ml Bottle",
+      "amountCents": 389,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "2 Liter",
+      "amountCents": 509,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Can",
+      "amountCents": 269,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    }
+  ],
+  "id": "ss_doordash_28425386",
+  "directoryObservedAt": "2026-09-27T01:31:07.613612+00:00",
+  "addressSourceUrl": "https://www.doordash.com/store/wingstreet-by-pizza-hut-fredericton-28425386/",
+  "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/e446bde5-5cfe-4a13-b99d-19779ac2e0c0.jpg",
+  "categories": [
+    "Chicken Wings",
+    "Chicken",
+    "Fries",
+    "Desserts"
+  ],
+  "observedAt": "2026-09-27T01:31:56.042407+00:00"
+}

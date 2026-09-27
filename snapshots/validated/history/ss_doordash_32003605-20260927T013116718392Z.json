@@ -1,0 +1,435 @@
+{
+  "name": "Osmow's Shawarma",
+  "url": "https://www.doordash.com/store/osmows-shawarma-fredericton-32003605/",
+  "address": "1180 Smythe St, Fredericton, NB E3B 3H5, Canada",
+  "retrievedAt": "2026-09-27T01:31:16.718344+00:00",
+  "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+  "coverage": "partial: structured public menu only",
+  "fulfillmentMode": "unspecified",
+  "menuItems": [
+    {
+      "name": "OzBox",
+      "amountCents": 1889,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "OzBox"
+    },
+    {
+      "name": "Dubai Crunch (2 pieces)",
+      "amountCents": 589,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Desserts"
+    },
+    {
+      "name": "Half & Half",
+      "amountCents": 1659,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Signature Creations"
+    },
+    {
+      "name": "On The ROCKS®",
+      "amountCents": 1539,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Signature Creations"
+    },
+    {
+      "name": "Shawarma Wrap",
+      "amountCents": 1219,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Shawarma  Wrap"
+    },
+    {
+      "name": "On The STIX®",
+      "amountCents": 1539,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Signature Creations"
+    },
+    {
+      "name": "Wrap Box",
+      "amountCents": 1689,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Shawarma Wrap Box"
+    },
+    {
+      "name": "On The Poutine",
+      "amountCents": 1769,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Signature Creations"
+    },
+    {
+      "name": "Crispy Chicken Shawarma Wrap",
+      "amountCents": 1339,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Shawarma  Wrap"
+    },
+    {
+      "name": "Crispy Chicken Shawarma Wrap Box",
+      "amountCents": 1809,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Shawarma Wrap Box"
+    },
+    {
+      "name": "STIX™",
+      "amountCents": 479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Side Halloumi (8 Pieces)",
+      "amountCents": 1179,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "The Walking Shawarma",
+      "amountCents": 1409,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Limited Time Offer"
+    },
+    {
+      "name": "DORITOS® ON THE ROCKS®",
+      "amountCents": 1609,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Limited Time Offer"
+    },
+    {
+      "name": "Just Protein",
+      "amountCents": 879,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "High Protein"
+    },
+    {
+      "name": "Keto OzBox",
+      "amountCents": 1889,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "High Protein"
+    },
+    {
+      "name": "Keto Box",
+      "amountCents": 1659,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "High Protein"
+    },
+    {
+      "name": "Philly Shawarma Wrap",
+      "amountCents": 1629,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Shawarma  Wrap"
+    },
+    {
+      "name": "Halloumi Wrap",
+      "amountCents": 1219,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Shawarma  Wrap"
+    },
+    {
+      "name": "Junior Shawarma Wrap",
+      "amountCents": 749,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Shawarma  Wrap"
+    },
+    {
+      "name": "Philly Shawarma Wrap Box",
+      "amountCents": 2099,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Shawarma Wrap Box"
+    },
+    {
+      "name": "Halloumi Shawarma Wrap Box",
+      "amountCents": 1689,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Shawarma Wrap Box"
+    },
+    {
+      "name": "On The Salad",
+      "amountCents": 1769,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Signature Creations"
+    },
+    {
+      "name": "Greek Salad",
+      "amountCents": 1179,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Salads"
+    },
+    {
+      "name": "Fattoush Salad",
+      "amountCents": 1069,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Salads"
+    },
+    {
+      "name": "Side Falafels (6 Pieces)",
+      "amountCents": 709,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Crispy Chicken Bites (5 Pieces)",
+      "amountCents": 949,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Garlic Hummus & Pita Sticks",
+      "amountCents": 1009,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Side Halloumi (3 Pieces)",
+      "amountCents": 479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "ROCKS™",
+      "amountCents": 479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Pita Bag",
+      "amountCents": 589,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "PUR Gum",
+      "amountCents": 219,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Poutine",
+      "amountCents": 1179,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides"
+    },
+    {
+      "name": "Baklava Box",
+      "amountCents": 709,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Desserts"
+    },
+    {
+      "name": "Osmow's Mango Juice",
+      "amountCents": 479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Osmow's Guava Juice",
+      "amountCents": 479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Bottled Coke",
+      "amountCents": 479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Bottled Diet Coke",
+      "amountCents": 479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Bottled Ginger Ale",
+      "amountCents": 479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Laban Yogurt Drink",
+      "amountCents": 479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Bottled Coke Zero",
+      "amountCents": 479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Can - Coke",
+      "amountCents": 239,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Bottled Barq's Rootbeer",
+      "amountCents": 479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Bottled Fanta",
+      "amountCents": 479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Can - Coke Zero",
+      "amountCents": 239,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Can - Ginger Ale",
+      "amountCents": 239,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Can - Diet Coke",
+      "amountCents": 239,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Can - Sprite",
+      "amountCents": 239,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Bottled Sprite",
+      "amountCents": 479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Bottled Apple Juice",
+      "amountCents": 479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Bottled Fuze Iced Tea",
+      "amountCents": 479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Bottled Water",
+      "amountCents": 239,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Bottled Orange Juice",
+      "amountCents": 479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Mint Lemonade Agua Fresca",
+      "amountCents": 479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Hibiscus Agua Fresca",
+      "amountCents": 479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Drinks"
+    },
+    {
+      "name": "Kids Meal - On the Stix",
+      "amountCents": 949,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Kids Meal"
+    },
+    {
+      "name": "Kids Meal - Jr Shawarma",
+      "amountCents": 949,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Kids Meal"
+    },
+    {
+      "name": "Kids Meal - On the Rocks",
+      "amountCents": 949,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Kids Meal"
+    },
+    {
+      "name": "LARGE Catering - Chicken On the ROCKS™",
+      "amountCents": 15999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Trays"
+    }
+  ],
+  "id": "ss_doordash_32003605",
+  "directoryObservedAt": "2026-09-27T01:31:07.613626+00:00",
+  "addressSourceUrl": "https://www.doordash.com/store/osmows-shawarma-fredericton-32003605/",
+  "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/3fc82e30-1e2e-47c1-98b0-fd5dfdda3fd5.jpg",
+  "categories": [
+    "Keto",
+    "Mediterranean",
+    "Shawarma",
+    "Wraps"
+  ],
+  "observedAt": "2026-09-27T01:31:16.718344+00:00"
+}

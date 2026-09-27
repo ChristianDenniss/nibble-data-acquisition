@@ -1,0 +1,575 @@
+{
+  "name": "Montana's BBQ & Bar",
+  "url": "https://www.doordash.com/store/montanas-bbq-%26-bar-fredericton-653262/",
+  "address": "6 Trinity Ave, Fredericton, NB E3C 0B8, Canada",
+  "retrievedAt": "2026-09-27T01:31:27.964241+00:00",
+  "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+  "coverage": "partial: structured public menu only",
+  "fulfillmentMode": "unspecified",
+  "menuItems": [
+    {
+      "name": "Four-Cheese Spinach Dip",
+      "amountCents": 1859,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Classic Kick-Starters"
+    },
+    {
+      "name": "Oven-Baked Antojitos",
+      "amountCents": 1619,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Classic Kick-Starters"
+    },
+    {
+      "name": "Creamy Mac 'n Cheese",
+      "amountCents": 2279,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dig in Dishes"
+    },
+    {
+      "name": "Double Dusted Chicken Wings 8 pieces",
+      "amountCents": 1919,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Classic Kick-Starters"
+    },
+    {
+      "name": "Triple Layer Chocolate Cake",
+      "amountCents": 839,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pit Boss Platters"
+    },
+    {
+      "name": "Chipotle Firecracker Burger",
+      "amountCents": 2579,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Hand-helds"
+    },
+    {
+      "name": "KAPOW! Shrimp",
+      "amountCents": 1799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Classic Kick-Starters"
+    },
+    {
+      "name": "Shake N Share Donuts",
+      "amountCents": 839,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "Pork Back Ribs - Full Rack",
+      "amountCents": 3719,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Fall-off-the-Bones-Ribs"
+    },
+    {
+      "name": "Rib & Wing Combo",
+      "amountCents": 2939,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Fall-off-the-Bones-Ribs"
+    },
+    {
+      "name": "Smokehouse Wrap",
+      "amountCents": 2399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Hand-helds"
+    },
+    {
+      "name": "Chicken Tacos",
+      "amountCents": 2219,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Hand-helds"
+    },
+    {
+      "name": "The Pitmaster's Combo",
+      "amountCents": 3839,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Fall-off-the-Bones-Ribs"
+    },
+    {
+      "name": "The Retro Rewind Clubhouse",
+      "amountCents": 2159,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pit Boss Platters"
+    },
+    {
+      "name": "The Ultimate Smoke",
+      "amountCents": 3839,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pit Boss Platters"
+    },
+    {
+      "name": "The Whiteout",
+      "amountCents": 3839,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pit Boss Platters"
+    },
+    {
+      "name": "Steak Combo For Two",
+      "amountCents": 6419,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Signature Combos"
+    },
+    {
+      "name": "Burger Combo for Two",
+      "amountCents": 6359,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Signature Combos"
+    },
+    {
+      "name": "Family BBQ Combo",
+      "amountCents": 8639,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Signature Combos"
+    },
+    {
+      "name": "Chicken Combo for Two",
+      "amountCents": 6119,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Signature Combos"
+    },
+    {
+      "name": "Rib Combo for Two",
+      "amountCents": 5759,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Signature Combos"
+    },
+    {
+      "name": "Ultimate Appetizer Combo",
+      "amountCents": 6479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Signature Combos"
+    },
+    {
+      "name": "Smoked Brisket Potato Skins",
+      "amountCents": 1559,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Classic Kick-Starters"
+    },
+    {
+      "name": "Delicious Deep Fried Pickles",
+      "amountCents": 1199,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Classic Kick-Starters"
+    },
+    {
+      "name": "Tex Mex Fries",
+      "amountCents": 1559,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Classic Kick-Starters"
+    },
+    {
+      "name": "Double Bacon & Cheese Poutine",
+      "amountCents": 1559,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Classic Kick-Starters"
+    },
+    {
+      "name": "BBQ Brisket Burnt Ends",
+      "amountCents": 1739,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Classic Kick-Starters"
+    },
+    {
+      "name": "Double Dusted Chicken Wings 16 pieces",
+      "amountCents": 2999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Classic Kick-Starters"
+    },
+    {
+      "name": "Classic Poutine",
+      "amountCents": 1199,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Classic Kick-Starters"
+    },
+    {
+      "name": "Pork Back Ribs - Taster Plate",
+      "amountCents": 2159,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Fall-off-the-Bones-Ribs"
+    },
+    {
+      "name": "Pork Back Ribs - Half Rack",
+      "amountCents": 2999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Fall-off-the-Bones-Ribs"
+    },
+    {
+      "name": "12oz Striploin",
+      "amountCents": 4799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Steaks"
+    },
+    {
+      "name": "10 oz Sirloin",
+      "amountCents": 3959,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Steaks"
+    },
+    {
+      "name": "7 oz Sirloin",
+      "amountCents": 3359,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Steaks"
+    },
+    {
+      "name": "Southern-Fried Chicken Sandwich",
+      "amountCents": 2399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Hand-helds"
+    },
+    {
+      "name": "Spicy Southern Chicken Sandwich",
+      "amountCents": 2518,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Hand-helds"
+    },
+    {
+      "name": "Canadian Burger EH!",
+      "amountCents": 2579,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Hand-helds"
+    },
+    {
+      "name": "Veggie Burger",
+      "amountCents": 2399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Hand-helds"
+    },
+    {
+      "name": "Chicken Burrito Bowl",
+      "amountCents": 2519,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dig in Dishes"
+    },
+    {
+      "name": "Steak Burrito Bowl",
+      "amountCents": 2999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dig in Dishes"
+    },
+    {
+      "name": "Two Piece Beer-Battered Fish & Chips",
+      "amountCents": 2579,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dig in Dishes"
+    },
+    {
+      "name": "Steak Apple Pecan Harvest Salad",
+      "amountCents": 2999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dig in Dishes"
+    },
+    {
+      "name": "Steak Caesar Salad",
+      "amountCents": 2819,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dig in Dishes"
+    },
+    {
+      "name": "Chicken Apple Pecan Harvest Salad",
+      "amountCents": 2519,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dig in Dishes"
+    },
+    {
+      "name": "Chicken Club Salad",
+      "amountCents": 2399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dig in Dishes"
+    },
+    {
+      "name": "Apple Pecan Harvest Salad",
+      "amountCents": 1919,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dig in Dishes"
+    },
+    {
+      "name": "One Piece Beer-Battered Fish & Chips",
+      "amountCents": 2099,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dig in Dishes"
+    },
+    {
+      "name": "Caesar Salad",
+      "amountCents": 1739,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dig in Dishes"
+    },
+    {
+      "name": "Chicken Caesar Salad",
+      "amountCents": 2339,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dig in Dishes"
+    },
+    {
+      "name": "Club Salad",
+      "amountCents": 1799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dig in Dishes"
+    },
+    {
+      "name": "Steak Club Salad",
+      "amountCents": 2879,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dig in Dishes"
+    },
+    {
+      "name": "Buttermilk Fried Chicken",
+      "amountCents": 2819,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dig in Dishes"
+    },
+    {
+      "name": "Chicken Tenders",
+      "amountCents": 2279,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Dig in Dishes"
+    },
+    {
+      "name": "Kids Chicken Fingers",
+      "amountCents": 959,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Kids Menu"
+    },
+    {
+      "name": "Cheesy Cheese Pizza",
+      "amountCents": 1079,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Kids Menu"
+    },
+    {
+      "name": "Scoobi Doo Noodles",
+      "amountCents": 839,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Kids Menu"
+    },
+    {
+      "name": "Kids Burger",
+      "amountCents": 1199,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Kids Menu"
+    },
+    {
+      "name": "Kids Pork Back Ribs",
+      "amountCents": 1199,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Kids Menu"
+    },
+    {
+      "name": "Pot Roast Soup",
+      "amountCents": 959,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides & Add Ons"
+    },
+    {
+      "name": "Grilled Chicken Breast",
+      "amountCents": 600,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides & Add Ons"
+    },
+    {
+      "name": "Starter Caesar",
+      "amountCents": 959,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides & Add Ons"
+    },
+    {
+      "name": "Sweet Potato Fries & Chipotle Dip",
+      "amountCents": 599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides & Add Ons"
+    },
+    {
+      "name": "Garlic Mash",
+      "amountCents": 359,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides & Add Ons"
+    },
+    {
+      "name": "Seasonal Veggies",
+      "amountCents": 599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides & Add Ons"
+    },
+    {
+      "name": "Creamy Potato Smashers",
+      "amountCents": 599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides & Add Ons"
+    },
+    {
+      "name": "Onion Rings",
+      "amountCents": 599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides & Add Ons"
+    },
+    {
+      "name": "Loaded Baked Potato",
+      "amountCents": 748,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides & Add Ons"
+    },
+    {
+      "name": "In-House Baked Cornbread",
+      "amountCents": 155,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides & Add Ons"
+    },
+    {
+      "name": "In-House Baked Beans",
+      "amountCents": 419,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides & Add Ons"
+    },
+    {
+      "name": "Coleslaw",
+      "amountCents": 419,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides & Add Ons"
+    },
+    {
+      "name": "French Fries",
+      "amountCents": 479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides & Add Ons"
+    },
+    {
+      "name": "Baked Potato",
+      "amountCents": 419,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides & Add Ons"
+    },
+    {
+      "name": "Rice Pilaf",
+      "amountCents": 359,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides & Add Ons"
+    },
+    {
+      "name": "Gravy",
+      "amountCents": 179,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides & Add Ons"
+    },
+    {
+      "name": "Salsa",
+      "amountCents": 119,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides & Add Ons"
+    },
+    {
+      "name": "Sour Cream",
+      "amountCents": 119,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides & Add Ons"
+    },
+    {
+      "name": "Side Dipping Sauce",
+      "amountCents": 83,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides & Add Ons"
+    },
+    {
+      "name": "Starter House",
+      "amountCents": 959,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides & Add Ons"
+    },
+    {
+      "name": "Guacamole",
+      "amountCents": 239,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sides & Add Ons"
+    }
+  ],
+  "id": "ss_doordash_653262",
+  "directoryObservedAt": "2026-09-27T01:31:07.613703+00:00",
+  "addressSourceUrl": "https://www.doordash.com/store/montanas-bbq-%26-bar-fredericton-653262/",
+  "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/a2b88171-f628-4cf1-9e5c-afd314feba44.png",
+  "categories": [
+    "Ribs",
+    "Steak",
+    "Sandwiches",
+    "Canadian"
+  ],
+  "observedAt": "2026-09-27T01:31:27.964241+00:00"
+}

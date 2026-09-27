@@ -1,0 +1,595 @@
+{
+  "name": "Luna Pizza",
+  "url": "https://www.doordash.com/store/luna-pizza-fredericton-2834176/",
+  "address": "91 York St, Fredericton, NB E3B 3N4, Canada",
+  "retrievedAt": "2026-09-27T01:32:52.081002+00:00",
+  "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+  "coverage": "partial: structured public menu only",
+  "fulfillmentMode": "unspecified",
+  "menuItems": [
+    {
+      "name": "Fettuccine Alfredo",
+      "amountCents": 1995,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Italian Cuisine"
+    },
+    {
+      "name": "Wings",
+      "amountCents": 1395,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Lasagna",
+      "amountCents": 1495,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pastas"
+    },
+    {
+      "name": "Garlic Cheese Bread",
+      "amountCents": 795,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Cajun Chicken Penne",
+      "amountCents": 2295,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Italian Cuisine"
+    },
+    {
+      "name": "One Topping Pizza (15\" Large)",
+      "amountCents": 2699,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "15\" Large Build-Your-Own Pizzas"
+    },
+    {
+      "name": "Luna's Famous Caesar Salad",
+      "amountCents": 1295,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Salads"
+    },
+    {
+      "name": "Garlic Cheese Fingers (Small 9\")",
+      "amountCents": 1195,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "Garlic Cheese Fingers (Medium 12\")",
+      "amountCents": 1695,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "Works Pizza (12\" Medium)",
+      "amountCents": 2399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "Cheesy Donair Egg Rolls",
+      "amountCents": 1199,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Donair (1/4 Lb)",
+      "amountCents": 995,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Souvlaki, Wraps, and Donairs"
+    },
+    {
+      "name": "12 inch Margarita with Balsamic glaze pizza",
+      "amountCents": 2699,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "*New* menu items"
+    },
+    {
+      "name": "Aglio e Olio",
+      "amountCents": 1799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "*New* menu items"
+    },
+    {
+      "name": "15 inch Margherita with Balsamic glaze pizza",
+      "amountCents": 3399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "*New* menu items"
+    },
+    {
+      "name": "15 inch Bolognese Pizza",
+      "amountCents": 3499,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "*New* menu items"
+    },
+    {
+      "name": "15\" Caesar Chicken Pizza",
+      "amountCents": 3399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "*New* menu items"
+    },
+    {
+      "name": "12 inch Bolognese Pizza",
+      "amountCents": 2799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "*New* menu items"
+    },
+    {
+      "name": "12\" Caesar Chicken Pizza",
+      "amountCents": 2799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "*New* menu items"
+    },
+    {
+      "name": "Onion Rings",
+      "amountCents": 999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Mozzarella Stick",
+      "amountCents": 999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Garlic Bread",
+      "amountCents": 595,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Shrimp Cargo",
+      "amountCents": 1695,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Homemade Tzatziki & Pita Bread",
+      "amountCents": 995,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Appetizers"
+    },
+    {
+      "name": "Classic Poutine",
+      "amountCents": 999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Poutines"
+    },
+    {
+      "name": "Donair Poutine",
+      "amountCents": 1299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Poutines"
+    },
+    {
+      "name": "Italian poutine",
+      "amountCents": 1299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Poutines"
+    },
+    {
+      "name": "Greek Salad",
+      "amountCents": 1195,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Salads"
+    },
+    {
+      "name": "Garden Salad",
+      "amountCents": 1095,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Salads"
+    },
+    {
+      "name": "Chicken Parmesan",
+      "amountCents": 2395,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Italian Cuisine"
+    },
+    {
+      "name": "Stuffed Manicotti",
+      "amountCents": 1695,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Italian Cuisine"
+    },
+    {
+      "name": "Ravioli",
+      "amountCents": 1695,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pastas"
+    },
+    {
+      "name": "Spaghetti with Meat Sauce (Large)",
+      "amountCents": 1749,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pastas"
+    },
+    {
+      "name": "Spaghetti with Meat Sauce (Regular)",
+      "amountCents": 1450,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pastas"
+    },
+    {
+      "name": "Spaghetti with Meatballs (Jumbo)",
+      "amountCents": 2348,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pastas"
+    },
+    {
+      "name": "Spaghetti with Meatballs & Mushrooms (Jumbo)",
+      "amountCents": 2245,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pastas"
+    },
+    {
+      "name": "Spaghetti with Meatballs (Large)",
+      "amountCents": 2048,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pastas"
+    },
+    {
+      "name": "Tortellini",
+      "amountCents": 1695,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pastas"
+    },
+    {
+      "name": "Rigatoni",
+      "amountCents": 1495,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pastas"
+    },
+    {
+      "name": "Spaghetti with Meatballs (Regular)",
+      "amountCents": 1749,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pastas"
+    },
+    {
+      "name": "Spaghetti with Mushrooms (Regular)",
+      "amountCents": 1749,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pastas"
+    },
+    {
+      "name": "Spaghetti with Meatballs & Mushrooms (Regular)",
+      "amountCents": 1645,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pastas"
+    },
+    {
+      "name": "Spaghetti with Meatballs & Mushrooms (Large)",
+      "amountCents": 2045,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pastas"
+    },
+    {
+      "name": "Jumbo Spaghetti with Mushrooms",
+      "amountCents": 2348,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pastas"
+    },
+    {
+      "name": "Spaghetti with Mushrooms (Large)",
+      "amountCents": 2048,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Pastas"
+    },
+    {
+      "name": "Donair (1 Lb)",
+      "amountCents": 1595,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Souvlaki, Wraps, and Donairs"
+    },
+    {
+      "name": "Souvlaki",
+      "amountCents": 1995,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Souvlaki, Wraps, and Donairs"
+    },
+    {
+      "name": "Caesar Chicken",
+      "amountCents": 1895,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Souvlaki, Wraps, and Donairs"
+    },
+    {
+      "name": "Chicken Pita",
+      "amountCents": 1145,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Souvlaki, Wraps, and Donairs"
+    },
+    {
+      "name": "Mediterranean Plate",
+      "amountCents": 2595,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Souvlaki, Wraps, and Donairs"
+    },
+    {
+      "name": "Bacon Donair",
+      "amountCents": 1195,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Souvlaki, Wraps, and Donairs"
+    },
+    {
+      "name": "Italian Sausage Donair",
+      "amountCents": 1195,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Souvlaki, Wraps, and Donairs"
+    },
+    {
+      "name": "Caesar Chicken Wrap",
+      "amountCents": 1295,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Souvlaki, Wraps, and Donairs"
+    },
+    {
+      "name": "Veggie Pita",
+      "amountCents": 895,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Souvlaki, Wraps, and Donairs"
+    },
+    {
+      "name": "Lamb Souvlaki",
+      "amountCents": 2395,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Souvlaki, Wraps, and Donairs"
+    },
+    {
+      "name": "Greek Chicken",
+      "amountCents": 1895,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Souvlaki, Wraps, and Donairs"
+    },
+    {
+      "name": "Three Topping Pizza (9\" Small)",
+      "amountCents": 1699,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "9\" Small Build-Your-Own Pizzas"
+    },
+    {
+      "name": "One Topping Pizza (9\" Small)",
+      "amountCents": 1399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "9\" Small Build-Your-Own Pizzas"
+    },
+    {
+      "name": "Four Topping Pizza (9\" Small)",
+      "amountCents": 1799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "9\" Small Build-Your-Own Pizzas"
+    },
+    {
+      "name": "Two Topping Pizza (9\" Small)",
+      "amountCents": 1599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "9\" Small Build-Your-Own Pizzas"
+    },
+    {
+      "name": "Three Topping Pizza (12\" Medium)",
+      "amountCents": 2599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "12\" Medium Build-Your-Own Pizzas"
+    },
+    {
+      "name": "Four Topping Pizza (12\" Medium)",
+      "amountCents": 2699,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "12\" Medium Build-Your-Own Pizzas"
+    },
+    {
+      "name": "Two Topping Pizza (12\" Medium)",
+      "amountCents": 2399,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "12\" Medium Build-Your-Own Pizzas"
+    },
+    {
+      "name": "One Topping Pizza (12\" Medium)",
+      "amountCents": 2199,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "12\" Medium Build-Your-Own Pizzas"
+    },
+    {
+      "name": "Four Topping Pizza (15\" Large)",
+      "amountCents": 3199,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "15\" Large Build-Your-Own Pizzas"
+    },
+    {
+      "name": "Three Toppings Pizza (15\" Large)",
+      "amountCents": 3099,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "15\" Large Build-Your-Own Pizzas"
+    },
+    {
+      "name": "Two Toppings Pizza (15\" Large)",
+      "amountCents": 2899,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "15\" Large Build-Your-Own Pizzas"
+    },
+    {
+      "name": "Four Toppings Pizza (18\" Extra-Large)",
+      "amountCents": 3799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "18\" Extra-Large Build-Your-Own Pizzas"
+    },
+    {
+      "name": "One Topping Pizza (18\" Extra-Large)",
+      "amountCents": 2999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "18\" Extra-Large Build-Your-Own Pizzas"
+    },
+    {
+      "name": "Three Toppings Pizza (18\" Extra-Large)",
+      "amountCents": 3599,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "18\" Extra-Large Build-Your-Own Pizzas"
+    },
+    {
+      "name": "Two Toppings Pizza (18\" Extra-Large)",
+      "amountCents": 3299,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "18\" Extra-Large Build-Your-Own Pizzas"
+    },
+    {
+      "name": "Four Toppings Pizza (21\" Jumbo)",
+      "amountCents": 4499,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "21\" Jumbo Build-Your-Own Pizzas"
+    },
+    {
+      "name": "Three Toppings Pizza (21\" Jumbo)",
+      "amountCents": 4099,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "21\" Jumbo Build-Your-Own Pizzas"
+    },
+    {
+      "name": "One Topping Pizza (21\" Jumbo)",
+      "amountCents": 3499,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "21\" Jumbo Build-Your-Own Pizzas"
+    },
+    {
+      "name": "Two Toppings Pizza (21\" Jumbo)",
+      "amountCents": 3799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "21\" Jumbo Build-Your-Own Pizzas"
+    },
+    {
+      "name": "All Meat Deluxe Pizza (9\" Small)",
+      "amountCents": 1999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "9\" Small Specialty Pizzas"
+    },
+    {
+      "name": "Italian Pizza (9\" Small)",
+      "amountCents": 1899,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "9\" Small Specialty Pizzas"
+    },
+    {
+      "name": "Hawaiian Pizza (9\" Small)",
+      "amountCents": 1899,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "9\" Small Specialty Pizzas"
+    },
+    {
+      "name": "Sicilian Pizza (9\" Small)",
+      "amountCents": 1899,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "9\" Small Specialty Pizzas"
+    },
+    {
+      "name": "Works Pizza (9\" Small)",
+      "amountCents": 1899,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "9\" Small Specialty Pizzas"
+    },
+    {
+      "name": "Vegetarian Pizza (9\" Small)",
+      "amountCents": 1799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "9\" Small Specialty Pizzas"
+    },
+    {
+      "name": "Greek Deluxe Pizza (9\" Small)",
+      "amountCents": 1899,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "9\" Small Specialty Pizzas"
+    }
+  ],
+  "id": "ss_doordash_2834176",
+  "directoryObservedAt": "2026-09-27T01:31:07.613653+00:00",
+  "addressSourceUrl": "https://www.doordash.com/store/luna-pizza-fredericton-2834176/",
+  "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/8a012b39-4d7e-4458-b96b-836d229abbc3.png",
+  "categories": [
+    "Pizza",
+    "Wings",
+    "Canadian"
+  ],
+  "observedAt": "2026-09-27T01:32:52.081002+00:00"
+}

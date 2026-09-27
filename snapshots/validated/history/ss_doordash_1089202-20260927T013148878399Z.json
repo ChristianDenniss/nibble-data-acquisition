@@ -1,0 +1,592 @@
+{
+  "name": "KFC",
+  "url": "https://www.doordash.com/store/kfc-fredericton-1089202/",
+  "address": "1165 Prospect St, Fredericton, NB E3B 3B9, Canada",
+  "retrievedAt": "2026-09-27T01:31:48.878362+00:00",
+  "directorySourceUrl": "https://www.doordash.com/food-delivery/fredericton-nb-restaurants/",
+  "coverage": "partial: structured public menu only",
+  "fulfillmentMode": "unspecified",
+  "menuItems": [
+    {
+      "name": "Famous Chicken Sandwich",
+      "amountCents": 1379,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches Combos"
+    },
+    {
+      "name": "Big Crunch Sandwich",
+      "amountCents": 1309,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches Combos"
+    },
+    {
+      "name": "Spicy Big Crunch Sandwich",
+      "amountCents": 1309,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches Combos"
+    },
+    {
+      "name": "Fries",
+      "amountCents": 449,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "XL Popcorn Chicken Bucket",
+      "amountCents": 2569,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Buckets"
+    },
+    {
+      "name": "Large Popcorn Chicken Poutine",
+      "amountCents": 1199,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Value Menu"
+    },
+    {
+      "name": "Pepsi",
+      "amountCents": 379,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Most Ordered"
+    },
+    {
+      "name": "Zinger Sandwich",
+      "amountCents": 1309,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches Combos"
+    },
+    {
+      "name": "4 Piece Original Recipe Chicken",
+      "amountCents": 1629,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "4 Piece Chicken Box",
+      "amountCents": 2409,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Big Box Meals"
+    },
+    {
+      "name": "4 Piece Original Recipe Chicken Combo",
+      "amountCents": 2029,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Big Crunch Sandwich Box Meal",
+      "amountCents": 2149,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Big Box Meals"
+    },
+    {
+      "name": "Flamin' Hot Ind. Fries​",
+      "amountCents": 499,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Flamin' Hot Cheetos"
+    },
+    {
+      "name": "Flamin' Hot Chicken Sandwich Combo",
+      "amountCents": 1799,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Flamin' Hot Cheetos"
+    },
+    {
+      "name": "Flamin' Hot Chicken Sandwich",
+      "amountCents": 1449,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Flamin' Hot Cheetos"
+    },
+    {
+      "name": "Flamin' Hot Dip Cup",
+      "amountCents": 129,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Flamin' Hot Cheetos"
+    },
+    {
+      "name": "Cheetos Dirty Soda",
+      "amountCents": 469,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Flamin' Hot Cheetos"
+    },
+    {
+      "name": "Deluxe Famous Chicken Sandwich Combo",
+      "amountCents": 1999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches Combos"
+    },
+    {
+      "name": "Double Sliders Combo",
+      "amountCents": 1549,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches Combos"
+    },
+    {
+      "name": "Twister",
+      "amountCents": 1309,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches Combos"
+    },
+    {
+      "name": "Zinger Sandwich Combo",
+      "amountCents": 1769,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches Combos"
+    },
+    {
+      "name": "Famous Chicken Sandwich Combo",
+      "amountCents": 1829,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches Combos"
+    },
+    {
+      "name": "Twister Combo",
+      "amountCents": 1769,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches Combos"
+    },
+    {
+      "name": "Big Crunch Sandwich Combo",
+      "amountCents": 1769,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches Combos"
+    },
+    {
+      "name": "Deluxe Famous Chicken Sandwich",
+      "amountCents": 1569,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches Combos"
+    },
+    {
+      "name": "Double Slider Sandwich",
+      "amountCents": 1099,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches Combos"
+    },
+    {
+      "name": "Zinger Twister Combo",
+      "amountCents": 1769,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches Combos"
+    },
+    {
+      "name": "Zinger Twister",
+      "amountCents": 1309,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Sandwiches Combos"
+    },
+    {
+      "name": "5 Hot Wings",
+      "amountCents": 1249,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "3 Piece Original Recipe Chicken",
+      "amountCents": 1429,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "2 Piece Original Recipe \nChicken",
+      "amountCents": 1249,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "4 Piece Original Recipe Tenders",
+      "amountCents": 1629,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "2 Piece Original Recipe Chicken Combo",
+      "amountCents": 1669,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Popcorn Combo",
+      "amountCents": 1569,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "3 Piece Original Recipe Chicken Combo",
+      "amountCents": 1829,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "3 Piece Original Recipe Tenders Combo",
+      "amountCents": 1829,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "5 Hot Wings Combo",
+      "amountCents": 1689,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "4 Piece Original Recipe Tenders Combo",
+      "amountCents": 2029,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "3 Piece Original Recipe Tenders",
+      "amountCents": 1429,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "2 Piece Original Recipe Tenders Combo",
+      "amountCents": 1669,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "2 Piece Original Recipe Tenders",
+      "amountCents": 1249,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Chicken Combos"
+    },
+    {
+      "name": "Family Bucket Meal",
+      "amountCents": 5549,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Family Buckets"
+    },
+    {
+      "name": "Family Bucket Feast",
+      "amountCents": 6499,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Family Buckets"
+    },
+    {
+      "name": "Family Bucket",
+      "amountCents": 4549,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Family Buckets"
+    },
+    {
+      "name": "Double Slider Box Meal",
+      "amountCents": 1909,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Menu"
+    },
+    {
+      "name": "Zinger Sandwich Box Meal",
+      "amountCents": 2149,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Big Box Meals"
+    },
+    {
+      "name": "Famous Chicken Sandwich Box Meal",
+      "amountCents": 2199,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Big Box Meals"
+    },
+    {
+      "name": "3 Piece Tenders Box meal",
+      "amountCents": 2209,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Big Box Meals"
+    },
+    {
+      "name": "Spicy Big Crunch Box Meal",
+      "amountCents": 2149,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Big Box Meals"
+    },
+    {
+      "name": "2 Piece Chicken Box meal",
+      "amountCents": 2029,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Big Box Meals"
+    },
+    {
+      "name": "Deluxe Famous Chicken Sandwich Box Meal",
+      "amountCents": 2379,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Big Box Meals"
+    },
+    {
+      "name": "14 Piece Bucket and 4 Large Sides",
+      "amountCents": 6749,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Buckets"
+    },
+    {
+      "name": "10 Piece Bucket",
+      "amountCents": 4129,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Buckets"
+    },
+    {
+      "name": "6 Piece Bucket",
+      "amountCents": 2749,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Buckets"
+    },
+    {
+      "name": "6 Piece Original Recipe Tenders Bucket and 2 Large Sides",
+      "amountCents": 4069,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Buckets"
+    },
+    {
+      "name": "Variety Bucket",
+      "amountCents": 5999,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Buckets"
+    },
+    {
+      "name": "10 Piece Original Recipe Tenders Bucket and 3 Large Sides",
+      "amountCents": 5499,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Buckets"
+    },
+    {
+      "name": "14 Piece Bucket",
+      "amountCents": 5249,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Buckets"
+    },
+    {
+      "name": "Small Popcorn Chicken",
+      "amountCents": 1129,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Buckets"
+    },
+    {
+      "name": "6 Piece Original Recipe Tenders",
+      "amountCents": 2749,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Buckets"
+    },
+    {
+      "name": "Large Popcorn Chicken",
+      "amountCents": 1949,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Buckets"
+    },
+    {
+      "name": "6 Piece Bucket and 2 Large Sides",
+      "amountCents": 4069,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Buckets"
+    },
+    {
+      "name": "Boneless Bucket",
+      "amountCents": 5249,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Buckets"
+    },
+    {
+      "name": "18 Piece Bucket and 5 Large Sides",
+      "amountCents": 8129,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Buckets"
+    },
+    {
+      "name": "10 Piece Bucket and 3 Large Sides",
+      "amountCents": 5499,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Buckets"
+    },
+    {
+      "name": "14 Piece Original Recipe Tenders Bucket and 4 Large Sides",
+      "amountCents": 6749,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Buckets"
+    },
+    {
+      "name": "10 Piece Original Recipe Tenders",
+      "amountCents": 4129,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Buckets"
+    },
+    {
+      "name": "14 Piece Original Recipe Tenders Bucket",
+      "amountCents": 5249,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Buckets"
+    },
+    {
+      "name": "18 Piece Original Recipe Tenders Bucket",
+      "amountCents": 6249,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Buckets"
+    },
+    {
+      "name": "18 Piece Bucket",
+      "amountCents": 6249,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Buckets"
+    },
+    {
+      "name": "18 Piece Original Recipe Tenders Bucket and 5 Large Sides",
+      "amountCents": 8129,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Buckets"
+    },
+    {
+      "name": "Original Recipe Slider",
+      "amountCents": 499,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Value Menu"
+    },
+    {
+      "name": "Snack Poutine",
+      "amountCents": 629,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Value Menu"
+    },
+    {
+      "name": "Go Bucket - 1 Drumstick",
+      "amountCents": 629,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Value Menu"
+    },
+    {
+      "name": "S'mores Brownie",
+      "amountCents": 479,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Value Menu"
+    },
+    {
+      "name": "Individual Popcorn Chicken",
+      "amountCents": 379,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Value Menu"
+    },
+    {
+      "name": "Snacker Wrap",
+      "amountCents": 379,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Value Menu"
+    },
+    {
+      "name": "Go Bucket - Popcorn Chicken",
+      "amountCents": 629,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Value Menu"
+    },
+    {
+      "name": "Large Poutine",
+      "amountCents": 949,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Value Menu"
+    },
+    {
+      "name": "Go Bucket - Snacker Wrap",
+      "amountCents": 629,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Value Menu"
+    },
+    {
+      "name": "Flamin' Hot Cheetos Go Bucket",
+      "amountCents": 749,
+      "currency": "CAD",
+      "priceKind": "base",
+      "section": "Value Menu"
+    }
+  ],
+  "id": "ss_doordash_1089202",
+  "directoryObservedAt": "2026-09-27T01:31:07.613591+00:00",
+  "addressSourceUrl": "https://www.doordash.com/store/kfc-fredericton-1089202/",
+  "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/83613044-9180-4abb-920c-4ea236b279b4.png",
+  "categories": [
+    "Fried Chicken",
+    "Chicken",
+    "Sandwiches",
+    "Wraps",
+    "Family Meals",
+    "Halal",
+    "Canadian"
+  ],
+  "observedAt": "2026-09-27T01:31:48.878362+00:00"
+}
