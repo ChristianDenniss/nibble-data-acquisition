@@ -4262,13 +4262,14 @@
       ],
       "id": "ss_doordash_36209643",
       "addressSourceUrl": "https://www.doordash.com/store/philthy-wings-fredericton-36209643/",
-      "imageUrl": "",
+      "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/b322f5a0-0ad0-46ec-89c1-23a84c8332f9.jpg",
       "categories": [
         "American",
         "Canadian",
         "Fast Food"
       ],
-      "observedAt": "2026-09-27T01:32:12.128527+00:00"
+      "observedAt": "2026-09-27T01:32:12.128527+00:00",
+      "imageSourceUrl": "https://www.doordash.com/store/philthy-wings-fredericton-36209643/"
     },
     {
       "name": "Philthy Pierogi",
@@ -7864,7 +7865,7 @@
       ],
       "id": "ss_doordash_31852895",
       "addressSourceUrl": "https://www.doordash.com/store/cineplex-fredericton-31852895/",
-      "imageUrl": "",
+      "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/70c55d95-f0b1-4fca-aac8-e9ab5b933108.png",
       "categories": [
         "American",
         "Candy Stores",
@@ -7872,7 +7873,8 @@
         "Popcorn",
         "Snacks"
       ],
-      "observedAt": "2026-09-27T01:33:04.048942+00:00"
+      "observedAt": "2026-09-27T01:33:04.048942+00:00",
+      "imageSourceUrl": "https://www.doordash.com/store/cineplex-fredericton-31852895/"
     },
     {
       "name": "Betty Lee's - Baking Paradise - Tobe Milk Tea",
@@ -10987,13 +10989,14 @@
       "directoryObservedAt": "2026-09-27T01:31:07.613749+00:00",
       "address": "1111 Regent St, Fredericton, NB E3B 3Z2, Canada",
       "addressSourceUrl": "https://www.doordash.com/store/yassou-souvlaki-&-donair-fredericton-24875523/",
-      "imageUrl": "",
+      "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/0a3fa89d-0be6-4809-842c-41e1c982b24f.jpeg",
       "categories": [
         "Greek",
         "Wraps",
         "Gyro"
       ],
-      "observedAt": "2026-09-27T01:33:55.918957+00:00"
+      "observedAt": "2026-09-27T01:33:55.918957+00:00",
+      "imageSourceUrl": "https://www.doordash.com/store/yassou-souvlaki-&-donair-fredericton-24875523/"
     },
     {
       "id": "ss_doordash_1176055",
@@ -11157,13 +11160,14 @@
       "directoryObservedAt": "2026-09-27T01:31:07.613758+00:00",
       "address": "361 Rue Smythe, Fredericton, NB E3B 3E3, Canada",
       "addressSourceUrl": "https://www.doordash.com/store/country-fried-fredericton-37817609/",
-      "imageUrl": "",
+      "imageUrl": "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/5f2cfba7-2f2b-4344-bec3-0947fd0a3154.png",
       "categories": [
         "Sandwiches",
         "Canadian",
         "Poutineries"
       ],
-      "observedAt": "2026-09-27T01:34:01.128371+00:00"
+      "observedAt": "2026-09-27T01:34:01.128371+00:00",
+      "imageSourceUrl": "https://www.doordash.com/store/country-fried-fredericton-37817609/"
     },
     {
       "id": "ss_doordash_740167",
